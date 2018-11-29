@@ -1,0 +1,93 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1543519388352">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="2" column="13" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="5" filename="$USER_HOME$/PycharmProjects/untitled/some_file.py" />
+      <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled/some_file.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/PycharmProjects/untitled/some_file.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGEuCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGEuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQoInRyYXR3YSIpCmZvciBpIGluIFsxLDIsMyw0LDVdOgogICAgcHJpbnQoaSkKICAgIGZvciBpIGluIFsiYWRhbSIsICJsdWtjdGlvbiBHb3RvRmlsZWFjdGlvbiBHb3RvRmlsZXN6Il06CiAgICAgICAgcHJpbnQoImZhY2VzamprIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGN0aW9uIEdvdG9GaWxlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bWF0aC5hY29zKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LHQK</text>
+      </register>
+      <register name=":" type="4">
+        <text>action GotoFile</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
