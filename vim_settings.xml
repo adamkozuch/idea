@@ -8,11 +8,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1543528064771">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1543528598421">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -53,7 +53,7 @@
         <text encoding="base64">bWF0aC5hY29zKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -68,13 +68,13 @@
       <history-cmd>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action CommentGroup</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
