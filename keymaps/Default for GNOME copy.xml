@@ -1,11 +1,32 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
+  <action id="BraceOrQuoteOut" />
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorChooseLookupItemCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="EditorIndentSelection" />
+  <action id="EditorTab" />
+  <action id="ExpandLiveTemplateByTab" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="NextParameter" />
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="SearchEverywhere.CompleteCommand">
+    <keyboard-shortcut first-keystroke="space" />
+  </action>
+  <action id="SearchEverywhere.NextTab" />
 </keymap>

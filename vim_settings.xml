@@ -3,11 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1543524640281">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="2" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/file.sh" timestamp="1543526429385">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1543528064771">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -18,31 +23,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGEuCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoInRyYXR3YSIpCmZvciBpIGluIFsxLDIsMyw0LDVdOgogICAgcHJpbnQoaSkKICAgIGZvciBpIGluIFsiYWRhbSIsICJsdWtjdGlvbiBHb3RvRmlsZWFjdGlvbiBHb3RvRmlsZXN6Il06CiAgICAgICAgcHJpbnQoImZhY2VzamprIikK</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5jb3VudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN0aW9uIEdvdG9GaWxlCg==</text>
+        <text encoding="base64">ICAgIGEucmVtb3ZlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">YWxpYXMgcz0nL3Vzci9iaW4vYmFzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWF0aC5hY29zKCkK</text>
+        <text encoding="base64">ICAgIGEuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LHQK</text>
+        <text encoding="base64">cHJpbnQoInRyYXR3YSIpCmZvciBpIGluIFsxLDIsMyw0LDVdOgogICAgcHJpbnQoaSkKICAgIGZvciBpIGluIFsiYWRhbSIsICJsdWtjdGlvbiBHb3RvRmlsZWFjdGlvbiBHb3RvRmlsZXN6Il06CiAgICAgICAgcHJpbnQoImZhY2VzamprIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGN0aW9uIEdvdG9GaWxlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bWF0aC5hY29zKCkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
@@ -53,13 +67,14 @@
       <history-search />
       <history-cmd>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>w</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action CommentGroup</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,6 +112,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
