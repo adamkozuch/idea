@@ -81,11 +81,11 @@
         <mark key="." line="67" column="12" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1543584757481">
-        <mark key="[" line="85" column="18" />
-        <mark key="]" line="85" column="48" />
-        <mark key="." line="85" column="48" />
-        <mark key="^" line="85" column="48" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1543586188242">
+        <mark key="'" line="215" column="12" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/pele/Document/League.py" timestamp="1525957283304">
         <mark key="[" line="4" column="22" />
@@ -309,12 +309,11 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="122" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1543585360129">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1543586859481">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/pele/Document/Bra.py" timestamp="1528121564136">
         <mark key="[" line="3" column="6" />
@@ -385,16 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="507" column="0" filename="$USER_HOME$/Projects/sportProject/pele-queues/Databases/MongoDB.py" />
-      <jump line="461" column="0" filename="$USER_HOME$/Projects/sportProject/pele-queues/Databases/MongoDB.py" />
-      <jump line="460" column="12" filename="$USER_HOME$/Projects/sportProject/pele-queues/Databases/MongoDB.py" />
-      <jump line="470" column="12" filename="$USER_HOME$/Projects/sportProject/pele-queues/Databases/MongoDB.py" />
-      <jump line="504" column="12" filename="$USER_HOME$/Projects/sportProject/pele-queues/Databases/MongoDB.py" />
-      <jump line="70" column="20" filename="$USER_HOME$/Projects/sportProject/pele-queues/Databases/MongoDB.py" />
-      <jump line="142" column="35" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
-      <jump line="714" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
-      <jump line="2716" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
-      <jump line="2720" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="2724" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="2728" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="2756" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
@@ -485,22 +474,32 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
+      <jump line="208" column="12" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="207" column="41" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="206" column="41" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="205" column="12" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="204" column="12" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="120" column="35" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="83" column="38" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="53" column="35" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="19" column="38" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="215" column="12" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2sgYXMgcGF0Y2gK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwudXNpbmcoKS5hbGwuY2FsbGVkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>patch</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3VuZFByaWNlXD4=</text>
+        <text encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQmlzeW5jVGVzdENhc2UoVGVzdENhc2UpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy51c2luZy5jYWxsZWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2sgYXMgcGF0Y2gK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwudXNpbmcoKS5hbGwuY2FsbGVkKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -512,43 +511,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50KG9yZEZyb20pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLnNlcnZpY2UgPSBCaVN5bmNTZXJ2aWNlKCkKCgogICAgZGVmIHRlc3Rfcm91bmRfcHJpY2Uoc2VsZik6CgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc2VsZi5zZXJ2aWNlLnJvdW5kUHJpY2UoMSksIDEpCgogICAgQHBhdGNoLm9iamVjdChEYXNoYm9hcmRJbXBvcnQsICdvYmplY3RzJykKICAgIGRlZiB0ZXN0X2RlbGV0ZV9vbGRfaW1wb3J0c19ub19pbXBvcnRzX3RvX2RlbGV0ZShzZWxmLCBvYmplY3RzKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuc2VydmljZS5kZWxldGVPbGRJbXBvcnRzKCksIE5vbmUpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKG9iamVjdHMuZmlsdGVyLmNhbGxlZCkKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKG9iamVjdHMuYWxsLmNhbGxlZCkKCiAgICBAcGF0Y2gub2JqZWN0KERhc2hib2FyZEltcG9ydCwgJ29iamVjdHMnKQogICAgZGVmIHRlc3RfZGVsZXRlX29sZF9pbXBvcnRzX3doZW5fZm91cl9kZWxldGVfY2FsbGVkKHNlbGYsIG9iamVjdHMpOgoKICAgICAgICBvYmplY3RzLmZpbHRlci5yZXR1cm5fdmFsdWUub3JkZXJfYnkucmV0dXJuX3ZhbHVlID0gXAogICAgICAgICAgICBbCiAgICAgICAgICAgICBTaW1wbGVOYW1lc3BhY2UoaWQ9MSksCiAgICAgICAgICAgICBTaW1wbGVOYW1lc3BhY2UoaWQ9MyksCiAgICAgICAgICAgICBTaW1wbGVOYW1lc3BhY2UoaWQ9NCksCiAgICAgICAgICAgICBTaW1wbGVOYW1lc3BhY2UoaWQ9NSkKICAgICAgICAgICAgXQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuc2VydmljZS5kZWxldGVPbGRJbXBvcnRzKCksIE5vbmUpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKG9iamVjdHMuZmlsdGVyLmNhbGxlZCkKICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwuY2FsbGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqamspCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiREkgbW9jayAiLCBEYXNoYm9hcmRJbXBvcnQub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgIGltcG9ydF9zdGF0dXMgPSBJbXBvcnRTdGF0dXNFbnVtLkZJTklTSEVECiAgICAgICAgKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqamspCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RzLmZpbHRlci5yZXR1cm5fdmFsdWUub3JkZXJfYnkucmV0dXJuX3ZhbHVlID0gW1NpbXBsZU5hbWVzcGFjZShpZD0xKSxfMiwzLDQsNV0K</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RzLmZpbHRlci5yZXR1cm5fdmFsdWUgPSBbMSwyLDMsNCw1XQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vY2sgYXMgcGF0Y2gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVGhpcyBpcyBkYXNoYm9hcmQgaW1wb3J0IiwgRGFzaGJvYXJkSW1wb3J0Lm9iamVjdHMpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3VuZFByaWNlXD4=</last-search>
+      <last-search encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3VuZFByaWNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>monks</entry>
         <entry>livescore</entry>
         <entry>8</entry>
         <entry>leagues_co</entry>
@@ -568,6 +566,7 @@
         <entry>time</entry>
         <entry>append_fixture_to_se</entry>
         <entry encoding="base64">XDxyb3VuZFByaWNlXD4=</entry>
+        <entry encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ibg==</entry>
@@ -577,7 +576,6 @@
         <entry encoding="base64">dyA=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>bn</entry>
-        <entry>action Run</entry>
         <entry>wq</entry>
         <entry>NERDTreeToggle</entry>
         <entry encoding="base64">bWFwIGprIDxlc2M+</entry>
@@ -585,9 +583,10 @@
         <entry>action Replace</entry>
         <entry>q</entry>
         <entry>pwd</entry>
-        <entry>action FindUsages</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
+        <entry>action FindUsages</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
