@@ -4,6 +4,10 @@
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
+  <action id="EditorSelectWord" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="w" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
