@@ -81,11 +81,12 @@
         <mark key="." line="67" column="12" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1543586188242">
-        <mark key="'" line="215" column="12" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1543587962184">
+        <mark key="'" line="106" column="43" />
+        <mark key="[" line="192" column="34" />
+        <mark key="]" line="193" column="7" />
+        <mark key="." line="193" column="7" />
+        <mark key="^" line="193" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/pele/Document/League.py" timestamp="1525957283304">
         <mark key="[" line="4" column="22" />
@@ -309,11 +310,12 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="122" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1543586859481">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1543588114870">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="54" column="23" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="41" />
+        <mark key="^" line="54" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/pele/Document/Bra.py" timestamp="1528121564136">
         <mark key="[" line="3" column="6" />
@@ -384,9 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2724" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
-      <jump line="2728" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
-      <jump line="2756" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="2760" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="2764" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="2968" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
@@ -484,22 +483,25 @@
       <jump line="53" column="35" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="19" column="38" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="215" column="12" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="106" column="43" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
+      <jump line="30" column="8" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwudXNpbmcoKS5hbGwuY2FsbGVkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>assertTrue</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>assertTrue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy51c2luZy5jYWxsZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwuY2FsbGVkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwudXNpbmcoKS5hbGwuY2FsbGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwuY2FsbGVkKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -511,28 +513,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RzLmZpbHRlci5yZXR1cm5fdmFsdWUub3JkZXJfYnkucmV0dXJuX3ZhbHVlID0gW3t9XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50KG9yZEZyb20pCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXNoYm9hcmRfaW1wb3J0ID0gTW9jaygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqamspCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwudXNpbmcoKS5hbGwuY2FsbGVkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqamspCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50KG9yZEZyb20pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2sgYXMgcGF0Y2gK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqamspCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
