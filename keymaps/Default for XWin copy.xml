@@ -3,26 +3,14 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
-  <action id="Console.Execute" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
-  <action id="DirDiffMenu.SynchronizeDiff" />
-  <action id="EditorChooseLookupItem" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
-  <action id="EditorEnter" />
-  <action id="Images.Thumbnails.EnterAction" />
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
-  <action id="ToggleBookmarkWithMnemonic">
-    <keyboard-shortcut first-keystroke="ctrl f11" />
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
   <action id="Vcs.UpdateProject" />
   <action id="VimGotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
