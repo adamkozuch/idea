@@ -23,12 +23,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/my_project/src/main/scala/MyClass.scala" timestamp="1542918874092">
+      <file name="$USER_HOME$/IdeaProjects/my_project/src/main/scala/MyClass.scala" timestamp="1543678420369">
         <mark key="'" line="6" column="5" />
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="16" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="12" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -44,10 +44,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XChleHBhbmQoIjxjd29yZD4iKQ==</text>
@@ -167,6 +167,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
