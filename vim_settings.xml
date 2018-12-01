@@ -198,8 +198,11 @@
       <file name="$USER_HOME$/Projects/sportProject/pele-queues/Queues/UpcomingNormalizerQueue.py" timestamp="1529914193088">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1543607645437">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1543678301474">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/pele/DataSource/LiveScoreApi.py" timestamp="1529482321098">
         <mark key="[" line="91" column="93" />
@@ -540,7 +543,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwudXNpbmcoKS5hbGwuY2FsbGVkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -593,6 +596,7 @@
         <entry>action FindUsages</entry>
         <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -640,7 +644,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
