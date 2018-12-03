@@ -317,7 +317,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="122" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1543590083300">
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1543828377781">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -544,7 +544,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwudXNpbmcoKS5hbGwuY2FsbGVkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -593,10 +593,10 @@
         <entry>q</entry>
         <entry>pwd</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoClass</entry>
         <entry>action FindUsages</entry>
         <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
