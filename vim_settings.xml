@@ -44,12 +44,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1544963701318">
-        <mark key="'" line="5" column="25" />
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1544990319356">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/pele/Document/NFixture.py" timestamp="1525854952652">
         <mark key="[" line="0" column="26" />
@@ -411,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2976" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
-      <jump line="2980" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="2988" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="3044" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
       <jump line="3112" column="21" filename="$USER_HOME$/Projects/sportProject/pele-queues/Maps/ApifootballMaps.py" />
@@ -511,10 +508,12 @@
       <jump line="3" column="25" filename="$USER_HOME$/PycharmProjects/untitled/some_file.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/kasane/kasane/cmd.py" />
       <jump line="95" column="2" filename="$USER_HOME$/Projects/kasane/kasane/cmd.py" />
+      <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/untitled/some_file.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled/some_file.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN0eC5vYmoK</text>
+        <text encoding="base64">Zm9yIGkgaW4gWzEsMiwzLDQsNV06CiAgICBwcmludChpKmkpCiAgICBwcmludCgndHJhd2FqaycpCgoKW2kqaSBmb3IgaSBpbiBbMSwyLDMsNCw1LDZdXQpmb3IgaSBpbiByYW5nZSgxMDAwMDAwKToKICAgIHByaW50KGkpCmRlZiBkb19zb21lX3N0dWZmKCk6CiAgICBwcmludCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -526,7 +525,7 @@
         <text encoding="base64">ZnJvbSB1bml0dGVzdC5tb2NrIGltcG9ydCBNb2NrCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN0eC5vYmoK</text>
+        <text encoding="base64">Zm9yIGkgaW4gWzEsMiwzLDQsNV06CiAgICBwcmludChpKmkpCiAgICBwcmludCgndHJhd2FqaycpCgoKW2kqaSBmb3IgaSBpbiBbMSwyLDMsNCw1LDZdXQpmb3IgaSBpbiByYW5nZSgxMDAwMDAwKToKICAgIHByaW50KGkpCmRlZiBkb19zb21lX3N0dWZmKCk6CiAgICBwcmludCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -538,31 +537,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdpbmF0b3IuYWxsb3dfZW1wdHlfZmlyc3RfcGFnZSgpCg==</text>
+        <text encoding="base64">ICAgIGN0eC5vYmoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBwYXRjaAo=</text>
+        <text encoding="base64">ICAgICAgICBQYWdpbmF0b3IuYWxsb3dfZW1wdHlfZmlyc3RfcGFnZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
+        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBwYXRjaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCaURhc2hib2FyZFphbW93aWVuCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKG9iamVjdHMuYWxsLmNhbGxlZCkK</text>
+        <text encoding="base64">ICAgICAgICBCaURhc2hib2FyZFphbW93aWVuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwuY2FsbGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKG9iamVjdHMuYWxsLmNhbGxlZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RzLmZpbHRlci5yZXR1cm5fdmFsdWUub3JkZXJfYnkucmV0dXJuX3ZhbHVlID0gW3t9XQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUob2JqZWN0cy5hbGwuY2FsbGVkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXNoYm9hcmRfaW1wb3J0ID0gTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RzLmZpbHRlci5yZXR1cm5fdmFsdWUub3JkZXJfYnkucmV0dXJuX3ZhbHVlID0gW3t9XQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -608,13 +607,13 @@
         <entry encoding="base64">bWFwIGprIDxlc2M+</entry>
         <entry encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</entry>
         <entry>action Replace</entry>
-        <entry>q</entry>
         <entry>pwd</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action FindUsages</entry>
         <entry>action Run</entry>
         <entry>action GotoClass</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
