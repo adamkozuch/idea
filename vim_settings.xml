@@ -44,12 +44,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1544962934983">
+      <file name="$USER_HOME$/PycharmProjects/untitled/some_file.py" timestamp="1544963701318">
         <mark key="'" line="5" column="25" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/pele/Document/NFixture.py" timestamp="1525854952652">
         <mark key="[" line="0" column="26" />
@@ -495,11 +495,11 @@
       <jump line="3" column="25" filename="$USER_HOME$/PycharmProjects/untitled/some_file.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBwYXRjaAo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>Mock</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</text>
