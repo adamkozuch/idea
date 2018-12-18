@@ -2,14 +2,143 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/mailServer/form/index.html" timestamp="1545149007307">
+        <mark key="'" line="2212" column="0" />
+        <mark key="[" line="2208" column="32" />
+        <mark key="]" line="2208" column="32" />
+        <mark key="." line="2208" column="32" />
+        <mark key="^" line="2214" column="67" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="405" column="44" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="1847" column="29" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2094" column="122" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2150" column="57" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2152" column="83" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2161" column="59" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2169" column="68" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2170" column="130" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2123" column="101" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2108" column="83" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2017" column="37" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2023" column="50" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2025" column="36" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2022" column="103" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2061" column="44" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2091" column="82" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2218" column="0" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2074" column="100" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2148" column="104" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="13" column="22" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2209" column="44" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2210" column="55" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2174" column="86" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2187" column="24" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="176" column="459" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="135" column="6547" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="188" column="31" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="415" column="33" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="430" column="33" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2085" column="129" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2131" column="70" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2142" column="71" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2145" column="70" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="393" column="33" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="401" column="20" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2201" column="0" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2019" column="103" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2144" column="93" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2208" column="32" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2071" column="229" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2070" column="100" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2211" column="32" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2132" column="104" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2093" column="233" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2217" column="17" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="28" column="43" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2212" column="0" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwiXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LmNvb2tpZSA9ICJ1c2VybmFtZT0iICsgdXNlcm5hbWUgKyAiOyBleHBpcmVzPVRodSwgMTYgRGVjIDIwMjIgMTI6MDA6MDAgVVRDIjsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJBZGFtIEtvenVjaCIpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFyICB1c2VybmFtZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlOYW1lKCJ1c2VybmFtZSIpWzBdLnZhbHVlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCXZhciBwYXNzd29yZCA9ICIiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCXZhciB1c2VybmFtZSA9ICIiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgUGFzc3dkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS13aW5kb3cubG9jYXRpb24ucmVsID0gIjYyNGVmYTYyZmE2NzgxZjNhYTA3YWYwNmQ4NmRiYjgxIiI7LS0+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJmbXAtYnV0dG9uIikuaHJlZiA9ICIvbmV4dCI7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>Mail</entry>
+        <entry>username</entry>
+        <entry>action</entry>
+        <entry encoding="base64">XDxmb3JtbVw+</entry>
+        <entry>formm</entry>
+        <entry encoding="base64">XDxyZWxcPg==</entry>
+        <entry encoding="base64">XDxuZXh0XD4=</entry>
+        <entry encoding="base64">XDw2MjRlZmE2MmZhNjc4MWYzYWEwN2FmMDZkODZkYmI4MVw+</entry>
+        <entry encoding="base64">XDxnZXRfYWN0aW9uXD4=</entry>
+        <entry>fmt-bu</entry>
+        <entry>fmt</entry>
+        <entry>button</entry>
+        <entry>next</entry>
+        <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
+        <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
