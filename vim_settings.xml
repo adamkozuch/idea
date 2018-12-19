@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/mailServer/form/index.html" timestamp="1545207771252">
+      <file name="$USER_HOME$/Projects/mailServer/form/index.html" timestamp="1545216603170">
         <mark key="'" line="17" column="73" />
-        <mark key="[" line="2209" column="37" />
-        <mark key="]" line="2209" column="37" />
-        <mark key="." line="2209" column="37" />
-        <mark key="^" line="2209" column="40" />
+        <mark key="[" line="2212" column="111" />
+        <mark key="]" line="2212" column="118" />
+        <mark key="." line="2212" column="118" />
+        <mark key="^" line="2212" column="118" />
       </file>
-      <file name="$USER_HOME$/Projects/mailServer/form/index_redirect.php" timestamp="1545212928628">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/mailServer/form/index_redirect.php" timestamp="1545216751299">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -69,7 +69,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImFsYSBtYSBrb3RhIjsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -81,31 +81,31 @@
         <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImFsYSBtYSBrb3RhIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS8nKSA7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gICRfQ09PS0lFWyJ1c2VybmFtZSJdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL3d3dy5nb29nbGUuY29tJykgOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9odG1sL3B1YmxpY19odG1sJykgOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS8nKSA7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL3d3dy5nb29nbGUuY29tJykgOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJF9DT09LSUVbInVzZXJuYW1lIl07CiAgICBlY2hvICRfQ09PS0lFWyJwYXNzd29yZCJdOwoK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9odG1sL3B1YmxpY19odG1sJykgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJF9DT09LSUVbInVzZXJuYW1lIl07CiAgICBlY2hvICRfQ09PS0lFWyJwYXNzd29yZCJdOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aGVhZGVyKCAnTG9jYXRpb246IGh0dHA6Ly8xMC4zMi4xMDUuNjAvaW5kZXhfZm9ybS5waHAnKSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -146,6 +146,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
