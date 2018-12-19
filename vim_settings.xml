@@ -3,17 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/mailServer/form/index.html" timestamp="1545216603170">
-        <mark key="'" line="17" column="73" />
-        <mark key="[" line="2212" column="111" />
-        <mark key="]" line="2212" column="118" />
-        <mark key="." line="2212" column="118" />
-        <mark key="^" line="2212" column="118" />
+      <file name="$USER_HOME$/Projects/mailServer/form/index.html" timestamp="1545226824804">
+        <mark key="'" line="2144" column="75" />
+        <mark key="[" line="2215" column="49" />
+        <mark key="]" line="2215" column="82" />
+        <mark key="." line="2215" column="82" />
+        <mark key="^" line="2215" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/mailServer/form/index_redirect.php" timestamp="1545216751299">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mailServer/fadomail.com/index.html" timestamp="1545225980965">
+        <mark key="'" line="1705" column="21" />
+        <mark key="[" line="2141" column="0" />
+        <mark key="]" line="2141" column="127" />
+        <mark key="." line="2141" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -30,7 +36,6 @@
       <jump line="2017" column="37" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2023" column="50" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2025" column="36" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
-      <jump line="2022" column="103" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2061" column="44" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2091" column="82" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2218" column="0" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
@@ -50,12 +55,10 @@
       <jump line="2085" column="129" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2131" column="70" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2142" column="71" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
-      <jump line="2145" column="70" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="393" column="33" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="401" column="20" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2201" column="0" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2019" column="103" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
-      <jump line="2144" column="93" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2208" column="32" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2071" column="229" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2070" column="100" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
@@ -66,62 +69,73 @@
       <jump line="28" column="43" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2212" column="0" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="17" column="73" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2207" column="33" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2095" column="5" filename="$USER_HOME$/Projects/mailServer/fadomail.com/index.html" />
+      <jump line="2140" column="21" filename="$USER_HOME$/Projects/mailServer/fadomail.com/index.html" />
+      <jump line="2136" column="11" filename="$USER_HOME$/Projects/mailServer/fadomail.com/index.html" />
+      <jump line="1705" column="21" filename="$USER_HOME$/Projects/mailServer/fadomail.com/index.html" />
+      <jump line="2128" column="64" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2088" column="48" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2022" column="140" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="9" column="39" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2047" column="140" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2145" column="97" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2215" column="33" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
+      <jump line="2144" column="75" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImFsYSBtYSBrb3RhIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB1c2VybmFtZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlOYW1lKCJVc2VybmFtZSIpWzBdLnZhbHVlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHBhc3N3b3JkID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeU5hbWUoIlBhc3N3ZCIpWzBdLnZhbHVlOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LmNvb2tpZSA9ICJ1c2VybmFtZT0iICsgdXNlcm5hbWUgKyAiOyBleHBpcmVzPVRodSwgMTYgRGVjIDIwMjIgMTI6MDA6MDAgVVRDOyBwYXRoPS8iOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9jdW1lbnQuY29va2llID0gInBhc3N3b3JkPSIgKyBwYXNzd29yZCArICI7IGV4cGlyZXM9VGh1LCAxNiBEZWMgMjAyMiAxMjowMDowMCBVVEM7IHBhdGg9LyI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwiXD4=</text>
+        <text>onclick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnVuY3Rpb24gc2V0X2luZm8oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgdXNlcm5hbWUgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5TmFtZSgiVXNlcm5hbWUiKVswXS52YWx1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBwYXNzd29yZCA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlOYW1lKCJQYXNzd2QiKVswXS52YWx1ZTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5jb29raWUgPSAidXNlcm5hbWU9IiArIHVzZXJuYW1lICsgIjsgZXhwaXJlcz1UaHUsIDE2IERlYyAyMDIyIDEyOjAwOjAwIFVUQzsgcGF0aD0vIjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LmNvb2tpZSA9ICJwYXNzd29yZD0iICsgcGFzc3dvcmQgKyAiOyBleHBpcmVzPVRodSwgMTYgRGVjIDIwMjIgMTI6MDA6MDAgVVRDOyBwYXRoPS8iOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImFsYSBtYSBrb3RhIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB1c2VybmFtZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlOYW1lKCJVc2VybmFtZSIpWzBdLnZhbHVlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHBhc3N3b3JkID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeU5hbWUoIlBhc3N3ZCIpWzBdLnZhbHVlOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LmNvb2tpZSA9ICJ1c2VybmFtZT0iICsgdXNlcm5hbWUgKyAiOyBleHBpcmVzPVRodSwgMTYgRGVjIDIwMjIgMTI6MDA6MDAgVVRDOyBwYXRoPS8iOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9jdW1lbnQuY29va2llID0gInBhc3N3b3JkPSIgKyBwYXNzd29yZCArICI7IGV4cGlyZXM9VGh1LCAxNiBEZWMgMjAyMiAxMjowMDowMCBVVEM7IHBhdGg9LyI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gICRfQ09PS0lFWyJ1c2VybmFtZSJdOwo=</text>
+        <text encoding="base64">CTxhIGlkPSJjcmVhdGVfdXNlcl9idG4iPiA8cCBzdHlsZT0ibWFyZ2luLXJpZ2h0OiAxMDVweDsgY29sb3I6IzA4NmVmNTg4OyBtYXJnaW4tdG9wOjE3cHgiIGJvcmRlcj0iMCI+ICBDcmVhdGUgdXNlciA8L3A+PC9hPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
+        <text encoding="base64">CTxhIGlkPSJjcmVhdGVfdXNlcl9idG4iPiA8cCBzdHlsZT0ibWFyZ2luLXJpZ2h0OiAxMDVweDsgY29sb3I6IzA4NmVmNTg4OyBtYXJnaW4tdG9wOjE3cHgiIGJvcmRlcj0iMCI+ICBDcmVhdGUgdXNlciA8L3A+PC9hPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS8nKSA7Cg==</text>
+        <text encoding="base64">PGEgaWQ9ImNyZWF0ZV91c2VyX2J0biI+IDxwIHN0eWxlPSJtYXJnaW4tcmlnaHQ6IDEwNXB4OyBjb2xvcjojMDg2ZWY1ODg7IG1hcmdpbi10b3A6MTdweCIgYm9yZGVyPSIwIj4gIENyZWF0ZSB1c2VyIDwvcD48L2E+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL3d3dy5nb29nbGUuY29tJykgOwo=</text>
+        <text encoding="base64">PGEgaWQ9ImNyZWF0ZV91c2VyX2J0biI+IDxwIHN0eWxlPSJtYXJnaW4tcmlnaHQ6IDEwNXB4OyBjb2xvcjojMDg2ZWY1ODg7IG1hcmdpbi10b3A6MTdweCIgYm9yZGVyPSIwIj4gIENyZWF0ZSB1c2VyIDwvcD48L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9odG1sL3B1YmxpY19odG1sJykgOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gImFsYSBtYSBrb3RhIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gICRfQ09PS0lFWyJ1c2VybmFtZSJdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJF9DT09LSUVbInVzZXJuYW1lIl07CiAgICBlY2hvICRfQ09PS0lFWyJwYXNzd29yZCJdOwoK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS9jcmVhdGUnKSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXIoICdMb2NhdGlvbjogaHR0cDovL2ZhZG9tYWlsLmNvbS8nKSA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-search>onclick</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>onclick</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Mail</entry>
-        <entry>username</entry>
         <entry>action</entry>
         <entry encoding="base64">XDxmb3JtbVw+</entry>
         <entry>formm</entry>
@@ -136,11 +150,17 @@
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDxzZXRfaW5mb1w+</entry>
+        <entry>create_user</entry>
+        <entry>GtglAe</entry>
+        <entry>Mail</entry>
+        <entry>Mobile</entry>
+        <entry>onclick</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
@@ -149,6 +169,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
