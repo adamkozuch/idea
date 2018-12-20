@@ -63,6 +63,13 @@
         <mark key="^" line="39" column="32" />
         <mark key="." line="39" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1545317175926">
+        <mark key="'" line="51" column="60" />
+        <mark key="[" line="128" column="40" />
+        <mark key="]" line="128" column="40" />
+        <mark key="." line="128" column="40" />
+        <mark key="^" line="128" column="78" />
+      </file>
       <file name="$USER_HOME$/Projects/mailServer/form/create.php" timestamp="1545309697706">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="27" />
@@ -136,19 +143,22 @@
       <jump line="2206" column="23" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="44" column="33" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/serializers.py" />
+      <jump line="214" column="37" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="56" column="42" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="51" column="60" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CharField(db_index=True, max_length=64, null=False)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>CharField(db_index=True, max_length=64, null=False)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text encoding="base64">XDxvcmRGcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN1bHRhbnQgICAgICAgICAgICAgID0gbW9kZWxzLkNoYXJGaWVsZChkYl9pbmRleD1UcnVlLCBtYXhfbGVuZ3RoPTY0LCBudWxsPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN1bHRhbnRfY29mX2lkICAgICAgICAgICAgICA9IG9yZEZyb21bJ2NvbnN1bHRhbnRfY29mX2lmJ10sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -182,15 +192,14 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search encoding="base64">XDxvcmRGcm9tXD4=</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxvcmRGcm9tXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtbVw+</entry>
         <entry>formm</entry>
         <entry encoding="base64">XDxyZWxcPg==</entry>
         <entry encoding="base64">XDxuZXh0XD4=</entry>
@@ -210,6 +219,7 @@
         <entry>onclick</entry>
         <entry>Mail</entry>
         <entry>console</entry>
+        <entry encoding="base64">XDxvcmRGcm9tXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
