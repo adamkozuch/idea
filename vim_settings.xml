@@ -33,25 +33,31 @@
         <mark key="]" line="2141" column="127" />
         <mark key="." line="2141" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" timestamp="1545320602092">
-        <mark key="'" line="48" column="33" />
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="42" column="3" />
-        <mark key="^" line="42" column="3" />
-        <mark key="." line="42" column="3" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" timestamp="1545323006595">
+        <mark key="'" line="47" column="27" />
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+        <mark key="^" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/order.py" timestamp="1545321483293">
-        <mark key="'" line="35" column="51" />
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/order.py" timestamp="1545322904902">
+        <mark key="'" line="36" column="51" />
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="36" />
+        <mark key="^" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/mailServer/form/create.php" timestamp="1545309697706">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="27" />
         <mark key="^" line="17" column="27" />
         <mark key="." line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_summary.py" timestamp="1545322302495">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="26" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/dashboard_zamowien.py" timestamp="1545315589004">
         <mark key="[" line="19" column="50" />
@@ -64,12 +70,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" timestamp="1545321527869">
-        <mark key="'" line="11" column="24" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" timestamp="1545322084194">
+        <mark key="'" line="29" column="34" />
+        <mark key="[" line="22" column="104" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/mailServer/form/run_prod.sh" timestamp="1545230635122">
         <mark key="[" line="0" column="0" />
@@ -155,7 +161,6 @@
       <jump line="9" column="39" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="3" column="4" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2206" column="23" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
-      <jump line="44" column="33" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/serializers.py" />
       <jump line="214" column="37" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="56" column="42" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
@@ -167,61 +172,71 @@
       <jump line="35" column="51" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/order.py" />
       <jump line="15" column="25" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
       <jump line="10" column="24" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="52" column="20" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="45" column="25" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="41" column="16" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="38" column="12" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="30" column="16" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="28" column="34" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/order.py" />
+      <jump line="44" column="27" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_summary.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>orders</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdWx0YW50X2lkXD4=</text>
+        <text encoding="base64">XDxzdGF0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN1bHRhbnRfY29mX2lkICAgICAgICAgICAgICA9IG9yZEZyb21bJ2NvbnN1bHRhbnRfY29mX2lmJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnMgPSBEYXNoYm9hcmRQcmVtaWkub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgIGRhc2hib2FyZF9pbXBvcnQgPSBkYXNoYm9hcmRfaW1wb3J0LAogICAgICAgICAgICBjb25zdWx0YW50ID0gY29uc3VsdGFudF9pZAogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN1bHRhbnRfY29mID0gRGFzaGJvYXJkUHJlbWlpLm9iamVjdHMuZmlsdGVyKAogICAgICAgIGNvbnN1bHRhbnQgPSBjb25zdWx0YW50X2lkCiAgICApLmZpcnN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIG9uY2xpY2s9ImRvY3VtZW50LmxvY2F0aW9uPVwnaHR0cDovL2ZhZG9tYWlsLmNvbS9wcmVtaXVtX2FjY2Vzc1wnIj4gTG9nIGluPC9hPgoJCQkJCQkJCQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBkYXNoYm9hcmRfaW1wb3J0ID0gZGFzaGJvYXJkX2ltcG9ydCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQk8YSBvbmNsaWNrPSJkb2N1bWVudC5sb2NhdGlvbj1cJ2h0dHA6Ly9mYWRvbWFpbC5jb20vcHJlbWl1bV9hY2Nlc3NcJyI+IExvZyBpbjwvYT4K</text>
+        <text encoding="base64">ICAgIGRpc3RpbmdjX2xvZ2lucyA9IERhc2hib2FyZFphbW93aWVuKGNvbnN1bHRhbnRfY29mX2lmPWNvZl9pZCkub2JqZWN0cy5kaXN0aW5jdCgnY29uc3VsdGFudF9pZCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCTxhIG9uY2xpY2s9ImRvY3VtZW50LmxvY2F0aW9uPVwnaHR0cDovL2ZhZG9tYWlsLmNvbS9wcmVtaXVtX2FjY2Vzc1wnIj4gTG9nIGluIHdpdGggZXhpc3RpbmcgYWNjb3VudDwvYT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGEgb25jbGljaz0iZG9jdW1lbnQubG9jYXRpb249XCdodHRwOi8vZmFkb21haWwuY29tL3ByZW1pdW1fYWNjZXNzXCciPiBMb2cgaW4gd2l0aCBleGlzdGluZyBhY2NvdW50PC9hPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQk8YSBvbmNsaWNrPSJkb2N1bWVudC5sb2NhdGlvbj1cJ2h0dHA6Ly9mYWRvbWFpbC5jb20vcHJlbWl1bV9hY2Nlc3NcJyI+IExvZyBpbiB3aXRoIGV4aXN0aW5nIGFjY291bnQ8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIG9uY2xpY2s9ImRvY3VtZW50LmxvY2F0aW9uPVwnaHR0cDovL2ZhZG9tYWlsLmNvbS9wcmVtaXVtX2FjY2Vzc1wnIj4gTG9nIGluPC9hPgoJCQkJCQkJCQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCTxhIG9uY2xpY2s9ImRvY3VtZW50LmxvY2F0aW9uPVwnaHR0cDovL2ZhZG9tYWlsLmNvbS9wcmVtaXVtX2FjY2Vzc1wnIj4gTG9nIGluIHdpdGggZXhpc3RpbmcgYWNjb3VudDwvYT4K</text>
+        <text encoding="base64">CQkJCQkJCQkJCQk8YSBvbmNsaWNrPSJkb2N1bWVudC5sb2NhdGlvbj1cJ2h0dHA6Ly9mYWRvbWFpbC5jb20vcHJlbWl1bV9hY2Nlc3NcJyI+IExvZyBpbjwvYT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCTxhIG9uY2xpY2s9ImRvY3VtZW50LmxvY2F0aW9uPVwnaHR0cDovL2ZhZG9tYWlsLmNvbS9wcmVtaXVtX2FjY2Vzc1wnIj4gTG9nIGluIHdpdGggZXhpc3RpbmcgYWNjb3VudDwvYT4K</text>
+        <text encoding="base64">CQkJCQkJCQkJCTxhIG9uY2xpY2s9ImRvY3VtZW50LmxvY2F0aW9uPVwnaHR0cDovL2ZhZG9tYWlsLmNvbS9wcmVtaXVtX2FjY2Vzc1wnIj4gTG9nIGluIHdpdGggZXhpc3RpbmcgYWNjb3VudDwvYT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdWx0YW50X2lkXD4=</last-search>
+      <last-search encoding="base64">XDxzdGF0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdWx0YW50X2lkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0c1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWxcPg==</entry>
         <entry encoding="base64">XDxuZXh0XD4=</entry>
         <entry encoding="base64">XDw2MjRlZmE2MmZhNjc4MWYzYWEwN2FmMDZkODZkYmI4MVw+</entry>
         <entry encoding="base64">XDxnZXRfYWN0aW9uXD4=</entry>
@@ -241,6 +256,7 @@
         <entry>console</entry>
         <entry encoding="base64">XDxvcmRGcm9tXD4=</entry>
         <entry encoding="base64">XDxjb25zdWx0YW50X2lkXD4=</entry>
+        <entry encoding="base64">XDxzdGF0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
