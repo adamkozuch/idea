@@ -14,12 +14,12 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="17" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/mailServer/form/index.html" timestamp="1545306941270">
+      <file name="$USER_HOME$/Projects/mailServer/form/index.html" timestamp="1545308304076">
         <mark key="'" line="2208" column="23" />
-        <mark key="[" line="2155" column="133" />
-        <mark key="]" line="2155" column="142" />
-        <mark key="." line="2155" column="142" />
-        <mark key="^" line="2155" column="142" />
+        <mark key="[" line="2154" column="74" />
+        <mark key="]" line="2154" column="78" />
+        <mark key="." line="2154" column="78" />
+        <mark key="^" line="2154" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/mailServer/form/index_redirect.php" timestamp="1545216751299">
         <mark key="[" line="1" column="0" />
@@ -105,11 +105,11 @@
       <jump line="2206" column="23" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIG9uY2xpY2s9ImRvY3VtZW50LmxvY2F0aW9uPVwnaHR0cDovL2ZhZG9tYWlsLmNvbS9wcmVtaXVtX2FjY2Vzc1wnIj4gTG9nIGluPC9hPgoJCQkJCQkJCQkJCQk8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
