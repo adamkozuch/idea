@@ -9,14 +9,66 @@
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/edit_distance.py" timestamp="1545481095141">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="2" column="22" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/untitled/edit_distance.py" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoY29tcHV0ZV9kaXN0YW5jZSgia2l0dGVuIiwgInN0dGluZyIpKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQoYXJlX2VxdWFsKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>compute_distance</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwcmludChtYXRyaXgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgIyAiYmEiICJ0YSIKICAjIFtbMCwxLDJdLCAgICAgICAgICAgICAgKDEgKyAxKSAsICgxICsgMSkgLCAoMCArIDEpCiAgI1sxLCAxLCBdLAogICNbMixdXQ==</text>
+      </register>
+      <register name=":" type="4">
+        <text>!notepad %%</text>
+      </register>
+      <register name="-" type="4">
+        <text>compute_distance</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>action Run</entry>
+        <entry>w</entry>
+        <entry>!notepad</entry>
+        <entry>!notepad %</entry>
+        <entry>!notepad %%</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
