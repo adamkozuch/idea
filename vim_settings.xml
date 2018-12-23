@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" timestamp="1545577474480">
-        <mark key="^" line="37" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" timestamp="1545585994981">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="16" />
+        <mark key="^" line="52" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/encoder.py" timestamp="1545247110439">
         <mark key="[" line="27" column="8" />
@@ -44,7 +47,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIiIiCiAgICAgIDp0eXBlIG51bTogaW50CiAgICAgIDpydHlwZTogdm9pZAogICAgICAiIiIK</text>
+        <text encoding="base64">ICBqamsK</text>
       </register>
       <register name="-" type="4">
         <text>insert_element</text>
@@ -56,31 +59,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl9wdXNoX2xlZnQodmFsKQogICAgICAgIHNlbGYuX3B1c2hfcmlnaHQoZWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIiIiCiAgICAgIDp0eXBlIG51bTogaW50CiAgICAgIDpydHlwZTogdm9pZAogICAgICAiIiIK</text>
+        <text encoding="base64">ICBqamsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNlbGYubGVmdF9tYXhfaGVhcCkKICAgIHByaW50KHNlbGYucmlnaHRfbWluX2hlYXApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5sZWZ0X21heF9oZWFwLmFwcGVuZCh2YWwpCiAgICAgIGhlYXBxLl9oZWFwaWZ5X21heChzZWxmLmxlZnRfbWF4X2hlYXApCg==</text>
+        <text encoding="base64">ICAgICAgIiIiCiAgICAgIDp0eXBlIG51bTogaW50CiAgICAgIDpydHlwZTogdm9pZAogICAgICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNlbGYubGVmdF9tYXhfaGVhcCkKICAgIHByaW50KHNlbGYucmlnaHRfbWluX2hlYXApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgbGVuKHNlbGYubGVmdF9tYXhfaGVhcCkgPT0gbGVuKHNlbGYucmlnaHRfbWluX2hlYXApOgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc2VsZi5sZWZ0X21heF9oZWFwLmFwcGVuZCh2YWwpCiAgICAgIGhlYXBxLl9oZWFwaWZ5X21heChzZWxmLmxlZnRfbWF4X2hlYXApCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYubGVmdF9tYXhfaGVhcC5hcHBlbmQoZWwpCiAgICAgICAgICBoZWFwcS5faGVhcGlmeV9tYXgoc2VsZi5sZWZ0X21heF9oZWFwKQogICAgICAgICAgaGVhcHEuaGVhcHB1c2goc2VsZi5yaWdodF9taW5faGVhcCwgdmFsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYubGVmdF9tYXhfaGVhcC5hcHBlbmQodmFsKQogICAgICAgICAgaGVhcHEuX2hlYXBpZnlfbWF4KHNlbGYubGVmdF9tYXhfaGVhcCkK</text>
+        <text encoding="base64">ICAgICAgaWYgbGVuKHNlbGYubGVmdF9tYXhfaGVhcCkgPT0gbGVuKHNlbGYucmlnaHRfbWluX2hlYXApOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
