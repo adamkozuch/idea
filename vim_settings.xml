@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" timestamp="1545553505615">
-        <mark key="'" line="22" column="24" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="27" />
-        <mark key="^" line="33" column="30" />
-        <mark key="." line="33" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" timestamp="1545554733062">
+        <mark key="'" line="35" column="33" />
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="58" column="24" />
+        <mark key="." line="58" column="24" />
+        <mark key="^" line="56" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/encoder.py" timestamp="1545247110439">
         <mark key="[" line="27" column="8" />
@@ -38,55 +38,56 @@
       <jump line="37" column="29" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="11" column="22" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="22" column="24" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="33" column="33" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmluZGVyLmluc2VydF9lbGVtZW50KC0zKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>el</text>
       </register>
       <register name="/" type="4">
-        <text>left_min</text>
+        <text>heap_max</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmluZGVyLmluc2VydF9lbGVtZW50KDEpCg==</text>
+        <text encoding="base64">ZmluZGVyLmluc2VydF9lbGVtZW50KC0zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVyZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQpiZnMoZ3JhcGhfZGVmYXVsdCwgJ0EnKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQpiZnMoZ3JhcGhfZGVmYXVsdCwgJ0EnKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQpiZnMoZ3JhcGhfZGVmYXVsdCwgJ0EnKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQpiZnMoZ3JhcGhfZGVmYXVsdCwgJ0EnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHJpbnQoYSA+IDEwKQpwcmludChhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>left_min</last-search>
+      <last-search>heap_max</last-search>
       <last-offset />
-      <last-pattern>left_min</last-pattern>
+      <last-pattern>heap_max</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -94,6 +95,7 @@
       <history-search>
         <entry>right_max</entry>
         <entry>left_min</entry>
+        <entry>heap_max</entry>
       </history-search>
       <history-cmd>
         <entry>!notepad</entry>
