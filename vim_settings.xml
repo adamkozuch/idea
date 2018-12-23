@@ -3,12 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" timestamp="1545576136170">
-        <mark key="'" line="19" column="17" />
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-        <mark key="^" line="18" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" timestamp="1545577474480">
+        <mark key="^" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/encoder.py" timestamp="1545247110439">
         <mark key="[" line="27" column="8" />
@@ -34,20 +30,24 @@
     <jumps>
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/untitled/edit_distance.py" />
       <jump line="9" column="15" filename="$USER_HOME$/PycharmProjects/untitled/graph_cycles.py" />
-      <jump line="16" column="28" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="37" column="29" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="11" column="22" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="22" column="24" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="33" column="33" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="14" column="23" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
-      <jump line="13" column="17" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIiIiCiAgICAgIDp0eXBlIG51bTogaW50CiAgICAgIDpydHlwZTogdm9pZAogICAgICAiIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>insert_element</text>
       </register>
       <register name="/" type="4">
         <text>heap_max</text>
@@ -56,31 +56,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl9wdXNoX2xlZnQodmFsKQogICAgICAgIHNlbGYuX3B1c2hfcmlnaHQoZWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNlbGYubGVmdF9tYXhfaGVhcCkKICAgIHByaW50KHNlbGYucmlnaHRfbWluX2hlYXApCg==</text>
+        <text encoding="base64">ICAgICAgIiIiCiAgICAgIDp0eXBlIG51bTogaW50CiAgICAgIDpydHlwZTogdm9pZAogICAgICAiIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNlbGYubGVmdF9tYXhfaGVhcCkKICAgIHByaW50KHNlbGYucmlnaHRfbWluX2hlYXApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5sZWZ0X21heF9oZWFwLmFwcGVuZCh2YWwpCiAgICAgIGhlYXBxLl9oZWFwaWZ5X21heChzZWxmLmxlZnRfbWF4X2hlYXApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZi5sZWZ0X21heF9oZWFwLmFwcGVuZCh2YWwpCiAgICAgIGhlYXBxLl9oZWFwaWZ5X21heChzZWxmLmxlZnRfbWF4X2hlYXApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgbGVuKHNlbGYubGVmdF9tYXhfaGVhcCkgPT0gbGVuKHNlbGYucmlnaHRfbWluX2hlYXApOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgbGVuKHNlbGYubGVmdF9tYXhfaGVhcCkgPT0gbGVuKHNlbGYucmlnaHRfbWluX2hlYXApOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYubGVmdF9tYXhfaGVhcC5hcHBlbmQoZWwpCiAgICAgICAgICBoZWFwcS5faGVhcGlmeV9tYXgoc2VsZi5sZWZ0X21heF9oZWFwKQogICAgICAgICAgaGVhcHEuaGVhcHB1c2goc2VsZi5yaWdodF9taW5faGVhcCwgdmFsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYubGVmdF9tYXhfaGVhcC5hcHBlbmQodmFsKQogICAgICAgICAgaGVhcHEuX2hlYXBpZnlfbWF4KHNlbGYubGVmdF9tYXhfaGVhcCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYubGVmdF9tYXhfaGVhcC5hcHBlbmQoZWwpCiAgICAgICAgICBoZWFwcS5faGVhcGlmeV9tYXgoc2VsZi5sZWZ0X21heF9oZWFwKQogICAgICAgICAgaGVhcHEuaGVhcHB1c2goc2VsZi5yaWdodF9taW5faGVhcCwgdmFsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYubGVmdF9tYXhfaGVhcC5hcHBlbmQodmFsKQogICAgICAgICAgaGVhcHEuX2hlYXBpZnlfbWF4KHNlbGYubGVmdF9tYXhfaGVhcCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -104,6 +104,7 @@
         <entry>!notepad %</entry>
         <entry>!notepad %%</entry>
         <entry>action Run</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -121,6 +122,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
