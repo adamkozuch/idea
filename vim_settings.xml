@@ -86,7 +86,7 @@
         <text encoding="base64">ICAgICAgaWYgbGVuKHNlbGYubGVmdF9tYXhfaGVhcCkgPT0gbGVuKHNlbGYucmlnaHRfbWluX2hlYXApOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -109,6 +109,7 @@
         <entry>action Run</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>w</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
