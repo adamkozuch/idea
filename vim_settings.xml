@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" timestamp="1545585994981">
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="16" />
-        <mark key="." line="52" column="16" />
-        <mark key="^" line="52" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" timestamp="1545771410202">
+        <mark key="'" line="30" column="15" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/encoder.py" timestamp="1545247110439">
         <mark key="[" line="27" column="8" />
@@ -44,6 +45,9 @@
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="16" column="16" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="21" column="15" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="31" column="6" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
+      <jump line="29" column="15" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -53,7 +57,7 @@
         <text>insert_element</text>
       </register>
       <register name="/" type="4">
-        <text>heap_max</text>
+        <text encoding="base64">XDxwdXRfZWxlbWVudHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9wdXNoX2xlZnQodmFsKQogICAgICAgIHNlbGYuX3B1c2hfcmlnaHQoZWwpCg==</text>
@@ -86,14 +90,14 @@
         <text encoding="base64">ICAgICAgaWYgbGVuKHNlbGYubGVmdF9tYXhfaGVhcCkgPT0gbGVuKHNlbGYucmlnaHRfbWluX2hlYXApOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>heap_max</last-search>
+      <last-search encoding="base64">XDxwdXRfZWxlbWVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern>heap_max</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwdXRfZWxlbWVudHNcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -101,6 +105,7 @@
         <entry>right_max</entry>
         <entry>left_min</entry>
         <entry>heap_max</entry>
+        <entry encoding="base64">XDxwdXRfZWxlbWVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>!notepad</entry>
@@ -108,8 +113,9 @@
         <entry>!notepad %%</entry>
         <entry>action Run</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>w</entry>
         <entry>action Replace</entry>
+        <entry>action GotoClass</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,6 +135,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
