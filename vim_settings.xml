@@ -28,10 +28,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/sets.py" timestamp="1545934153674">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/sets.py" timestamp="1545939974225">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/graph_cycles.py" timestamp="1545508033440">
         <mark key="'" line="11" column="15" />
@@ -101,7 +102,7 @@
         <text encoding="base64">ICAgIHByaW50KHNlbGYubGVmdF9tYXhfaGVhcCkKICAgIHByaW50KHNlbGYucmlnaHRfbWluX2hlYXApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -125,8 +126,8 @@
         <entry>action Replace</entry>
         <entry>action GotoClass</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
