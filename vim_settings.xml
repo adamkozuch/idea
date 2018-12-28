@@ -102,7 +102,7 @@
         <text encoding="base64">ICAgIHByaW50KHNlbGYubGVmdF9tYXhfaGVhcCkKICAgIHByaW50KHNlbGYucmlnaHRfbWluX2hlYXApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -124,10 +124,10 @@
         <entry>!notepad %</entry>
         <entry>!notepad %%</entry>
         <entry>action Replace</entry>
-        <entry>action GotoClass</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>w</entry>
         <entry>action Run</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -153,6 +153,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
