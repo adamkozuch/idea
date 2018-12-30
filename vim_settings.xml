@@ -47,6 +47,13 @@
         <mark key="." line="3" column="75" />
         <mark key="^" line="3" column="80" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/GameOfLife.py" timestamp="1546178208884">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="16" />
+        <mark key="." line="86" column="16" />
+        <mark key="^" line="72" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/untitled/edit_distance.py" />
@@ -67,19 +74,23 @@
       <jump line="29" column="15" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="50" column="16" filename="$USER_HOME$/PycharmProjects/untitled/MedianFinder.py" />
       <jump line="160" column="0" filename="$USER_HOME$/Downloads/alacritty_windows (1).yml" />
+      <jump line="40" column="16" filename="$USER_HOME$/PycharmProjects/untitled/GameOfLife.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/PycharmProjects/untitled/GameOfLife.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled/GameOfLife.py" />
+      <jump line="20" column="22" filename="$USER_HOME$/PycharmProjects/untitled/GameOfLife.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dequeue()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dequeue()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXRfZWxlbWVudHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wdXNoX2xlZnQodmFsKQogICAgICAgIHNlbGYuX3B1c2hfcmlnaHQoZWwpCg==</text>
+      <register name="0" type="4">
+        <text>queue.Queue()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXByaW50KHJlc3VsdHMuY291bnQoWzNdKSkK</text>
@@ -109,7 +120,7 @@
         <text encoding="base64">ICAgICAgIiIiCiAgICAgIDp0eXBlIG51bTogaW50CiAgICAgIDpydHlwZTogdm9pZAogICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -132,9 +143,9 @@
         <entry>!notepad %%</entry>
         <entry>action Replace</entry>
         <entry>action GotoClass</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
