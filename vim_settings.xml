@@ -55,11 +55,11 @@
         <mark key="." line="0" column="152" />
         <mark key="^" line="0" column="152" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546441606704">
-        <mark key="[" line="61" column="113" />
-        <mark key="]" line="61" column="123" />
-        <mark key="." line="61" column="123" />
-        <mark key="^" line="61" column="123" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546445540209">
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="25" />
+        <mark key="." line="69" column="25" />
+        <mark key="^" line="69" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/dashboard_zamowien.py" timestamp="1545315589004">
         <mark key="[" line="19" column="50" />
@@ -119,6 +119,12 @@
         <mark key="]" line="2154" column="78" />
         <mark key="." line="2154" column="78" />
         <mark key="^" line="2154" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/urls.py" timestamp="1546445767695">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/mailServer/fadomail.com/index.html" timestamp="1545225980965">
         <mark key="'" line="1705" column="21" />
@@ -290,13 +296,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>values</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>330</text>
+        <text>secret</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhc2hib2FyZFByZW1paUNsdWRvLm9iamVjdHMudXNpbmcoJ2RlZmF1bHQnKS5maWx0ZXIoY29mX2lkPTY4OCkK</text>
@@ -333,15 +339,14 @@
       </register>
     </registers>
     <search>
-      <last-search>330</last-search>
+      <last-search>secret</last-search>
       <last-offset />
-      <last-pattern>330</last-pattern>
+      <last-pattern>secret</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fmt</entry>
         <entry>button</entry>
         <entry>next</entry>
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
@@ -361,6 +366,7 @@
         <entry>Name</entry>
         <entry encoding="base64">XDxpbnNlcnRfbGlzdFw+</entry>
         <entry>330</entry>
+        <entry>secret</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
