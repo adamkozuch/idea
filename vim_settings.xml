@@ -55,6 +55,12 @@
         <mark key="." line="0" column="152" />
         <mark key="^" line="0" column="152" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546438023724">
+        <mark key="[" line="56" column="92" />
+        <mark key="]" line="56" column="91" />
+        <mark key="^" line="56" column="91" />
+        <mark key="." line="56" column="91" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/dashboard_zamowien.py" timestamp="1545315589004">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="58" />
@@ -85,12 +91,12 @@
         <mark key="." line="48" column="32" />
         <mark key="^" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1546436399989">
-        <mark key="'" line="249" column="12" />
-        <mark key="[" line="241" column="32" />
-        <mark key="]" line="241" column="32" />
-        <mark key="^" line="241" column="32" />
-        <mark key="." line="241" column="32" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1546439041238">
+        <mark key="'" line="255" column="12" />
+        <mark key="[" line="260" column="82" />
+        <mark key="]" line="261" column="25" />
+        <mark key="^" line="261" column="25" />
+        <mark key="." line="261" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/__init__.py" timestamp="1546429091420">
         <mark key="[" line="0" column="0" />
@@ -146,6 +152,12 @@
         <mark key="]" line="13" column="37" />
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/serializers.py" timestamp="1546438154041">
+        <mark key="[" line="25" column="85" />
+        <mark key="]" line="25" column="85" />
+        <mark key="." line="25" column="85" />
+        <mark key="^" line="25" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/management/commands/service-bisync.py" timestamp="1546427349992">
         <mark key="[" line="1" column="0" />
@@ -273,16 +285,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>delete()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>delete()</text>
       </register>
       <register name="/" type="4">
         <text>330</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vbnRoICAgICAgICAgICAgICAgID0gbW9kZWxzLlRleHRGaWVsZChudWxsPVRydWUpCg==</text>
+        <text encoding="base64">Y2xhc3MgT3JkZXJzU2VyaWFsaXplcihzZXJpYWxpemVycy5Nb2RlbFNlcmlhbGl6ZXIpOgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9IERhc2hib2FyZFphbW93aWVuCiAgICAgICAgZmllbGRzID0gKAogICAgICAgICdvcmRlcl9pZCcsICd0eXAnLCAnc3RhdHVzJywgJ2NvbnN1bHRhbnRfZGF0ZScsICdjdXJyZW50X3ByaWNlJywgJ2luY3JlYXNlbWVudCcsICdpc19pbmNyZWFzZWRfbm9fc3RhdHVzJywKICAgICAgICAnc3RhdHVzX3N0cicgKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtYW5hZ2VkID0gRmFsc2UK</text>
