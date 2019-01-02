@@ -55,11 +55,11 @@
         <mark key="." line="0" column="152" />
         <mark key="^" line="0" column="152" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546438023724">
-        <mark key="[" line="56" column="92" />
-        <mark key="]" line="56" column="91" />
-        <mark key="^" line="56" column="91" />
-        <mark key="." line="56" column="91" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546441606704">
+        <mark key="[" line="61" column="113" />
+        <mark key="]" line="61" column="123" />
+        <mark key="." line="61" column="123" />
+        <mark key="^" line="61" column="123" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/dashboard_zamowien.py" timestamp="1545315589004">
         <mark key="[" line="19" column="50" />
@@ -91,12 +91,11 @@
         <mark key="." line="48" column="32" />
         <mark key="^" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1546439041238">
-        <mark key="'" line="255" column="12" />
-        <mark key="[" line="260" column="82" />
-        <mark key="]" line="261" column="25" />
-        <mark key="^" line="261" column="25" />
-        <mark key="." line="261" column="25" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1546441387078">
+        <mark key="'" line="267" column="0" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/__init__.py" timestamp="1546429091420">
         <mark key="[" line="0" column="0" />
@@ -120,6 +119,12 @@
         <mark key="]" line="2154" column="78" />
         <mark key="." line="2154" column="78" />
         <mark key="^" line="2154" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/mailServer/fadomail.com/index.html" timestamp="1545225980965">
+        <mark key="'" line="1705" column="21" />
+        <mark key="[" line="2141" column="0" />
+        <mark key="]" line="2141" column="127" />
+        <mark key="." line="2141" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" timestamp="1545323006595">
         <mark key="'" line="47" column="27" />
@@ -182,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1847" column="29" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
-      <jump line="2094" column="122" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2150" column="57" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2152" column="83" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
       <jump line="2161" column="59" filename="$USER_HOME$/Projects/mailServer/form/index.html" />
@@ -282,46 +285,48 @@
       <jump line="250" column="21" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="70" column="7" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="249" column="12" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="262" column="35" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="264" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>delete()</text>
+        <text>values</text>
       </register>
       <register name="-" type="4">
-        <text>delete()</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
         <text>330</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgT3JkZXJzU2VyaWFsaXplcihzZXJpYWxpemVycy5Nb2RlbFNlcmlhbGl6ZXIpOgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9IERhc2hib2FyZFphbW93aWVuCiAgICAgICAgZmllbGRzID0gKAogICAgICAgICdvcmRlcl9pZCcsICd0eXAnLCAnc3RhdHVzJywgJ2NvbnN1bHRhbnRfZGF0ZScsICdjdXJyZW50X3ByaWNlJywgJ2luY3JlYXNlbWVudCcsICdpc19pbmNyZWFzZWRfbm9fc3RhdHVzJywKICAgICAgICAnc3RhdHVzX3N0cicgKQo=</text>
+        <text encoding="base64">ICAgIERhc2hib2FyZFByZW1paUNsdWRvLm9iamVjdHMudXNpbmcoJ2RlZmF1bHQnKS5maWx0ZXIoY29mX2lkPTY4OCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VkID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIHZhbHVlcyA9IERhc2hib2FyZFByZW1paUNsdWRvLm9iamVjdHMudXNpbmcoJ2RlZmF1bHQnKS5maWx0ZXIoaWRfY29mPTY4OCkgIyBpZCBjb2Ygd2lsbCBiZSBleHRyYWN0ZWQKICAgIGNsdWRvX2RhdGEgPSBEYXNoYm9hcmRQcmVtaWlDbHVkb1NlcmlhbGl6ZXIodmFsdWVzLCBtYW55PVRydWUpLmRhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYl90YWJsZSA9ICdkYXNoYm9hcmRfcHJlbWlpX2NsdWRvJwo=</text>
+        <text encoding="base64">ICAgIERhc2hib2FyZFByZW1paUNsdWRvLm9iamVjdHMudXNpbmcoJ2RlZmF1bHQnKS5maWx0ZXIoY29mX2lkPTY4OCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3NvbWUgaW5mbycpCiAgICAgICAgICAgIHByaW50KGRwKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXMgPSBEYXNoYm9hcmRQcmVtaWlDbHVkby5vYmplY3RzLnVzaW5nKCdkZWZhdWx0JykuZmlsdGVyKGlkX2NvZj02ODgpCiAgICAgICAgcHJpbnQoRGFzaGJvYXJkUHJlbWlpQ2x1ZG9TZXJpYWxpemVyKHZhbHVlcywgbWFueT1UcnVlKS5kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlVtcGFjayIsIGl0ZW1bJ21vbnRoJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXRlbSkK</text>
+        <text encoding="base64">ICAgICAgICBEYXNoYm9hcmRQcmVtaWlDbHVkby5vYmplY3RzLnVzaW5nKCdkZWZhdWx0JykuYnVsa19jcmVhdGUoZGF0YV90b19taWdyYXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2pqawo=</text>
+        <text encoding="base64">ICAgICAgICBtYW5hZ2VkID0gRmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkYl90YWJsZSA9ICdkYXNoYm9hcmRfcHJlbWlpX2NsdWRvJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkX2NvZiAgICAgICAgICAgICAgID0gbW9kZWxzLkludGVnZXJGaWVsZChudWxsPVRydWUsIG1heF9sZW5ndGg9MTEsIHByaW1hcnlfa2V5PVRydWUgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3NvbWUgaW5mbycpCiAgICAgICAgICAgIHByaW50KGRwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlVtcGFjayIsIGl0ZW1bJ21vbnRoJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -362,8 +367,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action Run</entry>
         <entry>action GotoClass</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
