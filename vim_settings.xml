@@ -148,7 +148,7 @@
         <text encoding="base64">CXByaW50KHJlc3VsdHMuY291bnQoWzNdKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -171,10 +171,10 @@
         <entry>!notepad %</entry>
         <entry>!notepad %%</entry>
         <entry>action Replace</entry>
-        <entry>action GotoClass</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
