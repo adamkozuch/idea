@@ -77,12 +77,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1546527681396">
-        <mark key="'" line="148" column="46" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
-        <mark key="^" line="259" column="47" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1546600488746">
+        <mark key="'" line="221" column="13" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/__init__.py" timestamp="1546429091420">
         <mark key="[" line="0" column="0" />
@@ -126,12 +125,12 @@
         <mark key="^" line="0" column="536" />
         <mark key="." line="0" column="536" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/models/bi_dashboard_premii_cludo.py" timestamp="1546434480132">
-        <mark key="'" line="6" column="26" />
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="88" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/models/bi_dashboard_premii_cludo.py" timestamp="1546600238014">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+        <mark key="^" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/0009_auto_20190102_1159.py" timestamp="1546436341991">
         <mark key="[" line="17" column="47" />
@@ -300,13 +299,14 @@
       <jump line="1" column="16" filename="$USER_HOME$/PycharmProjects/untitled/iterary.py" />
       <jump line="9" column="31" filename="$USER_HOME$/PycharmProjects/untitled/iterary.py" />
       <jump line="0" column="32" filename="$USER_HOME$/PycharmProjects/untitled/iterary.py" />
+      <jump line="221" column="13" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>done</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBkYXRhX2JpOgogICAgICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>done</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3VyY2VcPg==</text>
@@ -315,31 +315,31 @@
         <text encoding="base64">Mj4mMSA+PiAvaG9tZS9kb2NrZXIvY29kZS9sb2cvY3Jvbi5sb2c=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50KGxlbihsaXN0X29mX2ZsaWdodHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBkYXRhX2JpOgogICAgICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50KGVkZ2VzX3Zpc2l0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiaW5zZXJ0IGl0ZW0iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXByaW50KCdkZWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJiZWZvcmUgbG9vcCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICB1bmlxdWVfdG9nZXRoZXIgPSAoJ21vbnRoJywgJ2lkX2NvZicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28ubWV0YSBpbXBvcnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB1bmlxdWVfdG9nZXRoZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50KHJlc3VsdHMuY291bnQoWzNdKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJpbnNlcnQgaXRlbSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
@@ -379,9 +379,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action Run</entry>
         <entry>wq</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
         <entry>action GotoClass</entry>
       </history-cmd>
