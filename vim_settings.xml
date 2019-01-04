@@ -342,7 +342,7 @@
         <text encoding="base64">Iwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -382,8 +382,8 @@
         <entry>action Run</entry>
         <entry>wq</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoClass</entry>
         <entry>w</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
