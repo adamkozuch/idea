@@ -37,11 +37,14 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/smartnews.py" timestamp="1546782586092">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="28" column="33" />
+      <file name="/a.dummy" timestamp="1546785297241">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/smartnews.py" timestamp="1546785345920">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/graph_cycles.py" timestamp="1545508033440">
         <mark key="'" line="11" column="15" />
@@ -160,7 +163,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -185,8 +188,8 @@
         <entry>action Replace</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
