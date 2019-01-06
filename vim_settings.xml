@@ -40,11 +40,11 @@
       <file name="/a.dummy" timestamp="1546785297241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/smartnews.py" timestamp="1546785345920">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/smartnews.py" timestamp="1546787184951">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/graph_cycles.py" timestamp="1545508033440">
         <mark key="'" line="11" column="15" />
@@ -124,46 +124,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludChzb3J0ZWRfQSkK</text>
       </register>
       <register name="-" type="4">
-        <text>minimums[i -1]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3VyY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChuIC0gMSBub3QgaW4gbWVtbyk6CiAgICAgIG1lbW9bbiAtIDFdID0gZmliYm9uYWNpX2hlbHBlcihuIC0gMSwgbWVtbykK</text>
+      <register name="0" type="4">
+        <text>abs(sorted_A[i][0] - sorted_A[i - 1][0])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludChzb3J0ZWRfQSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pbXVtcyA9IFswXSpsZW4ocHJpY2VzKQogICAgICAgIG0gPSBwcmljZXNbMF0KICAgICAgICBtaW5pbXVtc1swXSA9IG0K</text>
+        <text encoding="base64">ICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgxLGxlbihwcmljZXMpKTogIyBnZXQgcmlkIG9mIGl0CiAgICAgICAgICAgIGlmIChtID4gcHJpY2VzW2ldKToKICAgICAgICAgICAgICAgIG1pbmltdW1zW2ldID0gcHJpY2VzW2ldCiAgICAgICAgICAgICAgICBtID0gcHJpY2VzW2ldCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBtaW5pbXVtc1tpXSA9IG0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGZpYmJvbmFjaShuKToKICBtZW1vID0ge30KICByZXR1cm4gZmliYm9uYWNpX2hlbHBlcihuLCBtZW1vKQoKCmRlZiBmaWJib25hY2lfaGVscGVyKG4sIG1lbW8pOgogIGlmIChuID09IDApOgogICAgcmV0dXJuIDAKICBpZiAobiA8PSAyKToKICAgIHJldHVybiAxCiAgZWxzZToKICAgIGlmIChuIC0gMSBub3QgaW4gbWVtbyk6CiAgICAgIG1lbW9bbiAtIDFdID0gZmliYm9uYWNpX2hlbHBlcihuIC0gMSwgbWVtbykKICAgIGlmIChuIC0gMiBub3QgaW4gbWVtbyk6CiAgICAgIG1lbW9bbiAtIDJdID0gZmliYm9uYWNpX2hlbHBlcihuIC0gMiwgbWVtbykKICAgIHJldHVybiBtZW1vW24gLSAxXSArIG1lbW9bbiAtIDJdCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5pbXVtcyA9IFswXSpsZW4ocHJpY2VzKQogICAgICAgIG0gPSBwcmljZXNbMF0KICAgICAgICBtaW5pbXVtc1swXSA9IG0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZmliYm9uYWNpKDY1KSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgxLGxlbihwcmljZXMpKTogIyBnZXQgcmlkIG9mIGl0CiAgICAgICAgICAgIGlmIChtID4gcHJpY2VzW2ldKToKICAgICAgICAgICAgICAgIG1pbmltdW1zW2ldID0gcHJpY2VzW2ldCiAgICAgICAgICAgICAgICBtID0gcHJpY2VzW2ldCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBtaW5pbXVtc1tpXSA9IG0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ZGVmIGZpYmJvbmFjaShuKToKICBtZW1vID0ge30KICByZXR1cm4gZmliYm9uYWNpX2hlbHBlcihuLCBtZW1vKQoKCmRlZiBmaWJib25hY2lfaGVscGVyKG4sIG1lbW8pOgogIGlmIChuID09IDApOgogICAgcmV0dXJuIDAKICBpZiAobiA8PSAyKToKICAgIHJldHVybiAxCiAgZWxzZToKICAgIGlmIChuIC0gMSBub3QgaW4gbWVtbyk6CiAgICAgIG1lbW9bbiAtIDFdID0gZmliYm9uYWNpX2hlbHBlcihuIC0gMSwgbWVtbykKICAgIGlmIChuIC0gMiBub3QgaW4gbWVtbyk6CiAgICAgIG1lbW9bbiAtIDJdID0gZmliYm9uYWNpX2hlbHBlcihuIC0gMiwgbWVtbykKICAgIHJldHVybiBtZW1vW24gLSAxXSArIG1lbW9bbiAtIDJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZmliYm9uYWNpKDEzKSkK</text>
+        <text encoding="base64">cHJpbnQoZmliYm9uYWNpKDY1KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cHJpbnQoZmliYm9uYWNpKDEzKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -188,8 +188,8 @@
         <entry>action Replace</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
