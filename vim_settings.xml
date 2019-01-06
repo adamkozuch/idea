@@ -37,11 +37,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/smartnews.py" timestamp="1546774703663">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
-        <mark key="^" line="6" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/smartnews.py" timestamp="1546777108872">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/graph_cycles.py" timestamp="1545508033440">
         <mark key="'" line="11" column="15" />
@@ -120,44 +120,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled/tensor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoZmliYm9uYWNpKDY1KSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3VyY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlwcmludChwX3NfMSkK</text>
+        <text encoding="base64">ICAgIGlmIChuIC0gMSBub3QgaW4gbWVtbyk6CiAgICAgIG1lbW9bbiAtIDFdID0gZmliYm9uYWNpX2hlbHBlcihuIC0gMSwgbWVtbykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KEFbaV0pCg==</text>
+        <text encoding="base64">cHJpbnQoZmliYm9uYWNpKDY1KSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb3IgaSBpbiBBOgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludChBKQo=</text>
+        <text encoding="base64">cHJpbnQoZmliYm9uYWNpKDEzKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoQSk6Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZGVmIHNvbHV0aW9uKEEpOgogIEEuc29ydCgpCiAgaWYgKEFbbGVuKEEpIC0gMV0gPCAwKToKICAgIHJldHVybiAxCiAgcHJldiA9IDAKICBmb3IgaSBpbiByYW5nZSgxLCBsZW4oQSkpOgogICAgaWYgKEFbcHJldl0gPiAwIGFuZCBBW2ldICE9IEFbcHJldl0gYW5kIEFbaV0gIT0gQVtwcmV2XSArIDEpOgogICAgICByZXR1cm4gQVtwcmV2XSArIDEKICAgIGVsc2U6CiAgICAgIHByZXYgPSBpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaW50KEFbaV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludCgpCg==</text>
+        <text encoding="base64">ICBmb3IgaSBpbiBBOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICBwcmludChBKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -215,6 +215,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
