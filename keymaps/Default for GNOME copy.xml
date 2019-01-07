@@ -2,8 +2,6 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="alt o" />
   </action>
-  <action id="ExportToTextFile" />
   <action id="Vcs.UpdateProject" />
 </keymap>
