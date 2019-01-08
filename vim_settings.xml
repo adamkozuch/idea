@@ -179,8 +179,8 @@
         <mark key="." line="0" column="152" />
         <mark key="^" line="0" column="152" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546938289927">
-        <mark key="'" line="8" column="29" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546941154888">
+        <mark key="'" line="53" column="45" />
         <mark key="[" line="37" column="42" />
         <mark key="]" line="37" column="53" />
         <mark key="." line="37" column="53" />
@@ -352,6 +352,7 @@
       <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/untitled/smartnews_2.py" />
       <jump line="5" column="2" filename="$USER_HOME$/PycharmProjects/untitled/smartnews_2.py" />
       <jump line="209" column="11" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="53" column="45" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -394,7 +395,7 @@
         <text encoding="base64">ICAgICAgcHJpbnQoInNvbWUgaW5mbyIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -434,8 +435,8 @@
         <entry>wq</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
-        <entry>action GotoClass</entry>
         <entry>w</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
