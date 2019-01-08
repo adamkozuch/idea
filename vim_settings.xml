@@ -395,7 +395,7 @@
         <text encoding="base64">ICAgICAgcHJpbnQoInNvbWUgaW5mbyIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -435,8 +435,8 @@
         <entry>wq</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action GotoClass</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
