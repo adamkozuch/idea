@@ -179,11 +179,11 @@
         <mark key="." line="0" column="152" />
         <mark key="^" line="0" column="152" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546960258883">
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546961624771">
         <mark key="'" line="53" column="45" />
-        <mark key="[" line="37" column="113" />
-        <mark key="]" line="37" column="114" />
-        <mark key="." line="37" column="114" />
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="53" />
+        <mark key="." line="37" column="53" />
         <mark key="^" line="37" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/crontab.txt" timestamp="1546943528587">
@@ -356,10 +356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>anna.peszkal.p2.pl</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>anna.peszkal.p2.pl</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfY2hhclw+</text>
@@ -436,6 +436,7 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
         <entry>action GotoClass</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
