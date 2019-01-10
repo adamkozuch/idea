@@ -349,6 +349,7 @@
       <jump line="5" column="2" filename="$USER_HOME$/PycharmProjects/untitled/smartnews_2.py" />
       <jump line="209" column="11" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="53" column="45" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/crontab.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -391,7 +392,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -429,11 +430,11 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
         <entry>e</entry>
         <entry>action GotoClass</entry>
         <entry>w</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
