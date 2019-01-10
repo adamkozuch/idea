@@ -315,11 +315,11 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547130898970">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="24" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547135108389">
+        <mark key="[" line="13" column="132" />
+        <mark key="]" line="13" column="113" />
+        <mark key="." line="13" column="113" />
+        <mark key="^" line="13" column="113" />
       </file>
     </filemarks>
     <jumps>
@@ -359,46 +359,47 @@
       <jump line="209" column="11" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="53" column="45" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/crontab.txt" />
+      <jump line="17" column="14" filename="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DBS</text>
+        <text>_CONVERTED</text>
       </register>
       <register name="-" type="4">
-        <text>DBS</text>
+        <text>_CONVERTED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfY2hhclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>mysql -h localhost -u root -p$1 $db -Bse &quot;SHOW TABLES&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIkRBVEFCQVNFIE5PVCBTVVBQT1JURUQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG15c3FsIC1oIGxvY2FsaG9zdCAtdSByb290IC1wJDEgLUJzZSAiU0hPVyBEQVRBQkFTRVMiCg==</text>
+        <text encoding="base64">ICAgIHRoZW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRhbT0iYWRhbSBrb3p1Y2giCmVjaG8gJGFkYW0K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRkYgogICAgICAgIGVjaG8gIiIKICAgICAgICBlY2hvICIjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIzMiCiAgICAgICAgZWNobyAiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aWYgWyIkREFUQUJBU0VfVFlQRSIgPT0gIiRNWVNRTF9TVFIiXQogICAgdGhlbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgLy8gJCgnI2V4YW1wbGUgdGhlYWQgdHI6ZXEoMSkgdGgnKS5lYWNoKCBmdW5jdGlvbiAoaSkgewogICAvLyAgICAgdmFyIHRpdGxlID0gJCh0aGlzKS50ZXh0KCk7CiAgIC8vICAgICAkKHRoaXMpLmh0bWwoICc8aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlNlYXJjaCAnK3RpdGxlKyciIC8+JyApOwogCiAgIC8vICAgICAkKCAnaW5wdXQnLCB0aGlzICkub24oICdrZXl1cCBjaGFuZ2UnLCBmdW5jdGlvbiAoKSB7CiAgIC8vICAgICAgICAgaWYgKCB0YWJsZS5jb2x1bW4oaSkuc2VhcmNoKCkgIT09IHRoaXMudmFsdWUgKSB7CiAgIC8vICAgICAgICAgICAgIHRhYmxlCiAgIC8vICAgICAgICAgICAgICAgICAuY29sdW1uKGkpCiAgIC8vICAgICAgICAgICAgICAgICAuc2VhcmNoKCB0aGlzLnZhbHVlICkKICAgLy8gICAgICAgICAgICAgICAgIC5kcmF3KCk7CiAgIC8vICAgICAgICAgfQogICAvLyAgICAgfSApOwogICAvLyB9ICk7Cg==</text>
+        <text encoding="base64">ZWNobyAiJERBVEFCQVNFX1RZUEUiIC1lcSAiTVlTUUwiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZGVzY3JpcHRpb24gaW4gJHtUQUJMRV9ERVNDUklQVElPTlNbQF19CiAgICAgICAgZG8KICAgICAgICAgICAgZWNobyAkZGVzY3JpcHRpb24KICAgICAgICBkb25lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgLy8gcmV0dXJuICc8dGFibGUgY2VsbHBhZGRpbmc9IjUiIGNlbGxzcGFjaW5nPSIwIiBib3JkZXI9IjAiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6NTBweDsiPicrCiAgIC8vICAgICAnPHRyPicrCiAgIC8vICAgICAgICAgJzx0ZD5UYWJsZXM6PC90ZD4nKwogICAvLyAgICAgICAgICc8dGQ+JytkLnRhYmxlcysnPC90ZD4nKwogICAvLyAgICAgJzwvdHI+JysKICAgLy8gJzwvdGFibGU+JzsK</text>
+        <text encoding="base64">ICAgIG15c3FsIC1oIGxvY2FsaG9zdCAtdSByb290IC1wJDEgLUJzZSAiU0hPVyBEQVRBQkFTRVMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGVuID0gZGF0ZXRpbWUudXRjZnJvbXRpbWVzdGFtcChyZXNbMF0udGltZXN0YW1wKCkpCg==</text>
+        <text encoding="base64">YWRhbT0iYWRhbSBrb3p1Y2giCmVjaG8gJGFkYW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub3cgPSBkYXRldGltZS51dGNub3coKQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgZXhpdGNvZGUgPSAyCiAgICAgICAgbXNnID0gJ25vIGltcG9ydCBpbiBkYicK</text>
+        <text encoding="base64">ICAgLy8gJCgnI2V4YW1wbGUgdGhlYWQgdHI6ZXEoMSkgdGgnKS5lYWNoKCBmdW5jdGlvbiAoaSkgewogICAvLyAgICAgdmFyIHRpdGxlID0gJCh0aGlzKS50ZXh0KCk7CiAgIC8vICAgICAkKHRoaXMpLmh0bWwoICc8aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlNlYXJjaCAnK3RpdGxlKyciIC8+JyApOwogCiAgIC8vICAgICAkKCAnaW5wdXQnLCB0aGlzICkub24oICdrZXl1cCBjaGFuZ2UnLCBmdW5jdGlvbiAoKSB7CiAgIC8vICAgICAgICAgaWYgKCB0YWJsZS5jb2x1bW4oaSkuc2VhcmNoKCkgIT09IHRoaXMudmFsdWUgKSB7CiAgIC8vICAgICAgICAgICAgIHRhYmxlCiAgIC8vICAgICAgICAgICAgICAgICAuY29sdW1uKGkpCiAgIC8vICAgICAgICAgICAgICAgICAuc2VhcmNoKCB0aGlzLnZhbHVlICkKICAgLy8gICAgICAgICAgICAgICAgIC5kcmF3KCk7CiAgIC8vICAgICAgICAgfQogICAvLyAgICAgfSApOwogICAvLyB9ICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -439,10 +440,10 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>action Run</entry>
         <entry>action GotoClass</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>e</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
