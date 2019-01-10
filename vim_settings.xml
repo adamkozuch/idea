@@ -70,6 +70,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/checkBI.py" timestamp="1547114172085" />
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/dashboard_zamowien.py" timestamp="1545315589004">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="58" />
@@ -102,10 +103,6 @@
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/__init__.py" timestamp="1546429091420">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/0009_auto_20190102_1345.py" timestamp="1546602575191">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="90" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/edit_distance.py" timestamp="1545811014546">
         <mark key="[" line="3" column="0" />
@@ -146,10 +143,6 @@
         <mark key="." line="4" column="53" />
         <mark key="^" line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/0001_initial.py" timestamp="1546428927135">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="24" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/0009_auto_20190102_1159.py" timestamp="1546436341991">
         <mark key="[" line="17" column="47" />
         <mark key="]" line="17" column="47" />
@@ -166,6 +159,7 @@
         <mark key="^" line="42" column="56" />
         <mark key="." line="42" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/0008_auto_20181220_1431.py" timestamp="1546420019772" />
       <file name="$USER_HOME$/Projects/mailServer/form/apache2.conf" timestamp="1545390368363">
         <mark key="'" line="191" column="12" />
         <mark key="[" line="143" column="0" />
@@ -179,18 +173,17 @@
         <mark key="." line="0" column="152" />
         <mark key="^" line="0" column="152" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1546961624771">
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1547115020333">
         <mark key="'" line="53" column="45" />
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="37" column="53" />
-        <mark key="." line="37" column="53" />
-        <mark key="^" line="37" column="53" />
+        <mark key="[" line="37" column="126" />
+        <mark key="]" line="37" column="128" />
+        <mark key="." line="37" column="128" />
+        <mark key="^" line="37" column="128" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/crontab.txt" timestamp="1546943528587">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-        <mark key="^" line="27" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" timestamp="1546852056950">
         <mark key="[" line="33" column="70" />
@@ -254,6 +247,12 @@
         <mark key="." line="22" column="4" />
         <mark key="^" line="22" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/checkLocalDB.py" timestamp="1547115977104">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="66" column="38" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" timestamp="1546852622348">
         <mark key="'" line="44" column="27" />
         <mark key="[" line="48" column="28" />
@@ -293,10 +292,7 @@
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/management/commands/service-bisync.py" timestamp="1546427349992">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="12" column="52" />
-      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/dicts/order_status.py" timestamp="1547115401127" />
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/raport.py" timestamp="1546852923929">
         <mark key="'" line="20" column="31" />
         <mark key="[" line="0" column="0" />
@@ -356,46 +352,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfY2hhclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ki8xMCA3ICogKiAqIC91c3IvYmluL3B5dGhvbjMgbWFuYWdlLnB5IHN5bmNocm9uaXplLWNsdWRvIDI+JjEgPj4gL2hvbWUvZG9ja2VyL2NvZGUvbG9nL2Nyb24ubG9nCg==</text>
+        <text encoding="base64">ICAgIGN1ci5leGVjdXRlKAogICAgICAgICJTRUxFQ1QgY291bnQoKikgYXMgY250IEZST00gZGFzaGJvYXJkX2Rhc2hib2FyZHByZW1paSBMSU1JVCAxOyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGVuID0gZGF0ZXRpbWUudXRjZnJvbXRpbWVzdGFtcChyZXNbMF0udGltZXN0YW1wKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0b2tlbiBnZW5lcmF0ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBub3cgPSBkYXRldGltZS51dGNub3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0b2tlbiB2ZXJpZnkiKQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgZXhpdGNvZGUgPSAyCiAgICAgICAgbXNnID0gJ25vIGltcG9ydCBpbiBkYicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbiBpbXBvcnQgU2Vzc2lvbkF1dGhlbnRpY2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3cudGltZXN0YW1wKCkgLSB0aGVuLnRpbWVzdGFtcCgpID4gNjAqMTA6CiAgICAgICAgICAgIG1zZyA9ICJubyBpbXBvcnQgaW4gbGFzdCAxMCBtaW5zIgogICAgICAgICAgICBleGl0Y29kZSA9IDMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0b2tlbiBnZW5lcmF0ZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0b2tlbiB2ZXJpZnkiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gcmVzdF9mcmFtZXdvcmtfand0LnNldHRpbmdzIGltcG9ydCBhcGlfc2V0dGluZ3MK</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbiBpbXBvcnQgU2Vzc2lvbkF1dGhlbnRpY2F0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoInNvbWUgaW5mbyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -436,8 +432,8 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>action GotoClass</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
