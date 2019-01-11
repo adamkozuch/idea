@@ -148,14 +148,15 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/records" timestamp="1547213804044">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/records" timestamp="1547218072000">
+        <mark key="'" line="12947" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" timestamp="1547214048380">
-        <mark key="'" line="89" column="34" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" timestamp="1547218130574">
+        <mark key="'" line="24" column="15" />
         <mark key="[" line="73" column="28" />
         <mark key="]" line="73" column="28" />
         <mark key="." line="73" column="28" />
@@ -322,17 +323,18 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547216890542">
-        <mark key="[" line="32" column="78" />
-        <mark key="]" line="32" column="83" />
-        <mark key="." line="32" column="83" />
-        <mark key="^" line="32" column="83" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547217457495">
+        <mark key="[" line="32" column="84" />
+        <mark key="]" line="32" column="84" />
+        <mark key="." line="32" column="84" />
+        <mark key="^" line="32" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547216783408">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="37" />
-        <mark key="^" line="16" column="37" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547218005929">
+        <mark key="'" line="19" column="24" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="5" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -386,16 +388,21 @@
       <jump line="73" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
       <jump line="74" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
       <jump line="89" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="17" column="24" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="21" column="23" filename="$USER_HOME$/Projects/sportProject/dbmanagest/records" />
+      <jump line="12234" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanagest/records" />
+      <jump line="12947" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanagest/records" />
+      <jump line="24" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MYSQL</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>MYSQL</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGJfbmFtZSA9IHNwbGl0ZWRbMl0uc3RyaXAoKQogICAgICAgICAgICB0YWJsZV9uYW1lID0gc3BsaXRlZFszXS5zdHJpcCgpCiAgICAgICAgICAgIGNvbHVtbnMgPSBzcGxpdGVkWzRdLnN0cmlwKCkuc3BsaXQoIiAiKQogICAgICAgICAgICBkYnMuYXBwZW5kKHsnaG9zdCc6IGhvc3QsICd0eXBlJzogZGF0YWJhc2VfdHlwZSwgJ25hbWUnOiBkYl9uYW1lLCAndGFibGVfbmFtZSc6IHRhYmxlX25hbWUsICdjb2xsdW1ucyc6IGNvbHVtbnN9KQo=</text>
@@ -428,19 +435,18 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRlZFsyXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>secret</entry>
         <entry>formtum</entry>
         <entry>fortumo</entry>
         <entry>next</entry>
@@ -460,6 +466,7 @@
         <entry encoding="base64">XDxEYXNoYm9hcmRaYW1vd2llblw+</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>data</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -467,11 +474,11 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>e</entry>
-        <entry>action Run</entry>
-        <entry>action GotoClass</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>we</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
