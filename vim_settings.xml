@@ -315,12 +315,11 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547205063058">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="148" />
-        <mark key="^" line="30" column="13" />
-        <mark key="." line="30" column="14" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547208139259">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="8" />
+        <mark key="." line="44" column="8" />
+        <mark key="^" line="39" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -364,46 +363,47 @@
       <jump line="17" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" />
+      <jump line="44" column="10" filename="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$(psql -h $DATABASE_HOST --port $DATABASE_PORT $db -c  &quot;SELECT table_schema, table_name FROM information_schema.tables;&quot; | sed '1,2d')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgICAgICAgICBmb3Igc2NoZW1hIGluICR7U0NIRU1BU1tAXX0KIyAgICAgICAgVEFCTEVTPSQocHNxbCAtaCAkREFUQUJBU0VfSE9TVCAtLXBvcnQgJERBVEFCQVNFX1BPUlQgJGRiIC1jICAiU0VMRUNUIHRhYmxlX3NjaGVtYSwgdGFibGVfbmFtZSBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50YWJsZXM7IiB8IHNlZCAnMSwyZCcpCiMgICAgICAgIGVjaG8gJFRBQkxFUwojICAgICAgICAgZm9yIHRhYmxlIGluICR7VEFCTEVTW0BdfQojICAgICAgICBkbwojICAgICAgICAgICAgIGVjaG8gInNvbWUgaW5mbyBiZWZvcmUiICR0YWJsZQojICAgICAgICAgICAgIFRBQkxFX0RFU0NSSVBUSU9OUz0kKHBzcWwgLWggJERBVEFCQVNFX0hPU1QgLS1wb3J0ICREQVRBQkFTRV9QT1JUICRkYiAtYyAiU0VMRUNUICogRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEuY29sdW1ucyBXSEVSRSB0YWJsZV9zY2hlbWEgPSAiKQojICAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OUwojICAgICAgICAgICAgVEFCTEVfREVTQ1JJUFRJT05TX0NPTlZFUlRFRD0kKGVjaG8gJHtUQUJMRV9ERVNDUklQVElPTlMvLyAvLH0pCiMgICAgICAgICAgICBlY2hvICIkREFUQUJBU0VfSE9TVCwiICIkREFUQUJBU0VfVFlQRSwiICIkZGIsIiIkdGFibGUsIiAkVEFCTEVfREVTQ1JJUFRJT05TID4+IHJlc3VsdAojICAgICAgICBkb25lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>&quot;SELECT column_name FROM information_schema.columns WHERE table_schema = '$schema' and table_name = '$table'&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfY2hhclw+</text>
       </register>
       <register name="0" type="4">
-        <text>$(psql -h $DATABASE_HOST --port $DATABASE_PORT $db -c  &quot;SELECT table_schema, table_name FROM information_schema.tables;&quot; | sed '1,2d')</text>
+        <text>| sed '1,2d' | head -n -2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICBmb3Igc2NoZW1hIGluICR7U0NIRU1BU1tAXX0KIyAgICAgICAgVEFCTEVTPSQocHNxbCAtaCAkREFUQUJBU0VfSE9TVCAtLXBvcnQgJERBVEFCQVNFX1BPUlQgJGRiIC1jICAiU0VMRUNUIHRhYmxlX3NjaGVtYSwgdGFibGVfbmFtZSBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50YWJsZXM7IiB8IHNlZCAnMSwyZCcpCiMgICAgICAgIGVjaG8gJFRBQkxFUwojICAgICAgICAgZm9yIHRhYmxlIGluICR7VEFCTEVTW0BdfQojICAgICAgICBkbwojICAgICAgICAgICAgIGVjaG8gInNvbWUgaW5mbyBiZWZvcmUiICR0YWJsZQojICAgICAgICAgICAgIFRBQkxFX0RFU0NSSVBUSU9OUz0kKHBzcWwgLWggJERBVEFCQVNFX0hPU1QgLS1wb3J0ICREQVRBQkFTRV9QT1JUICRkYiAtYyAiU0VMRUNUICogRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEuY29sdW1ucyBXSEVSRSB0YWJsZV9zY2hlbWEgPSAiKQojICAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OUwojICAgICAgICAgICAgVEFCTEVfREVTQ1JJUFRJT05TX0NPTlZFUlRFRD0kKGVjaG8gJHtUQUJMRV9ERVNDUklQVElPTlMvLyAvLH0pCiMgICAgICAgICAgICBlY2hvICIkREFUQUJBU0VfSE9TVCwiICIkREFUQUJBU0VfVFlQRSwiICIkZGIsIiIkdGFibGUsIiAkVEFCTEVfREVTQ1JJUFRJT05TID4+IHJlc3VsdAojICAgICAgICBkb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRkYiAkVEFCTEVTID4+IHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAkU1FMCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjZWNobyAkVEFCTEVTCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU1FMPSJTRUxFQ1QgY29sdW1uX25hbWUgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEuY29sdW1ucyBXSEVSRSB0YWJsZV9zY2hlbWEgPSAnJHNjaGVtYScgYW5kIHRhYmxlX25hbWUgPSAnJHRhYmxlJyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRkYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAkU1FMCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRkYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAiYWRhbSIgJHRhYmxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkJFRk9SRSIK</text>
+        <text encoding="base64">IyAgICAgICAgVEFCTEVTPSQocHNxbCAtaCAkREFUQUJBU0VfSE9TVCAtLXBvcnQgJERBVEFCQVNFX1BPUlQgJGRiIC1jICAiU0VMRUNUIHRhYmxlX3NjaGVtYSwgdGFibGVfbmFtZSBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50YWJsZXM7IiB8IHNlZCAnMSwyZCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJFRBQkxFUwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2V4ZWN1dGVfcG9zdGdyZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gJFNDSEVNQVMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU0NIRU1BUz0kKHBzcWwgLWggJERBVEFCQVNFX0hPU1QgLS1wb3J0ICREQVRBQkFTRV9QT1JUICRkYiAtYyAgIlNFTEVDVCBzY2hlbWFfbmFtZSBmcm9tIGluZm9ybWF0aW9uX3NjaGVtYS5zY2hlbWF0YTsiIHwgc2VkICcxLDJkJykKICAgICAgZm9yIHNjaGVtYSBpbiAke1NDSEVNQVNbQF19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
