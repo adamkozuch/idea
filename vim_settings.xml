@@ -315,12 +315,12 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547203292717">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547205063058">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="35" column="87" />
-        <mark key="]" line="35" column="87" />
-        <mark key="^" line="36" column="36" />
-        <mark key="." line="35" column="87" />
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="148" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="30" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -367,16 +367,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>$(psql -h $DATABASE_HOST --port $DATABASE_PORT $db -c  &quot;SELECT table_schema, table_name FROM information_schema.tables;&quot; | sed '1,2d')</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfY2hhclw+</text>
       </register>
       <register name="0" type="4">
-        <text>psql -h $DATABASE_HOST --port $DATABASE_PORT $db -c</text>
+        <text>$(psql -h $DATABASE_HOST --port $DATABASE_PORT $db -c  &quot;SELECT table_schema, table_name FROM information_schema.tables;&quot; | sed '1,2d')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
