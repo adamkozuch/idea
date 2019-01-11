@@ -322,11 +322,11 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547210922501">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="34" column="74" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547215242041">
+        <mark key="[" line="32" column="96" />
+        <mark key="]" line="32" column="105" />
+        <mark key="." line="32" column="105" />
+        <mark key="^" line="32" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547213771681">
         <mark key="[" line="14" column="124" />
@@ -388,8 +388,8 @@
       <jump line="89" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>databases</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAkMQo=</text>
       </register>
       <register name="-" type="4">
         <text>databases</text>
@@ -401,31 +401,31 @@
         <text encoding="base64">ICAgICAgICAgIHsgImRhdGEiOiAibmFtZSIgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJzW2hvc3RdW2RhdGFiYXNlX3R5cGVdW2RiX25hbWVdW3RhYmxlX25hbWVdID0gY29sdW1ucwo=</text>
+        <text encoding="base64">ZWNobyAkMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1ucykK</text>
+        <text encoding="base64">I0RCUyA9ICIkKG15c3FsIC1oIGxvY2FsaG9zdCAtdSByb290IC1wJDEgLUJzZSAnc2hvdyBkYXRhYmFzZXMnKSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJzW2hvc3RdW2RhdGFiYXNlX3R5cGVdW2RiX25hbWVdW3RhYmxlX25hbWVdID0gY29sdW1ucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1ucykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRlZFsyXSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzcGxpdGVkWzFdLnN0cmlwKCkgPT0gIk1ZU1FMIiwgc3BsaXRlZFsxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRlZFsyXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkVEFCTEVfREVTQ1JJUFRJT05TCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzcGxpdGVkWzFdLnN0cmlwKCkgPT0gIk1ZU1FMIiwgc3BsaXRlZFsxXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

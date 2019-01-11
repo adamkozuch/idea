@@ -4,5 +4,8 @@
     <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="altGraph t" />
   </action>
+  <action id="Terminal.MoveToEditor">
+    <keyboard-shortcut first-keystroke="altGraph e" />
+  </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
