@@ -148,11 +148,18 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" timestamp="1547124961023">
-        <mark key="[" line="90" column="5" />
-        <mark key="]" line="90" column="5" />
-        <mark key="." line="90" column="5" />
-        <mark key="^" line="97" column="1" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/records" timestamp="1547213804044">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" timestamp="1547214048380">
+        <mark key="'" line="89" column="34" />
+        <mark key="[" line="73" column="28" />
+        <mark key="]" line="73" column="28" />
+        <mark key="." line="73" column="28" />
+        <mark key="^" line="73" column="28" />
       </file>
       <file name="/Python Console" timestamp="1547122466049">
         <mark key="[" line="0" column="0" />
@@ -315,11 +322,17 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547210047266">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="36" column="74" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547210922501">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="34" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547213771681">
+        <mark key="[" line="14" column="124" />
+        <mark key="]" line="14" column="124" />
+        <mark key="." line="14" column="124" />
+        <mark key="^" line="14" column="124" />
       </file>
     </filemarks>
     <jumps>
@@ -364,61 +377,69 @@
       <jump line="20" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" />
       <jump line="44" column="10" filename="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" />
+      <jump line="46" column="22" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="56" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="63" column="14" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="68" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="71" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="72" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="73" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="74" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="89" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">REFUQUJBU0VfVVNFUj0kNAo=</text>
+      <register name="&quot;" type="4">
+        <text>databases</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>databases</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmRfY2hhclw+</text>
+        <text>data</text>
       </register>
-      <register name="0" type="4">
-        <text>| sed '1,2d' | head -n -2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsgImRhdGEiOiAibmFtZSIgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REFUQUJBU0VfVVNFUj0kNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJzW2hvc3RdW2RhdGFiYXNlX3R5cGVdW2RiX25hbWVdW3RhYmxlX25hbWVdID0gY29sdW1ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVEFCTEVfREVTQ1JJUFRJT05TX0NPTlZFUlRFRD0kKGVjaG8gJHtUQUJMRV9ERVNDUklQVElPTlMvLyAvLH0pCiAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OU19DT05WRVJURUQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1ucykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgICBmb3Igc2NoZW1hIGluICR7U0NIRU1BU1tAXX0KIyAgICAgICAgVEFCTEVTPSQocHNxbCAtaCAkREFUQUJBU0VfSE9TVCAtLXBvcnQgJERBVEFCQVNFX1BPUlQgJGRiIC1jICAiU0VMRUNUIHRhYmxlX3NjaGVtYSwgdGFibGVfbmFtZSBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50YWJsZXM7IiB8IHNlZCAnMSwyZCcpCiMgICAgICAgIGVjaG8gJFRBQkxFUwojICAgICAgICAgZm9yIHRhYmxlIGluICR7VEFCTEVTW0BdfQojICAgICAgICBkbwojICAgICAgICAgICAgIGVjaG8gInNvbWUgaW5mbyBiZWZvcmUiICR0YWJsZQojICAgICAgICAgICAgIFRBQkxFX0RFU0NSSVBUSU9OUz0kKHBzcWwgLWggJERBVEFCQVNFX0hPU1QgLS1wb3J0ICREQVRBQkFTRV9QT1JUICRkYiAtYyAiU0VMRUNUICogRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEuY29sdW1ucyBXSEVSRSB0YWJsZV9zY2hlbWEgPSAiKQojICAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OUwojICAgICAgICAgICAgVEFCTEVfREVTQ1JJUFRJT05TX0NPTlZFUlRFRD0kKGVjaG8gJHtUQUJMRV9ERVNDUklQVElPTlMvLyAvLH0pCiMgICAgICAgICAgICBlY2hvICIkREFUQUJBU0VfSE9TVCwiICIkREFUQUJBU0VfVFlQRSwiICIkZGIsIiIkdGFibGUsIiAkVEFCTEVfREVTQ1JJUFRJT05TID4+IHJlc3VsdAojICAgICAgICBkb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAkU1FMCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU1FMPSJTRUxFQ1QgY29sdW1uX25hbWUgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEuY29sdW1ucyBXSEVSRSB0YWJsZV9zY2hlbWEgPSAnJHNjaGVtYScgYW5kIHRhYmxlX25hbWUgPSAnJHRhYmxlJyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAkU1FMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRlZFsyXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAiYWRhbSIgJHRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzcGxpdGVkWzFdLnN0cmlwKCkgPT0gIk1ZU1FMIiwgc3BsaXRlZFsxXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgVEFCTEVTPSQocHNxbCAtaCAkREFUQUJBU0VfSE9TVCAtLXBvcnQgJERBVEFCQVNFX1BPUlQgJGRiIC1jICAiU0VMRUNUIHRhYmxlX3NjaGVtYSwgdGFibGVfbmFtZSBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50YWJsZXM7IiB8IHNlZCAnMSwyZCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJFRBQkxFUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkVEFCTEVfREVTQ1JJUFRJT05TCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmRfY2hhclw+</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmRfY2hhclw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>data</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>330</entry>
         <entry>secret</entry>
         <entry>formtum</entry>
         <entry>fortumo</entry>
@@ -438,16 +459,18 @@
         <entry encoding="base64">XDxweXR6XD4=</entry>
         <entry encoding="base64">XDxEYXNoYm9hcmRaYW1vd2llblw+</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>action GotoClass</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>e</entry>
         <entry>action Run</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
