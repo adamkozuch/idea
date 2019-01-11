@@ -161,7 +161,7 @@
         <mark key="." line="73" column="28" />
         <mark key="^" line="73" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1547122466049">
+      <file name="/Python Console" timestamp="1547216949388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/iterary.py" timestamp="1546252061581">
@@ -322,17 +322,17 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547215242041">
-        <mark key="[" line="32" column="96" />
-        <mark key="]" line="32" column="105" />
-        <mark key="." line="32" column="105" />
-        <mark key="^" line="32" column="105" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547216890542">
+        <mark key="[" line="32" column="78" />
+        <mark key="]" line="32" column="83" />
+        <mark key="." line="32" column="83" />
+        <mark key="^" line="32" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547213771681">
-        <mark key="[" line="14" column="124" />
-        <mark key="]" line="14" column="124" />
-        <mark key="." line="14" column="124" />
-        <mark key="^" line="14" column="124" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547216783408">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -388,44 +388,44 @@
       <jump line="89" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAkMQo=</text>
+      <register name="&quot;" type="4">
+        <text>MYSQL</text>
       </register>
       <register name="-" type="4">
-        <text>databases</text>
+        <text>MYSQL</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgImRhdGEiOiAibmFtZSIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJfbmFtZSA9IHNwbGl0ZWRbMl0uc3RyaXAoKQogICAgICAgICAgICB0YWJsZV9uYW1lID0gc3BsaXRlZFszXS5zdHJpcCgpCiAgICAgICAgICAgIGNvbHVtbnMgPSBzcGxpdGVkWzRdLnN0cmlwKCkuc3BsaXQoIiAiKQogICAgICAgICAgICBkYnMuYXBwZW5kKHsnaG9zdCc6IGhvc3QsICd0eXBlJzogZGF0YWJhc2VfdHlwZSwgJ25hbWUnOiBkYl9uYW1lLCAndGFibGVfbmFtZSc6IHRhYmxlX25hbWUsICdjb2xsdW1ucyc6IGNvbHVtbnN9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkMQo=</text>
+        <text encoding="base64">I3RoaXMgaXMgZm9yIHBvc3RncmVzcwp3aXRoIG9wZW4oInJlc3VsdCIpIGFzIHJlY29yZHM6CiAgICBzb21lX2RpY3QgPSBsYW1iZGE6IGRlZmF1bHRkaWN0KHNvbWVfZGljdCkKICAgIGRicyA9IFtdCiAgICBmb3IgbGluZSBpbiByZWNvcmRzOgogICAgICAgIHNwbGl0ZWQgPSBsaW5lLnNwbGl0KCIsIikKICAgICAgICBob3N0ID0gc3BsaXRlZFswXQogICAgICAgIGRhdGFiYXNlX3R5cGUgPSBzcGxpdGVkWzFdLnN0cmlwKCkKICAgICAgICBpZiAoZGF0YWJhc2VfdHlwZSA9PSAiTVlTUUwiKToKICAgICAgICAgICAgZGJfbmFtZSA9IHNwbGl0ZWRbMl0uc3RyaXAoKQogICAgICAgICAgICB0YWJsZV9uYW1lID0gc3BsaXRlZFszXS5zdHJpcCgpCiAgICAgICAgICAgIGNvbHVtbnMgPSBzcGxpdGVkWzRdLnN0cmlwKCkuc3BsaXQoIiAiKQogICAgICAgICAgICBkYnMuYXBwZW5kKHsnaG9zdCc6IGhvc3QsICd0eXBlJzogZGF0YWJhc2VfdHlwZSwgJ25hbWUnOiBkYl9uYW1lLCAndGFibGVfbmFtZSc6IHRhYmxlX25hbWUsICdjb2xsdW1ucyc6IGNvbHVtbnN9KQogICAgcHJpbnQoKQogICAgZiA9IG9wZW4oInJlY29yZHMiLCAiYSIpCiAgICBmLndyaXRlKGpzb24uZHVtcHMoZGJzLCBpbmRlbnQ9NCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I0RCUyA9ICIkKG15c3FsIC1oIGxvY2FsaG9zdCAtdSByb290IC1wJDEgLUJzZSAnc2hvdyBkYXRhYmFzZXMnKSIK</text>
+        <text encoding="base64">ZWNobyAkMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJzW2hvc3RdW2RhdGFiYXNlX3R5cGVdW2RiX25hbWVdW3RhYmxlX25hbWVdID0gY29sdW1ucwo=</text>
+        <text encoding="base64">I0RCUyA9ICIkKG15c3FsIC1oIGxvY2FsaG9zdCAtdSByb290IC1wJDEgLUJzZSAnc2hvdyBkYXRhYmFzZXMnKSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1ucykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJzW2hvc3RdW2RhdGFiYXNlX3R5cGVdW2RiX25hbWVdW3RhYmxlX25hbWVdID0gY29sdW1ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1ucykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRlZFsyXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzcGxpdGVkWzFdLnN0cmlwKCkgPT0gIk1ZU1FMIiwgc3BsaXRlZFsxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRlZFsyXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
