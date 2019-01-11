@@ -315,12 +315,12 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547200933205">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/getDBJson.sh" timestamp="1547203292717">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="34" column="86" />
-        <mark key="]" line="34" column="88" />
-        <mark key="." line="34" column="88" />
-        <mark key="^" line="34" column="88" />
+        <mark key="[" line="35" column="87" />
+        <mark key="]" line="35" column="87" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="35" column="87" />
       </file>
     </filemarks>
     <jumps>
@@ -367,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>M</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfY2hhclw+</text>
@@ -379,31 +379,31 @@
         <text>psql -h $DATABASE_HOST --port $DATABASE_PORT $db -c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkJFRk9SRSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRkYiAkVEFCTEVTID4+IHJlc3VsdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2V4ZWN1dGVfcG9zdGdyZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjZWNobyAkVEFCTEVTCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRkYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZXhlY3V0ZV9wb3N0Z3JlcygpIHsKICAgIHJldHVybiAkKHBzcWwgLWggJDEgLXAgJDIgLWMgIlNIT1cgREFUQUJBU0VTIikKfQoKZnVuY3Rpb24gZXhlY3V0ZV9teXNxbCgpIHsKICAgIHJldHVybiAkKG15c3FsIC1oICQxIC11ICQyIC0tcG9ydCAkMyAtcCAtQnNlICQ0KQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRkYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIkJFRk9SRSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhlY3V0ZV9teXNxbCAiJERBVEFCQVNFX0hPU1QiICIkREFUQUJBU0VfUE9SVCIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REFUQUJBU0VfUEFTUz0kNQo=</text>
+        <text encoding="base64">I2V4ZWN1dGVfcG9zdGdyZXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJGRiLCIiJHRhYmxlLCIgJFRBQkxFX0RFU0NSSVBUSU9OUyA+PiByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
