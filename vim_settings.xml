@@ -27,6 +27,12 @@
       <file name="/a.dummy" timestamp="1546785297241">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled1/some_file.py" timestamp="1547383833879">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="8" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="24" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/mailServer/form/apache.conf" timestamp="1545394273612">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="23" column="39" />
@@ -404,10 +410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
