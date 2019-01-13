@@ -154,6 +154,12 @@
         <mark key="." line="48" column="29" />
         <mark key="^" line="48" column="27" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/SimpleHTR/src/main.py" timestamp="1547382804910">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/backends.py" timestamp="1546521026058">
         <mark key="'" line="8" column="21" />
         <mark key="[" line="6" column="51" />
@@ -251,7 +257,7 @@
         <mark key="." line="2154" column="78" />
         <mark key="^" line="2154" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547373887307">
+      <file name="/Dummy.txt" timestamp="1547382693683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" timestamp="1546852147781">
@@ -397,11 +403,11 @@
       <jump line="89" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQobS5kZXF1ZXVlKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
@@ -510,6 +516,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
