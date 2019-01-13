@@ -256,6 +256,13 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/sudoku_solver.py" timestamp="1547408622115">
+        <mark key="'" line="59" column="10" />
+        <mark key="[" line="75" column="9" />
+        <mark key="]" line="75" column="71" />
+        <mark key="^" line="75" column="8" />
+        <mark key="." line="75" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/mailServer/form/index.html" timestamp="1545308304076">
         <mark key="'" line="2208" column="23" />
         <mark key="[" line="2154" column="74" />
@@ -407,55 +414,57 @@
       <jump line="73" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
       <jump line="74" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
       <jump line="89" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="48" column="11" filename="$USER_HOME$/PycharmProjects/untitled/sudoku_solver.py" />
+      <jump line="55" column="10" filename="$USER_HOME$/PycharmProjects/untitled/sudoku_solver.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>[0,0,0, 0,0,0,0,0,0],[0,0,0, 0,0,0,0,0,0],[0,0,0, 0,0,0,0,0,0]</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>put</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cHJpbnQobS5kZXF1ZXVlKCkpCg==</text>
+      <register name="0" type="4">
+        <text>[0,0,0, 0,0,0,0,0,0],[0,0,0, 0,0,0,0,0,0],[0,0,0, 0,0,0,0,0,0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJpZ2h0ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgIGlmIGJvYXJkW2ldW2NvbHVtbl0gaW4gczoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxlZnQgPSBOb25lCg==</text>
+        <text encoding="base64">CXJpZ2h0ID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzZWxmLmxlZnQuCg==</text>
+        <text encoding="base64">CWxlZnQgPSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3RoaXMgaXMgZm9yIHBvc3RncmVzcwp3aXRoIG9wZW4oInJlc3VsdCIpIGFzIHJlY29yZHM6CiAgICBzb21lX2RpY3QgPSBsYW1iZGE6IGRlZmF1bHRkaWN0KHNvbWVfZGljdCkKICAgIGRicyA9IFtdCiAgICBmb3IgbGluZSBpbiByZWNvcmRzOgogICAgICAgIHNwbGl0ZWQgPSBsaW5lLnNwbGl0KCIsIikKICAgICAgICBob3N0ID0gc3BsaXRlZFswXQogICAgICAgIGRhdGFiYXNlX3R5cGUgPSBzcGxpdGVkWzFdLnN0cmlwKCkKICAgICAgICBpZiAoZGF0YWJhc2VfdHlwZSA9PSAiTVlTUUwiKToKICAgICAgICAgICAgZGJfbmFtZSA9IHNwbGl0ZWRbMl0uc3RyaXAoKQogICAgICAgICAgICB0YWJsZV9uYW1lID0gc3BsaXRlZFszXS5zdHJpcCgpCiAgICAgICAgICAgIGNvbHVtbnMgPSBzcGxpdGVkWzRdLnN0cmlwKCkuc3BsaXQoIiAiKQogICAgICAgICAgICBkYnMuYXBwZW5kKHsnaG9zdCc6IGhvc3QsICd0eXBlJzogZGF0YWJhc2VfdHlwZSwgJ25hbWUnOiBkYl9uYW1lLCAndGFibGVfbmFtZSc6IHRhYmxlX25hbWUsICdjb2xsdW1ucyc6IGNvbHVtbnN9KQogICAgcHJpbnQoKQogICAgZiA9IG9wZW4oInJlY29yZHMiLCAiYSIpCiAgICBmLndyaXRlKGpzb24uZHVtcHMoZGJzLCBpbmRlbnQ9NCkpCg==</text>
+        <text encoding="base64">CQlzZWxmLmxlZnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAkMQo=</text>
+        <text encoding="base64">I3RoaXMgaXMgZm9yIHBvc3RncmVzcwp3aXRoIG9wZW4oInJlc3VsdCIpIGFzIHJlY29yZHM6CiAgICBzb21lX2RpY3QgPSBsYW1iZGE6IGRlZmF1bHRkaWN0KHNvbWVfZGljdCkKICAgIGRicyA9IFtdCiAgICBmb3IgbGluZSBpbiByZWNvcmRzOgogICAgICAgIHNwbGl0ZWQgPSBsaW5lLnNwbGl0KCIsIikKICAgICAgICBob3N0ID0gc3BsaXRlZFswXQogICAgICAgIGRhdGFiYXNlX3R5cGUgPSBzcGxpdGVkWzFdLnN0cmlwKCkKICAgICAgICBpZiAoZGF0YWJhc2VfdHlwZSA9PSAiTVlTUUwiKToKICAgICAgICAgICAgZGJfbmFtZSA9IHNwbGl0ZWRbMl0uc3RyaXAoKQogICAgICAgICAgICB0YWJsZV9uYW1lID0gc3BsaXRlZFszXS5zdHJpcCgpCiAgICAgICAgICAgIGNvbHVtbnMgPSBzcGxpdGVkWzRdLnN0cmlwKCkuc3BsaXQoIiAiKQogICAgICAgICAgICBkYnMuYXBwZW5kKHsnaG9zdCc6IGhvc3QsICd0eXBlJzogZGF0YWJhc2VfdHlwZSwgJ25hbWUnOiBkYl9uYW1lLCAndGFibGVfbmFtZSc6IHRhYmxlX25hbWUsICdjb2xsdW1ucyc6IGNvbHVtbnN9KQogICAgcHJpbnQoKQogICAgZiA9IG9wZW4oInJlY29yZHMiLCAiYSIpCiAgICBmLndyaXRlKGpzb24uZHVtcHMoZGJzLCBpbmRlbnQ9NCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I0RCUyA9ICIkKG15c3FsIC1oIGxvY2FsaG9zdCAtdSByb290IC1wJDEgLUJzZSAnc2hvdyBkYXRhYmFzZXMnKSIK</text>
+        <text encoding="base64">ZWNobyAkMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJzW2hvc3RdW2RhdGFiYXNlX3R5cGVdW2RiX25hbWVdW3RhYmxlX25hbWVdID0gY29sdW1ucwo=</text>
+        <text encoding="base64">I0RCUyA9ICIkKG15c3FsIC1oIGxvY2FsaG9zdCAtdSByb290IC1wJDEgLUJzZSAnc2hvdyBkYXRhYmFzZXMnKSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1ucykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJzW2hvc3RdW2RhdGFiYXNlX3R5cGVdW2RiX25hbWVdW3RhYmxlX25hbWVdID0gY29sdW1ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1ucykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>put</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>put</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -469,6 +478,7 @@
         <entry encoding="base64">XDxlbmRfaW5kZXhcPg==</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxlbmRfY2hhclw+</entry>
+        <entry>put</entry>
       </history-search>
       <history-cmd>
         <entry>!notepad</entry>
@@ -477,8 +487,8 @@
         <entry>action Replace</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
