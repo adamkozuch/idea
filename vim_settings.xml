@@ -48,6 +48,12 @@
         <mark key="^" line="2199" column="42" />
         <mark key="." line="2199" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/records.js" timestamp="1547458871105">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/__init__.py" timestamp="1546429139976">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="4" column="36" />
@@ -155,12 +161,12 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" timestamp="1547454894114">
-        <mark key="'" line="24" column="15" />
-        <mark key="[" line="77" column="7" />
-        <mark key="]" line="77" column="7" />
-        <mark key="." line="77" column="7" />
-        <mark key="^" line="73" column="28" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" timestamp="1547458354834">
+        <mark key="'" line="74" column="17" />
+        <mark key="[" line="85" column="24" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="24" />
+        <mark key="^" line="75" column="8" />
       </file>
       <file name="/Python Console" timestamp="1547216949388">
         <mark key="[" line="0" column="0" />
@@ -329,12 +335,12 @@
         <mark key="." line="32" column="84" />
         <mark key="^" line="32" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547454403692">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547458951226">
         <mark key="'" line="20" column="24" />
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -393,62 +399,63 @@
       <jump line="12234" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanagest/records" />
       <jump line="12947" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanagest/records" />
       <jump line="24" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="101" column="23" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="50" column="11" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
+      <jump line="75" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>host</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>host</text>
       </register>
       <register name="/" type="4">
-        <text>mysql</text>
+        <text>Roz</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJfbmFtZSA9IHNwbGl0ZWRbMl0uc3RyaXAoKQogICAgICAgICAgICB0YWJsZV9uYW1lID0gc3BsaXRlZFszXS5zdHJpcCgpCiAgICAgICAgICAgIGNvbHVtbnMgPSBzcGxpdGVkWzRdLnN0cmlwKCkuc3BsaXQoIiAiKQogICAgICAgICAgICBkYnMuYXBwZW5kKHsnaG9zdCc6IGhvc3QsICd0eXBlJzogZGF0YWJhc2VfdHlwZSwgJ25hbWUnOiBkYl9uYW1lLCAndGFibGVfbmFtZSc6IHRhYmxlX25hbWUsICdjb2xsdW1ucyc6IGNvbHVtbnN9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsgImRhdGEiOiAidGFibGVfbmFtZSIgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0id2lkdGg9NTBweCI+Um96d2luPC90aD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgLy8gdmFyIHRhYmxlID0gJCgnI2V4YW1wbGUnKS5EYXRhVGFibGUoIHsKICAgLy8gICAgIG9yZGVyQ2VsbHNUb3A6IHRydWUsCiAgIC8vICAgICBmaXhlZEhlYWRlcjogdHJ1ZQogICAvLyB9ICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgICAiY2xhc3NOYW1lIjogICAgICAnZGV0YWlscy1jb250cm9sJywKICAgICAgICAgICAgICAib3JkZXJhYmxlIjogICAgICBmYWxzZSwKICAgICAgICAgICAgICAiZGF0YSI6ICAgICAgICAgICBudWxsLAogICAgICAgICAgICAgICJkZWZhdWx0Q29udGVudCI6ICcnCiAgICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0id2lkdGg9NTBweCI+Um96d2luPC90aD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3RoaXMgaXMgZm9yIHBvc3RncmVzcwp3aXRoIG9wZW4oInJlc3VsdCIpIGFzIHJlY29yZHM6CiAgICBzb21lX2RpY3QgPSBsYW1iZGE6IGRlZmF1bHRkaWN0KHNvbWVfZGljdCkKICAgIGRicyA9IFtdCiAgICBmb3IgbGluZSBpbiByZWNvcmRzOgogICAgICAgIHNwbGl0ZWQgPSBsaW5lLnNwbGl0KCIsIikKICAgICAgICBob3N0ID0gc3BsaXRlZFswXQogICAgICAgIGRhdGFiYXNlX3R5cGUgPSBzcGxpdGVkWzFdLnN0cmlwKCkKICAgICAgICBpZiAoZGF0YWJhc2VfdHlwZSA9PSAiTVlTUUwiKToKICAgICAgICAgICAgZGJfbmFtZSA9IHNwbGl0ZWRbMl0uc3RyaXAoKQogICAgICAgICAgICB0YWJsZV9uYW1lID0gc3BsaXRlZFszXS5zdHJpcCgpCiAgICAgICAgICAgIGNvbHVtbnMgPSBzcGxpdGVkWzRdLnN0cmlwKCkuc3BsaXQoIiAiKQogICAgICAgICAgICBkYnMuYXBwZW5kKHsnaG9zdCc6IGhvc3QsICd0eXBlJzogZGF0YWJhc2VfdHlwZSwgJ25hbWUnOiBkYl9uYW1lLCAndGFibGVfbmFtZSc6IHRhYmxlX25hbWUsICdjb2xsdW1ucyc6IGNvbHVtbnN9KQogICAgcHJpbnQoKQogICAgZiA9IG9wZW4oInJlY29yZHMiLCAiYSIpCiAgICBmLndyaXRlKGpzb24uZHVtcHMoZGJzLCBpbmRlbnQ9NCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiY2xhc3NOYW1lIjogICAgICAnZGV0YWlscy1jb250cm9sJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAkMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0id2lkdGg9NTBweCI+Um96d2luPC90aD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I0RCUyA9ICIkKG15c3FsIC1oIGxvY2FsaG9zdCAtdSByb290IC1wJDEgLUJzZSAnc2hvdyBkYXRhYmFzZXMnKSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJzW2hvc3RdW2RhdGFiYXNlX3R5cGVdW2RiX25hbWVdW3RhYmxlX25hbWVdID0gY29sdW1ucwo=</text>
+        <text encoding="base64">ICAgLy8gdmFyIHRhYmxlID0gJCgnI2V4YW1wbGUnKS5EYXRhVGFibGUoIHsKICAgLy8gICAgIG9yZGVyQ2VsbHNUb3A6IHRydWUsCiAgIC8vICAgICBmaXhlZEhlYWRlcjogdHJ1ZQogICAvLyB9ICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1ucykK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I3RoaXMgaXMgZm9yIHBvc3RncmVzcwp3aXRoIG9wZW4oInJlc3VsdCIpIGFzIHJlY29yZHM6CiAgICBzb21lX2RpY3QgPSBsYW1iZGE6IGRlZmF1bHRkaWN0KHNvbWVfZGljdCkKICAgIGRicyA9IFtdCiAgICBmb3IgbGluZSBpbiByZWNvcmRzOgogICAgICAgIHNwbGl0ZWQgPSBsaW5lLnNwbGl0KCIsIikKICAgICAgICBob3N0ID0gc3BsaXRlZFswXQogICAgICAgIGRhdGFiYXNlX3R5cGUgPSBzcGxpdGVkWzFdLnN0cmlwKCkKICAgICAgICBpZiAoZGF0YWJhc2VfdHlwZSA9PSAiTVlTUUwiKToKICAgICAgICAgICAgZGJfbmFtZSA9IHNwbGl0ZWRbMl0uc3RyaXAoKQogICAgICAgICAgICB0YWJsZV9uYW1lID0gc3BsaXRlZFszXS5zdHJpcCgpCiAgICAgICAgICAgIGNvbHVtbnMgPSBzcGxpdGVkWzRdLnN0cmlwKCkuc3BsaXQoIiAiKQogICAgICAgICAgICBkYnMuYXBwZW5kKHsnaG9zdCc6IGhvc3QsICd0eXBlJzogZGF0YWJhc2VfdHlwZSwgJ25hbWUnOiBkYl9uYW1lLCAndGFibGVfbmFtZSc6IHRhYmxlX25hbWUsICdjb2xsdW1ucyc6IGNvbHVtbnN9KQogICAgcHJpbnQoKQogICAgZiA9IG9wZW4oInJlY29yZHMiLCAiYSIpCiAgICBmLndyaXRlKGpzb24uZHVtcHMoZGJzLCBpbmRlbnQ9NCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mysql</last-search>
+      <last-search>Roz</last-search>
       <last-offset />
-      <last-pattern>mysql</last-pattern>
+      <last-pattern>Roz</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>formtum</entry>
-        <entry>fortumo</entry>
         <entry>next</entry>
         <entry>fortumopay</entry>
         <entry>premia_ra</entry>
@@ -467,6 +474,8 @@
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>data</entry>
         <entry>mysql</entry>
+        <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
+        <entry>Roz</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
