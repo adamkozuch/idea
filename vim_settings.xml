@@ -48,8 +48,8 @@
         <mark key="^" line="2199" column="42" />
         <mark key="." line="2199" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/records.js" timestamp="1547458871105">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/records.js" timestamp="1547460438666">
+        <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -335,12 +335,12 @@
         <mark key="." line="32" column="84" />
         <mark key="^" line="32" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547458951226">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1547460409181">
         <mark key="'" line="20" column="24" />
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="44" />
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -405,10 +405,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>host</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>host</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>Roz</text>
