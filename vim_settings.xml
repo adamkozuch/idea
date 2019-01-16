@@ -276,8 +276,11 @@
         <mark key="." line="2154" column="78" />
         <mark key="^" line="2154" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547382693683">
+      <file name="/Dummy.txt" timestamp="1547667322382">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LineSegm/python/linesegm/main.py" timestamp="1547667529064">
+        <mark key="'" line="49" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" timestamp="1546852147781">
         <mark key="[" line="0" column="0" />
@@ -425,6 +428,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/untitled/sudoku_solver.py" />
       <jump line="14" column="12" filename="$USER_HOME$/PycharmProjects/untitled/sudoku_solver.py" />
       <jump line="72" column="0" filename="$USER_HOME$/PycharmProjects/untitled/sudoku_solver.py" />
+      <jump line="3" column="16" filename="$USER_HOME$/PycharmProjects/LineSegm/python/linesegm/main.py" />
+      <jump line="49" column="11" filename="$USER_HOME$/PycharmProjects/LineSegm/python/linesegm/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -434,7 +439,7 @@
         <text>(h)</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxzYXV2b2xhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>[0,0,0, 0,0,0,0,0,0],[0,0,0, 0,0,0,0,0,0],[0,0,0, 0,0,0,0,0,0]</text>
@@ -471,10 +476,10 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxzYXV2b2xhXD4=</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzYXV2b2xhXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -488,6 +493,7 @@
         <entry encoding="base64">XDxlbmRfY2hhclw+</entry>
         <entry>put</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxzYXV2b2xhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>!notepad</entry>
