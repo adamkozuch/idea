@@ -439,7 +439,7 @@
         <text>(h)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXV2b2xhXD4=</text>
+        <text>Current</text>
       </register>
       <register name="0" type="4">
         <text>[0,0,0, 0,0,0,0,0,0],[0,0,0, 0,0,0,0,0,0],[0,0,0, 0,0,0,0,0,0]</text>
@@ -476,10 +476,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXV2b2xhXD4=</last-search>
+      <last-search>Current</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXV2b2xhXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Current</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -494,6 +494,7 @@
         <entry>put</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxzYXV2b2xhXD4=</entry>
+        <entry>Current</entry>
       </history-search>
       <history-cmd>
         <entry>!notepad</entry>
