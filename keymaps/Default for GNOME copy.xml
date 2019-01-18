@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="altGraph t" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoBookmark6" />
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -13,5 +16,14 @@
   <action id="Terminal.MoveToEditor">
     <keyboard-shortcut first-keystroke="altGraph e" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
+  <action id="VimWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="VimWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
 </keymap>
