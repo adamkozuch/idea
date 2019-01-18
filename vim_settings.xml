@@ -9,12 +9,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1547817426704">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="19" column="34" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1547819622236">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -23,25 +22,38 @@
       <jump line="93" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="126" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="71" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="83" column="35" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">I2hvdyB0byBjYXRjaCBvdXRwdXQgb2Ygbm8gcHJpdmlsaWdpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2hvdyB0byBjYXRjaCBvdXRwdXQgb2Ygbm8gcHJpdmlsaWdpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUaGUgT0dSX0ZsZF8qIHJvdXRpbmVzIGFyZSByZWxldmFudCBoZXJlLgpjbGFzcyBGaWVsZChHREFMQmFzZSk6Cg==</text>
+        <text encoding="base64">I3JtIC90bXAvZGJtYW5hZ2VyX3NjaGVtYV8gJERBVEFCQVNFX1BPUlQ7CgojaWYgWyAiJERBVEFCQVNFX1RZUEUiID09ICIkTVlTUUxfU1RSIiBdCiMgICAgdGhlbgojICAgIERCUz0kKG15c3FsIC1oICREQVRBQkFTRV9IT1NUIC0tcG9ydCAkREFUQUJBU0VfUE9SVCAtQnNlICJTSE9XIERBVEFCQVNFUyIpCiMgICAgZm9yIGRiIGluICR7REJTW0BdfQojICAgIGRvCiMgICAgICAgIFRBQkxFUz0kKG15c3FsIC1oICREQVRBQkFTRV9IT1NUIC0tcG9ydCAkREFUQUJBU0VfUE9SVCAkZGIgLUJzZSAgIlNIT1cgVEFCTEVTIikKIyAgICAgICAgZm9yIHRhYmxlIGluICR7VEFCTEVTW0BdfQojICAgICAgICBkbwojICAgICAgICAgICAgVEFCTEVfREVTQ1JJUFRJT05TPSQobXlzcWwgLWggJERBVEFCQVNFX0hPU1QgLS1wb3J0ICREQVRBQkFTRV9QT1JUICRkYiAtQnNlICJTSE9XIENPTFVNTlMgRlJPTSAkdGFibGU7IiAgfCBhd2sgJ3sgcHJpbnQgJDEgfScpCiMgICAgICAgICAgICBlY2hvICIkREFUQUJBU0VfSE9TVCwiICIkREFUQUJBU0VfVFlQRSwiICIkZGIsIiIkdGFibGUsIiAkVEFCTEVfREVTQ1JJUFRJT05TID4+ICIvdG1wL2RibWFuYWdlcl9zY2hlbWFfeyREQVRBQkFTRV9IT1NUfV8kREFUQUJBU0VfUE9SVCIKIyAgICAgICAgZG9uZQojICAgIGRvbmUKIyAgICBleGl0IDAKI2VsaWYgWyAiJERBVEFCQVNFX1RZUEUiID09ICIkUE9TVEdSRVMiIF0KI3RoZW4KIyAgICBEQlM9JChwc3FsIC1oICREQVRBQkFTRV9IT1NUIC1wICREQVRBQkFTRV9QT1JUIC1jICJTRUxFQ1QgZGF0bmFtZSBGUk9NIHBnX2RhdGFiYXNlIiB8IHNlZCAnMSwyZCcgfCBoZWFkIC1uIC0yKQojICAgIGZvciBkYiBpbiAke0RCU1tAXX0KIyAgICAgICAgZG8KIyAgICAgICAgICBTQ0hFTUFTPSQocHNxbCAtaCAkREFUQUJBU0VfSE9TVCAtLXBvcnQgJERBVEFCQVNFX1BPUlQgJGRiIC1jICAiU0VMRUNUIHNjaGVtYV9uYW1lIGZyb20gaW5mb3JtYXRpb25fc2NoZW1hLnNjaGVtYXRhOyIgfCBzZWQgJzEsMmQnIHwgaGVhZCAtbiAtMikKIyAgICAgICAgICBmb3Igc2NoZW1hIGluICR7U0NIRU1BU1tAXX0KIyAgICAgICAgICAgIGRvCiMgICAgICAgICAgICAgICAgVEFCTEVTPSQocHNxbCAtaCAkREFUQUJBU0VfSE9TVCAtLXBvcnQgJERBVEFCQVNFX1BPUlQgJGRiIC1jICAiU0VMRUNUIHRhYmxlX25hbWUgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEudGFibGVzIFdIRVJFIHRhYmxlX3NjaGVtYT0nJHNjaGVtYSc7IiB8IHNlZCAnMSwyZCcgfCBoZWFkIC1uIC0yKQojICAgICAgICAgICAgICAgIGZvciB0YWJsZSBpbiAke1RBQkxFU1tAXX0KIyAgICAgICAgICAgICAgICAgICAgZG8KIyAgICAgICAgICAgICAgICAgICAgICAgIFRBQkxFX0RFU0NSSVBUSU9OUz0kKHBzcWwgLWggJERBVEFCQVNFX0hPU1QgLS1wb3J0ICREQVRBQkFTRV9QT1JUICRkYiAtYyBcCiMgICAgICAgICAgICAgICAgICAgICAgICAiU0VMRUNUIGNvbHVtbl9uYW1lIEZST00gaW5mb3JtYXRpb25fc2NoZW1hLmNvbHVtbnMgV0hFUkUgdGFibGVfc2NoZW1hID0gJyRzY2hlbWEnIGFuZCB0YWJsZV9uYW1lID0gJyR0YWJsZSciIHwgc2VkICcxLDJkJyB8IGhlYWQgLW4gLTIpCiMgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICIkREFUQUJBU0VfSE9TVCwiICJQT1NUR1JFUywiICIkZGIsIiAiJHNjaGVtYSwiICIkdGFibGUsIiAkVEFCTEVfREVTQ1JJUFRJT05TID4+ICIvdG1wL2RibWFuYWdlcl9zY2hlbWFfeyREQVRBQkFTRV9IT1NUfV8kREFUQUJBU0VfUE9SVCIKIyAgICAgICAgICAgICAgICAgICAgZG9uZQojICAgICAgICAgICAgZG9uZQojICAgIGRvbmUKIyAgICBleGl0IDAKIyAgICBlbHNlCiMgICAgICAgIGVjaG8gIkRBVEFCQVNFIE5PVCBTVVBQT1JURUQiCiNmaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbHNlCiAgICBlY2hvICJubyBwb3N0Z3JlcyBwb3J0IgogIGZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiBbIC1uICIke3Bvc3RncmVzX3BvcnRzfSJdOyB0aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJERBVEFCQVNFX1BPUlQKICAgIGVjaG8gJERBVEFCQVNFX0hPU1QK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJERBVEFCQVNFX1BPUlQKICAgIGVjaG8gJERBVEFCQVNFX0hPU1QK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">I2hvdyB0byBjYXRjaCBvdXRwdXQgb2Ygbm8gcHJpdmlsaWdpZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -61,6 +73,7 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>q</entry>
         <entry>action GotoFile</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
