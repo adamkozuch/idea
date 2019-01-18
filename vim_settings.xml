@@ -115,12 +115,12 @@
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/__init__.py" timestamp="1546429091420">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1547803529595">
-        <mark key="'" line="67" column="9" />
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1547808760026">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="30" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/edit_distance.py" timestamp="1545811014546">
         <mark key="[" line="3" column="0" />
@@ -440,10 +440,11 @@
       <jump line="19" column="38" filename="$USER_HOME$/Projects/sportProject/dbmanagest/datatablesScript.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/datatablesScript.js" />
       <jump line="36" column="9" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERBVEFCQVNFX0hPU1QgPSAkMQogICAgREFUQQo=</text>
+        <text encoding="base64">REFUQUJBU0VfUE9SVD0kMwo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -466,16 +467,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>mysql_ports</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIERBVEFCQVNFX1BPUlQgPSAkMQogICAgREFUQUJBU0VfSE9TVCA9ICQyCg==</text>
+        <text encoding="base64">aWYgWyAtbiAiJHtteXNxbF9wb3J0c30iIF07IHRoZW4KICAjIGhlcmUgaXRlcmF0ZSBwb3J0cwogICAgZm9yIHBvcnQgaW4gJHtteXNxbF9wb3J0c1tAXX0KICAgIGRvCiAgICAgIHByb2Nlc3NfbXlzcWwgJHBvcnQgImxvY2FsaG9zdCIKICAgIGRvbmUKZmkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERBVEFCQVNFX0hPU1QgPSAkMQogICAgREFUQQo=</text>
+        <text encoding="base64">REFUQUJBU0VfUE9SVD0kMwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -589,25 +590,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REFUQUJBU0VfVFlQRT0kMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TVlTUUxfU1RSPSJNWVNRTCIKUE9TVEdSRVM9IlBPU1RHUkVTIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBnZXR0aW5nIHBvcnQgb2YgbXlzcWwKIyB0byBwb3dpbm5vIGJ5YyB0eWxrbyBMaXN0ZW4KIyBob3N0ZW0gcHJhd2RvcG9kb2JtaWUgcG93aW5pZW4gYnljIGxvY2FsaG9zdD8KIyBjenkgcG93aW5pZW5lbSB3Y3plc2NuaWVqIHNwcmF3ZHppYyBwb3JjZXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3RoZXJfcG9ydHM9JChuZXRzdGF0IC1hbnRwIHwgZ3JlcCBwb3N0Z3JlcyB8IGF3ayAnJDYgPT0gIkxJU1RFTiIge3NwbGl0KCQ0LCBBLCAiOiIpOyBwcmludCBBWzJdfScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3RoZXJfcHJvYz0kKHBzIGF1eCB8IGdyZXAgIltwXW90ZGpkIikgICMgdGhpcyB3aWxsIGJlIHNvbWUgb3RoZXIgZGF0YWJhc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIGhlcmUgaXRlcmF0ZSBwb3J0cwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -627,10 +628,10 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAkbXlzcWxfcG9ydHMK</text>
+        <text encoding="base64">ICAjIGhlcmUgaXRlcmF0ZSBwb3J0cwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -668,12 +669,12 @@
         <entry>qw</entry>
         <entry>e</entry>
         <entry>we</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
-        <entry>action GotoClass</entry>
         <entry>wq</entry>
-        <entry>w</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action GotoClass</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
