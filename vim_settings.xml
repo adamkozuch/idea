@@ -9,12 +9,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1547815885655">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="66" column="19" />
-        <mark key="]" line="67" column="5" />
-        <mark key="." line="67" column="5" />
-        <mark key="^" line="67" column="5" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1547817426704">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="19" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -26,22 +26,25 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IyBUaGUgT0dSX0ZsZF8qIHJvdXRpbmVzIGFyZSByZWxldmFudCBoZXJlLgpjbGFzcyBGaWVsZChHREFMQmFzZSk6Cg==</text>
+        <text encoding="base64">I2hvdyB0byBjYXRjaCBvdXRwdXQgb2Ygbm8gcHJpdmlsaWdpZXMK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBUaGUgT0dSX0ZsZF8qIHJvdXRpbmVzIGFyZSByZWxldmFudCBoZXJlLgpjbGFzcyBGaWVsZChHREFMQmFzZSk6Cg==</text>
+        <text encoding="base64">I2hvdyB0byBjYXRjaCBvdXRwdXQgb2Ygbm8gcHJpdmlsaWdpZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbHNlCiAgICBlY2hvICJubyBwb3N0Z3JlcyBwb3J0IgogIGZpCg==</text>
+        <text encoding="base64">IyBUaGUgT0dSX0ZsZF8qIHJvdXRpbmVzIGFyZSByZWxldmFudCBoZXJlLgpjbGFzcyBGaWVsZChHREFMQmFzZSk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiBbIC1uICIke3Bvc3RncmVzX3BvcnRzfSJdOyB0aGVuCg==</text>
+        <text encoding="base64">ICBlbHNlCiAgICBlY2hvICJubyBwb3N0Z3JlcyBwb3J0IgogIGZpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBpZiBbIC1uICIke3Bvc3RncmVzX3BvcnRzfSJdOyB0aGVuCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -49,12 +52,19 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>ps</entry>
         <entry>ls</entry>
-        <entry>w</entry>
+        <entry>action GoToClass</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>q</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
