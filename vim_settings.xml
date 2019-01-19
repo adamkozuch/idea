@@ -146,6 +146,12 @@
         <mark key="." line="86" column="16" />
         <mark key="^" line="72" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/opencv/main.py" timestamp="1547856738331">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="78" column="16" />
+        <mark key="." line="34" column="54" />
+        <mark key="^" line="34" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/index.html" timestamp="1547214048380">
         <mark key="'" line="89" column="34" />
         <mark key="[" line="73" column="28" />
@@ -447,46 +453,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoInJldHVybiIpCg==</text>
+        <text encoding="base64">IyBrZXJuZWwgPSBucC5vbmVzKCg1LDEwKSwgbnAudWludDgpCiMgaW1nX2RpbGF0aW9uID0gY3YyLmRpbGF0ZSh0aHJlc2gsIGtlcm5lbCwgaXRlcmF0aW9ucz0xKQojIGN2Mi5pbXNob3coJ2RpbGF0ZWQnLGltZ19kaWxhdGlvbikKIyBjdjIud2FpdEtleSgwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>Current</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bWlkID4gMCBhbmQgYXJyW21pZF0gPCBhcnJbbWlkIC0gMV0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBrZXJuZWwgPSBucC5vbmVzKCg1LDEwKSwgbnAudWludDgpCiMgaW1nX2RpbGF0aW9uID0gY3YyLmRpbGF0ZSh0aHJlc2gsIGtlcm5lbCwgaXRlcmF0aW9ucz0xKQojIGN2Mi5pbXNob3coJ2RpbGF0ZWQnLGltZ19kaWxhdGlvbikKIyBjdjIud2FpdEtleSgwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoInJldHVybiIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoImhlcmUiLCBmaXJzdF9sbywgc2Vjb25kX2xvKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyb2kpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1pZCkK</text>
+        <text encoding="base64">Y3YyLmltc2hvdygnZHN0JyxpbWcpCmlmIGN2Mi53YWl0S2V5KDApICYgMHhmZiA9PSAyNzoKICAgIGN2Mi5kZXN0cm95QWxsV2luZG93cygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoInNob3VsZCByZXR1cm4iKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGN0cikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQod29yZF9zdGFydCwgY3VycikK</text>
+        <text encoding="base64">Y3YyLmltc2hvdygnc2Vjb25kJyx0aHJlc2gpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZgo=</text>
+        <text encoding="base64">Y3YyLmltc2hvdygnZ3JheScsZ3JheSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -517,8 +523,8 @@
         <entry>action Replace</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
