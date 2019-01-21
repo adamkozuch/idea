@@ -9,13 +9,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1547824014150">
-        <mark key="'" line="1" column="0" />
-        <mark key="k" line="48" column="0" />
-        <mark key="[" line="73" column="43" />
-        <mark key="]" line="73" column="74" />
-        <mark key="^" line="73" column="74" />
-        <mark key="." line="73" column="74" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548062393578">
+        <mark key="'" line="5" column="0" />
+        <mark key="k" line="59" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -27,43 +26,46 @@
       <jump line="83" column="35" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="42" column="35" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="79" column="41" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="87" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAiVEhJUyBBUkUgRVJST1JTIiAkRVJST1JTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;${ERRORS[@]}&quot; , 'MYSQL ERROR ${port}')</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVSUk9SUys9KCJQT1NUR1JFUyBFUlJPUiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJQT1NUR1JFUyAkcG9ydCBjYW5ub3QgYWNjZXMgZGF0YWJhc2UiID4+ICRFUlJPUl9GSUxFCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAiVEhJUyBBUkUgRVJST1JTIiAkRVJST1JTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiQURESU5HIgo=</text>
+        <text encoding="base64">RVJST1JTPSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCAyCg==</text>
+        <text encoding="base64">Zm9yIGkgaW4gJHtFUlJPUlNbQF19CiAgICBkbwogICAgICAgIGVjaG8gJGkKICAgIGRvbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQgMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiRkFJTCBDT05ORUNUSU9OIE1ZU1FMIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHNxbCAtaCAibG9jYWxob3N0IiAtcCAkcG9ydCAtYyAiU0VMRUNUIGRhdG5hbWUgRlJPTSBwZ19kYXRhYmFzZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIk1ZU1FMIEVSUk9SICR7cG9ydH0iID4+IC90bXAvIyB0byBkb2RhYyBkbyBwbGlrdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHNxbCAtaCAibG9jYWxob3N0IiAtcCAkcG9ydCAtYyAiU0VMRUNUIGRhdG5hbWUgRlJPTSBwZ19kYXRhYmFzZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIk1ZU1FMIEVSUk9SICR7cG9ydH0iID4+IC90bXAvIyB0byBkb2RhYyBkbyBwbGlrdQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgWyAtbiAiJHttYXJpYV9wcm9jfSIgXTsgdGhlbgogICAgZm9yIHBvcnQgaW4gJHtteXNxbF9wb3J0c1tAXX0KICAgIGRvCiAgICAgIHByb2Nlc3NfbXlzcWwgJHBvcnQgImxvY2FsaG9zdCIKICAgIGRvbmUKZWxzZQogIGV4aXQgMTAwCmZpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVSUk9SUys9KCJQT1NUR1JFUyBFUlJPUiAke3BvcnR9ICIpICMgZG8gcGxpa3UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -84,6 +86,7 @@
         <entry>q</entry>
         <entry>action GotoFile</entry>
         <entry>wq</entry>
+        <entry>w]</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -101,6 +104,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
