@@ -9,13 +9,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548065944576">
-        <mark key="'" line="7" column="0" />
-        <mark key="k" line="63" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548068122234">
+        <mark key="k" line="73" column="0" />
+        <mark key="[" line="34" column="105" />
+        <mark key="]" line="34" column="105" />
+        <mark key="." line="34" column="105" />
+        <mark key="^" line="61" column="149" />
       </file>
     </filemarks>
     <jumps>
@@ -35,40 +34,45 @@
       <jump line="13" column="18" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="53" column="40" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="58" column="59" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="52" column="10" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>find_pgpass</text>
+        <text>&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxCTEFDS0xJU1RFRFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZmluZF9teV9jbmYoKSB7Cgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgZWNobyAic2tpcCAkZGIiCiAgICAgICAgICAgIGZpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGl0IHdvdWxkIGJlIGdvb2QgdG8gZ2V0IG1lc3NhZ2UgZnJvbSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsIEJMQUNLTElTVEVEID0gJChjb250YWluc0VsZW1lbnQgJGRiICIke1NLSVBfREFUQUJBU0VTW0BdfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiaW4gdGFibGUgbG9vcCIK</text>
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gInJlc3VsdCAgJEJMQUNLTElTVEVEIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJpbiBkYiBsb29wIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIFsgIiRCTEFDS0xJU1RFRCIgPT0gMSBdOyB0aGVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">ICBlY2hvICJSRVRVUk4gRkFMU0UiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gJGRiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFskKGNvbnRhaW5zRWxlbWVudCApXQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -78,22 +82,27 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxCTEFDS0xJU1RFRFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxCTEFDS0xJU1RFRFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxCTEFDS0xJU1RFRFw+</entry>
+      </history-search>
       <history-cmd>
         <entry>ps</entry>
         <entry>ls</entry>
         <entry>action GoToClass</entry>
         <entry>action GotoClass</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>q</entry>
         <entry>action GotoFile</entry>
         <entry>wq</entry>
         <entry>w]</entry>
         <entry>set nu rnu</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
