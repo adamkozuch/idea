@@ -9,12 +9,13 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548068122234">
-        <mark key="k" line="73" column="0" />
-        <mark key="[" line="34" column="105" />
-        <mark key="]" line="34" column="105" />
-        <mark key="." line="34" column="105" />
-        <mark key="^" line="61" column="149" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548070202476">
+        <mark key="'" line="88" column="0" />
+        <mark key="k" line="71" column="0" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -36,13 +37,15 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="58" column="59" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="52" column="10" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="90" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="92" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29udGFpbnNFbGVtZW50ICgpIHsKICBsb2NhbCBlIG1hdGNoPSIkMSIKICBlY2hvICJ0aGlzIGlzIGVsZW1lbnQgJGUiCiAgc2hpZnQKICBmb3IgZTsgZG8gW1sgIiRlIiA9PSAiJG1hdGNoIiBdXSAmJiByZXR1cm4gMDsgZG9uZQoKICByZXR1cm4gMQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCTEFDS0xJU1RFRFw+</text>
@@ -51,31 +54,31 @@
         <text encoding="base64">ZmluZF9teV9jbmYoKSB7Cgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgZWNobyAic2tpcCAkZGIiCiAgICAgICAgICAgIGZpCg==</text>
+        <text encoding="base64">Y29udGFpbnNFbGVtZW50ICgpIHsKICBsb2NhbCBlIG1hdGNoPSIkMSIKICBlY2hvICJ0aGlzIGlzIGVsZW1lbnQgJGUiCiAgc2hpZnQKICBmb3IgZTsgZG8gW1sgIiRlIiA9PSAiJG1hdGNoIiBdXSAmJiByZXR1cm4gMDsgZG9uZQoKICByZXR1cm4gMQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgWyAkc2NoZW1hIC1uZSAicGdfY2F0YWxvZyIgXSAmJiBbICRzY2hlbWEgLW5lICJpbmZvcm1hdGlvbl9zY2hlbWEiIF07IHRoZW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvY2FsIEJMQUNLTElTVEVEID0gJChjb250YWluc0VsZW1lbnQgJGRiICIke1NLSVBfREFUQUJBU0VTW0BdfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgZWNobyAic2tpcCAkZGIiCiAgICAgICAgICAgIGZpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gInJlc3VsdCAgJEJMQUNLTElTVEVEIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIFsgIiRCTEFDS0xJU1RFRCIgPT0gMSBdOyB0aGVuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsIEJMQUNLTElTVEVEID0gJChjb250YWluc0VsZW1lbnQgJGRiICIke1NLSVBfREFUQUJBU0VTW0BdfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlY2hvICJSRVRVUk4gRkFMU0UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gInJlc3VsdCAgJEJMQUNLTElTVEVEIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIFsgIiRCTEFDS0xJU1RFRCIgPT0gMSBdOyB0aGVuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIFskKGNvbnRhaW5zRWxlbWVudCApXQo=</text>
+        <text encoding="base64">ICBlY2hvICJSRVRVUk4gRkFMU0UiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -103,6 +106,7 @@
         <entry>w]</entry>
         <entry>set nu rnu</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
