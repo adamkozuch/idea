@@ -261,6 +261,13 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="17" column="47" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/segmentation/segmentation.py" timestamp="1548093851348">
+        <mark key="'" line="179" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="258" column="9" />
+        <mark key="^" line="258" column="9" />
+        <mark key="." line="258" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/serializers.py" timestamp="1546852224086">
         <mark key="'" line="19" column="38" />
         <mark key="[" line="11" column="126" />
@@ -450,6 +457,9 @@
       <jump line="3" column="16" filename="$USER_HOME$/PycharmProjects/LineSegm/python/linesegm/main.py" />
       <jump line="49" column="11" filename="$USER_HOME$/PycharmProjects/LineSegm/python/linesegm/main.py" />
       <jump line="16" column="24" filename="$USER_HOME$/PycharmProjects/untitled/rotated_array.py" />
+      <jump line="53" column="42" filename="$USER_HOME$/PycharmProjects/segmentation/segmentation.py" />
+      <jump line="258" column="5" filename="$USER_HOME$/PycharmProjects/segmentation/segmentation.py" />
+      <jump line="179" column="0" filename="$USER_HOME$/PycharmProjects/segmentation/segmentation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -492,7 +502,7 @@
         <text encoding="base64">Y3YyLndhaXRLZXkoMCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -523,8 +533,8 @@
         <entry>action Replace</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
