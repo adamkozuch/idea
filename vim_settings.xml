@@ -9,13 +9,13 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548076780656">
-        <mark key="'" line="114" column="8" />
-        <mark key="k" line="89" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548078098906">
+        <mark key="'" line="13" column="0" />
+        <mark key="k" line="88" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="50" column="29" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -25,13 +25,10 @@
       <jump line="126" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="71" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="83" column="35" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="79" column="41" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="87" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
-      <jump line="62" column="16" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="77" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
-      <jump line="13" column="18" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="53" column="40" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="58" column="59" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
@@ -44,55 +41,70 @@
       <jump line="33" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="91" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="113" column="8" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="117" column="37" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="96" column="40" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="76" column="39" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="73" column="58" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="70" column="38" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="66" column="29" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="62" column="19" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="60" column="10" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="49" column="23" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="47" column="43" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="44" column="27" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="41" column="20" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="39" column="10" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIkZBSUwgQ09OTkVDVElPTiBNWVNRTCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAibXljbmYgZXhpc3RzIiAkZmlsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;localhost&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZ3Bhc3NfZXhpc3RzXD4=</text>
+        <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICJubyBteWNuZiBmaWxlIiA+PiAkRVJST1JfRklMRQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIkZBSUwgQ09OTkVDVElPTiBNWVNRTCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAibXljbmYgZXhpc3RzIiAkZmlsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImJlZm9yZSBwb3N0Z3JlcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgcGdwYXNzX2V4aXN0czsgdGhlbiBlY2hvICJleGlzdHMiOyBlbHNlIGVjaG8gIm5vdCBleGlzdHMiOyBmaQo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJpbiBwb3N0Z3JlcyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIHJldHVybiAxCiAgICAgICAgZmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIkZBSUwgQ09OTkVDVElPTiBNWVNRTCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoZW4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICIiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aWYgcGdwYXNzX2V4aXN0czsgdGhlbiBlY2hvICJleGlzdHMiOyBlbHNlIGVjaG8gIm5vdCBleGlzdHMiOyBmaQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIHJldHVybiAxCiAgICAgICAgZmkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBpcyBwZ191c2VyIHNldAojIGRvZXMgcGd1c2VyIGV4aXN0cwojIGRvZXMgbXljbmYgZXhpc3RzCg==</text>
+        <text encoding="base64">ICAgIHRoZW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIkZBSUwgQ09OTkVDVElPTiBQT1NUR1JFUyIK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZ3Bhc3NfZXhpc3RzXD4=</last-search>
+      <last-search encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZ3Bhc3NfZXhpc3RzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -101,6 +113,7 @@
         <entry encoding="base64">XDxCTEFDS0xJU1RFRFw+</entry>
         <entry encoding="base64">XDxTS0lQX0RBVEFCQVNFU1w+</entry>
         <entry encoding="base64">XDxwZ3Bhc3NfZXhpc3RzXD4=</entry>
+        <entry encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ps</entry>
