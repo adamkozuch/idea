@@ -14,11 +14,30 @@
       <file name="/Dummy.txt" timestamp="1548094118356">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1548096663576">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" timestamp="1548096277469">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="253" column="43" />
+        <mark key="]" line="253" column="42" />
+        <mark key="^" line="253" column="42" />
+        <mark key="." line="253" column="42" />
+      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/django/contrib/gis/gdal/field.py" timestamp="1547816573273">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/utils/iam_dataset.py" timestamp="1548096341763">
+        <mark key="'" line="115" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/credentials.json.example" timestamp="1548095742530">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -59,16 +78,28 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="92" column="9" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="70" column="49" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="45" column="4" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" />
+      <jump line="12" column="20" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" />
+      <jump line="188" column="46" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" />
+      <jump line="186" column="48" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" />
+      <jump line="82" column="11" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" />
+      <jump line="104" column="56" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" />
+      <jump line="258" column="5" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/paragraph_segmentation_dcnn.py" />
+      <jump line="166" column="11" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/utils/iam_dataset.py" />
+      <jump line="142" column="37" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/utils/iam_dataset.py" />
+      <jump line="118" column="49" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/utils/iam_dataset.py" />
+      <jump line="115" column="4" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/utils/iam_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICREQVRBQkFTRV9IT1NU</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICREQVRBQkFTRV9IT1NU</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
+        <text>Downlo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICJubyBteWNuZiBmaWxlIiA+PiAkRVJST1JfRklMRQo=</text>
@@ -101,14 +132,14 @@
         <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIHJldHVybiAxCiAgICAgICAgZmkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</last-search>
+      <last-search>Downlo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Downlo</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -117,21 +148,25 @@
         <entry encoding="base64">XDxTS0lQX0RBVEFCQVNFU1w+</entry>
         <entry encoding="base64">XDxwZ3Bhc3NfZXhpc3RzXD4=</entry>
         <entry encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</entry>
+        <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
+        <entry encoding="base64">XDxwYXJhZ3JhcGhfc2VnbWVudGF0aW9uX3RyYW5zZm9ybVw+</entry>
+        <entry encoding="base64">XDxjcmVkZW50aWFsc1w+</entry>
+        <entry>Downlo</entry>
       </history-search>
       <history-cmd>
         <entry>ps</entry>
         <entry>ls</entry>
         <entry>action GoToClass</entry>
-        <entry>action GotoClass</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>wq</entry>
         <entry>w]</entry>
         <entry>set nu rnu</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Run</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,6 +189,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
