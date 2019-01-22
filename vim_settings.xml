@@ -14,8 +14,11 @@
       <file name="/Dummy.txt" timestamp="1548094118356">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1548176931811">
+      <file name="/code.py" timestamp="1548181296421">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="3" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="3" />
       </file>
       <file name="/Python Console" timestamp="1548096663576">
         <mark key="[" line="0" column="0" />
@@ -27,12 +30,24 @@
         <mark key="^" line="185" column="22" />
         <mark key="." line="185" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/utils/iam_dataset.py" timestamp="1548181687888">
+        <mark key="[" line="147" column="14" />
+        <mark key="]" line="147" column="17" />
+        <mark key="^" line="147" column="17" />
+        <mark key="." line="147" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/evaluate_cer.py" timestamp="1548175266553">
         <mark key="'" line="54" column="20" />
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="15" />
         <mark key="." line="55" column="15" />
         <mark key="^" line="55" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/myProgram.py" timestamp="1548181603908">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="17" />
+        <mark key="^" line="27" column="17" />
+        <mark key="." line="27" column="17" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/django/contrib/gis/gdal/field.py" timestamp="1547816573273">
         <mark key="[" line="12" column="0" />
@@ -151,7 +166,7 @@
         <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIHJldHVybiAxCiAgICAgICAgZmkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -184,10 +199,10 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action GotoFile</entry>
-        <entry>action Run</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
