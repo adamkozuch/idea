@@ -30,11 +30,11 @@
         <mark key="^" line="185" column="22" />
         <mark key="." line="185" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/utils/iam_dataset.py" timestamp="1548181687888">
-        <mark key="[" line="147" column="14" />
-        <mark key="]" line="147" column="17" />
-        <mark key="^" line="147" column="17" />
-        <mark key="." line="147" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/utils/iam_dataset.py" timestamp="1548185969655">
+        <mark key="[" line="143" column="105" />
+        <mark key="]" line="143" column="105" />
+        <mark key="^" line="143" column="105" />
+        <mark key="." line="143" column="105" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/evaluate_cer.py" timestamp="1548175266553">
         <mark key="'" line="54" column="20" />
@@ -58,7 +58,6 @@
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/utils/iam_dataset.py" timestamp="1548174874003">
         <mark key="'" line="142" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/get_models.py" timestamp="1548176728001" />
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/credentials.json.example" timestamp="1548095742530">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="21" />
@@ -127,10 +126,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gpu</text>
+        <text encoding="base64">b3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICcuLicsJ2RhdGFzZXQnLCAnaWFtZGF0YXNldCcpLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>gpu</text>
+        <text encoding="base64">b3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICcuLicsJ2RhdGFzZXQnLCAnaWFtZGF0YXNldCcpLCA=</text>
       </register>
       <register name="/" type="4">
         <text>gpu</text>
@@ -166,7 +165,7 @@
         <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIHJldHVybiAxCiAgICAgICAgZmkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -201,8 +200,8 @@
         <entry>action GotoFile</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
