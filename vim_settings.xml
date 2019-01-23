@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548239163777">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548241500301">
         <mark key="'" line="47" column="120" />
-        <mark key="[" line="130" column="25" />
-        <mark key="]" line="130" column="25" />
-        <mark key="^" line="130" column="17" />
-        <mark key="." line="130" column="25" />
+        <mark key="[" line="130" column="54" />
+        <mark key="]" line="130" column="70" />
+        <mark key="^" line="130" column="70" />
+        <mark key="." line="130" column="70" />
       </file>
     </filemarks>
     <jumps>
@@ -23,13 +23,13 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>${RESULT_PATH_}_{$DATABASE_HOST}_${DATABASE_PORT}</text>
+        <text>http://10.32.105.51</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bWF5YmUgSSBzaG91bGQgdmFsaWRhdGUgaWYgc3BlY2lmaWMgbXljbmYgZXhpc3RzCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>#</text>
       </register>
       <register name="2" type="4">
         <text>p</text>
@@ -41,7 +41,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>pg</text>
