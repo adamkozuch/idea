@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548242733145">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548248414524">
         <mark key="'" line="47" column="120" />
-        <mark key="[" line="130" column="61" />
-        <mark key="]" line="130" column="66" />
-        <mark key="^" line="130" column="66" />
-        <mark key="." line="130" column="66" />
+        <mark key="[" line="125" column="2" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -26,12 +26,18 @@
         <text>http://10.32.105.51</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZWNobyAkcGF0aAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">bWF5YmUgSSBzaG91bGQgdmFsaWRhdGUgaWYgc3BlY2lmaWMgbXljbmYgZXhpc3RzCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>adamkozuch</text>
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>p</text>
       </register>
       <register name="y" type="4">
