@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548233227055">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548234306900">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -16,17 +16,23 @@
       <jump line="124" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>p</text>
+      <register name="1" type="2">
+        <text encoding="base64">bWF5YmUgSSBzaG91bGQgdmFsaWRhdGUgaWYgc3BlY2lmaWMgbXljbmYgZXhpc3RzCg==</text>
       </register>
-      <register name="&quot;" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">bWF5YmUgSSBzaG91bGQgdmFsaWRhdGUgaWYgc3BlY2lmaWMgbXljbmYgZXhpc3RzCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>p</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action GotoFile</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -38,9 +44,9 @@
       <history-cmd>
         <entry>ser vim-surround</entry>
         <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">bm5vcmVtYXAgPGxlYWRlcj50IDphY3Rpb24gR290b0NsYXNzPENSPg==</entry>
         <entry>action GotoClass</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
