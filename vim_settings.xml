@@ -26,7 +26,7 @@
         <text>p</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
     <search>
@@ -37,8 +37,10 @@
       <history-search />
       <history-cmd>
         <entry>ser vim-surround</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry encoding="base64">bm5vcmVtYXAgPGxlYWRlcj50IDphY3Rpb24gR290b0NsYXNzPENSPg==</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -46,6 +48,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
