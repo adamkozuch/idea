@@ -18,6 +18,13 @@
       <file name="/fragment.py" timestamp="1548187247471">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/knight_tour.py" timestamp="1548271869446">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="34" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/utils/iam_dataset.py" timestamp="1548187708176">
         <mark key="'" line="603" column="32" />
         <mark key="[" line="466" column="0" />
@@ -66,6 +73,13 @@
         <mark key="]" line="27" column="17" />
         <mark key="^" line="27" column="17" />
         <mark key="." line="27" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/knight_tour_taken_from_site.py" timestamp="1548270258096">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/credentials.json.example" timestamp="1548095742530">
         <mark key="[" line="2" column="15" />
@@ -146,46 +160,50 @@
       <jump line="242" column="30" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/paragraph_segmentation_dcnn.py" />
       <jump line="2" column="11" filename="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" />
       <jump line="184" column="6" filename="$USER_HOME$/PycharmProjects/untitled1/venv/Lib/site-packages/genanki/__init__.py" />
+      <jump line="45" column="10" filename="$USER_HOME$/PycharmProjects/untitled/knight_tour.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/untitled/knight_tour.py" />
+      <jump line="39" column="15" filename="$USER_HOME$/PycharmProjects/untitled/knight_tour_taken_from_site.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled/knight_tour_taken_from_site.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZm4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>full(board):</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>full(board):</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcHJvY2Vzc19kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJubyBteWNuZiBmaWxlIiA+PiAkRVJST1JfRklMRQo=</text>
+        <text encoding="base64">ICBmb3IgaSBpbiByYW5nZShsZW4oYm9hcmQpKToKICAgIGZvciBqIGluIHJhbmdlKGxlbihib2FyZCkpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZm4pCg==</text>
+        <text encoding="base64">ICBib2FyZCA9IFtbRmFsc2VdKk4gZm9yIF8gaW4gcmFuZ2UoTildCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGYpCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoImZ1bGwiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQ0hVTktTICIsIGltYWdlX2RhdGFfY2h1bmtzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50X2JvYXJkKGJvYXJkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZyb20gIHBpY2tsZSIpCg==</text>
+        <text encoding="base64">ZGVmIHByaW50X2JvYXJkKGJvYXJkKToKICBmb3IgaSBpbiByYW5nZShsZW4oYm9hcmQpKToKICAgICAgcHJpbnQoYm9hcmRbaV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKGxlbihib2FyZCkpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIERBVEFCQVNFX0hPU1Q9JDIK</text>
+        <text encoding="base64">ICBmb3IgaSBpbiAKICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIERBVEFCQVNFX0hPU1Q9JDIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAibXljbmYgZXhpc3RzIiAkZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoInNvbHV0aW9uIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -219,12 +237,12 @@
         <entry>wq</entry>
         <entry>w]</entry>
         <entry>set nu rnu</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action GotoFile</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoClass</entry>
         <entry>action Run</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>q</entry>
+        <entry>action GotoClass</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -254,6 +272,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
