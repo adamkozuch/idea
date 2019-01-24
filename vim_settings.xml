@@ -9,12 +9,12 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548256912305">
-        <mark key="'" line="74" column="134" />
-        <mark key="[" line="129" column="27" />
-        <mark key="]" line="129" column="27" />
-        <mark key="^" line="74" column="133" />
-        <mark key="." line="129" column="27" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548318410243">
+        <mark key="'" line="130" column="74" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="131" column="74" />
+        <mark key="." line="131" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -28,49 +28,50 @@
       <jump line="131" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="74" column="134" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="130" column="74" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rewcords</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3VybCAtWCBQT1NUIC1IIC0tc2lsZW50IC0tZGF0YS11cmxlbmNvZGUgInBheWxvYWQ9e1widGV4dFwiOiBcIiQoY2F0ICRwYXRoIHwgc2VkICJzL1wiLycvZyIpXCJ9IiBodHRwOi8vMTAuMzIuMTA1LjUxP1RPS0VOPXNlY3JldAo=</text>
       </register>
       <register name="-" type="4">
-        <text>rewcords</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>pg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2VjaG8gJChjdXJsIC1YICBQT1NUIC0tZGF0YS1iaW5hcnkgQCRwYXRoICdodHRwOi8vMTAuMzIuMTA1LjUxP1RPS0VOPXNlY3JldCcpCg==</text>
+      <register name="0" type="4">
+        <text>'http://10.32.105.51?TOKEN=secret'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihlbC5zcGxpdCgnIycpKSkKICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShlbCk6CiAgICAgICAgcHJpbnQoaSwgdikK</text>
+        <text encoding="base64">Y3VybCAtWCBQT1NUIC1IIC0tc2lsZW50IC0tZGF0YS11cmxlbmNvZGUgInBheWxvYWQ9e1widGV4dFwiOiBcIiQoY2F0ICRwYXRoIHwgc2VkICJzL1wiLycvZyIpXCJ9IiBodHRwOi8vMTAuMzIuMTA1LjUxP1RPS0VOPXNlY3JldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihlbC5zcGxpdCgnIycpKSkKICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShlbCk6CiAgICAgICAgcHJpbnQoaSwgdikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShlbC5zcGxpdCgpKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVsLnNwbGl0KCkpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShlbC5zcGxpdCgpKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShlbCk6CiAgICAgICAgcHJpbnQoaSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGVsLnNwbGl0KCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShyZWNvcmRzLnJlYWRsaW5lcygpKToKICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShlbCk6CiAgICAgICAgcHJpbnQoaSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlY29yZHMpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShyZWNvcmRzLnJlYWRsaW5lcygpKToKICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBpLCBlIGluIGVudW1lcmF0ZShyZWNvcmRzKToKICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlY29yZHMpCg==</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHNbMF0uc3BsaXRsaW5lcygpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpLCBlIGluIGVudW1lcmF0ZShyZWNvcmRzKToKICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
