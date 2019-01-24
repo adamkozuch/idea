@@ -22,12 +22,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548333501440">
-        <mark key="'" line="9" column="9" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="9" column="46" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548338019929">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548332143836">
         <mark key="'" line="86" column="0" />
@@ -58,60 +58,68 @@
       <jump line="45" column="30" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="84" column="19" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="86" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
-      <jump line="7" column="40" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
-      <jump line="9" column="9" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="7" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUQUJMRV9ERVNDUklQVElPTlNcPg==</text>
+        <text encoding="base64">XDxzb21lX2RpY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZGlyZWN0b3J5LCBmaWxlX25hbWUpKSBhcyByZWNvcmRzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X2ZpbGVzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZWwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UkVNT1RFX0lQPSQoZGlnICtzaG9ydCBteWlwLm9wZW5kbnMuY29tIEByZXNvbHZlcjEub3BlbmRucy5jb20pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluIHJlY29yZHMiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX25hbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdhbnkgaW5mbycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJzID0gW10K</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUQUJMRV9ERVNDUklQVElPTlNcPg==</last-search>
+      <last-search encoding="base64">XDxzb21lX2RpY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUQUJMRV9ERVNDUklQVElPTlNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzb21lX2RpY3RcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -119,6 +127,7 @@
       <history-search>
         <entry>pg</entry>
         <entry encoding="base64">XDxUQUJMRV9ERVNDUklQVElPTlNcPg==</entry>
+        <entry encoding="base64">XDxzb21lX2RpY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ser vim-surround</entry>
@@ -126,8 +135,8 @@
         <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoFile</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
