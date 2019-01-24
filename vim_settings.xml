@@ -25,12 +25,11 @@
       <file name="/Python Console" timestamp="1548339131217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548343939192">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="15" column="65" />
-        <mark key="]" line="15" column="64" />
-        <mark key="." line="15" column="64" />
-        <mark key="^" line="15" column="64" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548345433649">
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548343177607">
         <mark key="'" line="5" column="11" />
@@ -76,13 +75,17 @@
       <jump line="23" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="5" column="11" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="46" column="18" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="10" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrago=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>splitted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb21lX2RpY3RcPg==</text>
@@ -91,34 +94,34 @@
         <text>sed '1,2d'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChob3N0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
+        <text encoding="base64">ICAgIHNvbWVfZGljdCA9IGxhbWJkYTogZGVmYXVsdGRpY3Qoc29tZV9kaWN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpbmUpCg==</text>
+        <text encoding="base64">ZGlyZWN0b3J5ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUgPSBsaW5lLnN0cmlwKCcsJykK</text>
+        <text encoding="base64">ZGlyZWN0b3J5ID0gJy90bXAvZGJtYW5hZ2VyZGF0YScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihzcGxpdGVkKSA+IDI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChob3N0KQo=</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCcvdG1wL2RibWFuYWdlcmRhdGEvZGF0YV8xMC4zMi4xMDUuNzEnKSBhcyBmOgogICAgcHJpbnQoanNvbi5sb2FkKGYpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
