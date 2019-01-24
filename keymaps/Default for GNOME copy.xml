@@ -4,37 +4,22 @@
     <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="altGraph t" />
   </action>
-  <action id="Diff.NextChange" />
-  <action id="Diff.PrevChange" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="GotoBookmark6" />
-  <action id="GotoClass">
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
-    <keyboard-shortcut first-keystroke="alt g" />
-  </action>
-  <action id="NextTab" />
-  <action id="PreviousTab" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="ResizeToolWindowLeft">
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-    <keyboard-shortcut first-keystroke="alt left" />
-  </action>
-  <action id="ResizeToolWindowRight">
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
