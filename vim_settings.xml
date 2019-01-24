@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548332742907">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548339555647">
         <mark key="'" line="9" column="33" />
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="36" />
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1548336616798">
         <mark key="[" line="35" column="0" />
@@ -22,19 +22,22 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548338019929">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="18" column="34" />
+      <file name="/Python Console" timestamp="1548339131217">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548332143836">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="47" column="75" />
-        <mark key="]" line="47" column="75" />
-        <mark key="." line="47" column="75" />
-        <mark key="^" line="47" column="75" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548343939192">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="64" />
+        <mark key="." line="15" column="64" />
+        <mark key="^" line="15" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548343177607">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="129" column="93" />
+        <mark key="]" line="129" column="94" />
+        <mark key="." line="129" column="94" />
+        <mark key="^" line="129" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -68,49 +71,54 @@
       <jump line="38" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="7" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
+      <jump line="21" column="25" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="5" column="11" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb21lX2RpY3RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="4">
+        <text>sed '1,2d'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChob3N0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluIHJlY29yZHMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdhbnkgaW5mbycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUgPSBsaW5lLnN0cmlwKCcsJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihzcGxpdGVkKSA+IDI6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpbmUpCg==</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKCcvdG1wL2RibWFuYWdlcmRhdGEvZGF0YV8xMC4zMi4xMDUuNzEnKSBhcyBmOgogICAgcHJpbnQoanNvbi5sb2FkKGYpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -133,10 +141,11 @@
         <entry>ser vim-surround</entry>
         <entry encoding="base64">bm5vcmVtYXAgPGxlYWRlcj50IDphY3Rpb24gR290b0NsYXNzPENSPg==</entry>
         <entry>action GotoClass</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Run</entry>
-        <entry>action GotoFile</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action Run</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -151,6 +160,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
