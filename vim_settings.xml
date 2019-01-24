@@ -10,11 +10,11 @@
         <mark key="." line="15" column="36" />
         <mark key="^" line="15" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1548335391120">
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
-        <mark key="^" line="37" column="59" />
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1548336616798">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="37" column="131" />
+        <mark key="^" line="37" column="130" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/requirements.txt" timestamp="1548327043799">
         <mark key="[" line="1" column="13" />
@@ -62,17 +62,17 @@
       <jump line="9" column="9" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>zbigniew.pietruszewski.bg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>zbigniew.pietruszewski.bg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUQUJMRV9ERVNDUklQVElPTlNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>/tmp/dbmanagerdata</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZGlyZWN0b3J5LCBmaWxlX25hbWUpKSBhcyByZWNvcmRzOgo=</text>
