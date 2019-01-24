@@ -81,11 +81,11 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" timestamp="1548313476053">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" timestamp="1548315286851">
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/credentials.json.example" timestamp="1548095742530">
         <mark key="[" line="2" column="15" />
@@ -170,46 +170,54 @@
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/untitled/knight_tour.py" />
       <jump line="39" column="15" filename="$USER_HOME$/PycharmProjects/untitled/knight_tour_taken_from_site.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled/knight_tour_taken_from_site.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" />
+      <jump line="1" column="14" filename="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" />
+      <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/untitled/rotate_matrix" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG9yZGVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>print_spiral_matrix</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcHJvY2Vzc19kYXRhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByX2xvLCByX2hpID0gMCwgbGVuKG1hdHJpeFswXSkK</text>
+      <register name="0" type="4">
+        <text>l.append</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG9yZGVyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBib2FyZCA9IFtbRmFsc2VdKk4gZm9yIF8gaW4gcmFuZ2UoTildCg==</text>
+        <text encoding="base64">cHJpbnRfc3BpcmFsX21hdHJpeChtYXRyaXgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoImZ1bGwiKQo=</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X2JvYXJkKGJvYXJkKQo=</text>
+        <text encoding="base64">ICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHByaW50X2JvYXJkKGJvYXJkKToKICBmb3IgaSBpbiByYW5nZShsZW4oYm9hcmQpKToKICAgICAgcHJpbnQoYm9hcmRbaV0pCg==</text>
+        <text encoding="base64">ICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBqIGluIHJhbmdlKGxlbihib2FyZCkpOgo=</text>
+        <text encoding="base64">ICBib2FyZCA9IFtbRmFsc2VdKk4gZm9yIF8gaW4gcmFuZ2UoTildCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb3IgaSBpbiAKICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoImZ1bGwiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaW50X2JvYXJkKGJvYXJkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -245,10 +253,10 @@
         <entry>set nu rnu</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action GotoFile</entry>
-        <entry>action Run</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>q</entry>
         <entry>action GotoClass</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
