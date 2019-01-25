@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548339555647">
-        <mark key="'" line="9" column="33" />
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="7" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548405662472">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1548336616798">
         <mark key="[" line="35" column="0" />
@@ -25,11 +24,21 @@
       <file name="/Python Console" timestamp="1548339131217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548345433649">
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="19" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/config.py" timestamp="1548405615963">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
+      <file name="/a.dummy" timestamp="1548406010070">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548405695545">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="42" column="39" />
+        <mark key="^" line="42" column="39" />
+        <mark key="." line="42" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548343177607">
         <mark key="'" line="5" column="11" />
@@ -63,7 +72,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
@@ -71,67 +79,72 @@
       <jump line="7" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
-      <jump line="21" column="25" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="5" column="11" filename="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="46" column="18" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="10" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="19" column="32" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="30" column="53" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="5" column="12" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrago=</text>
+      <register name="&quot;" type="4">
+        <text>'/tmp/dbmanagerdata'</text>
       </register>
       <register name="-" type="4">
-        <text>splitted</text>
+        <text>'/tmp/dbmanagerdata'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb21lX2RpY3RcPg==</text>
+        <text>get_fi</text>
       </register>
       <register name="0" type="4">
-        <text>sed '1,2d'</text>
+        <text>/tmp/dbmanagerdata</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNvbWVfZGljdCA9IGxhbWJkYTogZGVmYXVsdGRpY3Qoc29tZV9kaWN0KQo=</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgiLyIpCmRlZiBoZWxsbygpOgogICAgcmV0dXJuICJTdGFydCBzaXRlIgoKCkBhcHAucm91dGUoIi9kYXNoYm9hcmQiLCBtZXRob2RzPVsnR0VUJ10pCmRlZiBkYXNoYm9hcmRfZ2V0KCk6CiAgICByZXR1cm4gIlRoaXMgaXMgZGFzaGJvYXJkIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5ID0gCg==</text>
+        <text encoding="base64">IyBkb2RhYyBhdXRlbnR5a2FjamUgdG9rZW5lbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5ID0gJy90bXAvZGJtYW5hZ2VyZGF0YScK</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9maWxlcyhkaXJlY3RvcnkpOgogICAgcmV0dXJuIG9zLmxpc3RkaXIoZGlyZWN0b3J5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChob3N0KQo=</text>
+        <text encoding="base64">ICAgIGlmIGxlbihyb3dfc3BsaXQpID4gMjoK</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNwbGl0ZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb21lX2RpY3RcPg==</last-search>
+      <last-search>get_fi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb21lX2RpY3RcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>get_fi</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -139,6 +152,7 @@
         <entry>pg</entry>
         <entry encoding="base64">XDxUQUJMRV9ERVNDUklQVElPTlNcPg==</entry>
         <entry encoding="base64">XDxzb21lX2RpY3RcPg==</entry>
+        <entry>get_fi</entry>
       </history-search>
       <history-cmd>
         <entry>ser vim-surround</entry>
