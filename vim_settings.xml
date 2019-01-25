@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548407602475">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548413051586">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/nginx/default" timestamp="1548416989778">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1548336616798">
         <mark key="[" line="35" column="0" />
@@ -33,12 +39,30 @@
       <file name="/a.dummy" timestamp="1548406010070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548405695545">
-        <mark key="'" line="5" column="12" />
-        <mark key="[" line="42" column="19" />
-        <mark key="]" line="42" column="39" />
-        <mark key="^" line="42" column="39" />
-        <mark key="." line="42" column="39" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/datatables/datatablesScript.js" timestamp="1548417074961">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/start_uwsgi.sh" timestamp="1548413603769">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="115" />
+        <mark key="^" line="1" column="115" />
+        <mark key="." line="1" column="115" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" timestamp="1548417679287">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="26" column="60" />
+        <mark key="." line="26" column="60" />
+        <mark key="^" line="26" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/datatables/index.html" timestamp="1548415637882">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/get_db.sh" timestamp="1548343177607">
         <mark key="'" line="5" column="11" />
@@ -92,49 +116,51 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="30" column="53" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="5" column="12" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/datatables/datatablesScript.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/nginx/default" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'/tmp/dbmanagerdata'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'/tmp/dbmanagerdata'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>get_fi</text>
       </register>
-      <register name="0" type="4">
-        <text>/tmp/dbmanagerdata</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvY2F0aW9uIF5+IC9zdGF0aWMvIHsKICAgICAgICBpbmNsdWRlIC9ldGMvbmdpbngvbWltZS50eXBlczsKICAgICAgICByb290IC9ldGMvbmdpbngvOwogICAgICAgIGluZGV4IGluZGV4Lmh0bWw7CiAgICAgICAgZGVueSBhbGw7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChsZW4ocm93X3NwbGl0KSA+IDIgKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgiLyIpCmRlZiBoZWxsbygpOgogICAgcmV0dXJuICJTdGFydCBzaXRlIgoKCkBhcHAucm91dGUoIi9kYXNoYm9hcmQiLCBtZXRob2RzPVsnR0VUJ10pCmRlZiBkYXNoYm9hcmRfZ2V0KCk6CiAgICByZXR1cm4gIlRoaXMgaXMgZGFzaGJvYXJkIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBkb2RhYyBhdXRlbnR5a2FjamUgdG9rZW5lbQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvY2F0aW9uIF5+IC9zdGF0aWMvdGFibGVfb2JqLmpzb24gewogICAgICAgIGluY2x1ZGUgL2V0Yy9uZ2lueC9taW1lLnR5cGVzOwogICAgICAgIHJvb3QgL2V0Yy9uZ2lueC87CiAgICAgICAgZGVueSBhbGw7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbmRleCBpbmRleC5odG1sOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZW55IGFsbDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldF9maWxlcyhkaXJlY3RvcnkpOgogICAgcmV0dXJuIG9zLmxpc3RkaXIoZGlyZWN0b3J5KQo=</text>
+        <text encoding="base64">ICAgICNzb21lIHJhbmRvbSBpbmZvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihyb3dfc3BsaXQpID4gMjoK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhID0gIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
