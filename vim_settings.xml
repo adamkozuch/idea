@@ -126,12 +126,12 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1548609977309">
-        <mark key="'" line="64" column="16" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="94" column="56" />
-        <mark key="^" line="95" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1548611684320">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="106" column="31" />
+        <mark key="]" line="106" column="36" />
+        <mark key="." line="106" column="36" />
+        <mark key="^" line="106" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548426411547">
         <mark key="[" line="6" column="16" />
@@ -292,43 +292,48 @@
       <jump line="52" column="39" filename="$USER_HOME$/PycharmProjects/LineSegm/python/linesegm/lib/astar.py" />
       <jump line="3" column="17" filename="$USER_HOME$/PycharmProjects/untitled1/google_keep.py" />
       <jump line="64" column="16" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
+      <jump line="88" column="32" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
+      <jump line="136" column="4" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
+      <jump line="12" column="16" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
+      <jump line="101" column="25" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>valid_square(matrix, L, H, row_1, row_2, column_1, column_2)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>print_in</text>
       </register>
       <register name="0" type="4">
-        <text>Square(row_1,row_2,column_1,column_1)</text>
+        <text>square_size(SquareClass(square)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1vcmUgY29uZGl0aW9ucyBoZXJlCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImVub3V0aCBzbGljZXMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnemVybycpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdleGVjdXRlZCcsIHRvbWF0b19jb3VudCwgbXVzaHJvb21fY291bnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbm90IHplcm8nKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNxdWFyZV9zaXplKHNxdWFyZSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNxdWFyZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdzaXplJywgc2l6ZSkK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -417,6 +422,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
