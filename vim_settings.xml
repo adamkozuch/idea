@@ -126,11 +126,12 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1548605983785">
-        <mark key="[" line="81" column="52" />
-        <mark key="]" line="81" column="53" />
-        <mark key="." line="81" column="53" />
-        <mark key="^" line="46" column="57" />
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1548608143382">
+        <mark key="'" line="64" column="16" />
+        <mark key="[" line="68" column="51" />
+        <mark key="]" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+        <mark key="^" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548426411547">
         <mark key="[" line="6" column="16" />
@@ -290,52 +291,53 @@
       <jump line="168" column="8" filename="$USER_HOME$/PycharmProjects/LineSegm/python/linesegm/lib/astar.py" />
       <jump line="52" column="39" filename="$USER_HOME$/PycharmProjects/LineSegm/python/linesegm/lib/astar.py" />
       <jump line="3" column="17" filename="$USER_HOME$/PycharmProjects/untitled1/google_keep.py" />
+      <jump line="64" column="16" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>check_square</text>
+        <text>max(max(square_size(current), square_size(one)), square_size(two))</text>
       </register>
       <register name="-" type="4">
-        <text>check_square</text>
+        <text>max(max(square_size(current), square_size(one)), square_size(two))</text>
       </register>
       <register name="/" type="4">
         <text>print_in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnN1YnBsb3QoMjI0KQpwbHQuaW1zaG93KFhfdHJhaW5bM10sIGNtYXA9cGx0LmdldF9jbWFwKCdncmF5JykpCg==</text>
+        <text encoding="base64">ICAgICAgICBiaWdnZXN0ID0gY3VycmVudCBpZiBzcXVhcmVfc2l6ZShjdXJyZW50KSA+IHNxdWFyZV9zaXplKG9uZSkgZWxzZSBvbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgTCArIEsgPUggICAgICBLIDw9IEwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW51bWVyYXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW51bWVyYXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LnN1YnBsb3QoMjI1KQpwbHQuaW1zaG93KFhfdHJhaW5bNF0sIGNtYXA9cGx0LmdldF9jbWFwKCdncmF5JykpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzaXplCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiImspCg==</text>
+        <text encoding="base64">ICAgIHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pz8/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3YyLndhaXRLZXkoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3YyLmRyYXdDb250b3VycyhpbWcsIGNvbnRvdXJzLCAtMSwgKDAsMjU1LDApLCAzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3YyLmltd3JpdGUoIkM6XFxVc2Vyc1xcYWRhbVxEb2N1bWVudHNcXHNhdmVkLmpwZyIsIGltZykK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -373,8 +375,8 @@
         <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
