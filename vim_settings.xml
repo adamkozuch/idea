@@ -126,6 +126,12 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1548589236214">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548426411547">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="15" />
@@ -287,10 +293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a_example</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a_example</text>
       </register>
       <register name="/" type="4">
         <text>print_in</text>
@@ -329,7 +335,7 @@
         <text>p</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -367,8 +373,8 @@
         <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
