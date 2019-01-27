@@ -126,12 +126,12 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1548608143382">
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1548609977309">
         <mark key="'" line="64" column="16" />
-        <mark key="[" line="68" column="51" />
-        <mark key="]" line="69" column="29" />
-        <mark key="." line="69" column="29" />
-        <mark key="^" line="69" column="29" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="94" column="56" />
+        <mark key="^" line="95" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548426411547">
         <mark key="[" line="6" column="16" />
@@ -294,44 +294,44 @@
       <jump line="64" column="16" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>max(max(square_size(current), square_size(one)), square_size(two))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>max(max(square_size(current), square_size(one)), square_size(two))</text>
+        <text>valid_square(matrix, L, H, row_1, row_2, column_1, column_2)</text>
       </register>
       <register name="/" type="4">
         <text>print_in</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiaWdnZXN0ID0gY3VycmVudCBpZiBzcXVhcmVfc2l6ZShjdXJyZW50KSA+IHNxdWFyZV9zaXplKG9uZSkgZWxzZSBvbmUK</text>
+      <register name="0" type="4">
+        <text>Square(row_1,row_2,column_1,column_1)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1vcmUgY29uZGl0aW9ucyBoZXJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzaXplCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnemVybycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbm90IHplcm8nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHNxdWFyZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdzaXplJywgc2l6ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
