@@ -15,9 +15,6 @@
         <mark key="^" line="1" column="115" />
         <mark key="." line="1" column="115" />
       </file>
-      <file name="/Python Console" timestamp="1548526046742">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/nginx/default" timestamp="1548422456715">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -60,11 +57,11 @@
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/utils/iam_dataset.py" timestamp="1548174874003">
         <mark key="'" line="142" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/hashCode2019/data/is_power_of_ten.py" timestamp="1548699317397">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/data/is_power_of_ten.py" timestamp="1548699936578">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="22" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/datatables/index.html" timestamp="1548415637882">
         <mark key="[" line="32" column="0" />
@@ -306,11 +303,11 @@
       <jump line="71" column="4" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwb3cpCg==</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>print_in</text>
@@ -349,7 +346,7 @@
         <text>p</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -387,8 +384,8 @@
         <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
