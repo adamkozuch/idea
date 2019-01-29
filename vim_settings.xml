@@ -53,6 +53,9 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" timestamp="1548749531182">
+        <mark key="'" line="48" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/datatables/datatablesScript.js" timestamp="1548427454411">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="64" column="72" />
@@ -133,6 +136,9 @@
       <jump line="5" column="12" filename="$USER_HOME$/Projects/sportProject/dbmanagest/parse.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/datatables/datatablesScript.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/nginx/default" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" />
+      <jump line="74" column="39" filename="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" />
+      <jump line="48" column="23" filename="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -142,7 +148,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>get_fi</text>
+        <text encoding="base64">XDxIT1NUX05BTUVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGFwcC5yb3V0ZSgiL3Rva2VuL2dldCIsIG1ldGhvZHM9WydHRVQnXSkKZGVmIGdldF90b2tlbigpOgogICAgcGFzcwo=</text>
@@ -182,10 +188,10 @@
       </register>
     </registers>
     <search>
-      <last-search>get_fi</last-search>
+      <last-search encoding="base64">XDxIT1NUX05BTUVcPg==</last-search>
       <last-offset />
-      <last-pattern>get_fi</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxIT1NUX05BTUVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -194,6 +200,7 @@
         <entry encoding="base64">XDxUQUJMRV9ERVNDUklQVElPTlNcPg==</entry>
         <entry encoding="base64">XDxzb21lX2RpY3RcPg==</entry>
         <entry>get_fi</entry>
+        <entry encoding="base64">XDxIT1NUX05BTUVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ser vim-surround</entry>
