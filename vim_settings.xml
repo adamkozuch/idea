@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/tuneling.py" timestamp="1548428544921">
         <mark key="[" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/jwt_logic.py" timestamp="1548752854356">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/jwt_logic.py" timestamp="1548754643625">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="35" column="29" />
         <mark key="]" line="35" column="41" />
@@ -36,11 +36,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548753519050">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548755691888">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="46" column="48" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/nginx/default" timestamp="1548422456715">
         <mark key="[" line="13" column="0" />
@@ -165,19 +166,21 @@
       <jump line="41" column="22" filename="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" />
       <jump line="129" column="46" filename="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" />
       <jump line="6" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" />
+      <jump line="26" column="8" filename="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TOKi</text>
+        <text>oute(&quot;/token/get&quot;, methods=['GET'])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIT1NUX05BTUVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZGVjb2RlX2F1dGhfdG9rZW4odG9rZW4xKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UoeyJtZXNzYWdlIjogImludmFsaWQgdG9rZW4ifSwgc3RhdHVzPTQwMSwgbWltZXR5cGU9ImFwcGxpY2F0aW9uL2pzb24iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -186,28 +189,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgiL3Rva2VuL2dldCIsIG1ldGhvZHM9WydHRVQnXSkKZGVmIGdldF90b2tlbigpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZGVjb2RlX2F1dGhfdG9rZW4odG9rZW4pKQo=</text>
+        <text encoding="base64">IyBAYXBwLnIKIyBkZWYgZ2V0X3ZlcmlmeSgpOgojICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dG9rZW4gPSAiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SmxlSEFpT2pFMU5EZzNOVEkxTmpVc0ltbGhkQ0k2TVRVME9EYzFNalUyTUN3aWMzVmlJam9pVmtGTVNVUWlmUS5WajNkSHd6THZ5OU1hR0pReGE1ZDZNOEdSU3BBQkY4SkJpM2pUM25zV1k4Igo=</text>
+        <text encoding="base64">ICAgIGRlY29kZWQgPSBqd3RfbG9naWMuZGVjb2RlX2F1dGhfdG9rZW4oand0X3Rva2VuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZW5jb2RlX2F1dGhfdG9rZW4oKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGp3dAppbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -235,8 +238,9 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>q</entry>
         <entry>action Run</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action GotoFile</entry>
+        <entry>ws</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
