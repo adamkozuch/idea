@@ -348,7 +348,7 @@
         <text>p</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -385,9 +385,9 @@
         <entry>q</entry>
         <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>w</entry>
         <entry>action Run</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
