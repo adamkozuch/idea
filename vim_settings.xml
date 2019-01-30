@@ -3,16 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548769043799">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" timestamp="1548764972991">
-        <mark key="[" line="130" column="95" />
-        <mark key="]" line="130" column="95" />
-        <mark key="." line="130" column="95" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1548857745760">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="34" />
       </file>
       <file name="/Python Console" timestamp="1548773712352">
         <mark key="[" line="0" column="0" />
@@ -35,20 +30,46 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1548855374868">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1548858842349">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="57" column="43" />
+        <mark key="." line="57" column="43" />
+        <mark key="^" line="57" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548769043799">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" timestamp="1548764972991">
+        <mark key="[" line="130" column="95" />
+        <mark key="]" line="130" column="95" />
+        <mark key="." line="130" column="95" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1548857566948">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" timestamp="1548856163513">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+        <mark key="." line="41" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1548854142470">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="6" column="56" />
-        <mark key="." line="6" column="56" />
-        <mark key="^" line="6" column="56" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1548860188537">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1548856153832">
+        <mark key="'" line="84" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -65,46 +86,48 @@
       <jump line="74" column="28" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="55" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="84" column="5" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4aXQgMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBvYmo6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
       </register>
-      <register name="0" type="4">
-        <text>^[^#]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInZhbGlkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQgMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBvYmo6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhYmFzZV90eXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGJfbmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAicmVzdWx0IiAkKGdyZXAgLXEgInVzZXIiICRmaWxlICYmIGdyZXAgLXEgInBhc3N3b3JkIiAkZmlsZSkK</text>
+        <text encoding="base64">cHJpbnQoZGVjb2RlX2F1dGhfdG9rZW4odHQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICBlY2hvICRmaWxlCiAgICAgICAgICAgICAgICAgICAgZWNobyAiQ05GIFdJVEhPVVQgVVNFUiBBTkQgUEFTU1dPUkQiOwo=</text>
+        <text encoding="base64">dHQgPSAiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SmxlSEFpT2pFMU9EQXpPVEk0TmpNc0ltbGhkQ0k2TVRVME9EZzFOamcxT0N3aWMzVmlJam9pVmtGTVNVUWlmUS5Ld0F1OTN2a3ZPTnpsUGZ4emg4LXZpY05UX1B2cHkyalpmZ2JhaFVTZURFIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRmaWxlCg==</text>
+        <text encoding="base64">ICAgIGV4aXQgMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0ICRmaWxlCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAicmVzdWx0IiAkKGdyZXAgLXEgInVzZXIiICRmaWxlICYmIGdyZXAgLXEgInBhc3N3b3JkIiAkZmlsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -124,6 +147,7 @@
       <history-cmd>
         <entry>action GotoFile</entry>
         <entry>action Run</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
