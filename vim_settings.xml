@@ -48,10 +48,10 @@
         <mark key="]" line="130" column="95" />
         <mark key="." line="130" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1548857566948">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1548861012652">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" timestamp="1548856163513">
         <mark key="[" line="41" column="27" />
@@ -91,7 +91,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBvYmo6Cg==</text>
+        <text encoding="base64">cHJpbnQoZW5jb2RlX2F1dGhfdG9rZW4oKSkK</text>
       </register>
       <register name="-" type="4">
         <text>{}</text>
@@ -103,31 +103,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInZhbGlkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBvYmo6Cg==</text>
+        <text encoding="base64">cHJpbnQoZW5jb2RlX2F1dGhfdG9rZW4oKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhYmFzZV90eXBlKQo=</text>
+        <text encoding="base64">cHJpbnQoZW5jb2RlX2F1dGhfdG9rZW4oKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGJfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBvYmo6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZGVjb2RlX2F1dGhfdG9rZW4odHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhYmFzZV90eXBlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHQgPSAiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SmxlSEFpT2pFMU9EQXpPVEk0TmpNc0ltbGhkQ0k2TVRVME9EZzFOamcxT0N3aWMzVmlJam9pVmtGTVNVUWlmUS5Ld0F1OTN2a3ZPTnpsUGZ4emg4LXZpY05UX1B2cHkyalpmZ2JhaFVTZURFIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGJfbmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXQgMQo=</text>
+        <text encoding="base64">cHJpbnQoZGVjb2RlX2F1dGhfdG9rZW4odHQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
+        <text encoding="base64">dHQgPSAiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SmxlSEFpT2pFMU9EQXpPVEk0TmpNc0ltbGhkQ0k2TVRVME9EZzFOamcxT0N3aWMzVmlJam9pVmtGTVNVUWlmUS5Ld0F1OTN2a3ZPTnpsUGZ4emg4LXZpY05UX1B2cHkyalpmZ2JhaFVTZURFIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIAo=</text>
+        <text encoding="base64">ICAgIGV4aXQgMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAicmVzdWx0IiAkKGdyZXAgLXEgInVzZXIiICRmaWxlICYmIGdyZXAgLXEgInBhc3N3b3JkIiAkZmlsZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -145,9 +145,9 @@
         <entry>result</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoFile</entry>
         <entry>action Run</entry>
         <entry>q</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
