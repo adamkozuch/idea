@@ -30,12 +30,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1548936209009">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="172" column="12" />
-        <mark key="]" line="173" column="7" />
-        <mark key="." line="173" column="7" />
-        <mark key="^" line="173" column="7" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1548938956598">
+        <mark key="'" line="74" column="35" />
+        <mark key="[" line="153" column="54" />
+        <mark key="]" line="154" column="3" />
+        <mark key="." line="154" column="3" />
+        <mark key="^" line="154" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548769043799">
         <mark key="[" line="11" column="10" />
@@ -82,7 +82,6 @@
       <jump line="152" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="27" column="16" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="105" column="16" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="74" column="28" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="55" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="84" column="5" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
@@ -104,10 +103,11 @@
       <jump line="137" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="161" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="74" column="35" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>retrun</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>retrun</text>
@@ -119,31 +119,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIk1ZQ05GIENPTlRBSU5TIFdST05HIERBVEEiCiAgICAgICAgICAgICAgICBleGl0IDE0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRyeV9jb3B5X2RlYmlhbl9jbmY7IHRoZW4KICAgICAgICAgICAgICAgICAgICBteXNxbCAtaCAibG9jYWxob3N0IiAtLXBvcnQgJHBvcnQgLUJzZSAiU0hPVyBEQVRBQkFTRVMiICY+L2Rldi9udWxsCiAgICAgICAgICAgICAgICAgICAgaWYgdHJ5X2Nvbm5lY3RfbXlzcWw7IHRoZW4KICAgICAgICAgICAgICAgICAgICAgICAgcHJvY2Vzc19teXNxbCAkcG9ydAogICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAiUFJPQkxFTSBBQ0NFU1NJTkcgTVlTUUwiCiAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIiQoZGF0ZSkgTVlTUUwgJHBvcnQgY2Fubm90IGFjY2VzIGRhdGFiYXNlIiA+PiAkRVJST1JfRklMRQogICAgICAgICAgICAgICAgICAgICAgICBleGl0IDExCiAgICAgICAgICAgICAgICAgICAgZmkKICAgICAgICAgICAgICAgIGZpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlzcWwgLWggImxvY2FsaG9zdCIgLS1wb3J0ICRwb3J0IC1Cc2UgIlNIT1cgREFUQUJBU0VTIiAmPi9kZXYvbnVsbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggbXlzcWwgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gbXljbmYgZmlsZSIgPj4gJEVSUk9SX0ZJTEUKICAgICAgICBleGl0IDE0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgOyB0aGVuCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRyeV9jb3B5X2RlYmlhbl9jbmY7IHRoZW4KICAgICAgICAgICAgICAgICAgICBteXNxbCAtaCAibG9jYWxob3N0IiAtLXBvcnQgJHBvcnQgLUJzZSAiU0hPVyBEQVRBQkFTRVMiICY+L2Rldi9udWxsCiAgICAgICAgICAgICAgICAgICAgaWYgdHJ5X2Nvbm5lY3RfbXlzcWw7IHRoZW4KICAgICAgICAgICAgICAgICAgICAgICAgcHJvY2Vzc19teXNxbCAkcG9ydAogICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAiUFJPQkxFTSBBQ0NFU1NJTkcgTVlTUUwiCiAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIiQoZGF0ZSkgTVlTUUwgJHBvcnQgY2Fubm90IGFjY2VzIGRhdGFiYXNlIiA+PiAkRVJST1JfRklMRQogICAgICAgICAgICAgICAgICAgICAgICBleGl0IDExCiAgICAgICAgICAgICAgICAgICAgZmkKICAgICAgICAgICAgICAgIGZpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXlzcWwgLWggImxvY2FsaG9zdCIgLS1wb3J0ICRwb3J0IC1Cc2UgIlNIT1cgREFUQUJBU0VTIiAmPi9kZXYvbnVsbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggbXlzcWwgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gbXljbmYgZmlsZSIgPj4gJEVSUk9SX0ZJTEUKICAgICAgICBleGl0IDE0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgOyB0aGVuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
