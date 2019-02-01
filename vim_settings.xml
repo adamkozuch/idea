@@ -31,12 +31,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549008942276">
-        <mark key="'" line="114" column="81" />
-        <mark key="[" line="40" column="111" />
-        <mark key="]" line="41" column="12" />
-        <mark key="." line="41" column="12" />
-        <mark key="^" line="41" column="12" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549012609352">
+        <mark key="'" line="102" column="81" />
+        <mark key="[" line="148" column="99" />
+        <mark key="]" line="148" column="100" />
+        <mark key="." line="148" column="100" />
+        <mark key="^" line="148" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548769043799">
         <mark key="[" line="11" column="10" />
@@ -145,10 +145,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cG9ydD0zMzA2CmNhbl9jb25uZWN0X215c3FsX2RlYmlhbl9jbmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DEBIAN</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
@@ -157,31 +157,31 @@
         <text>--defaults-file=/etc/mysql/debian.cnf</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cG9ydD0zMzA2CmNhbl9jb25uZWN0X215c3FsX2RlYmlhbl9jbmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImluIGNhbiBjb25uZWN0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJpbiBjYW5ub3QgY29ubmVjdCBteS5jbmYiCg==</text>
+        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgogICAgICAgIHJldHVybiAwCiAgICBlbHNlCiAgICAgICAgcmV0dXJuIDEKICAgIGZpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvY2Vzc19teXNxbF9kZWJpYW5fY25mIDMzMDYK</text>
+        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgogICAgICAgIHJldHVybiAwCiAgICBlbHNlCiAgICAgICAgcmV0dXJuIDEKICAgIGZpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgWyAkPyAtZXEgMCBdOyB0aGVuCiAgICBlY2hvICJDT05ORUNURUQgVEhST1VHSCBERUJJQU4gQ05GIgplbHNlCiAgICBlY2hvICJDQU5OT1QgQ09OTkVDVCBERUJJQU4gQ05GIgpmaQo=</text>
+        <text encoding="base64">cG9ydD0zMzA2CmNhbl9jb25uZWN0X215c3FsX2RlYmlhbl9jbmYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FuX2Nvbm5lY3RfbXlzcWxfZGViaWFuX2NuZgo=</text>
+        <text encoding="base64">ICAgIGVjaG8gImluIGNhbiBjb25uZWN0Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gInBvcnQgaXMgbXlzcWwiICRwb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJpbiBjYW5ub3QgY29ubmVjdCBteS5jbmYiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gInBvcnQgaXMgIiAkcG9ydAo=</text>
+        <text encoding="base64">cHJvY2Vzc19teXNxbF9kZWJpYW5fY25mIDMzMDYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgWyAkPyAtZXEgMCBdOyB0aGVuCiAgICBlY2hvICJDT05ORUNURUQgVEhST1VHSCBERUJJQU4gQ05GIgplbHNlCiAgICBlY2hvICJDQU5OT1QgQ09OTkVDVCBERUJJQU4gQ05GIgpmaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
