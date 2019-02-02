@@ -2,17 +2,231 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1548948972054">
+        <mark key="'" line="49" column="20" />
+        <mark key="[" line="18" column="53" />
+        <mark key="]" line="18" column="53" />
+        <mark key="." line="18" column="53" />
+        <mark key="^" line="18" column="53" />
+      </file>
+      <file name="/Python Console" timestamp="1548773712352">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/test_script.sh" timestamp="1548764774662">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="195" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/jwt_logic.py" timestamp="1548763113185">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548760902144">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549012609352">
+        <mark key="'" line="102" column="81" />
+        <mark key="[" line="148" column="99" />
+        <mark key="]" line="148" column="100" />
+        <mark key="." line="148" column="100" />
+        <mark key="^" line="148" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/checkLocalDB.py" timestamp="1549013465615" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548769043799">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" timestamp="1548764972991">
+        <mark key="[" line="130" column="95" />
+        <mark key="]" line="130" column="95" />
+        <mark key="." line="130" column="95" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1548861012652">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" timestamp="1548856163513">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1548860188537">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1548856153832">
+        <mark key="'" line="84" column="5" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/jwt_logic.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="104" column="32" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="17" column="64" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="149" column="3" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="152" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="105" column="16" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="55" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="84" column="5" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
+      <jump line="133" column="16" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="134" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="29" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="147" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="183" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="28" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="125" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="172" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="173" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="151" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="137" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="74" column="35" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="97" column="81" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="193" column="20" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="39" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="64" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="189" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="190" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="208" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="106" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="20" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="198" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="158" column="5" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="159" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="167" column="42" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="161" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="200" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="11" column="80" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="49" column="20" filename="$USER_HOME$/Projects/sportProject/dbmanager/service.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="107" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="100" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="197" column="12" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="194" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="156" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="195" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="157" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="92" column="23" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="210" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="145" column="157" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="142" column="58" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="139" column="38" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="135" column="29" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="129" column="19" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="116" column="123" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="114" column="81" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>1</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>--defaults-file=/etc/mysql/debian.cnf</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgogICAgICAgIHJldHVybiAwCiAgICBlbHNlCiAgICAgICAgcmV0dXJuIDEKICAgIGZpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgogICAgICAgIHJldHVybiAwCiAgICBlbHNlCiAgICAgICAgcmV0dXJuIDEKICAgIGZpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cG9ydD0zMzA2CmNhbl9jb25uZWN0X215c3FsX2RlYmlhbl9jbmYK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVjaG8gImluIGNhbiBjb25uZWN0Igo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICJpbiBjYW5ub3QgY29ubmVjdCBteS5jbmYiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJvY2Vzc19teXNxbF9kZWJpYW5fY25mIDMzMDYK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aWYgWyAkPyAtZXEgMCBdOyB0aGVuCiAgICBlY2hvICJDT05ORUNURUQgVEhST1VHSCBERUJJQU4gQ05GIgplbHNlCiAgICBlY2hvICJDQU5OT1QgQ09OTkVDVCBERUJJQU4gQ05GIgpmaQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>result</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX215c3FsXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZF9teWNuZl9leGlzdHNcPg==</entry>
+        <entry encoding="base64">XDxleGl0XD4=</entry>
+        <entry>debi</entry>
+        <entry encoding="base64">XDxjYW5fY29ubmVjdF9teXNxbFw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX215c3FsX2RlYmlhbl9jbmZcPg==</entry>
+        <entry encoding="base64">XDxjYW5fY29ubmVjdF9teXNxbF9kZWJpYW5fY25mXD4=</entry>
+        <entry encoding="base64">XDxIT1NUX05BTUVcPg==</entry>
+        <entry encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action Run</entry>
+        <entry>q</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
