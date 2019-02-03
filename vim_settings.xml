@@ -16,7 +16,7 @@
         <mark key="." line="18" column="53" />
         <mark key="^" line="18" column="53" />
       </file>
-      <file name="/Python Console" timestamp="1548773712352">
+      <file name="/Python Console" timestamp="1549197193946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548760902144">
@@ -44,6 +44,12 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/atcoder/solution.py" timestamp="1549200073508">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled1/google_spreedsheets.py" timestamp="1549122130442">
         <mark key="'" line="13" column="0" />
@@ -166,43 +172,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTQ09QRVNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>--defaults-file=/etc/mysql/debian.cnf</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIEE6CiAgICAgICAgbG9jYWxfY291bnQgKz0gaSBeIFgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBDZWxsIHZhbHVlcyAuLi4K</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KDMgXiA1KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgogICAgICAgIHJldHVybiAwCiAgICBlbHNlCiAgICAgICAgcmV0dXJuIDEKICAgIGZpCg==</text>
+        <text encoding="base64">aWYgKHN1bShsaW5lcykgLSBtYXgobGluZXMpKSA+IG1heChsaW5lcyk6CiAgICBwcmludCgiWUVTIikKZWxzZToKICAgIHByaW50KCJOTyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgogICAgICAgIHJldHVybiAwCiAgICBlbHNlCiAgICAgICAgcmV0dXJuIDEKICAgIGZpCg==</text>
+        <text encoding="base64">aWYgaSA9PSAxOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cG9ydD0zMzA2CmNhbl9jb25uZWN0X215c3FsX2RlYmlhbl9jbmYK</text>
+        <text encoding="base64">aWYgaSA9PSAwOgogICAgTiA9IGludChsaW5lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImluIGNhbiBjb25uZWN0Igo=</text>
+        <text encoding="base64">Zm9yIGksbGluZSBpbiBlbnVtZXJhdGUoc3lzLnN0ZGluKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJpbiBjYW5ub3QgY29ubmVjdCBteS5jbmYiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvY2Vzc19teXNxbF9kZWJpYW5fY25mIDMzMDYK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnQobGluZXNbMF0pL2ludChsaW5lc1sxXSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -254,6 +260,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
