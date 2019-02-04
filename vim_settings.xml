@@ -9,7 +9,17 @@
         <mark key="." line="41" column="80" />
         <mark key="^" line="41" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549020259805" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549271127541">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549271205746">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+      </file>
       <file name="/Python Console" timestamp="1548773712352">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,7 +53,6 @@
         <mark key="^" line="175" column="10" />
         <mark key="." line="175" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/checkLocalDB.py" timestamp="1549013465615" />
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548769043799">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="26" />
@@ -55,8 +64,7 @@
         <mark key="]" line="130" column="95" />
         <mark key="." line="130" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549016337022" />
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1548861012652">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1549271047095">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -169,10 +177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>może być potrzebne dodanie autocomplete</text>
+        <text>parse.py</text>
       </register>
       <register name="-" type="4">
-        <text>może być potrzebne dodanie autocomplete</text>
+        <text>parse.py</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5cPg==</text>
@@ -181,31 +189,31 @@
         <text encoding="base64">ICAgICAgICBhcHAubG9nZ2VyLmVycm9yKCJSRUNFSVZFIEZJTEUgRVJST1IgOiIgKyBzdHIoZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gbW/FvGUgYnnEhyBwb3RyemVibmUgZG9kYW5pZSBhdXRvY29tcGxldGUKICAgICAgICAgICAgICAgdGhpcy5hcGkoKS5jb2x1bW5zKFsxLCAzLCA0XSkuZXZlcnkoIGZ1bmN0aW9uICgpIHsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">I0NNRCBbIi9ob21lL2RvY2tlci9jb2RlL3NjcmlwdHMvc3RhcnRfdXdzZ2kuc2giXQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gbW/FvGUgYnnEhyBwb3RyemVibmUgZG9kYW5pZSBhdXRvY29tcGxldGUKICAgICAgICAgICAgICAgdGhpcy5hcGkoKS5jb2x1bW5zKFsxLCAzLCA0XSkuZXZlcnkoIGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YVNyYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhhdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIkNPTExVTU5TIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YVNyYykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9BcHBlbmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhhdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB0aGlzLmFwaSgpLmNvbHVtbnMoWzAsMl0pLmV2ZXJ5KCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgIHZhciBjb2x1bW4gPSB0aGlzOwogICAgICAgICAgICAgICAgICAgICB2YXIgc2VsZWN0ID0gJCgnPHNlbGVjdD48b3B0aW9uIHZhbHVlPSIiPjwvb3B0aW9uPjwvc2VsZWN0PicpCiAgICAgICAgICAgICAgICAgICAgICAgICAuYXBwZW5kVG8oICQoY29sdW1uLmZvb3RlcigpKS5lbXB0eSgpICkKICAgICAgICAgICAgICAgICAgICAgICAgIC5vbiggJ2NoYW5nZScsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgdmFsID0gJC5mbi5kYXRhVGFibGUudXRpbC5lc2NhcGVSZWdleCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCh0aGlzKS52YWwoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2VhcmNoKCB2YWwgPyAnXicrdmFsKyckJyA6ICcnLCB0cnVlLCBmYWxzZSApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kcmF3KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICB9ICk7CgogICAgICAgICAgICAgICAgICAgICBjb2x1bW4uZGF0YSgpLnVuaXF1ZSgpLnNvcnQoKS5lYWNoKCBmdW5jdGlvbiAoIGQsIGogKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3QuYXBwZW5kKCAnPG9wdGlvbiB2YWx1ZT0iJytkKyciPicrZCsnPC9vcHRpb24+JyApCiAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIC8vIGRvZGFuaWUgdGV4Ym94IHogc2VhY2hhbWkKICAgICAgICAgICAgICAgdGhpcy5hcGkoKS5jb2x1bW5zKFsxLCAzLCA0XSkuZXZlcnkoIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgdmFyIHRoYXQgPSB0aGlzOwogICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiQ09MTFVNTlMiKQogICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGF0KQoKICAgICAgICAgICAgICAgICAgICAgJCggJ2lucHV0JywgdGhpcy5mb290ZXIoKSkub24oICdrZXl1cCBjaGFuZ2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIHRoYXQuc2VhcmNoKCkgIT09IHRoaXMudmFsdWUgKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhhdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2VhcmNoKCB0aGlzLnZhbHVlICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRyYXcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgfSApOwogICAgICAgICAgICAgICAgIH0gKTsKCiAgICAgICAgICAgICAgICAgIHZhciBkYXRhU3JjID0gW10KCiAgICAgICAgICAgICAgICAgIHRoaXMuYXBpKCkuY2VsbHMoJ3RyJywgWzNdKS5ldmVyeShmdW5jdGlvbigpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEdldCBjZWxsIGRhdGEgYXMgcGxhaW4gdGV4dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBkYXRhID0gJCgnPGRpdj4nKS5odG1sKHRoaXMuZGF0YSgpKS50ZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYoZGF0YVNyYy5pbmRleE9mKGRhdGEpID09PSAtMSl7IGRhdGFTcmMucHVzaChkYXRhKTsgfQogICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgIGRhdGFTcmMuc29ydCgpOwogICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhU3JjKQoKCiAgICAgICAgICAgICAgICAgICQoJ2lucHV0W3R5cGU9InNlYXJjaCJdJywgdGhpcy5hcGkoKS50YWJsZSgpLmZvb3RlcigpKQogICAgICAgICAgICAgICAgICAgICAudHlwZWFoZWFkKHsKICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlOiBkYXRhU3JjLAogICAgICAgICAgICAgICAgICAgICAgICBhZnRlclNlbGVjdDogZnVuY3Rpb24odmFsdWUpewogICAgICAgICAgICAgICAgICAgICAgICAgICBhcGkuc2VhcmNoKHZhbHVlKS5kcmF3KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgfSwKICAgICAgImRhdGEiOiBkYXRhLAogICAgICAiY29sdW1ucyI6IFsKICAgICAgICAgIHsgImRhdGEiOiAiaG9zdCIgfSwKICAgICAgICAgIHsgImRhdGEiOiAidHlwZSIgfSwKICAgICAgICAgIHsgImRhdGEiOiAibmFtZSIgfSwKICAgICAgICAgIHsgImRhdGEiOiAidGFibGVfbmFtZSIgfSwKICAgICAgICAgIHsgImRhdGEiOiAiY29sdW1ucyIgfQogICAgICAgICAgXSwKICAgICAgICAgICJvcmRlciI6IFtbMSwgJ2FzYyddXQogICAgICB9KTsKCiAgICB9KQogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIkNPTExVTU5TIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -241,6 +249,8 @@
         <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
