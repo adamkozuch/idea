@@ -57,6 +57,9 @@
   <action id="Terminal.MoveToEditor">
     <keyboard-shortcut first-keystroke="altGraph e" />
   </action>
+  <action id="Terminal.RenameSession">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
