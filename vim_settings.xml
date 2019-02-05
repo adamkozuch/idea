@@ -54,11 +54,11 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549368206220">
-        <mark key="[" line="2" column="61" />
-        <mark key="]" line="2" column="61" />
-        <mark key="." line="2" column="61" />
-        <mark key="^" line="2" column="91" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549373717634">
+        <mark key="[" line="2" column="148" />
+        <mark key="]" line="2" column="156" />
+        <mark key="." line="2" column="156" />
+        <mark key="^" line="2" column="156" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/supervisor-app.conf" timestamp="1549364933154">
         <mark key="[" line="14" column="37" />
@@ -77,11 +77,11 @@
         <mark key="]" line="130" column="95" />
         <mark key="." line="130" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549371588751">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="44" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549373333815">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1549271047095">
         <mark key="[" line="29" column="0" />
@@ -205,10 +205,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>collector</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>collector</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
