@@ -23,11 +23,11 @@
       <file name="/Python Console" timestamp="1548773712352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549363409036">
-        <mark key="[" line="3" column="177" />
-        <mark key="]" line="3" column="178" />
-        <mark key="." line="3" column="178" />
-        <mark key="^" line="3" column="192" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549377890334">
+        <mark key="[" line="3" column="163" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/test_script.sh" timestamp="1548764774662">
         <mark key="[" line="2" column="48" />
@@ -54,11 +54,11 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549375310326">
-        <mark key="[" line="2" column="188" />
-        <mark key="]" line="2" column="194" />
-        <mark key="." line="2" column="194" />
-        <mark key="^" line="2" column="194" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549377952299">
+        <mark key="[" line="2" column="195" />
+        <mark key="]" line="2" column="205" />
+        <mark key="." line="2" column="205" />
+        <mark key="^" line="2" column="205" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/supervisor-app.conf" timestamp="1549364933154">
         <mark key="[" line="14" column="37" />
@@ -77,11 +77,11 @@
         <mark key="]" line="130" column="95" />
         <mark key="." line="130" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549375233672">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="5" column="39" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549377181097">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1549271047095">
         <mark key="[" line="29" column="0" />
@@ -205,43 +205,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">W3Byb2dyYW06aHRwYXNzd29yZF0KY29tbWFuZCA9IGJhc2ggLWMgIi9ob21lL2RvY2tlci9jb2RlL3NjcmlwdHMvZ2VuZXJhdGVfaHRwYXNzd2Quc2giCg==</text>
+      <register name="0" type="4">
+        <text>-p 80:443</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
+        <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZWxzZQogICAgZWNobyAiUHJvYmxlbSB3aXRoIG15c3FsIGNvbmZpZyIKICAgIGVjaG8gIiQoZGF0ZSkgbm8gdmFsaWQgbXljbmYgZmlsZSIgPj4gJEVSUk9SX0ZJTEUKICAgIGV4aXQgMTQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Zm9yIGRiIGluICR7REJTW0BdfQogICAgICAgIGRvCiAgICAgICAgICBpZiBbICRkYiAhPSAidGVtcGxhdGUwIiBdOyB0aGVuCiAgICAgICAgICBlY2hvICJQUk9DRVNTIFBPU1RHUkVTIERCICIgJGRiCiAgICAgICAgICBTQ0hFTUFTPSQoc3VkbyAtSGl1IHBvc3RncmVzIC1wICRwb3J0IHBzcWwgcG9zdGdyZXMgLWMgICJTRUxFQ1Qgc2NoZW1hX25hbWUgZnJvbSBpbmZvcm1hdGlvbl9zY2hlbWEuc2NoZW1hdGE7IiB8IHNlZCAnMSwyZCcgfCBoZWFkIC1uIC0yKQogICAgICAgICAgZm9yIHNjaGVtYSBpbiAke1NDSEVNQVNbQF19CiAgICAgICAgICAgIGRvCiAgICAgICAgICAgIGlmIFsgJHNjaGVtYSAhPSAicGdfY2F0YWxvZyIgXSAmJiBbICRzY2hlbWEgIT0gImluZm9ybWF0aW9uX3NjaGVtYSIgXTsgdGhlbgogICAgICAgICAgICAgICAgICAgIFRBQkxFUz0kKHN1ZG8gLUhpdSBwb3N0Z3JlcyAtcCAkcG9ydCBwc3FsIHBvc3RncmVzIC1jICAiU0VMRUNUIHRhYmxlX25hbWUgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEudGFibGVzIFdIRVJFIHRhYmxlX3NjaGVtYT0nJHNjaGVtYSc7IiB8IHNlZCAnMSwyZCcgfCBoZWFkIC1uIC0yKQogICAgICAgICAgICAgICAgICAgIGZvciB0YWJsZSBpbiAke1RBQkxFU1tAXX0KICAgICAgICAgICAgICAgICAgICAgICAgZG8KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJHRhYmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUQUJMRV9ERVNDUklQVElPTlM9JChzdWRvIC1IaXUgcG9zdGdyZXMgLXAgJHBvcnQgcHNxbCBwb3N0Z3JlcyAtYyAgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlNFTEVDVCBjb2x1bW5fbmFtZSBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS5jb2x1bW5zIFdIRVJFIHRhYmxlX3NjaGVtYSA9ICckc2NoZW1hJyBhbmQgdGFibGVfbmFtZSA9ICckdGFibGUnIiB8IGhlYWQgLW4gLTIgfCBzZWQgJzEsMmQnfCB0ciAnXHJcbicgJyAnIHwgdHIgJywsJyAnICcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBbICQ/</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICRzY2hlbWEK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIHBncGFzc19leGlzdHMgJiYgcGd1c2VyX3NldDsgdGhlbgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">I0NNRCBbIi9ob21lL2RvY2tlci9jb2RlL3NjcmlwdHMvc3RhcnRfdXdzZ2kuc2giXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
