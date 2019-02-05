@@ -47,17 +47,17 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549365990837">
-        <mark key="'" line="44" column="27" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="124" column="42" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549367955839">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="138" column="36" />
+        <mark key="]" line="138" column="36" />
+        <mark key="." line="138" column="36" />
+        <mark key="^" line="138" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549365155119">
-        <mark key="[" line="2" column="89" />
-        <mark key="]" line="2" column="91" />
-        <mark key="." line="2" column="91" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549368206220">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/supervisor-app.conf" timestamp="1549364933154">
@@ -168,7 +168,6 @@
       <jump line="210" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="145" column="157" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="142" column="58" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="139" column="38" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="135" column="29" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="129" column="19" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="116" column="123" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -202,13 +201,14 @@
       <jump line="49" column="123" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="47" column="43" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="44" column="27" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="139" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>scripts/generate_htpasswd.sh&quot;</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
