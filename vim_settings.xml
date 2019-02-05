@@ -14,10 +14,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549271205746">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="35" />
       </file>
       <file name="/Python Console" timestamp="1548773712352">
@@ -54,11 +54,17 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="124" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549363179102">
-        <mark key="[" line="2" column="71" />
-        <mark key="]" line="2" column="75" />
-        <mark key="." line="2" column="75" />
-        <mark key="^" line="2" column="75" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549365155119">
+        <mark key="[" line="2" column="89" />
+        <mark key="]" line="2" column="91" />
+        <mark key="." line="2" column="91" />
+        <mark key="^" line="2" column="91" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/supervisor-app.conf" timestamp="1549364933154">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548769043799">
         <mark key="[" line="11" column="10" />
@@ -198,17 +204,17 @@
       <jump line="44" column="27" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
+      <register name="&quot;" type="4">
+        <text>scripts/generate_htpasswd.sh&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>scripts/generate_htpasswd.sh&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>sudo -Hiu postgres -p $port psql postgres -c</text>
+      <register name="0" type="2">
+        <text encoding="base64">W3Byb2dyYW06aHRwYXNzd29yZF0KY29tbWFuZCA9IGJhc2ggLWMgIi9ob21lL2RvY2tlci9jb2RlL3NjcmlwdHMvZ2VuZXJhdGVfaHRwYXNzd2Quc2giCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
