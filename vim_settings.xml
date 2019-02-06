@@ -9,10 +9,11 @@
         <mark key="." line="41" column="82" />
         <mark key="^" line="41" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549464114582">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549466214420">
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
         <mark key="[" line="0" column="2" />
@@ -35,6 +36,12 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/execute_record.sh" timestamp="1549466270898">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
@@ -54,11 +61,11 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/crontab.txt" timestamp="1549462220481">
-        <mark key="[" line="3" column="67" />
-        <mark key="]" line="3" column="81" />
-        <mark key="^" line="3" column="81" />
-        <mark key="." line="3" column="81" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/crontab.txt" timestamp="1549466762405">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="41" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="3" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549454558591">
         <mark key="'" line="19" column="6" />
@@ -78,11 +85,6 @@
         <mark key="]" line="11" column="26" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" timestamp="1548764972991">
-        <mark key="[" line="130" column="95" />
-        <mark key="]" line="130" column="95" />
-        <mark key="." line="130" column="95" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549377181097">
         <mark key="[" line="2" column="14" />
@@ -109,11 +111,11 @@
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.base" timestamp="1549454936456">
-        <mark key="[" line="3" column="70" />
-        <mark key="]" line="3" column="73" />
-        <mark key="^" line="3" column="73" />
-        <mark key="." line="3" column="73" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.base" timestamp="1549467349234">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="81" />
+        <mark key="^" line="3" column="81" />
+        <mark key="." line="3" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
@@ -229,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>synch</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>synch</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
@@ -299,11 +301,11 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>wq</entry>
         <entry>set nu rnu</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
