@@ -41,6 +41,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548760902144">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="24" />
@@ -54,11 +60,11 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549380668058">
-        <mark key="[" line="3" column="349" />
-        <mark key="]" line="3" column="386" />
-        <mark key="." line="3" column="349" />
-        <mark key="^" line="3" column="350" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549450430351">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/supervisor-app.conf" timestamp="1549379469699">
         <mark key="[" line="8" column="35" />
@@ -205,16 +211,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>heli</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>heli</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VE9LRU49J2V5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpsZUhBaU9qRTFPREF6T1RJNE5qTXNJbWxoZENJNk1UVTBPRGcxTmpnMU9Dd2ljM1ZpSWpvaVZrRk1TVVFpZlEuS3dBdTkzdmt2T056bFBmeHpoOC12aWNOVF9QdnB5MmpaZmdiYWhVU2VERScK</text>
+        <text encoding="base64">Q0VSVF9QQVRIPS9yb290L2RibWFuYWdlci9jZXJ0LnBlbQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
@@ -244,7 +250,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>set nu rnu</text>
       </register>
     </registers>
     <search>
@@ -276,9 +282,10 @@
         <entry>e</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
-        <entry>set nu rnu</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+        <entry>set nu rnu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
