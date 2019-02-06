@@ -60,6 +60,12 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/crontab.txt" timestamp="1549460653630">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549454558591">
         <mark key="'" line="19" column="6" />
         <mark key="[" line="20" column="0" />
@@ -227,11 +233,11 @@
       <jump line="19" column="6" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LXYgJENPTExFQ1RPUl9MT0dTX1BBVEg6L3Zhci9sb2dzL25naW54IFwK</text>
+      <register name="&quot;" type="4">
+        <text>/home/docker/code/</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>/home/docker/code/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
