@@ -9,9 +9,9 @@
         <mark key="." line="41" column="82" />
         <mark key="^" line="41" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549271127541">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549451068245">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="54" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
@@ -60,11 +60,11 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549450430351">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-        <mark key="^" line="13" column="44" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549452045287">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/supervisor-app.conf" timestamp="1549379469699">
         <mark key="[" line="8" column="35" />
@@ -89,10 +89,17 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1549271047095">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/config.py" timestamp="1549452443888">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="83" />
+        <mark key="." line="3" column="83" />
+        <mark key="^" line="3" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1549452472943">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" timestamp="1548856163513">
         <mark key="[" line="41" column="27" />
@@ -211,16 +218,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>secret</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>secret</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q0VSVF9QQVRIPS9yb290L2RibWFuYWdlci9jZXJ0LnBlbQo=</text>
+      <register name="0" type="4">
+        <text>/etc/nginx/sites-available/default</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
@@ -250,7 +257,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set nu rnu</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -281,11 +288,11 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action Run</entry>
-        <entry>action GotoFile</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>set nu rnu</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
