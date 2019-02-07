@@ -34,11 +34,11 @@
         <mark key="." line="165" column="17" />
         <mark key="^" line="165" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549542348261">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549547373355">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
         <mark key="[" line="41" column="83" />
@@ -124,11 +124,17 @@
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" timestamp="1548856163513">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="27" />
-        <mark key="^" line="41" column="27" />
-        <mark key="." line="41" column="27" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/data/table_obj.json" timestamp="1549547295572">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" timestamp="1549547591542">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.base" timestamp="1549527688737">
         <mark key="[" line="0" column="0" />
@@ -243,43 +249,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-p 80:443 \</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-p 80:443 \</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIklOIENIQU5HRSBTRUNPTkQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImlkIiwKICAgICAgICAgICAgImFwcCIsCiAgICAgICAgICAgICJuYW1lIiwKICAgICAgICAgICAgImFwcGxpZWQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuZGF0YVRhYmxlcyB0Ym9keSB0ciB7CiAgICBtaW4taGVpZ2h0OiAxMDBweDsgLyogb3Igd2hhdGV2ZXIgaGVpZ2h0IHlvdSBuZWVkIHRvIG1ha2UgdGhlbSBhbGwgY29uc2lzdGVudCAqLwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkKICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbHVtbi5zZWFyY2goIHZhbCA/ICdeJyt2YWwrJyQnIDogJycsIHRydWUsIGZhbHNlICkpIC8vIG5vdyBob3cgdG8gbW9kaWZ5IHRoaXMgZnVuY3Rpb24gdG8gaW5jbHVkZSB2YWx1ZXM/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkKICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbHVtbi5zZWFyY2goIHZhbCA/ICdeJyt2YWwrJyQnIDogJycsIHRydWUsIGZhbHNlICkpIC8vIG5vdyBob3cgdG8gbW9kaWZ5IHRoaXMgZnVuY3Rpb24gdG8gaW5jbHVkZSB2YWx1ZXM/Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRvZGFuaWUgdGV4Ym94IHogc2VhY2hhbWkKICAgICAgICAgICAgICAgIC8vIFRPRE8gYWRkIGF1dG9jb21wbGV0ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gSSBzaG91bGQgZmlsdGVyIGNvbHVtbnMgYmFzZWQgb24gdGhpcyBvbiB0cmlnZ2VyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gc2VhcmNoaW5nIGZvciB2YWx1ZSBhbmQgdGhlbiBkcmF3IGl0IGluIGRhdGF0YWJsZXMK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRvZGFuaWUgdGV4Ym94IHogc2VhY2hhbWkKICAgICAgICAgICAgICAgIC8vIFRPRE8gYWRkIGF1dG9jb21wbGV0ZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gSSBzaG91bGQgZmlsdGVyIGNvbHVtbnMgYmFzZWQgb24gdGhpcyBvbiB0cmlnZ2VyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gc2VhcmNoaW5nIGZvciB2YWx1ZSBhbmQgdGhlbiBkcmF3IGl0IGluIGRhdGF0YWJsZXMK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHRoaXMuYXBpKCkuY29sdW1ucyhbMF0pLmV2ZXJ5KCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB2YXIgY29sdW1uID0gdGhpczsKICAgICAgICAgICAgICAgIHZhciBzZWxlY3QgPSAkKCc8c2VsZWN0PjxvcHRpb24gdmFsdWU9IiI+PC9vcHRpb24+PC9zZWxlY3Q+JykKICAgICAgICAgICAgICAgICAgICAuYXBwZW5kVG8oICQoY29sdW1uLmZvb3RlcigpKS5lbXB0eSgpKQogICAgICAgICAgICAgICAgICAgIC5vbiggJ2NoYW5nZScsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZhbCA9ICQuZm4uZGF0YVRhYmxlLnV0aWwuZXNjYXBlUmVnZXgoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKHRoaXMpLnZhbCgpCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY29uZFNlYXJjaGVkID0gdmFsCgogICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIHNlYXJjaGluZyBmb3IgdmFsdWUgYW5kIHRoZW4gZHJhdyBpdCBpbiBkYXRhdGFibGVzCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gSSBzaG91bGQgZmlsdGVyIGNvbHVtbnMgYmFzZWQgb24gdGhpcyBvbiB0cmlnZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNlYXJjaCggdmFsID8gJ14nK3ZhbCsnJCcgOiAnJywgdHJ1ZSwgZmFsc2UgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRyYXcoKTsKICAgICAgICAgICAgICAgICAgICB9ICk7CgogICAgICAgICAgICAgICAgY29sdW1uLmRhdGEoKS51bmlxdWUoKS5zb3J0KCkuZWFjaCggZnVuY3Rpb24gKCBkLCBqICkgewogICAgICAgICAgICAgICAgICAgIHNlbGVjdC5hcHBlbmQoICc8b3B0aW9uIHZhbHVlPSInK2QrJyI+JytkKyc8L29wdGlvbj4nICkKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHZhciBteV9hcGkgPSB0aGlzLmFwaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHRoaXMuYXBpKCkuY29sdW1ucyhbMF0pLmV2ZXJ5KCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB2YXIgY29sdW1uID0gdGhpczsKICAgICAgICAgICAgICAgIHZhciBzZWxlY3QgPSAkKCc8c2VsZWN0PjxvcHRpb24gdmFsdWU9IiI+PC9vcHRpb24+PC9zZWxlY3Q+JykKICAgICAgICAgICAgICAgICAgICAuYXBwZW5kVG8oICQoY29sdW1uLmZvb3RlcigpKS5lbXB0eSgpKQogICAgICAgICAgICAgICAgICAgIC5vbiggJ2NoYW5nZScsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZhbCA9ICQuZm4uZGF0YVRhYmxlLnV0aWwuZXNjYXBlUmVnZXgoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKHRoaXMpLnZhbCgpCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY29uZFNlYXJjaGVkID0gdmFsCgogICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIHNlYXJjaGluZyBmb3IgdmFsdWUgYW5kIHRoZW4gZHJhdyBpdCBpbiBkYXRhdGFibGVzCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gSSBzaG91bGQgZmlsdGVyIGNvbHVtbnMgYmFzZWQgb24gdGhpcyBvbiB0cmlnZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNlYXJjaCggdmFsID8gJ14nK3ZhbCsnJCcgOiAnJywgdHJ1ZSwgZmFsc2UgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRyYXcoKTsKICAgICAgICAgICAgICAgICAgICB9ICk7CgogICAgICAgICAgICAgICAgY29sdW1uLmRhdGEoKS51bmlxdWUoKS5zb3J0KCkuZWFjaCggZnVuY3Rpb24gKCBkLCBqICkgewogICAgICAgICAgICAgICAgICAgIHNlbGVjdC5hcHBlbmQoICc8b3B0aW9uIHZhbHVlPSInK2QrJyI+JytkKyc8L29wdGlvbj4nICkKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -320,6 +326,7 @@
         <entry>action GotoFile</entry>
         <entry>action Run</entry>
         <entry>wq</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
