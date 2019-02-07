@@ -34,12 +34,12 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549029064724">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549533229018">
         <mark key="'" line="21" column="34" />
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="39" />
-        <mark key="^" line="39" column="39" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
         <mark key="[" line="41" column="83" />
@@ -112,11 +112,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/config.py" timestamp="1549452443888">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="83" />
-        <mark key="." line="3" column="83" />
-        <mark key="^" line="3" column="83" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/config.py" timestamp="1549533295798">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1549454363024">
         <mark key="'" line="31" column="40" />
@@ -241,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
@@ -253,34 +253,34 @@
         <text encoding="base64">RU5WIGFwcCAvaG9tZS9kb2NrZXIvY29kZQpXT1JLRElSICRhcHAKQ09QWSAuIC9ob21lL2RvY2tlci9jb2RlCgpSVU4gZWNobyAiZGFlbW9uIG9mZjsiID4+IC9ldGMvbmdpbngvbmdpbnguY29uZgpDT1BZIC4vbmdpbngvZGVmYXVsdCAvZXRjL25naW54L3NpdGVzLWF2YWlsYWJsZS9kZWZhdWx0CkNPUFkgLi9kYXRhdGFibGVzIC92YXIvd3d3L2Rhc2hib2FyZApDT1BZIHN1cGVydmlzb3ItYXBwLmNvbmYgL2V0Yy9zdXBlcnZpc29yL2NvbmYuZC8KUlVOIGNobW9kIDc3NyAkYXBwL2V4ZWN1dGVfcmVjb3JkLnNoCgpDT1BZIGNyb250YWIudHh0IC9ldGMvY3Jvbi5kL3Byb2Nlc3MtcmVjb3JkcwpSVU4gY2htb2QgMDY0NCAvZXRjL2Nyb24uZC9wcm9jZXNzLXJlY29yZHMKUlVOIGNyb250YWIgL2V0Yy9jcm9uLmQvcHJvY2Vzcy1yZWNvcmRzClJVTiB0b3VjaCAvdmFyL2xvZy9jcm9uLmxvZwpSVU4gdG91Y2ggL3Zhci9sb2cvc3lzbG9nLmxvZwoKQ01EIFsic3VwZXJ2aXNvcmQiLCAiLW4iXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0IC1vIG5vdW5zZXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBUcmVhdCB1bnNldCB2YXJpYWJsZXMgYXMgYW4gZXJyb3IK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2V0IC1vIG5vdW5zZXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBUcmVhdCB1bnNldCB2YXJpYWJsZXMgYXMgYW4gZXJyb3IK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">I1twcm9ncmFtOmNyb250YWItc2V0dXBdCiNjb21tYW5kID0gYmFzaCAtYyAiY3JvbnRhYiAvaG9tZS9kb2NrZXIvY29kZS9jcm9udGFiLnR4dCIKI2F1dG9zdGFydCA9IHRydWUKI2F1dG9yZXN0YXJ0ID0gZmFsc2UKI3N0YXJ0cmV0cmllcyA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LXYgJENPTExFQ1RPUl9MT0dTX1BBVEg6L3Zhci9sb2dzL25naW54IFwK</text>
+        <text encoding="base64">I1twcm9ncmFtOmNyb250YWItc2V0dXBdCiNjb21tYW5kID0gYmFzaCAtYyAiY3JvbnRhYiAvaG9tZS9kb2NrZXIvY29kZS9jcm9udGFiLnR4dCIKI2F1dG9zdGFydCA9IHRydWUKI2F1dG9yZXN0YXJ0ID0gZmFsc2UKI3N0YXJ0cmV0cmllcyA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
+        <text encoding="base64">LXYgJENPTExFQ1RPUl9MT0dTX1BBVEg6L3Zhci9sb2dzL25naW54IFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
+        <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWxzZQogICAgZWNobyAiUHJvYmxlbSB3aXRoIG15c3FsIGNvbmZpZyIKICAgIGVjaG8gIiQoZGF0ZSkgbm8gdmFsaWQgbXljbmYgZmlsZSIgPj4gJEVSUk9SX0ZJTEUKICAgIGV4aXQgMTQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -313,10 +313,10 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>set nu rnu</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Run</entry>
         <entry>wq</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
