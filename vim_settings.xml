@@ -9,7 +9,7 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549379820494">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549534438005">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -27,12 +27,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549367955839">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549534266730">
         <mark key="'" line="139" column="0" />
-        <mark key="[" line="138" column="36" />
-        <mark key="]" line="138" column="36" />
-        <mark key="." line="138" column="36" />
-        <mark key="^" line="138" column="36" />
+        <mark key="[" line="165" column="15" />
+        <mark key="]" line="165" column="17" />
+        <mark key="." line="165" column="17" />
+        <mark key="^" line="165" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549533229018">
         <mark key="'" line="21" column="34" />
@@ -280,7 +280,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -315,8 +315,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
