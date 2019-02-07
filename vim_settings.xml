@@ -3,44 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
-        <mark key="[" line="41" column="83" />
-        <mark key="]" line="41" column="82" />
-        <mark key="." line="41" column="82" />
-        <mark key="^" line="41" column="82" />
-      </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549466214420">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="18" column="35" />
-        <mark key="." line="18" column="35" />
-        <mark key="^" line="18" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1548773712352">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549379820494">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="5" column="65" />
-      </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/test_script.sh" timestamp="1548764774662">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="195" />
-        <mark key="^" line="2" column="47" />
-        <mark key="." line="2" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/execute_record.sh" timestamp="1549468695548">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
         <mark key="[" line="3" column="4" />
@@ -61,18 +34,55 @@
         <mark key="." line="138" column="36" />
         <mark key="^" line="138" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549029064724">
+        <mark key="'" line="21" column="34" />
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="39" />
+        <mark key="^" line="39" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
+        <mark key="[" line="41" column="83" />
+        <mark key="]" line="41" column="82" />
+        <mark key="." line="41" column="82" />
+        <mark key="^" line="41" column="82" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549527753345">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/test_script.sh" timestamp="1548764774662">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="195" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/build_test_docker.sh" timestamp="1549527644069">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/execute_record.sh" timestamp="1549468695548">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/crontab.txt" timestamp="1549466762405">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="41" />
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549454558591">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549528546068">
         <mark key="'" line="19" column="6" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/supervisor-app.conf" timestamp="1549469060128">
         <mark key="[" line="15" column="0" />
@@ -86,11 +96,21 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.test" timestamp="1549528154186">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549377181097">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/build_base_docker.sh" timestamp="1549527631570">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/config.py" timestamp="1549452443888">
         <mark key="[" line="3" column="38" />
@@ -111,14 +131,11 @@
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.base" timestamp="1549467349234">
-        <mark key="[" line="3" column="74" />
-        <mark key="]" line="3" column="81" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.base" timestamp="1549527688737">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="21" />
         <mark key="^" line="3" column="81" />
         <mark key="." line="3" column="81" />
-      </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1549462147155">
         <mark key="'" line="20" column="0" />
@@ -126,13 +143,6 @@
         <mark key="]" line="38" column="36" />
         <mark key="." line="38" column="36" />
         <mark key="^" line="38" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549029064724">
-        <mark key="'" line="21" column="34" />
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="39" />
-        <mark key="^" line="39" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -230,44 +240,44 @@
       <jump line="19" column="6" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>synch</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXV0b3N0YXJ0PXRydWUKYXV0b3Jlc3RhcnQ9ZmFsc2UKc3RhcnRyZXRyaWVzPTAK</text>
+        <text encoding="base64">RU5WIGFwcCAvaG9tZS9kb2NrZXIvY29kZQpXT1JLRElSICRhcHAKQ09QWSAuIC9ob21lL2RvY2tlci9jb2RlCgpSVU4gZWNobyAiZGFlbW9uIG9mZjsiID4+IC9ldGMvbmdpbngvbmdpbnguY29uZgpDT1BZIC4vbmdpbngvZGVmYXVsdCAvZXRjL25naW54L3NpdGVzLWF2YWlsYWJsZS9kZWZhdWx0CkNPUFkgLi9kYXRhdGFibGVzIC92YXIvd3d3L2Rhc2hib2FyZApDT1BZIHN1cGVydmlzb3ItYXBwLmNvbmYgL2V0Yy9zdXBlcnZpc29yL2NvbmYuZC8KUlVOIGNobW9kIDc3NyAkYXBwL2V4ZWN1dGVfcmVjb3JkLnNoCgpDT1BZIGNyb250YWIudHh0IC9ldGMvY3Jvbi5kL3Byb2Nlc3MtcmVjb3JkcwpSVU4gY2htb2QgMDY0NCAvZXRjL2Nyb24uZC9wcm9jZXNzLXJlY29yZHMKUlVOIGNyb250YWIgL2V0Yy9jcm9uLmQvcHJvY2Vzcy1yZWNvcmRzClJVTiB0b3VjaCAvdmFyL2xvZy9jcm9uLmxvZwpSVU4gdG91Y2ggL3Zhci9sb2cvc3lzbG9nLmxvZwoKQ01EIFsic3VwZXJ2aXNvcmQiLCAiLW4iXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I1twcm9ncmFtOmNyb250YWItc2V0dXBdCiNjb21tYW5kID0gYmFzaCAtYyAiY3JvbnRhYiAvaG9tZS9kb2NrZXIvY29kZS9jcm9udGFiLnR4dCIKI2F1dG9zdGFydCA9IHRydWUKI2F1dG9yZXN0YXJ0ID0gZmFsc2UKI3N0YXJ0cmV0cmllcyA9IDAK</text>
+        <text encoding="base64">c2V0IC1vIG5vdW5zZXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBUcmVhdCB1bnNldCB2YXJpYWJsZXMgYXMgYW4gZXJyb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LXYgJENPTExFQ1RPUl9MT0dTX1BBVEg6L3Zhci9sb2dzL25naW54IFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
+        <text encoding="base64">I1twcm9ncmFtOmNyb250YWItc2V0dXBdCiNjb21tYW5kID0gYmFzaCAtYyAiY3JvbnRhYiAvaG9tZS9kb2NrZXIvY29kZS9jcm9udGFiLnR4dCIKI2F1dG9zdGFydCA9IHRydWUKI2F1dG9yZXN0YXJ0ID0gZmFsc2UKI3N0YXJ0cmV0cmllcyA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
+        <text encoding="base64">LXYgJENPTExFQ1RPUl9MT0dTX1BBVEg6L3Zhci9sb2dzL25naW54IFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
+        <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWxzZQogICAgZWNobyAiUHJvYmxlbSB3aXRoIG15c3FsIGNvbmZpZyIKICAgIGVjaG8gIiQoZGF0ZSkgbm8gdmFsaWQgbXljbmYgZmlsZSIgPj4gJEVSUk9SX0ZJTEUKICAgIGV4aXQgMTQK</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Zm9yIGRiIGluICR7REJTW0BdfQogICAgICAgIGRvCiAgICAgICAgICBpZiBbICRkYiAhPSAidGVtcGxhdGUwIiBdOyB0aGVuCiAgICAgICAgICBlY2hvICJQUk9DRVNTIFBPU1RHUkVTIERCICIgJGRiCiAgICAgICAgICBTQ0hFTUFTPSQoc3VkbyAtSGl1IHBvc3RncmVzIC1wICRwb3J0IHBzcWwgcG9zdGdyZXMgLWMgICJTRUxFQ1Qgc2NoZW1hX25hbWUgZnJvbSBpbmZvcm1hdGlvbl9zY2hlbWEuc2NoZW1hdGE7IiB8IHNlZCAnMSwyZCcgfCBoZWFkIC1uIC0yKQogICAgICAgICAgZm9yIHNjaGVtYSBpbiAke1NDSEVNQVNbQF19CiAgICAgICAgICAgIGRvCiAgICAgICAgICAgIGlmIFsgJHNjaGVtYSAhPSAicGdfY2F0YWxvZyIgXSAmJiBbICRzY2hlbWEgIT0gImluZm9ybWF0aW9uX3NjaGVtYSIgXTsgdGhlbgogICAgICAgICAgICAgICAgICAgIFRBQkxFUz0kKHN1ZG8gLUhpdSBwb3N0Z3JlcyAtcCAkcG9ydCBwc3FsIHBvc3RncmVzIC1jICAiU0VMRUNUIHRhYmxlX25hbWUgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEudGFibGVzIFdIRVJFIHRhYmxlX3NjaGVtYT0nJHNjaGVtYSc7IiB8IHNlZCAnMSwyZCcgfCBoZWFkIC1uIC0yKQogICAgICAgICAgICAgICAgICAgIGZvciB0YWJsZSBpbiAke1RBQkxFU1tAXX0KICAgICAgICAgICAgICAgICAgICAgICAgZG8KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJHRhYmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUQUJMRV9ERVNDUklQVElPTlM9JChzdWRvIC1IaXUgcG9zdGdyZXMgLXAgJHBvcnQgcHNxbCBwb3N0Z3JlcyAtYyAgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlNFTEVDVCBjb2x1bW5fbmFtZSBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS5jb2x1bW5zIFdIRVJFIHRhYmxlX3NjaGVtYSA9ICckc2NoZW1hJyBhbmQgdGFibGVfbmFtZSA9ICckdGFibGUnIiB8IGhlYWQgLW4gLTIgfCBzZWQgJzEsMmQnfCB0ciAnXHJcbicgJyAnIHwgdHIgJywsJyAnICcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBbICQ/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICRzY2hlbWEK</text>
+        <text encoding="base64">ZWxzZQogICAgZWNobyAiUHJvYmxlbSB3aXRoIG15c3FsIGNvbmZpZyIKICAgIGVjaG8gIiQoZGF0ZSkgbm8gdmFsaWQgbXljbmYgZmlsZSIgPj4gJEVSUk9SX0ZJTEUKICAgIGV4aXQgMTQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -302,10 +312,10 @@
         <entry>e</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>set nu rnu</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
         <entry>wq</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -341,6 +351,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
