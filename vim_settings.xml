@@ -34,12 +34,11 @@
         <mark key="." line="165" column="17" />
         <mark key="^" line="165" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549533229018">
-        <mark key="'" line="21" column="34" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549542348261">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
         <mark key="[" line="41" column="83" />
@@ -212,14 +211,12 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="41" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="61" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="59" column="55" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="14" column="8" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="17" column="21" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
-      <jump line="30" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="25" column="25" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="19" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="93" column="14" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -238,55 +235,60 @@
       <jump line="139" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="30" column="40" filename="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" />
       <jump line="19" column="6" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" />
+      <jump line="30" column="25" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="52" column="22" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="53" column="22" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="99" column="24" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
+        <text encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5WIGFwcCAvaG9tZS9kb2NrZXIvY29kZQpXT1JLRElSICRhcHAKQ09QWSAuIC9ob21lL2RvY2tlci9jb2RlCgpSVU4gZWNobyAiZGFlbW9uIG9mZjsiID4+IC9ldGMvbmdpbngvbmdpbnguY29uZgpDT1BZIC4vbmdpbngvZGVmYXVsdCAvZXRjL25naW54L3NpdGVzLWF2YWlsYWJsZS9kZWZhdWx0CkNPUFkgLi9kYXRhdGFibGVzIC92YXIvd3d3L2Rhc2hib2FyZApDT1BZIHN1cGVydmlzb3ItYXBwLmNvbmYgL2V0Yy9zdXBlcnZpc29yL2NvbmYuZC8KUlVOIGNobW9kIDc3NyAkYXBwL2V4ZWN1dGVfcmVjb3JkLnNoCgpDT1BZIGNyb250YWIudHh0IC9ldGMvY3Jvbi5kL3Byb2Nlc3MtcmVjb3JkcwpSVU4gY2htb2QgMDY0NCAvZXRjL2Nyb24uZC9wcm9jZXNzLXJlY29yZHMKUlVOIGNyb250YWIgL2V0Yy9jcm9uLmQvcHJvY2Vzcy1yZWNvcmRzClJVTiB0b3VjaCAvdmFyL2xvZy9jcm9uLmxvZwpSVU4gdG91Y2ggL3Zhci9sb2cvc3lzbG9nLmxvZwoKQ01EIFsic3VwZXJ2aXNvcmQiLCAiLW4iXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIklOIENIQU5HRSBTRUNPTkQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkKICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbHVtbi5zZWFyY2goIHZhbCA/ICdeJyt2YWwrJyQnIDogJycsIHRydWUsIGZhbHNlICkpIC8vIG5vdyBob3cgdG8gbW9kaWZ5IHRoaXMgZnVuY3Rpb24gdG8gaW5jbHVkZSB2YWx1ZXM/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0IC1vIG5vdW5zZXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBUcmVhdCB1bnNldCB2YXJpYWJsZXMgYXMgYW4gZXJyb3IK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRvZGFuaWUgdGV4Ym94IHogc2VhY2hhbWkKICAgICAgICAgICAgICAgIC8vIFRPRE8gYWRkIGF1dG9jb21wbGV0ZQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">I1twcm9ncmFtOmNyb250YWItc2V0dXBdCiNjb21tYW5kID0gYmFzaCAtYyAiY3JvbnRhYiAvaG9tZS9kb2NrZXIvY29kZS9jcm9udGFiLnR4dCIKI2F1dG9zdGFydCA9IHRydWUKI2F1dG9yZXN0YXJ0ID0gZmFsc2UKI3N0YXJ0cmV0cmllcyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gSSBzaG91bGQgZmlsdGVyIGNvbHVtbnMgYmFzZWQgb24gdGhpcyBvbiB0cmlnZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LXYgJENPTExFQ1RPUl9MT0dTX1BBVEg6L3Zhci9sb2dzL25naW54IFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gc2VhcmNoaW5nIGZvciB2YWx1ZSBhbmQgdGhlbiBkcmF3IGl0IGluIGRhdGF0YWJsZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHRoaXMuYXBpKCkuY29sdW1ucyhbMF0pLmV2ZXJ5KCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB2YXIgY29sdW1uID0gdGhpczsKICAgICAgICAgICAgICAgIHZhciBzZWxlY3QgPSAkKCc8c2VsZWN0PjxvcHRpb24gdmFsdWU9IiI+PC9vcHRpb24+PC9zZWxlY3Q+JykKICAgICAgICAgICAgICAgICAgICAuYXBwZW5kVG8oICQoY29sdW1uLmZvb3RlcigpKS5lbXB0eSgpKQogICAgICAgICAgICAgICAgICAgIC5vbiggJ2NoYW5nZScsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZhbCA9ICQuZm4uZGF0YVRhYmxlLnV0aWwuZXNjYXBlUmVnZXgoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKHRoaXMpLnZhbCgpCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlY29uZFNlYXJjaGVkID0gdmFsCgogICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIHNlYXJjaGluZyBmb3IgdmFsdWUgYW5kIHRoZW4gZHJhdyBpdCBpbiBkYXRhdGFibGVzCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gSSBzaG91bGQgZmlsdGVyIGNvbHVtbnMgYmFzZWQgb24gdGhpcyBvbiB0cmlnZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNlYXJjaCggdmFsID8gJ14nK3ZhbCsnJCcgOiAnJywgdHJ1ZSwgZmFsc2UgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRyYXcoKTsKICAgICAgICAgICAgICAgICAgICB9ICk7CgogICAgICAgICAgICAgICAgY29sdW1uLmRhdGEoKS51bmlxdWUoKS5zb3J0KCkuZWFjaCggZnVuY3Rpb24gKCBkLCBqICkgewogICAgICAgICAgICAgICAgICAgIHNlbGVjdC5hcHBlbmQoICc8b3B0aW9uIHZhbHVlPSInK2QrJyI+JytkKyc8L29wdGlvbj4nICkKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHZhciBteV9hcGkgPSB0aGlzLmFwaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -306,6 +308,8 @@
         <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
         <entry encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</entry>
+        <entry>conso</entry>
+        <entry encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -313,9 +317,9 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>set nu rnu</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry>action GotoFile</entry>
         <entry>action Run</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -354,6 +358,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
