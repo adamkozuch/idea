@@ -12,11 +12,11 @@
       <file name="/Python Console" timestamp="1549553857227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549616301261">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549618992874">
+        <mark key="[" line="4" column="77" />
+        <mark key="]" line="4" column="76" />
+        <mark key="." line="4" column="76" />
+        <mark key="^" line="4" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
         <mark key="[" line="3" column="4" />
@@ -30,12 +30,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549617588036">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549619059548">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="16" />
-        <mark key="]" line="165" column="16" />
-        <mark key="." line="165" column="16" />
-        <mark key="^" line="165" column="96" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="165" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
@@ -46,11 +46,11 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549617657232">
-        <mark key="[" line="28" column="73" />
-        <mark key="]" line="28" column="83" />
-        <mark key="." line="28" column="83" />
-        <mark key="^" line="28" column="83" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549618599716">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="44" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549527753345">
         <mark key="[" line="10" column="0" />
@@ -82,7 +82,7 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549617141690">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549619234549">
         <mark key="'" line="20" column="6" />
         <mark key="[" line="10" column="10" />
         <mark key="]" line="16" column="36" />
@@ -259,43 +259,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request.remote_addr</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>request.remote_addr</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT0xMRUNUT1JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGp3dF90b2tlbiA9IHJlcXVlc3QuaGVhZGVycy5nZXQoJ2F1dGhvcml6YXRpb24nLCBOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UoJ3sibWVzc2FnZSI6ICJzb21ldGhpbmcgd2VudCB3cm9uZyJ9Jywgc3RhdHVzPTQwMCwgbWltZXR5cGU9ImFwcGxpY2F0aW9uL2pzb24iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXJyID0gWzEsMiwzXQphcnIuaW5zZXJ0KDAsIDQpCnByaW50KGFyclstMl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXJyID0gWzEsMiwzXQphcnIuaW5zZXJ0KDAsIDQpCnByaW50KGFyclstMl0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb24KICAgICMgYmFzaWNhbGx5IHJvdywgY29sbCB0byByb3cgKyAxLCBjb2xsICsgMQogICAgIyB3ZSBzdGFydCBmb3IgZWFjaCBlbGVtZW50IGluIGZpcnN0IGNvbHVtbiBhbmQgZWFjaCBlbGVtZW50IGluIGZpcnN0IHJvdwoKICAgIGRlZiBpc1RvZXBsaXR6TWF0cml4KHNlbGYsIG1hdHJpeDogJ0xpc3RbTGlzdFtpbnRdXScpIC0+ICdib29sJzoKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1hdHJpeFswXSkpOiAgIyBhbG9uZyBjb2x1bW4KICAgICAgICAgICAgdmFsID0gbWF0cml4WzBdW2ldCiAgICAgICAgICAgIGMgPSAwCiAgICAgICAgICAgIHIgPSBpCiAgICAgICAgICAgIHdoaWxlIGMgPCBsZW4obWF0cml4KSBhbmQgciA8IGxlbihtYXRyaXhbMF0pOgogICAgICAgICAgICAgICAgaWYgdmFsICE9IG1hdHJpeFtjXVtyXToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1hdHJpeCkpOgogICAgICAgICAgICB2YWwgPSBtYXRyaXhbaV1bMF0KICAgICAgICAgICAgYyA9IGkKICAgICAgICAgICAgciA9IDAKICAgICAgICAgICAgd2hpbGUgYyA8IGxlbihtYXRyaXgpIGFuZCByIDwgbGVuKG1hdHJpeFswXSk6CiAgICAgICAgICAgICAgICBpZiB2YWwgIT0gbWF0cml4W2NdW3JdOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBjICs9IDEKICAgICAgICAgICAgICAgICAgICByICs9IDEKCiAgICAgICAgcmV0dXJuIFRydWUKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obWF0cml4WzBdKSk6ICAjIGFsb25nIGNvbHVtbgo=</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24KICAgICMgYmFzaWNhbGx5IHJvdywgY29sbCB0byByb3cgKyAxLCBjb2xsICsgMQogICAgIyB3ZSBzdGFydCBmb3IgZWFjaCBlbGVtZW50IGluIGZpcnN0IGNvbHVtbiBhbmQgZWFjaCBlbGVtZW50IGluIGZpcnN0IHJvdwoKICAgIGRlZiBpc1RvZXBsaXR6TWF0cml4KHNlbGYsIG1hdHJpeDogJ0xpc3RbTGlzdFtpbnRdXScpIC0+ICdib29sJzoKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1hdHJpeFswXSkpOiAgIyBhbG9uZyBjb2x1bW4KICAgICAgICAgICAgdmFsID0gbWF0cml4WzBdW2ldCiAgICAgICAgICAgIGMgPSAwCiAgICAgICAgICAgIHIgPSBpCiAgICAgICAgICAgIHdoaWxlIGMgPCBsZW4obWF0cml4KSBhbmQgciA8IGxlbihtYXRyaXhbMF0pOgogICAgICAgICAgICAgICAgaWYgdmFsICE9IG1hdHJpeFtjXVtyXToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1hdHJpeCkpOgogICAgICAgICAgICB2YWwgPSBtYXRyaXhbaV1bMF0KICAgICAgICAgICAgYyA9IGkKICAgICAgICAgICAgciA9IDAKICAgICAgICAgICAgd2hpbGUgYyA8IGxlbihtYXRyaXgpIGFuZCByIDwgbGVuKG1hdHJpeFswXSk6CiAgICAgICAgICAgICAgICBpZiB2YWwgIT0gbWF0cml4W2NdW3JdOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBjICs9IDEKICAgICAgICAgICAgICAgICAgICByICs9IDEKCiAgICAgICAgcmV0dXJuIFRydWUKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obWF0cml4WzBdKSk6ICAjIGFsb25nIGNvbHVtbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuZGF0YVRhYmxlcyB0Ym9keSB0ciB7CiAgICBtaW4taGVpZ2h0OiAxMDBweDsgLyogb3Igd2hhdGV2ZXIgaGVpZ2h0IHlvdSBuZWVkIHRvIG1ha2UgdGhlbSBhbGwgY29uc2lzdGVudCAqLwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuZGF0YVRhYmxlcyB0Ym9keSB0ciB7CiAgICBtaW4taGVpZ2h0OiAxMDBweDsgLyogb3Igd2hhdGV2ZXIgaGVpZ2h0IHlvdSBuZWVkIHRvIG1ha2UgdGhlbSBhbGwgY29uc2lzdGVudCAqLwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkKICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbHVtbi5zZWFyY2goIHZhbCA/ICdeJyt2YWwrJyQnIDogJycsIHRydWUsIGZhbHNlICkpIC8vIG5vdyBob3cgdG8gbW9kaWZ5IHRoaXMgZnVuY3Rpb24gdG8gaW5jbHVkZSB2YWx1ZXM/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbCkKICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbHVtbi5zZWFyY2goIHZhbCA/ICdeJyt2YWwrJyQnIDogJycsIHRydWUsIGZhbHNlICkpIC8vIG5vdyBob3cgdG8gbW9kaWZ5IHRoaXMgZnVuY3Rpb24gdG8gaW5jbHVkZSB2YWx1ZXM/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -334,11 +334,11 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>set nu rnu</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action GotoFile</entry>
         <entry>action Run</entry>
         <entry>wq</entry>
         <entry>ew</entry>
         <entry>we</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
