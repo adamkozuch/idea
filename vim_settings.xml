@@ -30,12 +30,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549632204879">
-        <mark key="'" line="155" column="17" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="165" column="18" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549633313738">
+        <mark key="'" line="156" column="17" />
+        <mark key="[" line="115" column="7" />
+        <mark key="]" line="115" column="38" />
+        <mark key="." line="115" column="7" />
+        <mark key="^" line="101" column="192" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
@@ -260,7 +260,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${RESULT_PATH}_${DATABASE_HOST}</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -268,8 +268,8 @@
       <register name="/" type="4">
         <text>14</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5lcnJvcigiUFJPQ0VTUyBFUlJPUjogREIgTk9UIEtOT1dOICIgKyBzdHIoZSkpCg==</text>
+      <register name="0" type="4">
+        <text>${RESULT_PATH}_${DATABASE_HOST}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRyeQo=</text>
