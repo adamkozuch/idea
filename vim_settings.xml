@@ -12,7 +12,7 @@
       <file name="/Python Console" timestamp="1549553857227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549615011778">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549616301261">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="26" />
@@ -30,12 +30,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549534266730">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="165" column="15" />
-        <mark key="]" line="165" column="17" />
-        <mark key="." line="165" column="17" />
-        <mark key="^" line="165" column="17" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549617588036">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="165" column="16" />
+        <mark key="]" line="165" column="16" />
+        <mark key="." line="165" column="16" />
+        <mark key="^" line="165" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
@@ -46,11 +46,11 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
-        <mark key="[" line="41" column="83" />
-        <mark key="]" line="41" column="82" />
-        <mark key="." line="41" column="82" />
-        <mark key="^" line="41" column="82" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549617657232">
+        <mark key="[" line="28" column="73" />
+        <mark key="]" line="28" column="83" />
+        <mark key="." line="28" column="83" />
+        <mark key="^" line="28" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549527753345">
         <mark key="[" line="10" column="0" />
@@ -82,12 +82,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549613879352">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="14" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549617141690">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/supervisor-app.conf" timestamp="1549469060128">
         <mark key="[" line="15" column="0" />
@@ -156,9 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanagest/jwt_logic.py" />
-      <jump line="155" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="17" column="64" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="149" column="3" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="152" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -234,7 +231,6 @@
       <jump line="101" column="103" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="96" column="146" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="165" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="104" column="157" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="73" column="123" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="71" column="81" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -256,19 +252,23 @@
       <jump line="39" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="165" column="96" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="171" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODExNDk1ODksImlhdCI6MTU0OTYxMzU4NCwic3ViIjoiVkFMSUQifQ.i3G52u37r5zfnUzsP7TuGzklGP--bNZb0IpZMCwWhlc</text>
+        <text>request.remote_addr</text>
       </register>
       <register name="-" type="4">
-        <text>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODExNDk1ODksImlhdCI6MTU0OTYxMzU4NCwic3ViIjoiVkFMSUQifQ.i3G52u37r5zfnUzsP7TuGzklGP--bNZb0IpZMCwWhlc</text>
+        <text>request.remote_addr</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</text>
+        <text encoding="base64">XDxDT0xMRUNUT1JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlkIiwKICAgICAgICAgICAgImFwcCIsCiAgICAgICAgICAgICJuYW1lIiwKICAgICAgICAgICAgImFwcGxpZWQiLAo=</text>
+        <text encoding="base64">ICAgIGp3dF90b2tlbiA9IHJlcXVlc3QuaGVhZGVycy5nZXQoJ2F1dGhvcml6YXRpb24nLCBOb25lKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXJyID0gWzEsMiwzXQphcnIuaW5zZXJ0KDAsIDQpCnByaW50KGFyclstMl0pCg==</text>
@@ -302,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</last-search>
+      <last-search encoding="base64">XDxDT0xMRUNUT1JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDT0xMRUNUT1JcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -326,6 +326,7 @@
         <entry encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</entry>
         <entry>conso</entry>
         <entry encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</entry>
+        <entry encoding="base64">XDxDT0xMRUNUT1JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
