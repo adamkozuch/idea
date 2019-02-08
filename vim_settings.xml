@@ -30,21 +30,22 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549633313738">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549634334979">
         <mark key="'" line="156" column="17" />
-        <mark key="[" line="115" column="7" />
-        <mark key="]" line="115" column="38" />
-        <mark key="." line="115" column="7" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
         <mark key="^" line="101" column="192" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549547373355">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="38" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="20" column="38" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549639055551">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549629721378">
         <mark key="'" line="24" column="8" />
@@ -136,11 +137,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" timestamp="1549547591542">
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="2" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" timestamp="1549639006446">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+        <mark key="^" line="26" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.base" timestamp="1549527688737">
         <mark key="[" line="0" column="0" />
@@ -157,10 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="84" column="5" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
       <jump line="133" column="16" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="134" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="29" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -220,7 +218,6 @@
       <jump line="61" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="59" column="55" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
-      <jump line="14" column="8" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="17" column="21" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="25" column="25" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="19" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
@@ -257,56 +254,61 @@
       <jump line="155" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="66" column="12" filename="$USER_HOME$/Projects/sportProject/dbmanager/service.py" />
       <jump line="25" column="8" filename="$USER_HOME$/Projects/sportProject/dbmanager/service.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" />
+      <jump line="21" column="18" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="69" column="67" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="0" column="2" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${RESULT_PATH}_${DATABASE_HOST}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciBmaXJzdFNlYXJjaGVkID0gIiIKICAgIHZhciBzZWNvbmRTZWFyY2hlZCA9ICIiCiAgICAvLyB0YWJsZS5jb2x1bW4oNCkuc2VhcmNoKHRoaXMudmFsdWUpLmNvbHVtbig1KS5zZWFyY2godGhpcy52YWzigIzigIt1ZSkuZHJhdygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>14</text>
+        <text encoding="base64">XDxmaXJzdFNlYXJjaGVkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>${RESULT_PATH}_${DATABASE_HOST}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJCgnaW5wdXRbaWQ9IlRhYmxlX25hbWUiXScsIHRoaXMuYXBpKCkudGFibGUoKS5jb250YWluZXIoKSkKICAgICAgICAgICAgICAgICAgICAgLnR5cGVhaGVhZCh7CiAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZTogZGF0YVNvdXJjZTIsCiAgICAgICAgICAgICAgICAgICAgICAgIGFmdGVyc2VsZWN0OiBmdW5jdGlvbih2YWx1ZSl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaV92YXIuc2VhcmNoKHZhbHVlKS5kcmF3KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgIHZhciBmaXJzdFNlYXJjaGVkID0gIiIKICAgIHZhciBzZWNvbmRTZWFyY2hlZCA9ICIiCiAgICAvLyB0YWJsZS5jb2x1bW4oNCkuc2VhcmNoKHRoaXMudmFsdWUpLmNvbHVtbig1KS5zZWFyY2godGhpcy52YWzigIzigIt1ZSkuZHJhdygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCJQUk9DRVNTIEVSUk9SOiBEQiBOT1QgS05PV04gIiArIHN0cihsaW5lKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5TRUNSRVRfS0VZKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFyIG90aGVyRGF0YVNvdXJjZSA9IFsnb25lJywgJ3R3bycsICd0aHJlZSddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YVNyYykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFyIG90aGVyRGF0YVNvdXJjZSA9IFsnb25lJywgJ3R3bycsICd0aHJlZSddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcC5sb2dnZXIuaW5mbygiUkVDRUlWRUQgIDoiICsgc3RyKGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJCgnaW5wdXRbdHlwZT0idGV4dCJdJywgdGhpcy5hcGkoKS5jb250YWluZXIoKSkKICAgICAgICAgICAgICAgICAgICAgLnR5cGVhaGVhZCh7CiAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZTogZGF0YVNyYywKICAgICAgICAgICAgICAgICAgICAgICAgYWZ0ZXJTZWxlY3Q6IGZ1bmN0aW9uKHZhbHVlKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBpX3Zhci5zZWFyY2godmFsdWUpLmRyYXcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJCgnaW5wdXRbdHlwZT0idGV4dCJdJywgdGhpcy5hcGkoKS5jb250YWluZXIoKSkKICAgICAgICAgICAgICAgICAgICAgLnR5cGVhaGVhZCh7CiAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZTogZGF0YVNyYywKICAgICAgICAgICAgICAgICAgICAgICAgYWZ0ZXJTZWxlY3Q6IGZ1bmN0aW9uKHZhbHVlKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBpX3Zhci5zZWFyY2godmFsdWUpLmRyYXcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXJyID0gWzEsMiwzXQphcnIuaW5zZXJ0KDAsIDQpCnByaW50KGFyclstMl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJCgnaW5wdXRbdHlwZT0idGV4dCJdJywgdGhpcy5hcGkoKS5jb250YWluZXIoKSkKICAgICAgICAgICAgICAgICAgICAgLnR5cGVhaGVhZCh7CiAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZTogZGF0YVNyYywKICAgICAgICAgICAgICAgICAgICAgICAgYWZ0ZXJTZWxlY3Q6IGZ1bmN0aW9uKHZhbHVlKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBpX3Zhci5zZWFyY2godmFsdWUpLmRyYXcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>14</last-search>
+      <last-search encoding="base64">XDxmaXJzdFNlYXJjaGVkXD4=</last-search>
       <last-offset />
-      <last-pattern>14</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxmaXJzdFNlYXJjaGVkXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -330,6 +332,7 @@
         <entry encoding="base64">XDxDT0xMRUNUT1JcPg==</entry>
         <entry>some</entry>
         <entry>14</entry>
+        <entry encoding="base64">XDxmaXJzdFNlYXJjaGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -337,11 +340,11 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>set nu rnu</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry>ew</entry>
         <entry>we</entry>
         <entry>action Run</entry>
         <entry>action GotoFile</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
