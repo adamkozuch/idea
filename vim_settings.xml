@@ -78,13 +78,14 @@
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" timestamp="1549416084557">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="38" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="18" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" timestamp="1549658496875">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549474807085">
+      <file name="/Dummy.txt" timestamp="1549658137432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549377181097">
@@ -130,11 +131,11 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled1/jisho_api.py" timestamp="1549481891678">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="11" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/untitled1/jisho_api.py" timestamp="1549657676375">
+        <mark key="[" line="21" column="91" />
+        <mark key="]" line="21" column="96" />
+        <mark key="^" line="21" column="96" />
+        <mark key="." line="21" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/test_script.sh" timestamp="1548764774662">
         <mark key="[" line="2" column="48" />
@@ -240,46 +241,53 @@
       <jump line="47" column="43" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="44" column="27" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="139" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/anki_skripting.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>['senses'][0]['english_definitions']</text>
+        <text>Simple Model</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Simple Model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>['senses'][0]['english_definitions']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICduYW1lJzogJ0NhcmQgMScsCiAgICAgICAgICAgICdxZm10JzogJ3t7UXVlc3Rpb259fScsCiAgICAgICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">bXlfbW9kZWwgPSBnZW5hbmtpLk1vZGVsKAogICAgMTYwNzM5MjMxOSwKICAgICdTaW1wbGUgTW9kZWwnLAogICAgZmllbGRzPVsKICAgICAgICB7J25hbWUnOiAnUXVlc3Rpb24nfSwKICAgICAgICB7J25hbWUnOiAnQW5zd2VyJ30sCiAgICBdLAogICAgdGVtcGxhdGVzPVsKICAgICAgICB7CiAgICAgICAgICAgICduYW1lJzogJ0NhcmQgMScsCiAgICAgICAgICAgICdxZm10JzogJ3t7UXVlc3Rpb259fScsCiAgICAgICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICduYW1lJzogJ0NhcmQgMicsCiAgICAgICAgICAgICdxZm10JzogJ3t7QW5zd2VyfX0nLAogICAgICAgICAgICAnYWZtdCc6ICd7e0Zyb250U2lkZX19PGhyIGlkPSJxdWVzdGlvbiI+e3tRdWVzdGlvbn19JywKICAgICAgICB9LAogICAgXSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgKCJcdTMwNTlcdTMwN2VcdTMwNDQiKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiA4MDsK</text>
+        <text encoding="base64">bXlfbm90ZSA9IGdlbmFua2kuTm90ZSgKICAgIG1vZGVsPW15X21vZGVsLAogICAgZmllbGRzPVsnc29tZV9pbmZvJywgJ2pkamRqamRqZGpqZGQnXSkKCm15X2RlY2sgPSBnZW5hbmtpLkRlY2soCiAgICAyMDU5NDAwMTEwLAogICAgJ0NvdW50cnkgQ2FwaXRhbHMnKQoKbXlfZGVjay5hZGRfbm90ZShteV9ub3RlKQpnZW5hbmtpLlBhY2thZ2UobXlfZGVjaykud3JpdGVfdG9fZmlsZSgnb3V0cHV0LmFwa2cnKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJQcm9ibGVtIHdpdGggcG9zdGdyZXMgY29uZmlnIgogICAgICAgIGVjaG8gIiQoZGF0ZSkgbm8gLnBncGFzcyAgb2YgUEdVU0VSIiA+PiAkRVJST1JfRklMRQogICAgICAgIGV4aXQgMTQgIyBwcm9ibGVtIHdpdGggY29uZmlnIGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXJzZWRbJ2RhdGEnXVtpbnQocnIpXVsnc2Vuc2VzJ11bMF1bJ2VuZ2xpc2hfZGVmaW5pdGlvbnMnXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJST1ciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgiYmV0d2VlbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWxzZQogICAgZWNobyAiUHJvYmxlbSB3aXRoIG15c3FsIGNvbmZpZyIKICAgIGVjaG8gIiQoZGF0ZSkgbm8gdmFsaWQgbXljbmYgZmlsZSIgPj4gJEVSUk9SX0ZJTEUKICAgIGV4aXQgMTQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Zm9yIGRiIGluICR7REJTW0BdfQogICAgICAgIGRvCiAgICAgICAgICBpZiBbICRkYiAhPSAidGVtcGxhdGUwIiBdOyB0aGVuCiAgICAgICAgICBlY2hvICJQUk9DRVNTIFBPU1RHUkVTIERCICIgJGRiCiAgICAgICAgICBTQ0hFTUFTPSQoc3VkbyAtSGl1IHBvc3RncmVzIC1wICRwb3J0IHBzcWwgcG9zdGdyZXMgLWMgICJTRUxFQ1Qgc2NoZW1hX25hbWUgZnJvbSBpbmZvcm1hdGlvbl9zY2hlbWEuc2NoZW1hdGE7IiB8IHNlZCAnMSwyZCcgfCBoZWFkIC1uIC0yKQogICAgICAgICAgZm9yIHNjaGVtYSBpbiAke1NDSEVNQVNbQF19CiAgICAgICAgICAgIGRvCiAgICAgICAgICAgIGlmIFsgJHNjaGVtYSAhPSAicGdfY2F0YWxvZyIgXSAmJiBbICRzY2hlbWEgIT0gImluZm9ybWF0aW9uX3NjaGVtYSIgXTsgdGhlbgogICAgICAgICAgICAgICAgICAgIFRBQkxFUz0kKHN1ZG8gLUhpdSBwb3N0Z3JlcyAtcCAkcG9ydCBwc3FsIHBvc3RncmVzIC1jICAiU0VMRUNUIHRhYmxlX25hbWUgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEudGFibGVzIFdIRVJFIHRhYmxlX3NjaGVtYT0nJHNjaGVtYSc7IiB8IHNlZCAnMSwyZCcgfCBoZWFkIC1uIC0yKQogICAgICAgICAgICAgICAgICAgIGZvciB0YWJsZSBpbiAke1RBQkxFU1tAXX0KICAgICAgICAgICAgICAgICAgICAgICAgZG8KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJHRhYmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUQUJMRV9ERVNDUklQVElPTlM9JChzdWRvIC1IaXUgcG9zdGdyZXMgLXAgJHBvcnQgcHNxbCBwb3N0Z3JlcyAtYyAgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlNFTEVDVCBjb2x1bW5fbmFtZSBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS5jb2x1bW5zIFdIRVJFIHRhYmxlX3NjaGVtYSA9ICckc2NoZW1hJyBhbmQgdGFibGVfbmFtZSA9ICckdGFibGUnIiB8IGhlYWQgLW4gLTIgfCBzZWQgJzEsMmQnfCB0ciAnXHJcbicgJyAnIHwgdHIgJywsJyAnICcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBbICQ/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmlyc3RfcmVhZGluZykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICRzY2hlbWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RfcmVhZGluZyA9IHZbJ2phcGFuZXNlJ11bMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -311,6 +319,8 @@
         <entry>q</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action GotoClass</entry>
         <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
@@ -341,6 +351,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
