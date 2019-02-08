@@ -46,10 +46,12 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549627147451">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549629721378">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="61" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549527753345">
         <mark key="[" line="10" column="0" />
@@ -155,8 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="105" column="16" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="55" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="84" column="5" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
@@ -255,46 +255,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="153" column="11" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="155" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="66" column="12" filename="$USER_HOME$/Projects/sportProject/dbmanager/service.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/Projects/sportProject/dbmanager/service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5TRUNSRVRfS0VZKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text>14</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAubG9nZ2VyLmVycm9yKCJSRUNFSVZFIEZJTEUgRVJST1IgOiIgKyBzdHIoZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLmxvZ2dlci5pbmZvKCJSRUNFSVZFRCBGSUxFIFdSSVRURU46ICIgKyBzdHIoc2VuZGVyX25hbWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5TRUNSRVRfS0VZKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcC5sb2dnZXIuaW5mbygiUkVDRUlWRUQgIDoiICsgc3RyKGUpKQo=</text>
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcC5sb2dnZXIuaW5mbygiUkVDRUlWRUQgIDoiICsgc3RyKGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXJyID0gWzEsMiwzXQphcnIuaW5zZXJ0KDAsIDQpCnByaW50KGFyclstMl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXJyID0gWzEsMiwzXQphcnIuaW5zZXJ0KDAsIDQpCnByaW50KGFyclstMl0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb24KICAgICMgYmFzaWNhbGx5IHJvdywgY29sbCB0byByb3cgKyAxLCBjb2xsICsgMQogICAgIyB3ZSBzdGFydCBmb3IgZWFjaCBlbGVtZW50IGluIGZpcnN0IGNvbHVtbiBhbmQgZWFjaCBlbGVtZW50IGluIGZpcnN0IHJvdwoKICAgIGRlZiBpc1RvZXBsaXR6TWF0cml4KHNlbGYsIG1hdHJpeDogJ0xpc3RbTGlzdFtpbnRdXScpIC0+ICdib29sJzoKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1hdHJpeFswXSkpOiAgIyBhbG9uZyBjb2x1bW4KICAgICAgICAgICAgdmFsID0gbWF0cml4WzBdW2ldCiAgICAgICAgICAgIGMgPSAwCiAgICAgICAgICAgIHIgPSBpCiAgICAgICAgICAgIHdoaWxlIGMgPCBsZW4obWF0cml4KSBhbmQgciA8IGxlbihtYXRyaXhbMF0pOgogICAgICAgICAgICAgICAgaWYgdmFsICE9IG1hdHJpeFtjXVtyXToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1hdHJpeCkpOgogICAgICAgICAgICB2YWwgPSBtYXRyaXhbaV1bMF0KICAgICAgICAgICAgYyA9IGkKICAgICAgICAgICAgciA9IDAKICAgICAgICAgICAgd2hpbGUgYyA8IGxlbihtYXRyaXgpIGFuZCByIDwgbGVuKG1hdHJpeFswXSk6CiAgICAgICAgICAgICAgICBpZiB2YWwgIT0gbWF0cml4W2NdW3JdOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBjICs9IDEKICAgICAgICAgICAgICAgICAgICByICs9IDEKCiAgICAgICAgcmV0dXJuIFRydWUKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obWF0cml4WzBdKSk6ICAjIGFsb25nIGNvbHVtbgo=</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24KICAgICMgYmFzaWNhbGx5IHJvdywgY29sbCB0byByb3cgKyAxLCBjb2xsICsgMQogICAgIyB3ZSBzdGFydCBmb3IgZWFjaCBlbGVtZW50IGluIGZpcnN0IGNvbHVtbiBhbmQgZWFjaCBlbGVtZW50IGluIGZpcnN0IHJvdwoKICAgIGRlZiBpc1RvZXBsaXR6TWF0cml4KHNlbGYsIG1hdHJpeDogJ0xpc3RbTGlzdFtpbnRdXScpIC0+ICdib29sJzoKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1hdHJpeFswXSkpOiAgIyBhbG9uZyBjb2x1bW4KICAgICAgICAgICAgdmFsID0gbWF0cml4WzBdW2ldCiAgICAgICAgICAgIGMgPSAwCiAgICAgICAgICAgIHIgPSBpCiAgICAgICAgICAgIHdoaWxlIGMgPCBsZW4obWF0cml4KSBhbmQgciA8IGxlbihtYXRyaXhbMF0pOgogICAgICAgICAgICAgICAgaWYgdmFsICE9IG1hdHJpeFtjXVtyXToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1hdHJpeCkpOgogICAgICAgICAgICB2YWwgPSBtYXRyaXhbaV1bMF0KICAgICAgICAgICAgYyA9IGkKICAgICAgICAgICAgciA9IDAKICAgICAgICAgICAgd2hpbGUgYyA8IGxlbihtYXRyaXgpIGFuZCByIDwgbGVuKG1hdHJpeFswXSk6CiAgICAgICAgICAgICAgICBpZiB2YWwgIT0gbWF0cml4W2NdW3JdOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBjICs9IDEKICAgICAgICAgICAgICAgICAgICByICs9IDEKCiAgICAgICAgcmV0dXJuIFRydWUKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obWF0cml4WzBdKSk6ICAjIGFsb25nIGNvbHVtbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
