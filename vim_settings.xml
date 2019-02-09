@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1549747990868">
-        <mark key="'" line="123" column="25" />
-        <mark key="[" line="103" column="35" />
-        <mark key="]" line="103" column="35" />
-        <mark key="." line="103" column="35" />
-        <mark key="^" line="103" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1549751195800">
+        <mark key="'" line="126" column="25" />
+        <mark key="[" line="110" column="73" />
+        <mark key="]" line="110" column="73" />
+        <mark key="." line="110" column="73" />
+        <mark key="^" line="110" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
         <mark key="'" line="49" column="20" />
@@ -108,7 +108,7 @@
         <mark key="." line="148" column="18" />
         <mark key="^" line="148" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549743435384">
+      <file name="/Dummy.txt" timestamp="1549751204568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549377181097">
@@ -283,53 +283,53 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>from datetime import time</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>from datetime import time</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaG9vc2VkXD4=</text>
+        <text>language</text>
       </register>
       <register name="0" type="4">
         <text>'{0}.mp3'.format(english_meaning)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdpbiBkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlLm1lZGlhX2ZpbGVzID0gWyd7MH0ubXAzJy5mb3JtYXQoZW5nbGlzaF9tZWFuaW5nKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlID0gZ2VuYW5raS5QYWNrYWdlKG15X2RlY2spCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlLm1lZGlhX2ZpbGVzID0gWyd7MH0ubXAzJy5mb3JtYXQoZW5nbGlzaF9tZWFuaW5nKV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFua2kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdpbiBkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBteV9kZWNrID0gZ2VuYW5raS5EZWNrKAogICAgICAgICAgICAyMDU5NDAwMjAxLAogICAgICAgICAgICAnSmFwYW5lc2Vfd29yZHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc19hb2RpbzoKICAgICAgICAgICAgcHJvbmF1bmNpYXRpb24gPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgICAgICBtb2RlbD1teV9tb2RlMywKICAgICAgICAgICAgICAgIGZpZWxkcz1bJ1tzb3VuZDp7MH0ubXAzXScuZm9ybWF0KGVuZ2xpc2hfbWVhbmluZyksIGVuZ2xpc2hfbWVhbmluZywgcmVhZGluZ10pCiAgICAgICAgICAgIG15X2RlY2suYWRkX25vdGUocHJvbmF1bmNpYXRpb24pCg==</text>
+        <text encoding="base64">aW1wb3J0IGFua2kK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaG9vc2VkXD4=</last-search>
+      <last-search>language</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaG9vc2VkXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>language</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -348,6 +348,7 @@
         <entry encoding="base64">XDxTQ09QRVNcPg==</entry>
         <entry encoding="base64">XDxteV9tb2RlbDJcPg==</entry>
         <entry encoding="base64">XDxjaG9vc2VkXD4=</entry>
+        <entry>language</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
