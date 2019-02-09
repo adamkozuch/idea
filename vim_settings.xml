@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1549747990868">
+        <mark key="'" line="123" column="25" />
+        <mark key="[" line="103" column="35" />
+        <mark key="]" line="103" column="35" />
+        <mark key="." line="103" column="35" />
+        <mark key="^" line="103" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
         <mark key="'" line="49" column="20" />
         <mark key="[" line="41" column="83" />
@@ -173,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="15" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="151" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="137" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -273,13 +279,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/anki_jisho_plugin/jisho_api.py" />
       <jump line="17" column="12" filename="$USER_HOME$/PycharmProjects/untitled1/anki_jisho_plugin/jisho_api.py" />
       <jump line="4" column="19" filename="$USER_HOME$/PycharmProjects/untitled1/anki_jisho_plugin/jisho_api.py" />
+      <jump line="117" column="25" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cripting</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>cripting</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaG9vc2VkXD4=</text>
@@ -288,31 +295,31 @@
         <text>'{0}.mp3'.format(english_meaning)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFua2kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdpbiBkJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBteV9kZWNrID0gZ2VuYW5raS5EZWNrKAogICAgICAgICAgICAyMDU5NDAwMjAxLAogICAgICAgICAgICAnSmFwYW5lc2Vfd29yZHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc19hb2RpbzoKICAgICAgICAgICAgcHJvbmF1bmNpYXRpb24gPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgICAgICBtb2RlbD1teV9tb2RlMywKICAgICAgICAgICAgICAgIGZpZWxkcz1bJ1tzb3VuZDp7MH0ubXAzXScuZm9ybWF0KGVuZ2xpc2hfbWVhbmluZyksIGVuZ2xpc2hfbWVhbmluZywgcmVhZGluZ10pCiAgICAgICAgICAgIG15X2RlY2suYWRkX25vdGUocHJvbmF1bmNpYXRpb24pCg==</text>
+        <text encoding="base64">aW1wb3J0IGFua2kK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBteV9kZWNrLmFkZF9ub3RlKHByb25hdW5jaWF0aW9uKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHVybGxpYi5yZXF1ZXN0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBteV9kZWNrID0gZ2VuYW5raS5EZWNrKAogICAgICAgICAgICAyMDU5NDAwMjAxLAogICAgICAgICAgICAnSmFwYW5lc2Vfd29yZHMnKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc19hb2RpbzoKICAgICAgICAgICAgcHJvbmF1bmNpYXRpb24gPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgICAgICBtb2RlbD1teV9tb2RlMywKICAgICAgICAgICAgICAgIGZpZWxkcz1bJ1tzb3VuZDp7MH0ubXAzXScuZm9ybWF0KGVuZ2xpc2hfbWVhbmluZyksIGVuZ2xpc2hfbWVhbmluZywgcmVhZGluZ10pCiAgICAgICAgICAgIG15X2RlY2suYWRkX25vdGUocHJvbmF1bmNpYXRpb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
