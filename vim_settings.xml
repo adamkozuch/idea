@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1549751195800">
-        <mark key="'" line="126" column="25" />
-        <mark key="[" line="110" column="73" />
-        <mark key="]" line="110" column="73" />
-        <mark key="." line="110" column="73" />
-        <mark key="^" line="110" column="73" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1549792935506">
+        <mark key="'" line="78" column="13" />
+        <mark key="[" line="170" column="24" />
+        <mark key="]" line="170" column="26" />
+        <mark key="^" line="170" column="26" />
+        <mark key="." line="170" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549447595326">
         <mark key="'" line="49" column="20" />
@@ -30,6 +30,9 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/genanki/__init__.py" timestamp="1549791551373">
+        <mark key="'" line="227" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549380668058">
         <mark key="[" line="3" column="349" />
@@ -108,7 +111,7 @@
         <mark key="." line="148" column="18" />
         <mark key="^" line="148" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549751204568">
+      <file name="/Dummy.txt" timestamp="1549792475443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/nginx/default" timestamp="1549377181097">
@@ -180,14 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="137" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="74" column="35" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="97" column="81" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="193" column="20" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="39" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="189" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="190" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="208" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="106" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -280,56 +275,64 @@
       <jump line="17" column="12" filename="$USER_HOME$/PycharmProjects/untitled1/anki_jisho_plugin/jisho_api.py" />
       <jump line="4" column="19" filename="$USER_HOME$/PycharmProjects/untitled1/anki_jisho_plugin/jisho_api.py" />
       <jump line="117" column="25" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
+      <jump line="145" column="29" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
+      <jump line="227" column="6" filename="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/genanki/__init__.py" />
+      <jump line="154" column="45" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
+      <jump line="151" column="38" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
+      <jump line="150" column="18" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
+      <jump line="146" column="8" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
+      <jump line="78" column="13" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from datetime import time</text>
+        <text>red</text>
       </register>
       <register name="-" type="4">
-        <text>from datetime import time</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
-        <text>language</text>
+        <text encoding="base64">XDxhdWRpb19uYW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>'{0}.mp3'.format(english_meaning)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBteV9kZWNrID0gZ2VuYW5raS5EZWNrKAogICAgICAgICAgICAyMDU5NDAwMjAxLAogICAgICAgICAgICAnSmFwYW5lc2Vfd29yZHMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXUK</text>
+        <text encoding="base64">ICAgIG15X2RlY2suYWRkX25vdGUoa2FuamlfcmVhZGluZykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlLm1lZGlhX2ZpbGVzID0gWyd7MH0ubXAzJy5mb3JtYXQoZW5nbGlzaF9tZWFuaW5nKV0K</text>
+        <text encoding="base64">ICAgIG15X2RlY2suYWRkX25vdGUocmV2ZXJzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlID0gZ2VuYW5raS5QYWNrYWdlKG15X2RlY2spCg==</text>
+        <text encoding="base64">ICAgIG15X2RlY2suYWRkX25vdGUoZnJvbnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlLm1lZGlhX2ZpbGVzID0gWyd7MH0ubXAzJy5mb3JtYXQoZW5nbGlzaF9tZWFuaW5nKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdpbiBkJykK</text>
+        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlLm1lZGlhX2ZpbGVzID0gWyd7MH0ubXAzJy5mb3JtYXQoZW5nbGlzaF9tZWFuaW5nKV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlID0gZ2VuYW5raS5QYWNrYWdlKG15X2RlY2spCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgICAgICBteV9wYWNrYWdlLm1lZGlhX2ZpbGVzID0gWyd7MH0ubXAzJy5mb3JtYXQoZW5nbGlzaF9tZWFuaW5nKV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdpbiBkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFua2kK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>language</last-search>
+      <last-search encoding="base64">XDxhdWRpb19uYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>language</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhdWRpb19uYW1lXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -349,6 +352,9 @@
         <entry encoding="base64">XDxteV9tb2RlbDJcPg==</entry>
         <entry encoding="base64">XDxjaG9vc2VkXD4=</entry>
         <entry>language</entry>
+        <entry>media</entry>
+        <entry>media_files</entry>
+        <entry encoding="base64">XDxhdWRpb19uYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
