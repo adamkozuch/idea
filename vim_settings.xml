@@ -172,12 +172,12 @@
         <mark key="^" line="21" column="114" />
         <mark key="." line="21" column="114" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1549796688366">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1549801882391">
         <mark key="'" line="38" column="38" />
-        <mark key="[" line="38" column="71" />
-        <mark key="]" line="38" column="71" />
-        <mark key="^" line="38" column="71" />
-        <mark key="." line="38" column="71" />
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="16" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/test_script.sh" timestamp="1548764774662">
         <mark key="[" line="2" column="48" />
@@ -289,11 +289,11 @@
       <jump line="38" column="38" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWxzbyB0aGVyZSBpcyBwbGFuIHRvIGludGVncmF0ZSBmb3J2byBmb3IgYWRkaW5nIApwcm9udW5jaWF0aW9uIHRvIHRoZSBub3Rlcy4K</text>
+      <register name="&quot;" type="4">
+        <text>word</text>
       </register>
       <register name="-" type="4">
-        <text>5da601d944e2a53c663f56a815a4863f</text>
+        <text>word</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpb19uYW1lXD4=</text>
