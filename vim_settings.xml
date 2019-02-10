@@ -26,6 +26,11 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549271127541">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/genanki/__init__.py" timestamp="1549791551373">
         <mark key="'" line="227" column="6" />
       </file>
@@ -46,6 +51,11 @@
         <mark key="]" line="8" column="35" />
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/jwt_logic.py" timestamp="1549271047095">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/atcoder/solution.py" timestamp="1549200073508">
         <mark key="[" line="30" column="15" />
@@ -116,6 +126,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/atcoder/minimum_number_of_moves.py" timestamp="1549803020820">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548760902144">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="24" />
@@ -127,6 +142,11 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/get_db.sh" timestamp="1548764972991">
+        <mark key="[" line="130" column="95" />
+        <mark key="]" line="130" column="95" />
+        <mark key="." line="130" column="95" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled1/anki_jisho_plugin/jisho_api.py" timestamp="1549745624897">
         <mark key="[" line="8" column="32" />
@@ -289,8 +309,8 @@
       <jump line="38" column="38" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>word</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>word</text>
@@ -302,31 +322,31 @@
         <text encoding="base64">ICAgICAgICBhdWRpb19uYW1lID0gJ3NvdW5kezB9Lm1wMycuZm9ybWF0KGVuZ2xpc2hfbWVhbmluZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWxzbyB0aGVyZSBpcyBwbGFuIHRvIGludGVncmF0ZSBmb3J2byBmb3IgYWRkaW5nIApwcm9udW5jaWF0aW9uIHRvIHRoZSBub3Rlcy4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgbWFraW5nIGludGVyYWN0aXZlIHNlc3Npb24uIE5vdyBvbmx5IEkgY2FuIGFkZCBvbmUgd29yZCAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWxzbyB0aGVyZSBpcyBwbGFuIHRvIGludGVncmF0ZSBmb3J2byBmb3IgYWRkaW5nIApwcm9udW5jaWF0aW9uIHRvIHRoZSBub3Rlcy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgYWRkaW5nIHNvdW5kcwo=</text>
+        <text encoding="base64">IyMgbWFraW5nIGludGVyYWN0aXZlIHNlc3Npb24uIE5vdyBvbmx5IEkgY2FuIGFkZCBvbmUgd29yZCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb19saXN0ID0gW10K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpb19saXN0ID0gW10K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyMgYWRkaW5nIHNvdW5kcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhdWRpb19saXN0ID0gW10K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbnNlcnRfY2FyZHNfdG9fZGVjayhjYXJkcyk6CiAgICAgICAgbXlfZGVjayA9IGdlbmFua2kuRGVjaygKICAgICAgICAgICAgMjA1OTQwMDIwMSwKICAgICAgICAgICAgJ0phcGFuZXNlX3dvcmRzJykKICAgICAgICBteV9wYWNrYWdlID0gZ2VuYW5raS5QYWNrYWdlKG15X2RlY2spCiAgICAgICAgZm9yIGNhcmQgaW4gY2FyZHM6CiAgICAgICAgICAgIG15X2RlY2suYWRkX25vdGUoY2FyZCkKICAgICAgICBteV9wYWNrYWdlLndyaXRlX3RvX2ZpbGUoJ291dHB1dC5hcGtnJykK</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb19saXN0ID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByZXN1bHQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,8 +386,8 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoClass</entry>
         <entry>qw</entry>
-        <entry>action Run</entry>
         <entry>q</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
