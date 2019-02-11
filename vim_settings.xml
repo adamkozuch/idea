@@ -155,18 +155,15 @@
         <mark key="^" line="3" column="81" />
         <mark key="." line="3" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1549890760215">
-        <mark key="'" line="6" column="14" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1549891505994">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
+        <mark key="^" line="61" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="11" column="80" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="49" column="20" filename="$USER_HOME$/Projects/sportProject/dbmanager/service.py" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="100" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -260,65 +257,67 @@
       <jump line="20" column="18" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="18" column="102" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
       <jump line="19" column="36" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
-      <jump line="5" column="112" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
       <jump line="6" column="14" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
       <jump line="138" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="140" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="74" column="11" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
+      <jump line="3" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>foot</text>
+        <text encoding="base64">XDxsb2dnaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRhYmxlX25hbWUgbm90IGluIGRqYW5nb190YWJsZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCJDUkVBVEUgU0NIRU1BIEZJTEUgRVJST1I6ICIgKyBzdHIoZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRhYmxlX25hbWUgbm90IGluIGRqYW5nb190YWJsZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFwcGVuZChpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmJveCB7d2lkdGg6IDM1MHB4OyBib3JkZXI6IDEwcHggc29saWQgYmxhY2s7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAiYkluZm8iOiBmYWxzZSwKICAgICAgICAgICAgICAgICAiYkZpbHRlciI6IGZhbHNlLAogICAgICAgICAgICAgICAgICJiQXV0b1dpZHRoIjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAiYW9Db2x1bW5zIiA6IFsKICAgICAgICAgICAgICAgICAgICAgeyBzV2lkdGg6ICc1MHB4JyB9LAogICAgICAgICAgICAgICAgICAgICB7IHNXaWR0aDogJzEwMHB4JyB9LAogICAgICAgICAgICAgICAgICAgICB7IHNXaWR0aDogJzEyMHB4JyB9LAogICAgICAgICAgICAgICAgICAgICB7IHNXaWR0aDogJzMwcHgnIH0KICAgICAgICAgICAgICAgICBdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiYlBhZ2luYXRlIjogZmFsc2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmRhdGF0YWJsZSB0ZHsKICBtYXgtd2lkdGg6IDIwOwogIG92ZXJmbG93OiBoaWRkZW47CiAgdGV4dC1vdmVyZmxvdzogZWxsaXBzaXM7CiAgd2hpdGUtc3BhY2U6IG5vd3JhcDsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRhYmxlX25hbWUgbm90IGluIGRqYW5nb190YWJsZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>foot</last-search>
+      <last-search encoding="base64">XDxsb2dnaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>foot</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxsb2dnaW5nXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZF9teWNuZl9leGlzdHNcPg==</entry>
         <entry encoding="base64">XDx0YWJsZVw+</entry>
         <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
@@ -338,6 +337,7 @@
         <entry>jqu</entry>
         <entry>jQuery</entry>
         <entry>foot</entry>
+        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
