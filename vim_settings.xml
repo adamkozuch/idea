@@ -46,10 +46,10 @@
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549890784374">
-        <mark key="'" line="140" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549894669800">
+        <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549629721378">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549894844630">
         <mark key="'" line="24" column="8" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -161,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="100" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="197" column="12" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="194" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -261,6 +260,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
       <jump line="3" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
       <jump line="15" column="25" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/wsgi.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -303,7 +303,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRhYmxlX25hbWUgbm90IGluIGRqYW5nb190YWJsZXM6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -346,8 +346,8 @@
         <entry>action Run</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
