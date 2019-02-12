@@ -24,34 +24,27 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548760902144">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549980728357">
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549983331232">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549967277548">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="41" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" timestamp="1549983445658">
+        <mark key="'" line="43" column="26" />
+        <mark key="[" line="122" column="11" />
+        <mark key="]" line="122" column="10" />
+        <mark key="." line="122" column="10" />
+        <mark key="^" line="122" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/service.py" timestamp="1549894844630">
         <mark key="'" line="24" column="8" />
@@ -66,7 +59,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1549893139970" />
+      <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/test_script.sh" timestamp="1548764774662">
         <mark key="[" line="2" column="48" />
         <mark key="]" line="2" column="195" />
@@ -91,7 +89,6 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/checkLocalDB.py" timestamp="1549893297112" />
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1549619234549">
         <mark key="'" line="20" column="6" />
         <mark key="[" line="10" column="10" />
@@ -165,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="33" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
@@ -211,12 +207,10 @@
       <jump line="26" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/index.html" />
       <jump line="69" column="67" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
-      <jump line="0" column="2" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="5" column="31" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="22" column="24" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
-      <jump line="23" column="21" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="25" column="34" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="31" column="25" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="36" column="17" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
@@ -265,10 +259,13 @@
       <jump line="98" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="95" column="41" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="99" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="23" column="23" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="43" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PROCESS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>PROCESS</text>
@@ -279,38 +276,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVjaG8gIlBST0NFU1MgUE9TVEdSRVNTIERJRkZFUkVOVCBVU0VSIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
-                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
-                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
-                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
-                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgJERCUwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">c3VkbyAtaXUgJChjYXQgL2V0Yy9wYXNzd2QgfCBncmVwIHBvc3RncmVzcWwgfCBhd2sgLUYgJzonICd7cHJpbnQgJDF9JykgXAogICAgICAgICAgICAgcHNxbCAtaCAkKGRpcm5hbWUgJChsc29mIC1wICQocHMgYXV4IHwgZ3JlcCBzcWwgfCBncmVwIGRhdGEgfCBhd2sgJ3twcmludCAkMn0nKSB8IGdyZXAgdW5peCB8IGF3ayAne3ByaW50ICQ5fScpKSBcCiAgICAgICAgICAgICAtZCAkKHBzIGF1eCB8IGdyZXAgJ3Bvc3RncmVzOicgfCBoZWFkIC0xIHwgYXdrICd7cHJpbnQgJDEzfScpIA==</text>
+        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
+                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
+                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
       </register>
       <register name="4" type="4">
+        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
+                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
+                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">c3VkbyAtaXUgJChjYXQgL2V0Yy9wYXNzd2QgfCBncmVwIHBvc3RncmVzcWwgfCBhd2sgLUYgJzonICd7cHJpbnQgJDF9JykgXAogICAgICAgICAgICAgcHNxbCAtaCAkKGRpcm5hbWUgJChsc29mIC1wICQocHMgYXV4IHwgZ3JlcCBzcWwgfCBncmVwIGRhdGEgfCBhd2sgJ3twcmludCAkMn0nKSB8IGdyZXAgdW5peCB8IGF3ayAne3ByaW50ICQ5fScpKSBcCiAgICAgICAgICAgICAtZCAkKHBzIGF1eCB8IGdyZXAgJ3Bvc3RncmVzOicgfCBoZWFkIC0xIHwgYXdrICd7cHJpbnQgJDEzfScpIA==</text>
+      </register>
+      <register name="6" type="4">
         <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
      psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
       -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FuX2Nvbm5lY3RfcG9zdGdyZXNfZGlmZmVyZW50X3VzZXIgNTQzMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">Y2FuX2Nvbm5lY3RfcG9zdGdyZXNfZGlmZmVyZW50X3VzZXIgNTQzMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
