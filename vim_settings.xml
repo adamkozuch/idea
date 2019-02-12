@@ -36,11 +36,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549979970739">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549980728357">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
@@ -164,9 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="19" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="116" column="123" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="114" column="81" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="147" column="33" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -264,46 +262,55 @@
       <jump line="150" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="154" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="66" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="98" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="95" column="41" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="99" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PROCESS</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PROCESS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2RpZmZlcmVudF91c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIlBST0NFU1MgUE9TVEdSRVNTIERJRkZFUkVOVCBVU0VSIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
+                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
+                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgo=</text>
+      <register name="2" type="4">
+        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
+                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
+                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2FuX2Nvbm5lY3RfcG9zdGdyZXNfZGlmZmVyZW50X3VzZXIgNTQzMgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">c3VkbyAtaXUgJChjYXQgL2V0Yy9wYXNzd2QgfCBncmVwIHBvc3RncmVzcWwgfCBhd2sgLUYgJzonICd7cHJpbnQgJDF9JykgXAogICAgICAgICAgICAgcHNxbCAtaCAkKGRpcm5hbWUgJChsc29mIC1wICQocHMgYXV4IHwgZ3JlcCBzcWwgfCBncmVwIGRhdGEgfCBhd2sgJ3twcmludCAkMn0nKSB8IGdyZXAgdW5peCB8IGF3ayAne3ByaW50ICQ5fScpKSBcCiAgICAgICAgICAgICAtZCAkKHBzIGF1eCB8IGdyZXAgJ3Bvc3RncmVzOicgfCBoZWFkIC0xIHwgYXdrICd7cHJpbnQgJDEzfScpIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
+     psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
+      -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFwcGVuZChpKQo=</text>
+        <text encoding="base64">Y2FuX2Nvbm5lY3RfcG9zdGdyZXNfZGlmZmVyZW50X3VzZXIgNTQzMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
