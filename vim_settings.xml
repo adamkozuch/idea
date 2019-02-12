@@ -36,6 +36,11 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1549984555336">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
       </file>
@@ -265,7 +270,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>PROCESS</text>
@@ -277,37 +282,37 @@
         <text encoding="base64">ICAgIGVjaG8gIlBST0NFU1MgUE9TVEdSRVNTIERJRkZFUkVOVCBVU0VSIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIFNMRUVQLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgJERCUwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
-                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
-                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
-      </register>
-      <register name="4" type="4">
-        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
-                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
-                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">c3VkbyAtaXUgJChjYXQgL2V0Yy9wYXNzd2QgfCBncmVwIHBvc3RncmVzcWwgfCBhd2sgLUYgJzonICd7cHJpbnQgJDF9JykgXAogICAgICAgICAgICAgcHNxbCAtaCAkKGRpcm5hbWUgJChsc29mIC1wICQocHMgYXV4IHwgZ3JlcCBzcWwgfCBncmVwIGRhdGEgfCBhd2sgJ3twcmludCAkMn0nKSB8IGdyZXAgdW5peCB8IGF3ayAne3ByaW50ICQ5fScpKSBcCiAgICAgICAgICAgICAtZCAkKHBzIGF1eCB8IGdyZXAgJ3Bvc3RncmVzOicgfCBoZWFkIC0xIHwgYXdrICd7cHJpbnQgJDEzfScpIA==</text>
+        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
+                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
+                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
       </register>
       <register name="6" type="4">
+        <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
+                                 psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
+                                 -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">c3VkbyAtaXUgJChjYXQgL2V0Yy9wYXNzd2QgfCBncmVwIHBvc3RncmVzcWwgfCBhd2sgLUYgJzonICd7cHJpbnQgJDF9JykgXAogICAgICAgICAgICAgcHNxbCAtaCAkKGRpcm5hbWUgJChsc29mIC1wICQocHMgYXV4IHwgZ3JlcCBzcWwgfCBncmVwIGRhdGEgfCBhd2sgJ3twcmludCAkMn0nKSB8IGdyZXAgdW5peCB8IGF3ayAne3ByaW50ICQ5fScpKSBcCiAgICAgICAgICAgICAtZCAkKHBzIGF1eCB8IGdyZXAgJ3Bvc3RncmVzOicgfCBoZWFkIC0xIHwgYXdrICd7cHJpbnQgJDEzfScpIA==</text>
+      </register>
+      <register name="8" type="4">
         <text>sudo -iu $(cat /etc/passwd | grep postgresql | awk -F ':' '{print $1}') \
      psql -h $(dirname $(lsof -p $(ps aux | grep sql | grep data | awk '{print $2}') | grep unix | awk '{print $9}')) \
       -d $(ps aux | grep 'postgres:' | head -1 | awk '{print $13}') -c</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FuX2Nvbm5lY3RfcG9zdGdyZXNfZGlmZmVyZW50X3VzZXIgNTQzMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
