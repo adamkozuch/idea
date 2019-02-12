@@ -310,7 +310,7 @@
         <text encoding="base64">Y2FuX2Nvbm5lY3RfcG9zdGdyZXNfZGlmZmVyZW50X3VzZXIgNTQzMgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -353,8 +353,8 @@
         <entry>action Run</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
