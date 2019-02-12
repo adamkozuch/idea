@@ -36,8 +36,8 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549892212272">
-        <mark key="'" line="35" column="0" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549962369338">
+        <mark key="'" line="135" column="21" />
         <mark key="[" line="167" column="17" />
         <mark key="]" line="167" column="18" />
         <mark key="." line="167" column="18" />
@@ -172,7 +172,6 @@
       <jump line="210" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="145" column="157" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="142" column="58" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="135" column="29" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="129" column="19" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="116" column="123" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="114" column="81" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -261,6 +260,7 @@
       <jump line="3" column="7" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
       <jump line="15" column="25" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/wsgi.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
+      <jump line="135" column="21" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -270,7 +270,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnaW5nXD4=</text>
+        <text>10</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCJDUkVBVEUgU0NIRU1BIEZJTEUgRVJST1I6ICIgKyBzdHIoZSkpCg==</text>
@@ -307,15 +307,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnaW5nXD4=</last-search>
+      <last-search>10</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnaW5nXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>10</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZVw+</entry>
         <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
         <entry encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</entry>
@@ -335,6 +334,7 @@
         <entry>jQuery</entry>
         <entry>foot</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
+        <entry>10</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
