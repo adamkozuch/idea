@@ -13,6 +13,7 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="168" column="39" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/config.py" timestamp="1549994517288" />
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1549994189670">
         <mark key="'" line="45" column="43" />
         <mark key="[" line="58" column="0" />
@@ -20,11 +21,11 @@
         <mark key="^" line="29" column="70" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/README.md" timestamp="1549994398831">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/README.md" timestamp="1549994623264">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -44,8 +45,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmVzdF9yYXRpbmcpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmVzdF9yYXRpbmcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgZCBpbiBkYXRhWydpdGVtcyddOgogICAgICAgICAgICBwcmludCgnaW4gZCcsIGRbJ2NvZGUnXSkKICAgICAgICAgICAgaWYgZFsnY29kZSddID09ICdqYSc6CiAgICAgICAgICAgICAgICBwcmludChkKQo=</text>
@@ -72,7 +73,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
