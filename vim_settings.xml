@@ -36,12 +36,11 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549962369338">
-        <mark key="'" line="135" column="21" />
-        <mark key="[" line="167" column="17" />
-        <mark key="]" line="167" column="18" />
-        <mark key="." line="167" column="18" />
-        <mark key="^" line="167" column="17" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1549979970739">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/scripts/start_uwsgi.sh" timestamp="1548768879087">
         <mark key="[" line="1" column="0" />
@@ -165,17 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="197" column="12" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="194" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="156" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="195" column="13" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="157" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="92" column="23" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="210" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="145" column="157" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
-      <jump line="142" column="58" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="129" column="19" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="116" column="123" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="114" column="81" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -226,7 +214,6 @@
       <jump line="69" column="67" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="0" column="2" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="5" column="31" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
@@ -265,61 +252,72 @@
       <jump line="15" column="25" filename="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/wsgi.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/datatables/datatablesScript.js" />
       <jump line="135" column="21" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="18" column="38" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="134" column="57" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="22" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="141" column="48" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="119" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="94" column="53" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="184" column="16" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="91" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="167" column="37" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="150" column="4" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="154" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="66" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>10</text>
+        <text encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2RpZmZlcmVudF91c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmVycm9yKCJDUkVBVEUgU0NIRU1BIEZJTEUgRVJST1I6ICIgKyBzdHIoZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFwcGVuZChpKQo=</text>
+        <text encoding="base64">Y2FuX2Nvbm5lY3RfcG9zdGdyZXNfZGlmZmVyZW50X3VzZXIgNTQzMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFwcGVuZChpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRhYmxlX25hbWUgbm90IGluIGRqYW5nb190YWJsZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>10</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2RpZmZlcmVudF91c2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>10</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2RpZmZlcmVudF91c2VyXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
         <entry encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</entry>
         <entry>conso</entry>
@@ -339,6 +337,7 @@
         <entry>foot</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry>10</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2RpZmZlcmVudF91c2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
