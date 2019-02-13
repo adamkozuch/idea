@@ -9,18 +9,36 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" timestamp="1550047902053">
+        <mark key="'" line="4" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="219" column="60" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+    </jumps>
     <registers>
       <register name=":" type="4">
         <text>q</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxIT1NUX05BTUVcPg==</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxIT1NUX05BTUVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxIT1NUX05BTUVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry encoding="base64">XDwzXD4=</entry>
+        <entry encoding="base64">XDxDT0xMRUNUT1JcPg==</entry>
+        <entry encoding="base64">XDxIT1NUX05BTUVcPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>q</entry>
       </history-cmd>
