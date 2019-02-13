@@ -14,12 +14,12 @@
         <mark key="^" line="168" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/config.py" timestamp="1550006785143" />
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1549994189670">
-        <mark key="'" line="45" column="43" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="29" column="70" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550039934633">
+        <mark key="'" line="48" column="43" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+        <mark key="^" line="34" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/README.md" timestamp="1550006865631">
         <mark key="[" line="18" column="7" />
@@ -43,40 +43,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YGBgCkZPUlZPX0FQSV9LRVkgPSAnc29tZV9hcGlfa2V5JwpgYGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>isnumeric</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdF9lbmdsaXNoX2RlZmluaXRpb24gPSBnZXRfZW5naWxpc19kZWZpbml0aW9uKGVsZW1lbnRbJ3NlbnNlcyddWzBdWydlbmdsaXNoX2RlZmluaXRpb25zJ10pICNlbGVtZW50WydzZW5zZXMnXVswXVsnZW5nbGlzaF9kZWZpbml0aW9ucyddWzBdCg==</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgCkZPUlZPX0FQSV9LRVkgPSAnc29tZV9hcGlfa2V5JwpgYGAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QWZ0ZXIgYWRkaW5nIGZldyB3b3JkcyBqdXN0IGltcG9ydCBnZW5lcmF0ZWQgcGFja2FnZS4KRm9yIG5vdywgdGhlcmUgaXMganVzdCBvcHRpb24gdG8gaW1wb3J0IG5vdGVzIHRvIGRlY2sgCmNhbGxlZCBKYXBhbmVzZV93b3Jkcy4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">VG8gY29uZmlndXJlIGZvdnJvIGZvciBwcm9uYXVuY2lhdGlvbiBwbGVhc2UKZW50ZXIgYXBpIGtleSBpbnRvIGNvbmZpZy5weQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3QgY2hvb3NlZC5pc2RpZ2l0KCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCJub3QgbnVtbmVyaWMgdmFsdWUiKQogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3RfZW5nbGlzaF9kZWZpbml0aW9uID12WydzZW5zZXMnXVswXVsnZW5nbGlzaF9kZWZpbml0aW9ucyddWzBdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">V2hlbiB5b3Ugc3RhcnQgc2NyaXB0IHdpdGggYHB5dGhvbiBqaXNob19hcGkucHkgc2VhcmNoX3dvcmRgCmludGVyYWN0aXZlIHNlc3Npb24gaXMgc3RhcnRlZC4K</text>
+        <text encoding="base64">YGBgCkZPUlZPX0FQSV9LRVkgPSAnc29tZV9hcGlfa2V5JwpgYGAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgVXNpbmcgZm9ydm8gc291bmRzICAgIAogICAgKiBpZiB5b3UgYWh2ZSBzdWJzY3JpcHRpb24gdG8gZm9ydm8gYXBpIHlvdSBjYW4gYWRkIAogICAgaXQgdG8geXB1ciBjb25maWcgYW5kIGF1dG9tYXRpY2FsbHkgY3JlYXRpbmcgY2FyZAogICAgd2l0aCBwcm9uYXVuY2lhdGlvbiBzb3VuZAojIyBhZGRpbmcgZXhhbXBsZSBzZW50ZW5jZXMKIyMgYWRkaW5nIHBpY3R1cmVzIGNvcnJlc3BvbmRpbmcgdG8gd29yZHMKIyMgc291bmQgbm90IGFkZGluZyBmaXJzdCB0aW1lCg==</text>
+        <text encoding="base64">QWZ0ZXIgYWRkaW5nIGZldyB3b3JkcyBqdXN0IGltcG9ydCBnZW5lcmF0ZWQgcGFja2FnZS4KRm9yIG5vdywgdGhlcmUgaXMganVzdCBvcHRpb24gdG8gaW1wb3J0IG5vdGVzIHRvIGRlY2sgCmNhbGxlZCBKYXBhbmVzZV93b3Jkcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmVzdF9yYXRpbmcpCg==</text>
+        <text encoding="base64">VG8gY29uZmlndXJlIGZvdnJvIGZvciBwcm9uYXVuY2lhdGlvbiBwbGVhc2UKZW50ZXIgYXBpIGtleSBpbnRvIGNvbmZpZy5weQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZCBpbiBkYXRhWydpdGVtcyddOgogICAgICAgICAgICBwcmludCgnaW4gZCcsIGRbJ2NvZGUnXSkKICAgICAgICAgICAgaWYgZFsnY29kZSddID09ICdqYSc6CiAgICAgICAgICAgICAgICBwcmludChkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WW91IGFyZSBnaXZlbiB0aHJlZSBmaXJzdCB3b3JkcyB0aGF0IAphcmUgZmluZCBmb3IgdGhlIGdpdmVuIHdvcmRzLgo=</text>
+        <text encoding="base64">V2hlbiB5b3Ugc3RhcnQgc2NyaXB0IHdpdGggYHB5dGhvbiBqaXNob19hcGkucHkgc2VhcmNoX3dvcmRgCmludGVyYWN0aXZlIHNlc3Npb24gaXMgc3RhcnRlZC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -104,6 +107,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
