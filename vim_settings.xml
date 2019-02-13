@@ -9,6 +9,24 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/views.py" timestamp="1550067150131">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/detail.html" timestamp="1550066929285">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/forms.py" timestamp="1550067182480">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+      </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1549986641652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -36,16 +54,38 @@
       <jump line="219" column="60" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="8" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
+      <jump line="6" column="19" filename="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gitlab</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG9iaiA9IFByb2R1Y3Qub2JqZWN0cy5nZXQoaWQ9MSkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9iaiA9IFByb2R1Y3Qub2JqZWN0cy5nZXQoaWQ9MSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PC9mb3JtPmZvcm0+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PGgxPkl0ZW08L2gxPgo8aDE+e3sgdGl0bGUgfX08L2gxPgo8aDE+e3sgZGVzY3JpcHRpb24gfX08L2gxPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3RpdGxlJzogb2JqLnRpdGxlLAogICAgICAgICAgICAnZGVzY3JpcHRpb24nOiBvYmouZGVzY3JpcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>gitlab</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIT1NUX05BTUVcPg==</text>
@@ -67,12 +107,22 @@
       <history-cmd>
         <entry>q</entry>
         <entry>action Run</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
