@@ -6,21 +6,21 @@
       <file name="/Dummy.txt" timestamp="1549992653410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1550081211578">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1550085812289">
         <mark key="'" line="15" column="27" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="166" column="39" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="158" column="18" />
+        <mark key="]" line="158" column="23" />
+        <mark key="^" line="158" column="23" />
+        <mark key="." line="158" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/connected_colors.py" timestamp="1550084035525" />
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/config.py" timestamp="1550006785143" />
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550081168634">
-        <mark key="'" line="37" column="34" />
-        <mark key="[" line="26" column="112" />
-        <mark key="]" line="26" column="112" />
-        <mark key="." line="26" column="112" />
-        <mark key="^" line="41" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550085863634">
+        <mark key="'" line="52" column="53" />
+        <mark key="[" line="54" column="61" />
+        <mark key="]" line="54" column="67" />
+        <mark key="." line="54" column="67" />
+        <mark key="^" line="54" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/README.md" timestamp="1550006865631">
         <mark key="[" line="18" column="7" />
@@ -48,10 +48,11 @@
       <jump line="37" column="34" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
       <jump line="17" column="27" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
       <jump line="47" column="43" filename="$USER_HOME$/PycharmProjects/untitled/connected_colors.py" />
+      <jump line="51" column="53" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ure</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>ure</text>
@@ -60,34 +61,34 @@
         <text encoding="base64">XDxjaG9vc2VkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdF9lbmdsaXNoX2RlZmluaXRpb24gPSBnZXRfZW5naWxpc19kZWZpbml0aW9uKGVsZW1lbnRbJ3NlbnNlcyddWzBdWydlbmdsaXNoX2RlZmluaXRpb25zJ10pICNlbGVtZW50WydzZW5zZXMnXVswXVsnZW5nbGlzaF9kZWZpbml0aW9ucyddWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FyZHMgPSBhbmtpX3NrcmlwdGluZy5nZW5lcmF0ZV9jYXJkcyhmaXJzdF9lbmdsaXNoX2RlZmluaXRpb24sIGZpcnN0X3JlYWRpbmdbJ3dvcmQnXSwgZmlyc3RfcmVhZGluZ1sncmVhZGluZyddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMga2VlcGluZyBkaXN0YW5jZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYXBwZW5kKGthbmppX3JlYWRpbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzPVtrYW5qaSwgcmVhZGluZywgcmVhZGluZ1swXV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmb3IgaSBpbiByYW5nZSgxLGdyYXBoX25vZGVzICsgMSk6CiAgICBjb2xvcnNbaV0gPSBpZHNbaV0K</text>
+        <text encoding="base64">ICAgICAgICBrYW5qaV9yZWFkaW5nID0gZ2VuYW5raS5Ob3RlKAogICAgICAgICAgICBtb2RlbD1teV9tb2RlNCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdWRpb19uYW1lID0gJ3NvdW5kezB9Lm1wMycuZm9ybWF0KGVuZ2xpc2hfbWVhbmluZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBrYW5qaV9yZWFkaW5nID0gZ2VuYW5raS5Ob3RlKAogICAgICAgICAgICBtb2RlbD1teV9tb2RlNCwKICAgICAgICAgICAgZmllbGRzPVtrYW5qaSwgcmVhZGluZywgcmVhZGluZ1swXV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrYW5qaV9yZWFkaW5nID0gZ2VuYW5raS5Ob3RlKAogICAgICAgICAgICBtb2RlbD1teV9tb2RlNCwKICAgICAgICAgICAgZmllbGRzPVtrYW5qaSwgcmVhZGluZywgcmVhZGluZ1swXV0pCiAgICAgICAgcmVzdWx0ID0gW10KCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3QgY2hvb3NlZC5pc2RpZ2l0KCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCJub3QgbnVtbmVyaWMgdmFsdWUiKQogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICMga2VlcGluZyBkaXN0YW5jZSBoZXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
