@@ -23,11 +23,19 @@
         <mark key="." line="219" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1550049094428" />
+      <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1550053190685">
+        <mark key="'" line="8" column="26" />
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="219" column="60" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
+      <jump line="8" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
