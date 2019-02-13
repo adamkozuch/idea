@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/sportProject/gitlab_process/script.py" timestamp="1550051016324">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1549986641652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -24,8 +30,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>gitlab</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>gitlab</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIT1NUX05BTUVcPg==</text>
@@ -46,9 +58,14 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
