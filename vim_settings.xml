@@ -6,20 +6,20 @@
       <file name="/Dummy.txt" timestamp="1549992653410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1549994460096">
-        <mark key="'" line="119" column="8" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="168" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1550081211578">
+        <mark key="'" line="15" column="27" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="166" column="39" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/config.py" timestamp="1550006785143" />
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550039934633">
-        <mark key="'" line="48" column="43" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="57" />
-        <mark key="." line="34" column="57" />
-        <mark key="^" line="34" column="57" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550081168634">
+        <mark key="'" line="37" column="34" />
+        <mark key="[" line="26" column="112" />
+        <mark key="]" line="26" column="112" />
+        <mark key="." line="26" column="112" />
+        <mark key="^" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/README.md" timestamp="1550006865631">
         <mark key="[" line="18" column="7" />
@@ -40,16 +40,22 @@
       <jump line="113" column="16" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
       <jump line="116" column="12" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
       <jump line="119" column="8" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
+      <jump line="33" column="23" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="30" column="23" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="29" column="20" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="43" column="49" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="37" column="34" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="17" column="27" filename="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>isnumeric</text>
+        <text encoding="base64">ICNlbGVtZW50WydzZW5zZXMnXVswXVsnZW5nbGlzaF9kZWZpbml0aW9ucyddWzBd</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxjaG9vc2VkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdF9lbmdsaXNoX2RlZmluaXRpb24gPSBnZXRfZW5naWxpc19kZWZpbml0aW9uKGVsZW1lbnRbJ3NlbnNlcyddWzBdWydlbmdsaXNoX2RlZmluaXRpb25zJ10pICNlbGVtZW50WydzZW5zZXMnXVswXVsnZW5nbGlzaF9kZWZpbml0aW9ucyddWzBdCg==</text>
@@ -58,43 +64,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3QgY2hvb3NlZC5pc2RpZ2l0KCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCJub3QgbnVtbmVyaWMgdmFsdWUiKQogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3RfZW5nbGlzaF9kZWZpbml0aW9uID12WydzZW5zZXMnXVswXVsnZW5nbGlzaF9kZWZpbml0aW9ucyddWzBdCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YGBgCkZPUlZPX0FQSV9LRVkgPSAnc29tZV9hcGlfa2V5JwpgYGAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QWZ0ZXIgYWRkaW5nIGZldyB3b3JkcyBqdXN0IGltcG9ydCBnZW5lcmF0ZWQgcGFja2FnZS4KRm9yIG5vdywgdGhlcmUgaXMganVzdCBvcHRpb24gdG8gaW1wb3J0IG5vdGVzIHRvIGRlY2sgCmNhbGxlZCBKYXBhbmVzZV93b3Jkcy4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">VG8gY29uZmlndXJlIGZvdnJvIGZvciBwcm9uYXVuY2lhdGlvbiBwbGVhc2UKZW50ZXIgYXBpIGtleSBpbnRvIGNvbmZpZy5weQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3QgY2hvb3NlZC5pc2RpZ2l0KCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCJub3QgbnVtbmVyaWMgdmFsdWUiKQogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3RfZW5nbGlzaF9kZWZpbml0aW9uID12WydzZW5zZXMnXVswXVsnZW5nbGlzaF9kZWZpbml0aW9ucyddWzBdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YGBgCkZPUlZPX0FQSV9LRVkgPSAnc29tZV9hcGlfa2V5JwpgYGAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QWZ0ZXIgYWRkaW5nIGZldyB3b3JkcyBqdXN0IGltcG9ydCBnZW5lcmF0ZWQgcGFja2FnZS4KRm9yIG5vdywgdGhlcmUgaXMganVzdCBvcHRpb24gdG8gaW1wb3J0IG5vdGVzIHRvIGRlY2sgCmNhbGxlZCBKYXBhbmVzZV93b3Jkcy4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">V2hlbiB5b3Ugc3RhcnQgc2NyaXB0IHdpdGggYHB5dGhvbiBqaXNob19hcGkucHkgc2VhcmNoX3dvcmRgCmludGVyYWN0aXZlIHNlc3Npb24gaXMgc3RhcnRlZC4K</text>
+        <text encoding="base64">VG8gY29uZmlndXJlIGZvdnJvIGZvciBwcm9uYXVuY2lhdGlvbiBwbGVhc2UKZW50ZXIgYXBpIGtleSBpbnRvIGNvbmZpZy5weQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxjaG9vc2VkXD4=</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjaG9vc2VkXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>print</entry>
+        <entry encoding="base64">XDxjaG9vc2VkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
