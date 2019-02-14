@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550133132546">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550137115299">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="44" />
+        <mark key="." line="43" column="44" />
+        <mark key="^" line="43" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
         <mark key="[" line="0" column="2" />
@@ -52,6 +53,12 @@
         <mark key="." line="219" column="17" />
         <mark key="^" line="219" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/templates/product/detail.html" timestamp="1550136976471">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/views.py" timestamp="1550071089435">
         <mark key="'" line="7" column="19" />
         <mark key="[" line="23" column="5" />
@@ -65,11 +72,11 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/trydjango/urls.py" timestamp="1550132338767">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="21" column="43" />
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/trydjango/urls.py" timestamp="1550136750009">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/models.py" timestamp="1550069239105">
         <mark key="[" line="8" column="35" />
@@ -260,46 +267,48 @@
       <jump line="6" column="19" filename="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/views.py" />
       <jump line="0" column="14" filename="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/list.html" />
       <jump line="24" column="24" filename="$USER_HOME$/Projects/sampleDjango/Try-Django/src/trydjango/urls.py" />
+      <jump line="5" column="9" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
+      <jump line="13" column="14" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Product.objects.get(id=my_id)</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>Product.objects.get(id=my_id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIT1NUX05BTUVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRpdGxlID0gZm9ybXMuQ2hhckZpZWxkKCkKICAgIGRlc2NyaXB0aW9uID0gZm9ybXMuQ2hhckZpZWxkKHJlcXVpcmVkPUZhbHNlLCB3aWRnZXQ9Zm9ybXMuVGV4dGFyZWEoCiAgICAgICAgYXR0cnM9ewogICAgICAgICAgICAicm93cyI6IDUwCiAgICAgICAgfQogICAgKSkKICAgIHByaWNlID0gZm9ybXMuRGVjaW1hbEZpZWxkKCkK</text>
+        <text encoding="base64">ZnJvbSBwcnJvZHVjdHMudmlld3MgaW1wb3J0IHRvdGFsbHlfbmV3X3ZpZXcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGZvcm0gbWV0aG9kPSJQT1NUIj4geyUgY3NyZl90b2tlbiAlfQogICAge3sgZm9ybS5hc19wfX0KICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJTYXZlIi8+CjwvZm9ybT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QuR0VUKQogICAgcHJpbnQocmVxdWVzdC5QT1NUKQogICAgaWYgZm9ybS5pc192YWxpZCgpOgogICAgICAgIGZvcm0uc2F2ZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIGZvcm1zLlZhbGlkYXRpb25FcnJvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnSW4gbXlzcWwnKQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIGZvcm1zLlZhbGlkYXRpb25FcnJvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+TXkgaG9tZSB7eyByZXF1ZXN0LnVzZXIgfX08L2gxPgogICAgICB7JSBlbmRibG9jayAlfQogICAgICB7JSBibG9jayBhbm90aGVyX2NvbnRlbnQgJX0KICAgICAgPHA+IHt7IGZpcnN0X25hbWUgfX0gPC9wPgogICAgICA8cD4ge3sgYWdlIH19IDwvcD4KICAgICAgPHVsPgogICAgICB7JSBmb3Igc3ViIGluIHNvbWVfbGlzdCAlfQogICAgICAgIHslIGlmIHN1YiA9PSAxICV9CiAgICAgICAgPGxpPiBzb21lIGluZm8ga2RrZGtrZGsgPC9saT4KICAgICAgICB7JSBlbGlmIHN1YiA9PSA1ICV9CiAgICAgICAgPGxpPiBYWFhYWCA8L2xpPgogICAgICAgIHslIGVsc2UgJX0KICAgICAgICAgIDxsaT4ge3sgc3ViIH19IDwvbGk+CiAgICAgICAgeyUgZW5kaWYgJX0KICAgICAgeyUgZW5kZm9yICV9CiAgICAgIDwvdWw+CgogICAgICAgIDxoMT5vdGhlciBpbmZvPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnSW4gbXlzcWwnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGZvcm0+CiAgICB7eyBmb3JtLmFzX3B9fQogICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IlNhdmUiLz4KPC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDE+TXkgaG9tZSB7eyByZXF1ZXN0LnVzZXIgfX08L2gxPgogICAgICB7JSBlbmRibG9jayAlfQogICAgICB7JSBibG9jayBhbm90aGVyX2NvbnRlbnQgJX0KICAgICAgPHA+IHt7IGZpcnN0X25hbWUgfX0gPC9wPgogICAgICA8cD4ge3sgYWdlIH19IDwvcD4KICAgICAgPHVsPgogICAgICB7JSBmb3Igc3ViIGluIHNvbWVfbGlzdCAlfQogICAgICAgIHslIGlmIHN1YiA9PSAxICV9CiAgICAgICAgPGxpPiBzb21lIGluZm8ga2RrZGtrZGsgPC9saT4KICAgICAgICB7JSBlbGlmIHN1YiA9PSA1ICV9CiAgICAgICAgPGxpPiBYWFhYWCA8L2xpPgogICAgICAgIHslIGVsc2UgJX0KICAgICAgICAgIDxsaT4ge3sgc3ViIH19IDwvbGk+CiAgICAgICAgeyUgZW5kaWYgJX0KICAgICAgeyUgZW5kZm9yICV9CiAgICAgIDwvdWw+CgogICAgICAgIDxoMT5vdGhlciBpbmZvPC9oMT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
