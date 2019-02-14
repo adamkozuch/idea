@@ -55,6 +55,11 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/urls.py" timestamp="1550150672967">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/forms.py" timestamp="1550067182480">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="5" column="22" />
@@ -93,6 +98,12 @@
         <mark key="]" line="11" column="26" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1550150671151">
+        <mark key="[" line="52" column="128" />
+        <mark key="]" line="50" column="29" />
+        <mark key="^" line="50" column="29" />
+        <mark key="." line="50" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.test" timestamp="1549528154186">
         <mark key="[" line="5" column="4" />
@@ -373,10 +384,11 @@
       <jump line="177" column="16" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="28" column="18" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" />
+      <jump line="0" column="32" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>factory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgbmFtZWR0dXBsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>factory</text>
@@ -388,31 +400,31 @@
         <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQmlEYXNoYm9hcmRQcmVtaWksICdvYmplY3RzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgbmFtZWR0dXBsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHZpZXcocmVxdWVzdCkK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJlZGlyZWN0cyhyZXNwb25zZSwgJ3NvbWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHZpZXcocmVxdWVzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhUcnVlLCBGYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJlZGlyZWN0cyhyZXNwb25zZSwgJ3NvbWUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRfemFtb3dpZW4uYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhUcnVlLCBGYWxzZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKEJpRGFzaGJvYXJkUHJlbWlpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnRfemFtb3dpZW4uYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoTm9uZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiaV9kYXNoYm9hcmQpCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKEJpRGFzaGJvYXJkUHJlbWlpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQmlEYXNoYm9hcmRQcmVtaWkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiaV9kYXNoYm9hcmQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQmlTeW5jU2VydmljZSwgJ2ltcG9ydERhc2hib2FyZFphbW93aWVuJykK</text>
+        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQmlEYXNoYm9hcmRQcmVtaWkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
