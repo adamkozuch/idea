@@ -19,6 +19,12 @@
       <file name="/a.dummy" timestamp="1550132057479">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_details.py" timestamp="1550143967812">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+        <mark key="^" line="39" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/templates/product/detail.html" timestamp="1550136976471">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="16" />
@@ -61,12 +67,12 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1550140365754">
-        <mark key="'" line="202" column="132" />
-        <mark key="[" line="153" column="35" />
-        <mark key="]" line="153" column="40" />
-        <mark key="^" line="153" column="40" />
-        <mark key="." line="153" column="40" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1550142761655">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="195" column="78" />
+        <mark key="]" line="195" column="77" />
+        <mark key="^" line="195" column="77" />
+        <mark key="." line="195" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/start_docker.sh" timestamp="1550049094428">
         <mark key="'" line="20" column="6" />
@@ -117,6 +123,13 @@
         <mark key="]" line="20" column="20" />
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" timestamp="1550144752393">
+        <mark key="'" line="28" column="18" />
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="4" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1550053190685">
         <mark key="'" line="8" column="26" />
@@ -192,10 +205,11 @@
         <mark key="." line="122" column="10" />
         <mark key="^" line="122" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550139249218">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550145359343">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings_local.py" timestamp="1550141080063">
         <mark key="[" line="38" column="60" />
@@ -265,10 +279,11 @@
         <mark key="." line="24" column="65" />
         <mark key="^" line="24" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/tests.py" timestamp="1550139259182">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/tests.py" timestamp="1550144295937">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="51" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/pages/views.py" timestamp="1550070878910">
         <mark key="[" line="9" column="18" />
@@ -311,7 +326,6 @@
       <jump line="35" column="77" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="31" column="89" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="69" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="208" column="106" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="198" column="29" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
@@ -320,63 +334,99 @@
       <jump line="51" column="43" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings.py" />
       <jump line="202" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="183" column="95" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="189" column="40" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="197" column="16" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="191" column="16" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="193" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="202" column="25" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="226" column="39" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="2" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="8" column="45" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="10" column="22" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="11" column="28" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="12" column="18" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="20" column="39" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="47" column="26" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="112" column="26" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="113" column="26" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="152" column="34" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="154" column="25" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="155" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="156" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="157" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="158" column="21" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="159" column="19" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="160" column="51" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="161" column="19" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="163" column="22" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="165" column="30" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="177" column="16" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="28" column="18" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>default</text>
+        <text>factory</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>factory</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbmVfc2VjXD4=</text>
+        <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIERBVEFCQVNFU1snZGVmYXVsdCddWydFTkdJTkUnXSA9ICdkamFuZ28uZGIuYmFja2VuZHMuc3FsaXRlMycK</text>
+        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQmlEYXNoYm9hcmRQcmVtaWksICdvYmplY3RzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgJ3Rlc3QnIGluIHN5cy5hcmd2IG9yICd0ZXN0X2NvdmVyYWdlJyBpbiBzeXMuYXJndjogI0NvdmVycyByZWd1bGFyIHRlc3RpbmcgYW5kIGRqYW5nby1jb3ZlcmFnZQogICAgREFUQUJBU0VTWydkZWZhdWx0J11bJ0VOR0lORSddID0gJ2RqYW5nby5kYi5iYWNrZW5kcy5zcWxpdGUzJwo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgJ3Rlc3QnIGluIHN5cy5hcmd2IG9yICd0ZXN0X2NvdmVyYWdlJyBpbiBzeXMuYXJndjogI0NvdmVycyByZWd1bGFyIHRlc3RpbmcgYW5kIGRqYW5nby1jb3ZlcmFnZQogICAgREFUQUJBU0VTWydkZWZhdWx0J11bJ0VOR0lORSddID0gJ2RqYW5nby5kYi5iYWNrZW5kcy5zcWxpdGUzJwo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHZpZXcocmVxdWVzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfc2VjID0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJlZGlyZWN0cyhyZXNwb25zZSwgJ3NvbWUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm93ID0gdGltZXpvbmUubm93KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhUcnVlLCBGYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQmlTeW5jU2VydmljZSBzdGFydGVkIC4uLicpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnRfemFtb3dpZW4uYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoTm9uZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobXNnKQo=</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKEJpRGFzaGJvYXJkUHJlbWlpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdCaVN5bmNTZXJ2aWNlIEV4Y2VwdGlvbiAlcycgJSBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiaV9kYXNoYm9hcmQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQmlEYXNoYm9hcmRQcmVtaWkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQmlTeW5jU2VydmljZSwgJ2ltcG9ydERhc2hib2FyZFphbW93aWVuJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbmVfc2VjXD4=</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbmVfc2VjXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>import</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFuZ2VTZWNvbmRcPg==</entry>
-        <entry encoding="base64">XDxDT0xMRUNUT1JcPg==</entry>
-        <entry>some</entry>
         <entry>14</entry>
         <entry encoding="base64">XDxmaXJzdFNlYXJjaGVkXD4=</entry>
         <entry encoding="base64">XDxwZ3Bhc3NfZXhpc3RzXD4=</entry>
@@ -394,6 +444,9 @@
         <entry encoding="base64">XDxjbnRcPg==</entry>
         <entry encoding="base64">XDxyb3VuZFByaWNlXD4=</entry>
         <entry encoding="base64">XDxvbmVfc2VjXD4=</entry>
+        <entry encoding="base64">XDxTTEVFUFw+</entry>
+        <entry encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
