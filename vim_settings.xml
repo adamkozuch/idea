@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550233925167">
-        <mark key="'" line="60" column="7" />
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="36" column="55" />
-        <mark key="^" line="36" column="55" />
-        <mark key="." line="36" column="55" />
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550236901839">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="28" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1549986641652">
         <mark key="[" line="0" column="0" />
@@ -428,13 +428,14 @@
       <jump line="0" column="18" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="30" column="16" filename="$USER_HOME$/Projects/dbmanager/service.py" />
       <jump line="47" column="7" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
+      <jump line="30" column="18" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>product</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>product</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
