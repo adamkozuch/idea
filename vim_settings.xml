@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550223480393">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="66" column="29" />
-        <mark key="]" line="66" column="34" />
-        <mark key="." line="66" column="34" />
-        <mark key="^" line="66" column="34" />
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550229799700">
+        <mark key="'" line="49" column="7" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="20" />
+        <mark key="." line="33" column="20" />
+        <mark key="^" line="33" column="20" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1549986641652">
         <mark key="[" line="0" column="0" />
@@ -314,6 +314,12 @@
         <mark key="." line="24" column="65" />
         <mark key="^" line="24" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/trydjango/settings.py" timestamp="1550229416232">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/tests.py" timestamp="1550144295937">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -337,12 +343,6 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="3" column="81" />
         <mark key="." line="3" column="81" />
-      </file>
-      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/templates/product/new_product_create.html" timestamp="1550132458655">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -421,13 +421,14 @@
       <jump line="2" column="7" filename="$USER_HOME$/Projects/dbmanager/process_records.py" />
       <jump line="0" column="18" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="30" column="16" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="47" column="7" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQocmV0dXJuX3RhYmxlX29iaihsKSkK</text>
+      <register name="&quot;" type="4">
+        <text>cription</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>cription</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
@@ -436,31 +437,31 @@
         <text encoding="base64">ZnJvbSBwcnJvZHVjdHMudmlld3MgaW1wb3J0IFByb2R1Y3RMaXN0Vmlldwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQocmV0dXJuX3RhYmxlX29iaihsKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBwIGluIFByb2R1Y3QoKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3Byb2R1Y3RzX2xpc3QuLCBQcm9kdWN0TGlzdFZpZXcuYXNfdmlldygpLCBuYW1lPSdsaXN0X3Byb2R1Y3RzJyksCg==</text>
+        <text encoding="base64">cHJpbnQocmV0dXJuX3RhYmxlX29iaihsKSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHslIGZvciBpbnN0YW5jZSBpbiBvYmplY3RfbGlzdCAlfQogICAgICAgIDxwPnt7IGluc3RhbmNlLnRpdGxlIH19ICAge3sgaW5zdGFuY2UuZGVzY3JpcHRpb24gfX08L3A+CiAgICB7JSBlbmRmb3IgJX0KICAgIDxoMT5MaXN0IHRlbXBsYXRlPC9oMT4KIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUHJvZHVjdERldGFpbFZpZXcoRGV0YWlsVmlldyk6CiAgICB0ZW1wbGF0ZV9uYW1lID0gJ3Byb2R1Y3QvbGlzdF90ZW1wbGF0ZS5odG1sJwo=</text>
+        <text encoding="base64">ICAgIHBhdGgoJ3Byb2R1Y3RzX2xpc3QuLCBQcm9kdWN0TGlzdFZpZXcuYXNfdmlldygpLCBuYW1lPSdsaXN0X3Byb2R1Y3RzJyksCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48L3A+Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHslIGZvciBpbnN0YW5jZSBpbiBvYmplY3RfbGlzdCAlfQogICAgICAgIDxwPnt7IGluc3RhbmNlLnRpdGxlIH19ICAge3sgaW5zdGFuY2UuZGVzY3JpcHRpb24gfX08L3A+CiAgICB7JSBlbmRmb3IgJX0KICAgIDxoMT5MaXN0IHRlbXBsYXRlPC9oMT4KIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx1bD4KICAgICAgICB7JSBmb3IgZSBpbiBvYmplY3RzICAgJX0KICAgICAgICAgICAgPGxpPnt7IGUudGl0bGUgfX08L2xpPgogICAgICAgIHslIGVuZGZvciAlfQogICAgPC91bD4K</text>
+        <text encoding="base64">Y2xhc3MgUHJvZHVjdERldGFpbFZpZXcoRGV0YWlsVmlldyk6CiAgICB0ZW1wbGF0ZV9uYW1lID0gJ3Byb2R1Y3QvbGlzdF90ZW1wbGF0ZS5odG1sJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
+        <text encoding="base64">ICAgICAgICA8cD48L3A+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIDx1bD4KICAgICAgICB7JSBmb3IgZSBpbiBvYmplY3RzICAgJX0KICAgICAgICAgICAgPGxpPnt7IGUudGl0bGUgfX08L2xpPgogICAgICAgIHslIGVuZGZvciAlfQogICAgPC91bD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
