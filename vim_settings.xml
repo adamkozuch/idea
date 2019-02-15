@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550217033718">
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550217843508">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="27" />
-        <mark key="." line="49" column="27" />
-        <mark key="^" line="49" column="27" />
+        <mark key="[" line="57" column="10" />
+        <mark key="]" line="57" column="11" />
+        <mark key="." line="57" column="11" />
+        <mark key="^" line="57" column="11" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1549986641652">
         <mark key="[" line="0" column="0" />
@@ -388,11 +388,11 @@
       <jump line="27" column="8" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
+      <register name="&quot;" type="4">
+        <text>render(request, &quot;product/detail.html&quot;,context)</text>
       </register>
       <register name="-" type="4">
-        <text>'albert'</text>
+        <text>render(request, &quot;product/detail.html&quot;,context)</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
