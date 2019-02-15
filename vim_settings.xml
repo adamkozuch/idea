@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550232218302">
-        <mark key="'" line="59" column="7" />
-        <mark key="[" line="37" column="58" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
-        <mark key="^" line="37" column="26" />
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" timestamp="1550233925167">
+        <mark key="'" line="60" column="7" />
+        <mark key="[" line="36" column="48" />
+        <mark key="]" line="36" column="55" />
+        <mark key="^" line="36" column="55" />
+        <mark key="." line="36" column="55" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1549986641652">
         <mark key="[" line="0" column="0" />
@@ -431,46 +431,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>product</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>serializers.serialize('json',[ p, ])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGMgPSBDYXRlZ29yeShuYW1lPSJEZXZpY2VzIiwgcHJvZHVjdD1wKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
+        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCiAgICBwLnNhdmUoKQogICAgYyA9IENhdGVnb3J5KG5hbWU9IkRldmljZXMiLCBwcm9kdWN0PXApCiAgICBjLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYuaXRlbXMudmFsdWVzX2xpc3QoJ3Byb2R1Y3RfX3RpdGxlJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHJvZHVjdCA6Iiwgc2VyaWFsaXplcnMuc2VyaWFsaXplKCdqc29uJyxbIGksIF0pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBwIGluIFByb2R1Y3QoKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQocmV0dXJuX3RhYmxlX29iaihsKSkK</text>
+        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCiAgICBwLnNhdmUoKQogICAgYyA9IENhdGVnb3J5KG5hbWU9IkRldmljZXMiLCBwcm9kdWN0PXApCiAgICBjLnNhdmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3Byb2R1Y3RzX2xpc3QuLCBQcm9kdWN0TGlzdFZpZXcuYXNfdmlldygpLCBuYW1lPSdsaXN0X3Byb2R1Y3RzJyksCg==</text>
+        <text encoding="base64">ICAgIGZvciBwIGluIFByb2R1Y3QoKToKICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHslIGZvciBpbnN0YW5jZSBpbiBvYmplY3RfbGlzdCAlfQogICAgICAgIDxwPnt7IGluc3RhbmNlLnRpdGxlIH19ICAge3sgaW5zdGFuY2UuZGVzY3JpcHRpb24gfX08L3A+CiAgICB7JSBlbmRmb3IgJX0KICAgIDxoMT5MaXN0IHRlbXBsYXRlPC9oMT4KIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQocmV0dXJuX3RhYmxlX29iaihsKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUHJvZHVjdERldGFpbFZpZXcoRGV0YWlsVmlldyk6CiAgICB0ZW1wbGF0ZV9uYW1lID0gJ3Byb2R1Y3QvbGlzdF90ZW1wbGF0ZS5odG1sJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -513,8 +513,8 @@
         <entry>action Run</entry>
         <entry>wq</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
