@@ -4,10 +4,12 @@
     <extensionMap>
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="instrukcja" type="PLAIN_TEXT" />
+      <mapping pattern="input_streamline" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping pattern="streamline" type="Python" />
       <mapping pattern="apifootballRaw" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
