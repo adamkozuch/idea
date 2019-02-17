@@ -47,12 +47,12 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" timestamp="1550395220975">
-        <mark key="'" line="56" column="5" />
-        <mark key="[" line="25" column="10" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" timestamp="1550396394800">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550257396939">
         <mark key="[" line="8" column="0" />
@@ -137,49 +137,55 @@
       <jump line="142" column="4" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
       <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
       <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
+      <jump line="26" column="7" filename="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjb3VudGVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>placed[i + 1] - 1</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFwcHVzaChoZWFwcV9taW4sIChhYnMoYXJyW2ldIC0gYXJyW2kgKyAxXSApLCBpICwgaSArIDEpKSAjID0gYWJzKGFycltpXSAtIGFycltpIC0gMV0pIGlmICBhYnMoYXJyW2ldIC0gYXJyW2kgLSAxXSkgPiBhYnMoYXJyW2ldIC0gYXJyW2kgKyAxXSkgZWxzZSBhYnMoYXJyW2ldIC0gYXJyW2kgKyAxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciArPSBhYnMoYXJyW3BsYWNlZFtpXV0gLSBhcnJbcGxhY2VkW2kgKyAxXSAtIDFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihhcnIpIC0gMSk6CiAgICAgICAgdmFsICA9IGFicyhhcnJbaV0gLSBhcnJbaSArIDFdICkKICAgICAgICBoZWFwcHVzaChoZWFwcV9taW4sICh2YWwsIGkgLCBpICsgMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb3VudGVyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KHBsYWNlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWF0cml4W3JdW2NdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY291bnRlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb3VudGVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNxdWFyZS5yb3dfMiwgc3F1YXJlLmNvbHVtbl8yKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyICs9IGFicyhhcnJbcGxhY2VkWy0xXV0pICsgYWJzKGFyclstMV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyW3BsYWNlZFtpXV0gLSBhcnJbcGxhY2VkW2kgKyAxXSAtIDFdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwcmludCBiZWZvcmUgIiAsIHJvd18yLCBjb2x1bW5fMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY291bnRlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdzaXplICcsIHNxdWFyZV9zaXplKHNxdWFyZSkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -198,9 +204,9 @@
       <history-cmd>
         <entry>action GotoClass</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
         <entry>action Run</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
