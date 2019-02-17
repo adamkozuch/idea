@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1549992653410">
+      <file name="/Dummy.txt" timestamp="1550401367667">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/anki_skripting.py" timestamp="1550255553626">
@@ -47,10 +47,10 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" timestamp="1550396394800">
+      <file name="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" timestamp="1550401271671">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="71" column="34" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="46" />
       </file>
@@ -59,13 +59,20 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atcoder/solution.py" timestamp="1550347374940">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/atcoder/solution.py" timestamp="1550402578471">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py" timestamp="1550309082622">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/atcoder/input" timestamp="1550402101396">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550309078640">
         <mark key="'" line="0" column="9" />
@@ -146,46 +153,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb3VudGVyKQo=</text>
+        <text encoding="base64">NCA5CjcgNCAwIDMK</text>
       </register>
       <register name="-" type="4">
-        <text>placed[i + 1] - 1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciArPSBhYnMoYXJyW3BsYWNlZFtpXV0gLSBhcnJbcGxhY2VkW2kgKyAxXSAtIDFdKQo=</text>
+        <text encoding="base64">Zm9yIGksbGluZSBpbiBlbnVtZXJhdGUoc3lzLnN0ZGluKToKICAgIGlmIGkgPT0gMDoKICAgICAgIE0sIE4gPSBsaW5lLnNwbGl0KCIgIikKICAgIGlmIGkgPT0gMToKICAgICAgICBBID0gW2ludChpKSBmb3IgaSBpbiBsaW5lLnNwbGl0KCIgIildCiAgICAgICAgcHJpbnQoc29sdXRpb24oQSwgaW50KE0pKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb3VudGVyKQo=</text>
+        <text encoding="base64">NCA5CjcgNCAwIDMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBsYWNlZCkK</text>
+        <text encoding="base64">MyA3CjEgNiAzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY291bnRlcikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGltZSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb3VudGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyICs9IGFicyhhcnJbcGxhY2VkWy0xXV0pICsgYWJzKGFyclstMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyW3BsYWNlZFtpXV0gLSBhcnJbcGxhY2VkW2kgKyAxXSAtIDFdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmlnZ2VzdCA9IE5vbmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1lbnRzLmFwcGVuZChYKQogICAgICAgICAgICAgICAgcHJpbnQoc3VtKGVsZW1lbnRzKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY291bnRlcikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb3VudCwgcHJldl9jb3VudCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmV2X2NvdW50ID0gMAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -203,10 +210,10 @@
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
-        <entry>q</entry>
-        <entry>w</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
+        <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
