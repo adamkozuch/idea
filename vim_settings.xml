@@ -59,17 +59,17 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atcoder/solution.py" timestamp="1550405854432">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="19" column="60" />
-        <mark key="]" line="19" column="63" />
-        <mark key="^" line="19" column="63" />
-        <mark key="." line="19" column="63" />
+      <file name="$USER_HOME$/PycharmProjects/atcoder/solution.py" timestamp="1550408006467">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="24" column="81" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py" timestamp="1550309082622">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atcoder/input" timestamp="1550404559125">
+      <file name="$USER_HOME$/PycharmProjects/atcoder/input" timestamp="1550407988033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="6" />
         <mark key="." line="1" column="6" />
@@ -156,47 +156,47 @@
       <jump line="1" column="4" filename="$USER_HOME$/PycharmProjects/atcoder/input" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>math.pow(2, i)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob25lX2NvbWIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>math.pow(2, i)</text>
+        <text>mask</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bWFzayB8ICgxIDw8IChpKSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBtYXNrID0gbWFzayB8ICgxIDw8ICgzMiAtIGkgLSAxKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob25lX2NvbWIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXR1cm5fY291bnRfdGFibGUoQSkpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KG1hc2spCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">MSAwCjEwMDAwMDAwMDAwMDAK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">MyA3CjEgNiAzCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjb21iaW5hdGlvbikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVsZW1lbnRzKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">NCA5CjcgNCAwIDMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkl0IGlzIHYgIiwgaSkK</text>
+        <text encoding="base64">NCA5CjcgNCAwIDMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2IDwgbWF0aC5jZWlsKGxlbihBKS8yKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHRhYmxlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KEspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBtYXNrID0gbWFzayB8ICgxIDw8ICgzMiAtIGkgLSAxKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -216,8 +216,8 @@
         <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
