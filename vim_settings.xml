@@ -47,12 +47,12 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" timestamp="1550393608127">
-        <mark key="'" line="51" column="5" />
-        <mark key="[" line="20" column="68" />
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/atcoder/lest_moves.py" timestamp="1550394720799">
+        <mark key="'" line="53" column="5" />
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550257396939">
         <mark key="[" line="8" column="0" />
@@ -140,7 +140,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWF0cml4W3JdW2NdKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IyA9IGFicyhhcnJbaV0gLSBhcnJbaSAtIDFdKSBpZiAgYWJzKGFycltpXSAtIGFycltpIC0gMV0pID4gYWJzKGFycltpXSAtIGFycltpICsgMV0pIGVsc2UgYWJzKGFycltpXSAtIGFycltpICsgMV0p</text>
@@ -152,34 +152,34 @@
         <text encoding="base64">ICAgICAgICBoZWFwcHVzaChoZWFwcV9taW4sIChhYnMoYXJyW2ldIC0gYXJyW2kgKyAxXSApLCBpICwgaSArIDEpKSAjID0gYWJzKGFycltpXSAtIGFycltpIC0gMV0pIGlmICBhYnMoYXJyW2ldIC0gYXJyW2kgLSAxXSkgPiBhYnMoYXJyW2ldIC0gYXJyW2kgKyAxXSkgZWxzZSBhYnMoYXJyW2ldIC0gYXJyW2kgKyAxXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWF0cml4W3JdW2NdKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWF0cml4W3JdW2NdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNxdWFyZS5yb3dfMiwgc3F1YXJlLmNvbHVtbl8yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNxdWFyZS5yb3dfMiwgc3F1YXJlLmNvbHVtbl8yKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwcmludCBiZWZvcmUgIiAsIHJvd18yLCBjb2x1bW5fMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdzaXplICcsIHNxdWFyZV9zaXplKHNxdWFyZSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJwcmludCBiZWZvcmUgIiAsIHJvd18yLCBjb2x1bW5fMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvbmUpCiAgICAgICAgcHJpbnQodHdvKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdzaXplICcsIHNxdWFyZV9zaXplKHNxdWFyZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3JldHVybiBjdXJyZW50JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvbmUpCiAgICAgICAgcHJpbnQodHdvKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -199,8 +199,8 @@
         <entry>action GotoClass</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
