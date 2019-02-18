@@ -69,6 +69,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/dbmanager/datatables/index.html" timestamp="1550491705479" />
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/forms.py" timestamp="1550067182480">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="5" column="22" />
@@ -199,6 +200,12 @@
         <mark key="]" line="4" column="49" />
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" timestamp="1550492140144">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/templates/product/detail_template.html" timestamp="1550223454026">
         <mark key="[" line="2" column="0" />
@@ -431,8 +438,8 @@
       <jump line="30" column="18" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -444,31 +451,31 @@
         <text encoding="base64">ICAgIGMgPSBDYXRlZ29yeShuYW1lPSJEZXZpY2VzIiwgcHJvZHVjdD1wKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYuaXRlbXMudmFsdWVzX2xpc3QoJ3Byb2R1Y3RfX3RpdGxlJykpCg==</text>
+        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUHJvZHVjdCA6Iiwgc2VyaWFsaXplcnMuc2VyaWFsaXplKCdqc29uJyxbIGksIF0pKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYuaXRlbXMudmFsdWVzX2xpc3QoJ3Byb2R1Y3RfX3RpdGxlJykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHJvZHVjdCA6Iiwgc2VyaWFsaXplcnMuc2VyaWFsaXplKCdqc29uJyxbIGksIF0pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCiAgICBwLnNhdmUoKQogICAgYyA9IENhdGVnb3J5KG5hbWU9IkRldmljZXMiLCBwcm9kdWN0PXApCiAgICBjLnNhdmUoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCiAgICBwLnNhdmUoKQogICAgYyA9IENhdGVnb3J5KG5hbWU9IkRldmljZXMiLCBwcm9kdWN0PXApCiAgICBjLnNhdmUoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBwIGluIFByb2R1Y3QoKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQocmV0dXJuX3RhYmxlX29iaihsKSkK</text>
+        <text encoding="base64">ICAgIGZvciBwIGluIFByb2R1Y3QoKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQocmV0dXJuX3RhYmxlX29iaihsKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
