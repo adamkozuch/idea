@@ -34,11 +34,10 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/googleSample/Solution1.py" timestamp="1550568103052">
-        <mark key="[" line="6" column="71" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="2" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/googleSample/Solution1.py" timestamp="1550568773629">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/googleSample/Solution2.py" timestamp="1550512373695">
         <mark key="[" line="0" column="0" />
@@ -178,46 +177,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaG91cl9zdGFydCwgaG91cl9lbmQpCiAgICAgICAgICAgIHByaW50KG1pbnV0ZXNfc3RhcnQsIG1pbnV0ZXNfZW5kKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNsZWVwX3RpbWUsIHdha2luZ190aW1lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>hour_end</text>
+        <text>waking_time</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>solve(processed)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxhc3Rfd2FraW5nX2hvdXIgaXMgbm90IE5vbmUpIGFuZCBsYXN0X3dha2luZ19taW51dGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICB3YWtpbmdfdGltZSArPSAoaG91cl9zdGFydCAtIGxhc3Rfd2FraW5nX2hvdXIpKjYwICsgbWludXRlc19zdGFydCAtIGxhc3Rfd2FraW5nX21pbnV0ZQogICAgICAgICAgICBsYXN0X3dha2luZ19ob3VyLCBsYXN0X3dha2luZ19taW51dGUgPSBob3VyX2VuZCwgbWludXRlc19lbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaG91cl9zdGFydCwgaG91cl9lbmQpCiAgICAgICAgICAgIHByaW50KG1pbnV0ZXNfc3RhcnQsIG1pbnV0ZXNfZW5kKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNsZWVwX3RpbWUsIHdha2luZ190aW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9ICJteSByZXN1bHQiCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCB3YWtpbmdfdGltZSwgc2xlZXBfdGltZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJvY2Vzc2VkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50ZXJ2YWxzWzoxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaG91cl9zdGFydCwgaG91cl9lbmQpCiAgICAgICAgICAgIHByaW50KG1pbnV0ZXNfc3RhcnQsIG1pbnV0ZXNfZW5kKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50ZXJ2YWxzWzE6XSkK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9ICJteSByZXN1bHQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJvY2Vzc2VkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50ZXJ2YWxzWzoxXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcnZhbHMuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50ZXJ2YWxzWzE6XSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -237,8 +236,8 @@
         <entry>action GotoClass</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
