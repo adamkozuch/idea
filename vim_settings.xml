@@ -69,7 +69,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/datatables/index.html" timestamp="1550491705479" />
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/forms.py" timestamp="1550067182480">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="5" column="22" />
@@ -201,11 +200,12 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" timestamp="1550495098352">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" timestamp="1550577406395">
+        <mark key="'" line="30" column="29" />
+        <mark key="[" line="86" column="56" />
+        <mark key="]" line="86" column="84" />
+        <mark key="." line="86" column="84" />
+        <mark key="^" line="86" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/templates/product/detail_template.html" timestamp="1550223454026">
         <mark key="[" line="2" column="0" />
@@ -275,8 +275,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1550226928191">
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1550575328288">
         <mark key="'" line="0" column="18" />
+        <mark key="[" line="224" column="9" />
+        <mark key="]" line="224" column="9" />
+        <mark key="." line="224" column="9" />
+        <mark key="^" line="224" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
         <mark key="[" line="3" column="4" />
@@ -437,61 +441,61 @@
       <jump line="47" column="7" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
       <jump line="30" column="18" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
       <jump line="31" column="13" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
+      <jump line="30" column="29" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text>).</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdcPg==</text>
+        <text>adju</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGMgPSBDYXRlZ29yeShuYW1lPSJEZXZpY2VzIiwgcHJvZHVjdD1wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXJzZWxlY3QnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXJnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXJzZWxlY3QnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic29tZSBpbmZvIikKICAgICAgICBjb25zb2xlLmxvZyh0YWJsZS5jb2x1bW5zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXJzZWxlY3QgY29sdW1ucycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJ2lucHV0W3R5cGU9InNlYXJjaCJdJywgdGhpcy5hcGkoKS50YWJsZSgpLmNvbnRhaW5lcigpKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsCiAgICAgICAgICAgICAgICBmdW5jdGlvbiAoZXYpIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBhcGlfdmFyLmRyYXcoKQoKICAgICAgICAgICAgICAgIH0sIHRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCg==</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZS5jb2x1bW5zLmFkanVzdCgpLmRyYXcoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYuaXRlbXMudmFsdWVzX2xpc3QoJ3Byb2R1Y3RfX3RpdGxlJykpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBzY3JvbGxWYWx1ZShhcmcpIHsKICAgICAgICAgICAgLy8gY2FsY3VsYXRlIGxlbmd0aCBvZiBhbGwgdGQgZWxlbWVudHMKICAgICAgICAgICAgLy9iYXNlIG9uIHRoYXQgc2V0IHNjcm9sbFkKICAgICAgICAgICAgLy8gc2V0IGNzcyB0byBleGFtcGxlCiAgICAgICAgICAgIC8vIGlmIGxlc3MgdGhhbiByZXNpemUKCiAgICAgICAgICAgcmV0dXJuICI2MDBweCIKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUHJvZHVjdCA6Iiwgc2VyaWFsaXplcnMuc2VyaWFsaXplKCdqc29uJyxbIGksIF0pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KFByb2R1Y3QuX21ldGEuZGJfdGFibGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXJnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgPSBQcm9kdWN0KHRpdGxlPSJTYW1zdW5nIiwgZGVzY3JpcHRpb249InN1cGVyIHphamViaXN0eSIsIHByaWNlPTEwLjApCiAgICBwLnNhdmUoKQogICAgYyA9IENhdGVnb3J5KG5hbWU9IkRldmljZXMiLCBwcm9kdWN0PXApCiAgICBjLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic29tZSBpbmZvIikKICAgICAgICBjb25zb2xlLmxvZyh0YWJsZS5jb2x1bW5zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-search>adju</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>adju</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaXJzdFNlYXJjaGVkXD4=</entry>
         <entry encoding="base64">XDxwZ3Bhc3NfZXhpc3RzXD4=</entry>
         <entry encoding="base64">XDxwZ3VzZXJfc2V0XD4=</entry>
         <entry>first</entry>
@@ -511,6 +515,7 @@
         <entry encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry>adju</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -519,10 +524,10 @@
         <entry>set nu rnu</entry>
         <entry>ew</entry>
         <entry>we</entry>
-        <entry>action Run</entry>
         <entry>wq</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
