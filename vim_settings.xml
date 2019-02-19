@@ -40,12 +40,12 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/googleSample/Solution2.py" timestamp="1550574235678">
-        <mark key="'" line="26" column="11" />
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="49" />
-        <mark key="." line="13" column="49" />
-        <mark key="^" line="13" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/googleSample/Solution2.py" timestamp="1550599151374">
+        <mark key="'" line="22" column="11" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/GameOfLife.py" timestamp="1550341015233">
         <mark key="'" line="70" column="8" />
@@ -180,11 +180,11 @@
       <jump line="19" column="11" filename="$USER_HOME$/PycharmProjects/googleSample/Solution2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>max_val</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG1heF92YWw6CiAgICAgICAgICAgICAgICBtYXhfdmFsID0gY3VycmVudF9tYXgKICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="-" type="4">
-        <text>max_val</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -193,31 +193,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkNhc2UgI3swfTogezF9IHsyfSIuZm9ybWF0KGNhc2UsIHdha2luZ190aW1lLCBzbGVlcF90aW1lKSkKICAgICAgICAgICAgaW50ZXJ2YWxzID0gW10KICAgICAgICAgICAgY2FzZSArPSAxCiAgICAgICAgICAgIGNvdW50ZXIgKz0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbWF4X3ZhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG1heF92YWw6CiAgICAgICAgICAgICAgICBtYXhfdmFsID0gY3VycmVudF9tYXgKICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZpc2l0ZWRbdl0gPSBGYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ3JhcGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbWF4X3ZhbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGtleXMpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ3JhcGgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdyZXR1cm4gJywgdiwgY291bnRlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGtleXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNvbHZlKCk6CiAgICByZXN1bHQgPSAibXkgcmVzdWx0IgogICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ3JhcGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdyZXR1cm4gJywgdiwgY291bnRlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaXRlcmF0ZScsIHUpCg==</text>
+        <text encoding="base64">ZGVmIHNvbHZlKCk6CiAgICByZXN1bHQgPSAibXkgcmVzdWx0IgogICAgcmV0dXJuIHJlc3VsdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
