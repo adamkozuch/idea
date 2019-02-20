@@ -28,6 +28,9 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="36" column="13" />
       </file>
+      <file name="/a.dummy" timestamp="1550664078696">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/jwt_logic.py" timestamp="1548763113185">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="3" column="0" />
@@ -118,12 +121,12 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1550662660814">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="177" column="8" />
-        <mark key="]" line="177" column="21" />
-        <mark key="^" line="177" column="21" />
-        <mark key="." line="177" column="21" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1550664555239">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="44" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/todo/todosite/tasks/models.py" timestamp="1550587260556">
         <mark key="[" line="7" column="31" />
@@ -401,11 +404,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/tests.py" timestamp="1550660620578">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="51" column="55" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/tests.py" timestamp="1550663790543">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="46" column="55" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/pages/views.py" timestamp="1550070878910">
         <mark key="[" line="9" column="18" />
@@ -439,7 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="219" column="60" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="8" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
@@ -456,7 +458,6 @@
       <jump line="99" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="96" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="70" column="69" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="68" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="35" column="77" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="31" column="89" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
@@ -529,65 +530,75 @@
       <jump line="15" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="12" column="32" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="85" column="27" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="110" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="60" column="31" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="46" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="81" column="88" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="123" column="34" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="124" column="44" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="187" column="84" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="184" column="62" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>running_imports</text>
+        <text>print</text>
       </register>
       <register name="-" type="4">
-        <text>running_imports</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
-        <text>deleteOld</text>
+        <text>roun</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXJzZWxlY3QnKQo=</text>
+      <register name="0" type="4">
+        <text>logger.info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBpZHggPSAwCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgIGRlZiByb3VuZFByaWNlKHNlbGYsIHByaWNlKToKICAgICAgICByZXR1cm4gcHJpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiByb3VuZFByaWNlKHNlbGYsIHByaWNlKToKICAgICAgICByZXR1cm4gcHJpY2UK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JvdW5kX3ByaWNlKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc2VsZi5zZXJ2aWNlLnJvdW5kUHJpY2UoMSksIDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChvcmRGcm9tKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtc2cpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogamFraWVzIHN1bXkga29udHJvbG5lIHBvendhbGFqYWNlIHNwcmF3ZHppYywgY3p5IHNhIGpha2llcyB6bWlhbnkgaSBtdXNpeSByZWltcG9ydG93YWMK</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtc2cpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deleteOld</last-search>
+      <last-search>roun</last-search>
       <last-offset />
-      <last-pattern>deleteOld</last-pattern>
+      <last-pattern>roun</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>first</entry>
-        <entry>col</entry>
-        <entry>console</entry>
-        <entry>jqu</entry>
-        <entry>jQuery</entry>
         <entry>foot</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry>10</entry>
@@ -603,6 +614,11 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDx0eXBfc2x1Z2lmeVw+</entry>
         <entry>deleteOld</entry>
+        <entry encoding="base64">XDxvcmRUb1w+</entry>
+        <entry encoding="base64">XDx0b3RhbFw+</entry>
+        <entry>rou</entry>
+        <entry>round</entry>
+        <entry>roun</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
