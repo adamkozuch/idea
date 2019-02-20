@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1550391468113">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/max_subarray.py" timestamp="1550341032786">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="25" column="29" />
@@ -62,15 +59,22 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaSlice.py" timestamp="1550694780374">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+        <mark key="^" line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/data/a_example.in" timestamp="1550694821737" />
       <file name="/Dummy.txt" timestamp="1550401367667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1550436623682">
-        <mark key="'" line="76" column="17" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" timestamp="1550694848694">
+        <mark key="'" line="78" column="17" />
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="65" column="14" />
+        <mark key="^" line="65" column="14" />
+        <mark key="." line="65" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled1/google_keep.py" timestamp="1550611867645">
         <mark key="'" line="6" column="49" />
@@ -95,25 +99,18 @@
       <file name="$USER_HOME$/PycharmProjects/untitled/GameOfLife.py" timestamp="1550341015233">
         <mark key="'" line="70" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550257396939">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py" timestamp="1550309082622">
         <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550309078640">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/test.py" timestamp="1550255780346">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaPlate.py" timestamp="1550695524860">
+        <mark key="'" line="164" column="0" />
+        <mark key="." line="26" column="84" />
       </file>
     </filemarks>
     <jumps>
@@ -186,56 +183,60 @@
       <jump line="76" column="17" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/main.py" />
       <jump line="19" column="11" filename="$USER_HOME$/PycharmProjects/googleSample/Solution2.py" />
       <jump line="6" column="49" filename="$USER_HOME$/PycharmProjects/untitled1/google_keep.py" />
+      <jump line="26" column="74" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaPlate.py" />
+      <jump line="22" column="38" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaPlate.py" />
+      <jump line="33" column="33" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaPlate.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaPlate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxzbGljZUhhc2hcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkNhc2UgI3swfTogezF9IHsyfSIuZm9ybWF0KGNhc2UsIHdha2luZ190aW1lLCBzbGVlcF90aW1lKSkKICAgICAgICAgICAgaW50ZXJ2YWxzID0gW10KICAgICAgICAgICAgY2FzZSArPSAxCiAgICAgICAgICAgIGNvdW50ZXIgKz0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZ25vdGVzWzBdKQo=</text>
+        <text encoding="base64">ZnJvbSBQaXp6YVNsaWNlIGltcG9ydCBQaXp6YVNsaWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gZ25vdGVzOgogICAgcHJpbnQoaSkK</text>
+        <text encoding="base64">cHJpbnQoZ25vdGVzWzBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG1heF92YWw6CiAgICAgICAgICAgICAgICBtYXhfdmFsID0gY3VycmVudF9tYXgKICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Zm9yIGkgaW4gZ25vdGVzOgogICAgcHJpbnQoaSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZpc2l0ZWRbdl0gPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG1heF92YWw6CiAgICAgICAgICAgICAgICBtYXhfdmFsID0gY3VycmVudF9tYXgKICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbWF4X3ZhbAo=</text>
+        <text encoding="base64">ICAgIHZpc2l0ZWRbdl0gPSBGYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbWF4X3ZhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ3JhcGgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGtleXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ3JhcGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ3JhcGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGtleXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxzbGljZUhhc2hcPg==</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzbGljZUhhc2hcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -243,11 +244,13 @@
         <entry encoding="base64">XDxjaG9vc2VkXD4=</entry>
         <entry encoding="base64">XDxkZWFkX2Jmc1w+</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxzbGljZUhhc2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>we</entry>
         <entry>w</entry>
         <entry>action Run</entry>
       </history-cmd>
