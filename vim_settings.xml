@@ -107,12 +107,12 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1550668836352">
-        <mark key="'" line="126" column="12" />
-        <mark key="[" line="127" column="70" />
-        <mark key="]" line="127" column="80" />
-        <mark key="." line="127" column="80" />
-        <mark key="^" line="127" column="80" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1550674795357">
+        <mark key="'" line="125" column="12" />
+        <mark key="[" line="75" column="33" />
+        <mark key="]" line="75" column="33" />
+        <mark key="." line="75" column="33" />
+        <mark key="^" line="43" column="104" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/todo/todosite/tasks/models.py" timestamp="1550587260556">
         <mark key="[" line="7" column="31" />
@@ -457,10 +457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e %s, %s / %s objects' % (len(insert_list), total)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>e %s, %s / %s objects' % (len(insert_list), total)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>roun</text>
@@ -469,34 +469,34 @@
         <text>logger.info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWR4ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiSW1wb3J0IERhc2hib2FyZFByZW1paSBmaW5pc2hlZCIpCg==</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cF9zdHIgPSAnbnVsbCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZHggPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWR4ICs9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiByb3VuZFByaWNlKHNlbGYsIHByaWNlKToKICAgICAgICByZXR1cm4gcHJpY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cF9zdHIgPSAnbnVsbCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiByb3VuZFByaWNlKHNlbGYsIHByaWNlKToKICAgICAgICByZXR1cm4gcHJpY2UK</text>
+        <text encoding="base64">ICAgICAgICBpZHggPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiByb3VuZFByaWNlKHNlbGYsIHByaWNlKToKICAgICAgICByZXR1cm4gcHJpY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JvdW5kX3ByaWNlKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc2VsZi5zZXJ2aWNlLnJvdW5kUHJpY2UoMSksIDEpCg==</text>
+        <text encoding="base64">ICAgIGRlZiByb3VuZFByaWNlKHNlbGYsIHByaWNlKToKICAgICAgICByZXR1cm4gcHJpY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChvcmRGcm9tKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtc2cpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JvdW5kX3ByaWNlKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc2VsZi5zZXJ2aWNlLnJvdW5kUHJpY2UoMSksIDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
