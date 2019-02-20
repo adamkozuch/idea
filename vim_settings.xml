@@ -70,10 +70,13 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/urls.py" timestamp="1550150672967">
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/urls.py" timestamp="1550655538712">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" timestamp="1550655581830">
+        <mark key="'" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/forms.py" timestamp="1550067182480">
         <mark key="[" line="4" column="15" />
@@ -460,6 +463,12 @@
       <jump line="30" column="18" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
       <jump line="31" column="13" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
       <jump line="30" column="29" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
+      <jump line="41" column="13" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
+      <jump line="33" column="29" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
+      <jump line="31" column="16" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
+      <jump line="24" column="29" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -469,7 +478,7 @@
         <text>).</text>
       </register>
       <register name="/" type="4">
-        <text>adju</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXJzZWxlY3QnKQo=</text>
@@ -506,10 +515,10 @@
       </register>
     </registers>
     <search>
-      <last-search>adju</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>adju</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -519,7 +528,6 @@
         <entry>first</entry>
         <entry>col</entry>
         <entry>console</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>jqu</entry>
         <entry>jQuery</entry>
         <entry>foot</entry>
@@ -534,6 +542,7 @@
         <entry>import</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>adju</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
