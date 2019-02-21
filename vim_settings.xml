@@ -126,6 +126,15 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="/usr/lib/python3.6/os.py" timestamp="1550742084969">
+        <mark key="'" line="728" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings.py" timestamp="1550743066903">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="22" column="52" />
+        <mark key="." line="22" column="52" />
+        <mark key="^" line="22" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/service.py" timestamp="1548769043799">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="26" />
@@ -245,17 +254,18 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings_local.py" timestamp="1550141080063">
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings_local.py" timestamp="1550742076425">
+        <mark key="'" line="7" column="17" />
         <mark key="[" line="38" column="60" />
         <mark key="]" line="38" column="59" />
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550741455525">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="22" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550743248421">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="54" />
+        <mark key="^" line="14" column="54" />
+        <mark key="." line="14" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1550741230508">
         <mark key="[" line="0" column="0" />
@@ -308,10 +318,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1550658635791">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1550742892219">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/forms.py" timestamp="1550135051766">
         <mark key="[" line="24" column="41" />
@@ -368,10 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="100" column="77" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="99" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="70" column="69" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="35" column="77" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
@@ -468,19 +475,23 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="28" column="38" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="125" column="57" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
+      <jump line="7" column="17" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings_local.py" />
+      <jump line="755" column="15" filename="/usr/lib/python3.6/os.py" />
+      <jump line="728" column="21" filename="/usr/lib/python3.6/os.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/builtins.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX3ZlcmlmeShzZWwK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>token_check</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX2NoZWNrKHNlbGYpOgogICAgICAgIHVybCA9IHJldmVyc2UoJ2Rhc2hib2FyZDpib251c19zdW1tYXJ5JykK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX3ZlcmlmeV92YWxpZF90b2tlbihzZWxmKToKICAgICAgICBjbGllbnQgPSBDbGllbnQoKQogICAgICAgIGhlYWRlcnMgPSB7IkhUVFBfQVVUSE9SSVpBVElPTiI6ICJzb21lX2FyZyAgZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lJeE1qTTBOVFkzT0Rrd0lpd2libUZ0WlNJNklrcHZhRzRnUkc5bElpd2lZV1J0YVc0aU9uUnlkV1VzSW1wMGFTSTZJalU0WXpaaFptVmlMVEprTXpjdE5EVTNaQzA1TjJaa0xURmpOakkyTkdWaU5qZzVZU0lzSW1saGRDSTZNVFUxTURjME16RXdNQ3dpWlhod0lqb3hOVFV3TnpRMk56QXdmUS52aFFyY1R0RHVOWm1ocTFZWDVlUWlvdS1wNjB5cXphM1pUa29rZXBMS2FnIiB9CiAgICAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOnRva2VuX3ZlcmlmeScpCiAgICAgICAgY2xpZW50LmdldCh1cmwsICoqaGVhZGVycykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX3ZlcmlmeShzZWwK</text>
@@ -513,7 +524,7 @@
         <text encoding="base64">ICAgICAgICBEYXNoYm9hcmRJbXBvcnQub2JqZWN0cyBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -554,12 +565,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoFile</entry>
-        <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action unsplit</entry>
         <entry>action Unsplit</entry>
         <entry>q</entry>
+        <entry>action Run</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -612,6 +623,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
