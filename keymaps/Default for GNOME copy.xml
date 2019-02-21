@@ -19,10 +19,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift escape" />
-    <keyboard-shortcut first-keystroke="alt q" />
-  </action>
   <action id="InsertLiveTemplate" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />

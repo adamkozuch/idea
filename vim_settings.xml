@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1550753308139">
+      <file name="/start_script.py" timestamp="1550759808337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/todo/todosite/tasks/forms.py" timestamp="1550587326235">
@@ -43,6 +43,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/urls.py" timestamp="1550760612813">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/__init__.py" timestamp="1550658875262">
         <mark key="[" line="0" column="0" />
@@ -98,6 +104,13 @@
         <mark key="]" line="25" column="55" />
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" timestamp="1550760592734">
+        <mark key="'" line="17" column="7" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+        <mark key="^" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/forms.py" timestamp="1550067182480">
         <mark key="[" line="4" column="15" />
@@ -283,7 +296,7 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550741230508">
+      <file name="/Dummy.txt" timestamp="1550759838062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549527753345">
@@ -352,6 +365,12 @@
         <mark key="." line="24" column="65" />
         <mark key="^" line="24" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/views.py" timestamp="1550760671070">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/trydjango/settings.py" timestamp="1550229416232">
         <mark key="[" line="33" column="18" />
         <mark key="]" line="34" column="23" />
@@ -401,8 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="31" column="89" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="69" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="208" column="106" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="198" column="29" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
@@ -501,49 +518,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/builtins.py" />
       <jump line="19" column="17" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" />
       <jump line="29" column="39" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
+      <jump line="21" column="21" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
+      <jump line="17" column="7" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBza2wK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>hello_world</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
+        <text encoding="base64">ICAgIHBhdGgoJ2FkbWluLycsIGFkbWluLnNpdGUudXJscyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IENsaWVudCgK</text>
+        <text encoding="base64">ICAgICAgICBza2wK</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
+        <text encoding="base64">QHJlcXVpcmVfaHR0cF9tZXRob2RzKFsiR0VUIiwgIlBPU1QiXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXNoYm9hcmQudmlld3MudG9rZW4gaW1wb3J0IHRva2VuX2dlbmVyYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IENsaWVudCgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay50ZXN0IGltcG9ydCBBUElSZXF1ZXN0RmFjdG9yeSwgUmVxdWVzdHNDbGllbnQK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICcnJwogICAgdGVzdCBjb25zdWx0YW50czoKICAgIHsib3JkZXJzX2NvdW50IjozMzQzLCJjb25zdWx0YW50IjoiYW5uYS5zaW1hc2tvdmEuc2sifSwKICAgIHsib3JkZXJzX2NvdW50IjoyODYwLCJjb25zdWx0YW50IjoidG9tYXN6LnN3aWRlcnNraS5pdCJ9LAogICAgeyJvcmRlcnNfY291bnQiOjIwNjQsImNvbnN1bHRhbnQiOiJwYXVsaW5hLmN5cnVrLmN6In0sCiAgICB7Im9yZGVyc19jb3VudCI6MTk4NywiY29uc3VsdGFudCI6ImdyaWdhLm5hcmNpc2Eucm8ifSwKICAgIHsib3JkZXJzX2NvdW50IjoxNzQ0LCJjb25zdWx0YW50IjoicHJ6ZW15c2xhdy5zaWVtaWVuaWV3aWN6LnNrIn0sCiAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoand0LmV4Y2VwdGlvbnMuSW52YWxpZFNpZ25hdHVyZUVycm9yKToKICAgICAgICAgICAgaGVhZGVycyA9IHsiSFRUUF9BVVRIT1JJWkFUSU9OIjogInNvbWVfYXJnICBleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aVlXUnRhVzRpT25SeWRXVXNJbXAwYVNJNklqVTRZelpoWm1WaUxUSmtNemN0TkRVM1pDMDVOMlprTFRGak5qSTJOR1ZpTmpnNVlTSXNJbWxoZENJNk1UVTFNRGMwTXpFd01Dd2laWGh3SWpveE5UVXdOelEzT1RrNGZRLldQMTc1Q3BXdEhFZzJDT3AxV3otVkYyQWxLY3cxVGtiZEV2ejVaZU1nbTgiIH0KICAgICAgICAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOnRva2VuX3ZlcmlmeScpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldCh1cmwsICoqaGVhZGVycykK</text>
+        <text encoding="base64">ZnJvbSBkYXNoYm9hcmQudmlld3MudG9rZW4gaW1wb3J0IHRva2VuX2dlbmVyYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
