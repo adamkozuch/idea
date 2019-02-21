@@ -62,6 +62,12 @@
         <mark key="]" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/order.py" timestamp="1550745487328">
+        <mark key="[" line="43" column="142" />
+        <mark key="]" line="43" column="141" />
+        <mark key="." line="43" column="141" />
+        <mark key="^" line="43" column="141" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" timestamp="1549984555336">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -261,11 +267,12 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550743248421">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="54" />
-        <mark key="^" line="14" column="54" />
-        <mark key="." line="14" column="54" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550746471729">
+        <mark key="'" line="29" column="39" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1550741230508">
         <mark key="[" line="0" column="0" />
@@ -318,11 +325,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1550742892219">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="22" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1550744970968">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/forms.py" timestamp="1550135051766">
         <mark key="[" line="24" column="41" />
@@ -379,8 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="69" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="35" column="77" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="31" column="89" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="69" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
@@ -479,49 +484,51 @@
       <jump line="755" column="15" filename="/usr/lib/python3.6/os.py" />
       <jump line="728" column="21" filename="/usr/lib/python3.6/os.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="19" column="17" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" />
+      <jump line="29" column="39" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX3ZlcmlmeV92YWxpZF90b2tlbihzZWxmKToKICAgICAgICBjbGllbnQgPSBDbGllbnQoKQogICAgICAgIGhlYWRlcnMgPSB7IkhUVFBfQVVUSE9SSVpBVElPTiI6ICJzb21lX2FyZyAgZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lJeE1qTTBOVFkzT0Rrd0lpd2libUZ0WlNJNklrcHZhRzRnUkc5bElpd2lZV1J0YVc0aU9uUnlkV1VzSW1wMGFTSTZJalU0WXpaaFptVmlMVEprTXpjdE5EVTNaQzA1TjJaa0xURmpOakkyTkdWaU5qZzVZU0lzSW1saGRDSTZNVFUxTURjME16RXdNQ3dpWlhod0lqb3hOVFV3TnpRMk56QXdmUS52aFFyY1R0RHVOWm1ocTFZWDVlUWlvdS1wNjB5cXphM1pUa29rZXBMS2FnIiB9CiAgICAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOnRva2VuX3ZlcmlmeScpCiAgICAgICAgY2xpZW50LmdldCh1cmwsICoqaGVhZGVycykK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX3ZlcmlmeShzZWwK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Zik6CiAgICAgICAgcGFzcwogICAgICAgICMgZmFjdG9yeSA9IEFQSVJlcXVlc3RGYWN0b3J5KCkKICAgICAgICAjIGNsaWVudCA9IFJlcXVlc3RzQ2xpZW50KCkKICAgICAgICAjIHJlcXVlc3QgPSBjbGllbnQucG9zdCgnL29yZGVyL3N0YXR1c2VzLycpCiAgICAgICAgIyByZXNwb25zZSA9IHNlbGYuY2xpZW50LnBvc3QocmV2ZXJzZSgnYm9udXNfc3VtbWFyeScpLCBmb2xsb3c9VHJ1ZSkKICAgICAgICAjIHByaW50KHJlc3BvbnNlKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBkYXNoYm9hcmQudmlld3MudG9rZW4gaW1wb3J0IHRva2VuX2dlbmVyYXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSByZXZlcnNlKCdkYXNoYm9hcmQ6dG9rZW5fY2hlY2snKQo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay50ZXN0IGltcG9ydCBBUElSZXF1ZXN0RmFjdG9yeSwgUmVxdWVzdHNDbGllbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICcnJwogICAgdGVzdCBjb25zdWx0YW50czoKICAgIHsib3JkZXJzX2NvdW50IjozMzQzLCJjb25zdWx0YW50IjoiYW5uYS5zaW1hc2tvdmEuc2sifSwKICAgIHsib3JkZXJzX2NvdW50IjoyODYwLCJjb25zdWx0YW50IjoidG9tYXN6LnN3aWRlcnNraS5pdCJ9LAogICAgeyJvcmRlcnNfY291bnQiOjIwNjQsImNvbnN1bHRhbnQiOiJwYXVsaW5hLmN5cnVrLmN6In0sCiAgICB7Im9yZGVyc19jb3VudCI6MTk4NywiY29uc3VsdGFudCI6ImdyaWdhLm5hcmNpc2Eucm8ifSwKICAgIHsib3JkZXJzX2NvdW50IjoxNzQ0LCJjb25zdWx0YW50IjoicHJ6ZW15c2xhdy5zaWVtaWVuaWV3aWN6LnNrIn0sCiAgICAnJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrZWVwaW5nIGxhc3QgMyBpbXBvcnQgaWRzCiAgICAgICAgaGVyZSBwcm9iYWJseSBJIGNhbiBkbyBpdCB3aXRoIG9uZSBzdGF0ZW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoand0LmV4Y2VwdGlvbnMuSW52YWxpZFNpZ25hdHVyZUVycm9yKToKICAgICAgICAgICAgaGVhZGVycyA9IHsiSFRUUF9BVVRIT1JJWkFUSU9OIjogInNvbWVfYXJnICBleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aVlXUnRhVzRpT25SeWRXVXNJbXAwYVNJNklqVTRZelpoWm1WaUxUSmtNemN0TkRVM1pDMDVOMlprTFRGak5qSTJOR1ZpTmpnNVlTSXNJbWxoZENJNk1UVTFNRGMwTXpFd01Dd2laWGh3SWpveE5UVXdOelEzT1RrNGZRLldQMTc1Q3BXdEhFZzJDT3AxV3otVkYyQWxLY3cxVGtiZEV2ejVaZU1nbTgiIH0KICAgICAgICAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOnRva2VuX3ZlcmlmeScpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldCh1cmwsICoqaGVhZGVycykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXNoYm9hcmRJbXBvcnQub2JqZWN0cyBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
