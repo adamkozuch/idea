@@ -108,6 +108,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/admin.py" timestamp="1550751458639">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/execute_record.sh" timestamp="1549625821380">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="28" />
@@ -488,11 +494,11 @@
       <jump line="29" column="39" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IENsaWVudCgK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
@@ -531,7 +537,7 @@
         <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoand0LmV4Y2VwdGlvbnMuSW52YWxpZFNpZ25hdHVyZUVycm9yKToKICAgICAgICAgICAgaGVhZGVycyA9IHsiSFRUUF9BVVRIT1JJWkFUSU9OIjogInNvbWVfYXJnICBleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aVlXUnRhVzRpT25SeWRXVXNJbXAwYVNJNklqVTRZelpoWm1WaUxUSmtNemN0TkRVM1pDMDVOMlprTFRGak5qSTJOR1ZpTmpnNVlTSXNJbWxoZENJNk1UVTFNRGMwTXpFd01Dd2laWGh3SWpveE5UVXdOelEzT1RrNGZRLldQMTc1Q3BXdEhFZzJDT3AxV3otVkYyQWxLY3cxVGtiZEV2ejVaZU1nbTgiIH0KICAgICAgICAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOnRva2VuX3ZlcmlmeScpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldCh1cmwsICoqaGVhZGVycykK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -576,8 +582,8 @@
         <entry>action Unsplit</entry>
         <entry>q</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
