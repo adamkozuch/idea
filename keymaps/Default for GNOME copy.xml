@@ -75,6 +75,9 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
   <action id="VimWindowLeft">

@@ -250,6 +250,12 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550736937898">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile" timestamp="1549527753345">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="26" column="24" />
@@ -460,17 +466,17 @@
       <jump line="125" column="57" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrZWVwaW5nIGxhc3QgMyBpbXBvcnQgaWRzCiAgICAgICAgaGVyZSBwcm9iYWJseSBJIGNhbiBkbyBpdCB3aXRoIG9uZSBzdGF0ZW1lbnQK</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydHMgPSBEYXNoYm9hcmRJbXBvcnQub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgIyAgICAgaW1wb3J0X3N0YXR1cz1JbXBvcnRTdGF0dXNFbnVtLkZJTklTSEVECiAgICAgICAgIyApLm9yZGVyX2J5KCctaW1wb3J0X3RpbWUnKVs6M10K</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX3ZlcmlmeShzZWxmKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBrZWVwaW5nIGxhc3QgMyBpbXBvcnQgaWRzCiAgICAgICAgaGVyZSBwcm9iYWJseSBJIGNhbiBkbyBpdCB3aXRoIG9uZSBzdGF0ZW1lbnQK</text>
@@ -503,7 +509,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cF9zdHIgPSAnbnVsbCcK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -537,7 +543,6 @@
         <entry encoding="base64">XDwwXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>set nu rnu</entry>
         <entry>ew</entry>
         <entry>we</entry>
@@ -545,9 +550,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
         <entry>e</entry>
-        <entry>action GotoFile</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -591,6 +597,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
