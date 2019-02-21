@@ -267,12 +267,12 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550746471729">
-        <mark key="'" line="29" column="39" />
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="29" />
-        <mark key="^" line="33" column="35" />
-        <mark key="." line="33" column="29" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550749302562">
+        <mark key="'" line="28" column="39" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="32" column="35" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1550741230508">
         <mark key="[" line="0" column="0" />
@@ -489,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IENsaWVudCgK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
@@ -501,7 +501,7 @@
         <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudCA9IENsaWVudCgK</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
@@ -513,25 +513,25 @@
         <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXNoYm9hcmQudmlld3MudG9rZW4gaW1wb3J0IHRva2VuX2dlbmVyYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay50ZXN0IGltcG9ydCBBUElSZXF1ZXN0RmFjdG9yeSwgUmVxdWVzdHNDbGllbnQK</text>
+        <text encoding="base64">ZnJvbSBkYXNoYm9hcmQudmlld3MudG9rZW4gaW1wb3J0IHRva2VuX2dlbmVyYXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICcnJwogICAgdGVzdCBjb25zdWx0YW50czoKICAgIHsib3JkZXJzX2NvdW50IjozMzQzLCJjb25zdWx0YW50IjoiYW5uYS5zaW1hc2tvdmEuc2sifSwKICAgIHsib3JkZXJzX2NvdW50IjoyODYwLCJjb25zdWx0YW50IjoidG9tYXN6LnN3aWRlcnNraS5pdCJ9LAogICAgeyJvcmRlcnNfY291bnQiOjIwNjQsImNvbnN1bHRhbnQiOiJwYXVsaW5hLmN5cnVrLmN6In0sCiAgICB7Im9yZGVyc19jb3VudCI6MTk4NywiY29uc3VsdGFudCI6ImdyaWdhLm5hcmNpc2Eucm8ifSwKICAgIHsib3JkZXJzX2NvdW50IjoxNzQ0LCJjb25zdWx0YW50IjoicHJ6ZW15c2xhdy5zaWVtaWVuaWV3aWN6LnNrIn0sCiAgICAnJycK</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay50ZXN0IGltcG9ydCBBUElSZXF1ZXN0RmFjdG9yeSwgUmVxdWVzdHNDbGllbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICcnJwogICAgdGVzdCBjb25zdWx0YW50czoKICAgIHsib3JkZXJzX2NvdW50IjozMzQzLCJjb25zdWx0YW50IjoiYW5uYS5zaW1hc2tvdmEuc2sifSwKICAgIHsib3JkZXJzX2NvdW50IjoyODYwLCJjb25zdWx0YW50IjoidG9tYXN6LnN3aWRlcnNraS5pdCJ9LAogICAgeyJvcmRlcnNfY291bnQiOjIwNjQsImNvbnN1bHRhbnQiOiJwYXVsaW5hLmN5cnVrLmN6In0sCiAgICB7Im9yZGVyc19jb3VudCI6MTk4NywiY29uc3VsdGFudCI6ImdyaWdhLm5hcmNpc2Eucm8ifSwKICAgIHsib3JkZXJzX2NvdW50IjoxNzQ0LCJjb25zdWx0YW50IjoicHJ6ZW15c2xhdy5zaWVtaWVuaWV3aWN6LnNrIn0sCiAgICAnJycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoand0LmV4Y2VwdGlvbnMuSW52YWxpZFNpZ25hdHVyZUVycm9yKToKICAgICAgICAgICAgaGVhZGVycyA9IHsiSFRUUF9BVVRIT1JJWkFUSU9OIjogInNvbWVfYXJnICBleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aVlXUnRhVzRpT25SeWRXVXNJbXAwYVNJNklqVTRZelpoWm1WaUxUSmtNemN0TkRVM1pDMDVOMlprTFRGak5qSTJOR1ZpTmpnNVlTSXNJbWxoZENJNk1UVTFNRGMwTXpFd01Dd2laWGh3SWpveE5UVXdOelEzT1RrNGZRLldQMTc1Q3BXdEhFZzJDT3AxV3otVkYyQWxLY3cxVGtiZEV2ejVaZU1nbTgiIH0KICAgICAgICAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOnRva2VuX3ZlcmlmeScpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldCh1cmwsICoqaGVhZGVycykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBDbGllbnQoKQogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoand0LmV4Y2VwdGlvbnMuSW52YWxpZFNpZ25hdHVyZUVycm9yKToKICAgICAgICAgICAgaGVhZGVycyA9IHsiSFRUUF9BVVRIT1JJWkFUSU9OIjogInNvbWVfYXJnICBleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aVlXUnRhVzRpT25SeWRXVXNJbXAwYVNJNklqVTRZelpoWm1WaUxUSmtNemN0TkRVM1pDMDVOMlprTFRGak5qSTJOR1ZpTmpnNVlTSXNJbWxoZENJNk1UVTFNRGMwTXpFd01Dd2laWGh3SWpveE5UVXdOelEzT1RrNGZRLldQMTc1Q3BXdEhFZzJDT3AxV3otVkYyQWxLY3cxVGtiZEV2ejVaZU1nbTgiIH0KICAgICAgICAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOnRva2VuX3ZlcmlmeScpCiAgICAgICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldCh1cmwsICoqaGVhZGVycykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -576,8 +576,8 @@
         <entry>action Unsplit</entry>
         <entry>q</entry>
         <entry>action Run</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
