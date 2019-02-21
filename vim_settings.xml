@@ -84,7 +84,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/urls.py" timestamp="1550741225931">
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/urls.py" timestamp="1550741554293">
         <mark key="[" line="25" column="45" />
         <mark key="]" line="25" column="55" />
         <mark key="." line="25" column="55" />
@@ -227,7 +227,6 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/rest_framework/compat.py" timestamp="1550738032046" />
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/detail.html" timestamp="1550069098896">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="33" />
@@ -252,11 +251,11 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550739421827">
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-        <mark key="^" line="30" column="25" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1550741455525">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1550741230508">
         <mark key="[" line="0" column="0" />
@@ -471,8 +470,8 @@
       <jump line="125" column="57" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>token_check</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX3ZlcmlmeShzZWwK</text>
       </register>
       <register name="-" type="4">
         <text>token_check</text>
@@ -484,37 +483,37 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX2NoZWNrKHNlbGYpOgogICAgICAgIHVybCA9IHJldmVyc2UoJ2Rhc2hib2FyZDpib251c19zdW1tYXJ5JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rva2VuX3ZlcmlmeShzZWwK</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Zik6CiAgICAgICAgcGFzcwogICAgICAgICMgZmFjdG9yeSA9IEFQSVJlcXVlc3RGYWN0b3J5KCkKICAgICAgICAjIGNsaWVudCA9IFJlcXVlc3RzQ2xpZW50KCkKICAgICAgICAjIHJlcXVlc3QgPSBjbGllbnQucG9zdCgnL29yZGVyL3N0YXR1c2VzLycpCiAgICAgICAgIyByZXNwb25zZSA9IHNlbGYuY2xpZW50LnBvc3QocmV2ZXJzZSgnYm9udXNfc3VtbWFyeScpLCBmb2xsb3c9VHJ1ZSkKICAgICAgICAjIHByaW50KHJlc3BvbnNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSByZXZlcnNlKCdkYXNoYm9hcmQ6dG9rZW5fY2hlY2snKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSByZXZlcnNlKCdkYXNoYm9hcmQ6dG9rZW5fY2hlY2snKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrZWVwaW5nIGxhc3QgMyBpbXBvcnQgaWRzCiAgICAgICAgaGVyZSBwcm9iYWJseSBJIGNhbiBkbyBpdCB3aXRoIG9uZSBzdGF0ZW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEYXNoYm9hcmRJbXBvcnQub2JqZWN0cyBcCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlsdGVyKGltcG9ydF9zdGF0dXM9SW1wb3J0U3RhdHVzRW51bS5GSU5JU0hFRCkgXAogICAgICAgIC5vcmRlcl9ieSgnLWltcG9ydF90aW1lJylbMzpdIFwKICAgICAgICAuZGVsZXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBrZWVwaW5nIGxhc3QgMyBpbXBvcnQgaWRzCiAgICAgICAgaGVyZSBwcm9iYWJseSBJIGNhbiBkbyBpdCB3aXRoIG9uZSBzdGF0ZW1lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAK</text>
+        <text encoding="base64">ICAgICAgICBEYXNoYm9hcmRJbXBvcnQub2JqZWN0cyBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Unsplit</text>
       </register>
     </registers>
     <search>
@@ -559,6 +558,8 @@
         <entry>action GotoFile</entry>
         <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action unsplit</entry>
+        <entry>action Unsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -605,6 +606,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
