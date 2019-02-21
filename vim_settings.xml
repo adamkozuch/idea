@@ -513,7 +513,7 @@
         <text encoding="base64">ICAgICAgICBEYXNoYm9hcmRJbXBvcnQub2JqZWN0cyBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Unsplit</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -553,13 +553,13 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoFile</entry>
         <entry>action Run</entry>
         <entry>w</entry>
         <entry>action unsplit</entry>
         <entry>action Unsplit</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
