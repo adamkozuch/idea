@@ -105,11 +105,12 @@
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" timestamp="1550844849759">
-        <mark key="'" line="17" column="30" />
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" timestamp="1550848270998">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/forms.py" timestamp="1550067182480">
         <mark key="[" line="4" column="15" />
@@ -395,11 +396,11 @@
         <mark key="." line="24" column="65" />
         <mark key="^" line="24" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/views.py" timestamp="1550843062687">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="45" />
-        <mark key="." line="20" column="45" />
-        <mark key="^" line="20" column="45" />
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/views.py" timestamp="1550847584031">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/trydjango/settings.py" timestamp="1550229416232">
         <mark key="[" line="33" column="18" />
@@ -455,8 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="8" column="45" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="9" column="14" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="10" column="22" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="11" column="28" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
@@ -555,19 +554,21 @@
       <jump line="19" column="43" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/views.py" />
       <jump line="6" column="27" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" />
       <jump line="23" column="30" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
+      <jump line="19" column="30" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>echo</text>
+        <text>organizer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgoIiIsIFRhZ0FwaUxpc3QuYXNfdmlldygpLCBuYW1lPSdoZWxsbycpLAogICAgcGF0aCgiPHN0cjpzbHVnPi8iLCBUYWdBcGlEZXRhaWwuYXNfdmlldygpLCBuYW1lPSdoZWxsb19kZXRhaWwnKSwK</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gVGFnLm9iamVjdHMuYWxsKCkKICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBUYWdTZXJpYWxpemVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXBwX25hbWUgPSAib3JnYW5pemVyIgo=</text>
@@ -600,19 +601,18 @@
         <text encoding="base64">ICAgICAgICB0YWdfanNvbiA9IGpzb24uZHVtcHMoCiAgICAgICAgICAgIGRpY3QoaWQ9dGFnLnBrLCBuYW1lPXRhZy5uYW1lLCBzbHVnPXRhZy5zbHVnKQogICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set incsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>echo</last-search>
+      <last-search>organizer</last-search>
       <last-offset />
-      <last-pattern>echo</last-pattern>
+      <last-pattern>organizer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbnRcPg==</entry>
         <entry encoding="base64">XDxyb3VuZFByaWNlXD4=</entry>
         <entry encoding="base64">XDxvbmVfc2VjXD4=</entry>
         <entry encoding="base64">XDxTTEVFUFw+</entry>
@@ -632,6 +632,7 @@
         <entry encoding="base64">XDwwXD4=</entry>
         <entry>apps</entry>
         <entry>echo</entry>
+        <entry>organizer</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
@@ -648,6 +649,8 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>set incsearch</entry>
+        <entry>unset incsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
