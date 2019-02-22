@@ -220,12 +220,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550837919192">
-        <mark key="'" line="6" column="18" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550840370656">
+        <mark key="'" line="6" column="16" />
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/detail.html" timestamp="1550069098896">
         <mark key="[" line="2" column="23" />
@@ -341,12 +341,11 @@
         <mark key="." line="24" column="65" />
         <mark key="^" line="24" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/views.py" timestamp="1550831356160">
-        <mark key="'" line="21" column="41" />
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="21" column="62" />
-        <mark key="." line="21" column="62" />
-        <mark key="^" line="21" column="62" />
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/views.py" timestamp="1550841013252">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/trydjango/settings.py" timestamp="1550229416232">
         <mark key="[" line="33" column="18" />
@@ -398,7 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="8" column="45" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
@@ -497,50 +495,51 @@
       <jump line="120" column="32" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="17" column="41" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/views.py" />
       <jump line="1" column="41" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" />
-      <jump line="6" column="18" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" />
+      <jump line="19" column="43" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/views.py" />
+      <jump line="6" column="16" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TagSerializer</text>
+        <text>View</text>
       </register>
       <register name="-" type="4">
-        <text>TagSerializer</text>
+        <text>View</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhZ3MgPSBUYWdTZXJpYWxpemVyKG1hbnk9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICB0YWdfanNvbiA9IEpTT05SZW5kZXJlcigpLnJlbmRlcihUYWdTZXJpYWxpemVyKHRhZykuZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YWdfanNvbiA9IEpTT05SZW5kZXJlcigpLnJlbmRlcihrKQo=</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICB0YWdfanNvbiA9IEpTT05SZW5kZXJlcigpLnJlbmRlcihzZXJpYWxpemVkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYWRhbScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICB0YWdfanNvbiA9IGpzb24uZHVtcHMoCiAgICAgICAgICAgIFtkaWN0KGlkPXRhZy5waywgbmFtZT10YWcubmFtZSwgc2x1Zz10YWcuc2x1ZykgZm9yIHRhZyBpbiB0YWdfbGlzdF0KICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKHRhZ19qc29uKQo=</text>
+        <text encoding="base64">ICAgICAgICB0YWdfanNvbiA9IGpzb24uZHVtcHMoCiAgICAgICAgICAgIGRpY3QoaWQ9dGFnLnBrLCBuYW1lPXRhZy5uYW1lLCBzbHVnPXRhZy5zbHVnKQogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRyeToKICAgICAgICAjICAgICB0YWcgPSBUYWcub2JqZWN0cy5nZXQocGs9cGspCiAgICAgICAgIyBleGNlcHQgIFRhZy5Eb2VzTm90RXhpc3Q6CiAgICAgICAgIyAgICAgcmFpc2UgSHR0cDQwNCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3NvbWVfcGF0aC8nLCBIZWxsb1dvcmxkLmFzX3ZpZXcoKSksCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBvcmdhbml6ZXIgaW1wb3J0IHVybHMgYXMgb3JnYW5pemVyX3VybHMK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
