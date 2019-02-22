@@ -147,6 +147,12 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/tests.py" timestamp="1550846168022">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/sample_django/todo/todosite/tasks/models.py" timestamp="1550587260556">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="43" />
@@ -269,10 +275,10 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550844806510">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
+      <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550846229366">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
         <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/detail.html" timestamp="1550069098896">
@@ -552,10 +558,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hello-detail</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>hello-detail</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
@@ -594,7 +600,7 @@
         <text encoding="base64">ICAgICAgICB0YWdfanNvbiA9IGpzb24uZHVtcHMoCiAgICAgICAgICAgIGRpY3QoaWQ9dGFnLnBrLCBuYW1lPXRhZy5uYW1lLCBzbHVnPXRhZy5zbHVnKQogICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -640,8 +646,8 @@
         <entry>action Run</entry>
         <entry>set surround</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
