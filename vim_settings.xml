@@ -238,7 +238,7 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1550825479366">
+      <file name="/Python Console" timestamp="1550832484309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549625653170">
@@ -281,6 +281,12 @@
         <mark key="]" line="8" column="46" />
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/dbmanager/crontab.txt" timestamp="1550832728364">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings_local.py" timestamp="1550742076425">
         <mark key="'" line="7" column="17" />
@@ -537,10 +543,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>teapplicationxt</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>teapplicationxt</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
