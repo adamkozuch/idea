@@ -238,7 +238,7 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1550753323377">
+      <file name="/Python Console" timestamp="1550825479366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/test_api.sh" timestamp="1549625653170">
@@ -304,6 +304,12 @@
         <mark key="]" line="26" column="24" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1550826557074">
+        <mark key="[" line="224" column="49" />
+        <mark key="]" line="224" column="51" />
+        <mark key="." line="224" column="51" />
+        <mark key="^" line="224" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
         <mark key="[" line="3" column="4" />
@@ -522,11 +528,11 @@
       <jump line="17" column="7" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBza2wK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>hello_world</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
