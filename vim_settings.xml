@@ -105,6 +105,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/words.json" timestamp="1550931988495">
+        <mark key="[" line="0" column="101" />
+        <mark key="]" line="0" column="100" />
+        <mark key="." line="0" column="100" />
+        <mark key="^" line="0" column="100" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/build_test_docker.sh" timestamp="1549527644069">
         <mark key="[" line="19" column="35" />
         <mark key="]" line="19" column="40" />
@@ -226,12 +232,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550929994576">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550932239840">
         <mark key="'" line="15" column="52" />
-        <mark key="[" line="49" column="22" />
-        <mark key="]" line="49" column="32" />
-        <mark key="." line="49" column="32" />
-        <mark key="^" line="49" column="32" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1550827855422">
         <mark key="'" line="120" column="32" />
@@ -505,11 +511,11 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550930081744">
-        <mark key="[" line="145" column="29" />
-        <mark key="]" line="145" column="30" />
-        <mark key="^" line="39" column="7" />
-        <mark key="." line="145" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550932209024">
+        <mark key="[" line="147" column="37" />
+        <mark key="]" line="148" column="3" />
+        <mark key="." line="148" column="3" />
+        <mark key="^" line="148" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/backends.py" timestamp="1550658496019">
         <mark key="[" line="0" column="0" />
@@ -636,46 +642,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGFmdGVyIiwgZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfcmVzdWx0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV90b193b3Jkc19qc29uKG9iamVjdHMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGJlZnJlIiwgZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGFmdGVyIiwgZGF0YSkK</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNvdW5kOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGJlZnJlIiwgZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG9zLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpc19hdWRpbyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJBZGRpbmcgd29yZHMgdG8gZGVjayIpCiAgICAgICAgICAgICAgICBwcmludChtZWRpYV9maWxlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNvdW5kOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgY2hlY2sgaWYgZmlyZSBocyBzb21lIG9wdGlvbnMgZm9yIHRoZXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc19hdWRpbyA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
