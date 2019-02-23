@@ -327,12 +327,12 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/models.py" timestamp="1550946375334">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="30" column="53" />
-        <mark key="]" line="30" column="62" />
-        <mark key="." line="30" column="62" />
-        <mark key="^" line="30" column="62" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/models.py" timestamp="1550947888110">
+        <mark key="'" line="82" column="18" />
+        <mark key="[" line="31" column="48" />
+        <mark key="]" line="31" column="54" />
+        <mark key="." line="31" column="54" />
+        <mark key="^" line="31" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/home.html" timestamp="1550070171831">
         <mark key="[" line="4" column="38" />
@@ -540,8 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="7" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
-      <jump line="30" column="18" filename="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/views.py" />
       <jump line="31" column="13" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
       <jump line="30" column="29" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
       <jump line="18" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
@@ -640,19 +638,21 @@
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
       <jump line="84" column="39" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="79" column="16" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
+      <jump line="82" column="18" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>readical</text>
+        <text>Kanji</text>
       </register>
       <register name="-" type="4">
-        <text>readical</text>
+        <text>Kanji</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVtcGxhdGVzID0gWwogICAgewogICAgICAgICduYW1lJzogJ0NhcmQgMScsCiAgICAgICAgJ3FmbXQnOiAne3tRdWVzdGlvbn19e3toaW50OkhpbnR9fScsCiAgICAgICAgJ2FmbXQnOiAne3tGcm9udFNpZGV9fTxociBpZD0iYW5zd2VyIj57e0Fuc3dlcn19JywKICAgIH1dCg==</text>
+        <text encoding="base64">ZmllbGRzID0gWwogICAgeyduYW1lJzogJ1F1ZXN0aW9uJ30sCiAgICB7J25hbWUnOiAnQW5zd2VyJ30sCiAgICB7J25hbWUnOiAnSGludCd9LApdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCkK</text>
