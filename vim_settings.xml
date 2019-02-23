@@ -411,11 +411,12 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/README.md" timestamp="1550954027300">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="32" />
-        <mark key="." line="34" column="32" />
-        <mark key="^" line="34" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/README.md" timestamp="1550956142930">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaSlice.py" timestamp="1550694780374">
         <mark key="[" line="17" column="59" />
@@ -552,7 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
       <jump line="30" column="29" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
       <jump line="18" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
       <jump line="41" column="13" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
@@ -652,13 +652,14 @@
       <jump line="84" column="39" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
       <jump line="79" column="16" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
       <jump line="82" column="18" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status_code</text>
+        <text>Janki</text>
       </register>
       <register name="-" type="4">
-        <text>status_code</text>
+        <text>Janki</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
@@ -697,7 +698,7 @@
         <text encoding="base64">IVthbHQgdGV4dF0oa2trKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -723,8 +724,8 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
