@@ -232,12 +232,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550932239840">
-        <mark key="'" line="15" column="52" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="12" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550933077653">
+        <mark key="'" line="27" column="52" />
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1550827855422">
         <mark key="'" line="120" column="32" />
@@ -511,11 +511,11 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550932209024">
-        <mark key="[" line="147" column="37" />
-        <mark key="]" line="148" column="3" />
-        <mark key="." line="148" column="3" />
-        <mark key="^" line="148" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550932692655">
+        <mark key="[" line="145" column="11" />
+        <mark key="]" line="145" column="27" />
+        <mark key="." line="145" column="27" />
+        <mark key="^" line="145" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/backends.py" timestamp="1550658496019">
         <mark key="[" line="0" column="0" />
@@ -641,47 +641,47 @@
       <jump line="14" column="52" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGFmdGVyIiwgZGF0YSkK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfcmVzdWx0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGJlZnJlIiwgZGF0YSkK</text>
+        <text encoding="base64">ICAgIGRlZiBwcnVuZShzZWxmKToKICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzLmpzb24nLCAndycpIGFzIGZpbGU6CiAgICAgICAgICAgIGpzb24uZHVtcCh7J2RhdGEnOltdfSwgZmlsZSkKICAgICAgICAgICAgY2xlYW5fdXAoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGFmdGVyIiwgZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGJlZnJlIiwgZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5fdXAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG9zLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudHMgPSBqc29uLmxvYWQoZmlsZSlbJ2RhdGEnXQogICAgICAgICAgICBjYXJkcyA9IFtdCiAgICAgICAgICAgIGZvciBvYmogaW4gZWxlbWVudHM6CiAgICAgICAgICAgICAgICBjYXJkcyA9IGNhcmRzICsgIGdlbmVyYXRlX2NhcmRzX2V4dGVuZGVkKG9ialsnZW5nbGlzaCddLCBvYmpbJ2thbmppJ10sIG9ialsncmVhZGluZyddKQogICAgICAgICAgICAgICAgbWVkaWFfZmlsZXMgPSAoZ2xvYi5nbG9iKCIqLm1wMyIpKQogICAgICAgICAgICBpbnNlcnRfY2FyZHNfdG9fZGVjayhjYXJkcywgbWVkaWFfZmlsZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNvdW5kOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpc19hdWRpbyA9IAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGFmdGVyIiwgZGF0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJkYXRlIGJlZnJlIiwgZGF0YSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
