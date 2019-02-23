@@ -99,6 +99,12 @@
       <file name="$USER_HOME$/PycharmProjects/untitled/GameOfLife.py" timestamp="1550341015233">
         <mark key="'" line="70" column="8" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550924741282">
+        <mark key="[" line="57" column="11" />
+        <mark key="]" line="57" column="18" />
+        <mark key="." line="57" column="18" />
+        <mark key="^" line="57" column="18" />
+      </file>
       <file name="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py" timestamp="1550309082622">
         <mark key="'" line="1" column="0" />
       </file>
@@ -193,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>is_aodio</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>is_aodio</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGljZUhhc2hcPg==</text>
@@ -232,7 +238,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGtleXMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -254,8 +260,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
