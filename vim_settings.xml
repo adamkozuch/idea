@@ -226,12 +226,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550926940980">
-        <mark key="'" line="62" column="24" />
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="55" />
-        <mark key="." line="9" column="55" />
-        <mark key="^" line="9" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" timestamp="1550929994576">
+        <mark key="'" line="15" column="52" />
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1550827855422">
         <mark key="'" line="120" column="32" />
@@ -459,7 +459,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550759838062">
+      <file name="/Dummy.txt" timestamp="1550929800195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
@@ -505,10 +505,11 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550926031662">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550930081744">
+        <mark key="[" line="145" column="29" />
+        <mark key="]" line="145" column="30" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="145" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/backends.py" timestamp="1550658496019">
         <mark key="[" line="0" column="0" />
@@ -532,21 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="26" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="73" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="112" column="26" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="113" column="26" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="152" column="34" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="154" column="25" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="155" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="156" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="157" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="158" column="21" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="159" column="19" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="160" column="51" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="161" column="19" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="163" column="22" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="165" column="30" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="177" column="16" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="28" column="18" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" />
@@ -628,53 +614,68 @@
       <jump line="23" column="30" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
       <jump line="19" column="30" filename="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/config/urls.py" />
-      <jump line="16" column="38" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
       <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
       <jump line="79" column="33" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
       <jump line="64" column="24" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="44" column="23" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="20" column="11" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="139" column="4" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="15" column="37" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
+      <jump line="14" column="52" filename="$USER_HOME$/PycharmProjects/anki_jisho/jisho_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRfcmVzdWx0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCd3b3Jkcy5qc29uJywgJ3cnKSBhcyBmaWxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV90b193b3Jkc19qc29uKG9iamVjdHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lodAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNvdW5kOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvYmogPSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2l0aCBvcGVuKCd3b3Jkcy5qc29uJywgJ2EnKSBhcyBmaWxlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZiA9IGZpbGUucmVhZCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBqZgo=</text>
+        <text encoding="base64">ICAgICAgICBpc19hdWRpbyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluZm8gPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwX25hbWUgPSAib3JnYW5pemVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJBZGRpbmcgd29yZHMgdG8gZGVjayIpCiAgICAgICAgICAgICAgICBwcmludChtZWRpYV9maWxlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVybCA9IEh5cGVybGlua2VkSWRlbnRpdHlGaWVsZCgKICAgICAgICBsb29rdXBfZmllbGQ9InNsdWciLCB2aWV3X25hbWU9J2hlbGxvLWRldGFpbCcsCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgY2hlY2sgaWYgZmlyZSBocyBzb21lIG9wdGlvbnMgZm9yIHRoZXNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdsaXZlcmVsb2FkJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -697,10 +698,11 @@
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>action Run</entry>
+        <entry>qw</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
