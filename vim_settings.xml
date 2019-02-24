@@ -346,7 +346,8 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1550958923022">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551003489441">
+        <mark key="'" line="33" column="21" />
         <mark key="[" line="42" column="67" />
         <mark key="]" line="42" column="67" />
         <mark key="^" line="42" column="67" />
@@ -553,8 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="29" filename="$USER_HOME$/Projects/dbmanager/datatables/datatablesScript.js" />
-      <jump line="18" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
       <jump line="41" column="13" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
       <jump line="33" column="29" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
       <jump line="31" column="16" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" />
@@ -653,6 +652,8 @@
       <jump line="79" column="16" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
       <jump line="82" column="18" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
       <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/README.md" />
+      <jump line="6" column="26" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="33" column="21" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -662,7 +663,7 @@
         <text>generate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YGBgCnB5dGhvbjMgamFua2kucHkgZ2VuZXJhdGUKYGBgCg==</text>
@@ -702,10 +703,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZW1wbGF0ZXNcPg==</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZW1wbGF0ZXNcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>input</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -716,6 +717,7 @@
         <entry encoding="base64">XDxzbGljZUhhc2hcPg==</entry>
         <entry encoding="base64">XDxlbmRfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
