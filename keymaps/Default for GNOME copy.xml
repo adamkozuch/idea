@@ -15,18 +15,11 @@
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="GotoBookmark6" />
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift escape" />
-    <keyboard-shortcut first-keystroke="alt q" />
-  </action>
+  <action id="InsertLiveTemplate" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
@@ -75,6 +68,9 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
   <action id="VimWindowLeft">
@@ -82,5 +78,8 @@
   </action>
   <action id="VimWindowRight">
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
 </keymap>
