@@ -193,7 +193,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnSW4gbXlzcWwnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -213,9 +213,9 @@
       <history-cmd>
         <entry>q</entry>
         <entry>action Run</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
