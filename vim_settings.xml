@@ -268,7 +268,7 @@
         <text encoding="base64">ICAgICMgZGVmIHRlc3Rfb3JkZXJfc3RhdHVzZXMoc2VsZik6CiAgICAjICAgICB1cmwgPSByZXZlcnNlKCdkYXNoYm9hcmQ6b3JkZXJfc3RhdHVzZXMnKQogICAgIwogICAgIyBkZWYgdGVzdF9ib251c19zdW1tYXJ5KHNlbGYpOgogICAgIyAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOmJvbnVzX3N1bW1hcnknKQoKICAgICMgZGVmIHRlc3RfYm9udXNfZGV0YWlscyhzZWxmKToKICAgICMgICAgIHVybCA9IHJldmVyc2UoJ2Rhc2hib2FyZDpib251c19kZXRhaWxzJykKICAgICMKICAgICMgZGVmIHRlc3Rfb3JkZXJfZGV0YWlscyhzZWxmKToKICAgICMgICAgIHVybCA9IHJldmVyc2UoJ2Rhc2hib2FyZDpvcmRlcl9kZXRhaWxzJykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -293,8 +293,8 @@
         <entry>q</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
