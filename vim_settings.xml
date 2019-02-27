@@ -516,12 +516,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1551276989252">
-        <mark key="'" line="120" column="32" />
-        <mark key="[" line="219" column="26" />
-        <mark key="]" line="219" column="28" />
-        <mark key="." line="219" column="28" />
-        <mark key="^" line="219" column="28" />
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1551281288474">
+        <mark key="'" line="222" column="10" />
+        <mark key="[" line="223" column="60" />
+        <mark key="]" line="223" column="60" />
+        <mark key="^" line="224" column="57" />
+        <mark key="." line="223" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
         <mark key="[" line="3" column="4" />
@@ -599,65 +599,69 @@
       <jump line="18" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/common.py" />
       <jump line="24" column="21" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_details.py" />
       <jump line="3598" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="231" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="204" column="13" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="220" column="4" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="222" column="53" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="221" column="10" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new_d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>new_d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxjdXJsX2NvZGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">NC4gdyBtaWVqc2N1IEhUUEFTU1dEPSdkZXZlbG9wZXI6JGFwcjEkSk9aZzVpTi4kWlVjMDNVcWU2ZXJ6bS43SndXR2k5MScgCg==</text>
+        <text encoding="base64">ICAgIHJtICAkcGF0aAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NS4gCg==</text>
+        <text encoding="base64">ICAgIHJtICAkcGF0aAo=</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCmZyb20gZGphbmdvLmRiLm1vZGVscyBpbXBvcnQgQ291bnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCmZyb20gZGphbmdvLmRiLm1vZGVscyBpbXBvcnQgQ291bnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImNvZGUgIiAkY3VybF9jb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBob3cgc2hvdWxkIEkgZ2VuZXJhdGUgSldUIGZvciB0ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGVmIHRlc3RfdG9rZW5fdmVyaWZ5X3ZhbGlkX3Rva2VuX3dpdGhfdmFsaWRfYXJndW1lbnRzKHNlbGYpOgogICAgIyAgICAgc2VsZi5jbGllbnQgPSBDbGllbnQoKQogICAgIyAgICAgaGVhZGVycyA9IHsKICAgICMgICAgICAgICAiSFRUUF9BVVRIT1JJWkFUSU9OIjogInNvbWVfYXJnICBleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aVpXMWhhV3dpT2lKaFpHRnRRSE52WlcwdVkyOXRJaXdpYkdGdVozVmhaMlZmWTI5a1pTSTZJbEJNSWl3aWJHOW5hVzRpT2lKaFpHRnRJaXdpYW5ScElqb2lOVGhqTm1GbVpXSXRNbVF6TnkwME5UZGtMVGszWm1RdE1XTTJNalkwWldJMk9EbGhJaXdpYVdGMElqb3hOVFV3TnpRek1UQXdMQ0psZUhBaU9qRTFOVEEzTkRnM01EUjkudWhscHBWbjhWZko4bVh4VElSR0VGOHVJLUdsNGZSd2NRcmVHY19iQ2xhWSJ9CiAgICAjICAgICB1cmwgPSByZXZlcnNlKCdkYXNoYm9hcmQ6dG9rZW5fdmVyaWZ5JykKICAgICMgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKDIwMCwgc2VsZi5jbGllbnQuZ2V0KHVybCwgKipoZWFkZXJzKS5zdGF0dXNfY29kZSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ampqCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJ0aGVyZSBpcyBlcnJvciIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICMgZGVmIHRlc3RfdG9rZW5fdmVyaWZ5X3ZhbGlkX3NpZ25hdHVyZV93cm9uZ19jb250ZW50KHNlbGYpOgogICAgIyAgICAgaGVhZGVycyA9IHsKICAgICMgICAgICAgICAiSFRUUF9BVVRIT1JJWkFUSU9OIjogInNvbWVfYXJnICBleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKemRXSWlPaUl4TWpNME5UWTNPRGt3SWl3aWJtRnRaU0k2SWtwdmFHNGdSRzlsSWl3aVlXUnRhVzRpT25SeWRXVXNJbXAwYVNJNklqVTRZelpoWm1WaUxUSmtNemN0TkRVM1pDMDVOMlprTFRGak5qSTJOR1ZpTmpnNVlTSXNJbWxoZENJNk1UVTFNRGMwTXpFd01Dd2laWGh3SWpveE5UVXdOelEyTnpBd2ZRLnZoUXJjVHREdU5abWhxMVlYNWVRaW91LXA2MHlxemEzWlRrb2tlcExLYWcifQogICAgIyAgICAgdXJsID0gcmV2ZXJzZSgnZGFzaGJvYXJkOnRva2VuX3ZlcmlmeScpCiAgICAjICAgICBzZWxmLmFzc2VydEVxdWFscyg0MDEsIHNlbGYuY2xpZW50LmdldCh1cmwsICoqaGVhZGVycykuc3RhdHVzX2NvZGUp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICJ0aGVyZSBpcyBlcnJvciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJ0aGVyZSBpcyBlcnJvciIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxjdXJsX2NvZGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJsX2NvZGVcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb3VuZFByaWNlXD4=</entry>
-        <entry encoding="base64">XDxvbmVfc2VjXD4=</entry>
         <entry encoding="base64">XDxTTEVFUFw+</entry>
         <entry encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</entry>
         <entry>import</entry>
@@ -676,6 +680,8 @@
         <entry>echo</entry>
         <entry>organizer</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxjYW5fY29ubmVjdF9teXNxbF9kZWJpYW5fY25mXD4=</entry>
+        <entry encoding="base64">XDxjdXJsX2NvZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
