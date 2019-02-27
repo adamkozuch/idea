@@ -39,7 +39,7 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/backends.py" timestamp="1550658496019">
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/backends.py" timestamp="1551276450066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,8 +147,8 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" timestamp="1551186827097">
-        <mark key="'" line="13" column="12" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" timestamp="1551276366994">
+        <mark key="'" line="15" column="8" />
         <mark key="[" line="31" column="23" />
         <mark key="]" line="31" column="23" />
         <mark key="." line="31" column="23" />
@@ -588,6 +588,9 @@
       <jump line="27" column="39" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
       <jump line="1" column="25" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
       <jump line="8" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/common.py" />
+      <jump line="41" column="13" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
+      <jump line="23" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
+      <jump line="15" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -597,7 +600,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lem9uZVw+</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">NC4gdyBtaWVqc2N1IEhUUEFTU1dEPSdkZXZlbG9wZXI6JGFwcjEkSk9aZzVpTi4kWlVjMDNVcWU2ZXJ6bS43SndXR2k5MScgCg==</text>
@@ -637,9 +640,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lem9uZVw+</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lem9uZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -652,7 +655,6 @@
         <entry>import</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>adju</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDx0eXBfc2x1Z2lmeVw+</entry>
         <entry>deleteOld</entry>
         <entry encoding="base64">XDxvcmRUb1w+</entry>
@@ -665,6 +667,7 @@
         <entry>apps</entry>
         <entry>echo</entry>
         <entry>organizer</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
