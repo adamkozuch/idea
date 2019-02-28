@@ -107,4 +107,7 @@
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
 </keymap>
