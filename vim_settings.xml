@@ -57,6 +57,9 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/krab/ansible/main.yml" timestamp="1551351984627">
+        <mark key="'" line="118" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/list.html" timestamp="1550069447424">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="16" />
@@ -116,6 +119,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="/usr/lib/python3.6/os.py" timestamp="1550742084969">
+        <mark key="'" line="728" column="21" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1550150671151">
         <mark key="[" line="52" column="128" />
@@ -251,6 +257,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="17" column="138" />
+      </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/0008_auto_20181220_1431.py" timestamp="1551088448000">
+        <mark key="'" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/trydjango/urls.py" timestamp="1550070844814">
         <mark key="'" line="24" column="24" />
@@ -513,6 +522,9 @@
         <mark key="^" line="34" column="23" />
         <mark key="." line="34" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/krab/versions/current/api_clients/mdm.py" timestamp="1551178537274">
+        <mark key="'" line="41" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
@@ -563,6 +575,7 @@
       <jump line="220" column="4" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="222" column="53" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="221" column="10" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="118" column="0" filename="$USER_HOME$/Projects/IT-GOLD/krab/ansible/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -572,7 +585,7 @@
         <text>odpalający</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJsX2NvZGVcPg==</text>
+        <text>roles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJtICAkcGF0aAo=</text>
@@ -608,19 +621,18 @@
         <text encoding="base64">ICAgICAgICBlY2hvICJ0aGVyZSBpcyBlcnJvciIK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJsX2NvZGVcPg==</last-search>
+      <last-search>roles</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJsX2NvZGVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>roles</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTTEVFUFw+</entry>
         <entry encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
@@ -640,6 +652,7 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9teXNxbF9kZWJpYW5fY25mXD4=</entry>
         <entry encoding="base64">XDxjdXJsX2NvZGVcPg==</entry>
+        <entry>roles</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
@@ -652,12 +665,12 @@
         <entry>action Unsplit</entry>
         <entry>q</entry>
         <entry>set surround</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set incsearch</entry>
         <entry>unset incsearch</entry>
         <entry>w</entry>
         <entry>action Run</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
