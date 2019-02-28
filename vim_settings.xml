@@ -110,7 +110,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/config.py" timestamp="1551368021214" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/config.py" timestamp="1551387421284" />
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/dashboard_import.py" timestamp="1550658868674">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="0" />
@@ -128,6 +128,9 @@
         <mark key="]" line="19" column="40" />
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
+      </file>
+      <file name="/Python Console" timestamp="1551387540158">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.test" timestamp="1549528154186">
         <mark key="[" line="5" column="4" />
@@ -457,7 +460,7 @@
         <mark key="." line="31" column="59" />
         <mark key="^" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551003489441">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551387699044">
         <mark key="'" line="33" column="21" />
         <mark key="[" line="42" column="67" />
         <mark key="]" line="42" column="67" />
@@ -499,7 +502,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="57" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550929800195">
+      <file name="/Dummy.txt" timestamp="1551387527512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
@@ -545,7 +548,7 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1550951518210">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1551387498606">
         <mark key="[" line="103" column="17" />
         <mark key="]" line="103" column="18" />
         <mark key="." line="103" column="18" />
@@ -722,7 +725,7 @@
         <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -750,12 +753,12 @@
         <entry>we</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
