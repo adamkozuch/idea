@@ -608,7 +608,7 @@
         <text encoding="base64">ICAgICAgICBlY2hvICJ0aGVyZSBpcyBlcnJvciIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -651,13 +651,13 @@
         <entry>action unsplit</entry>
         <entry>action Unsplit</entry>
         <entry>q</entry>
-        <entry>action Run</entry>
         <entry>set surround</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set incsearch</entry>
         <entry>unset incsearch</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
