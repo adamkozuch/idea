@@ -209,11 +209,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/instrukcja_zmiany_hasla" timestamp="1551426873690">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="57" />
-        <mark key="^" line="11" column="57" />
-        <mark key="." line="11" column="57" />
+      <file name="$USER_HOME$/Projects/dbmanager/instrukcja_zmiany_hasla" timestamp="1551427630766">
+        <mark key="[" line="6" column="91" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/templates/base.html" timestamp="1550131879130">
         <mark key="[" line="10" column="25" />
@@ -579,10 +579,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>developer</text>
+        <text>możemy trzeba się umówić z adminami.</text>
       </register>
       <register name="-" type="4">
-        <text>developer</text>
+        <text>możemy trzeba się umówić z adminami.</text>
       </register>
       <register name="/" type="4">
         <text>roles</text>
@@ -668,8 +668,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set incsearch</entry>
         <entry>unset incsearch</entry>
-        <entry>action Run</entry>
         <entry>action GotoFile</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
