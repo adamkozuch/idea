@@ -26,9 +26,9 @@
       <file name="/a.dummy" timestamp="1551022264019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/google_image" timestamp="1551521275034">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/google_image" timestamp="1551522372712">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="20" />
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
@@ -123,11 +123,11 @@
         <mark key="." line="0" column="100" />
         <mark key="^" line="0" column="100" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1551521180208">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1551523231010">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/build_test_docker.sh" timestamp="1549527644069">
         <mark key="[" line="19" column="35" />
@@ -466,12 +466,11 @@
         <mark key="." line="31" column="59" />
         <mark key="^" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551387699044">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="42" column="67" />
-        <mark key="]" line="42" column="67" />
-        <mark key="^" line="42" column="67" />
-        <mark key="." line="42" column="67" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551522681118">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550846229366">
         <mark key="[" line="11" column="16" />
@@ -586,14 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="28" column="38" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="125" column="57" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
       <jump line="7" column="17" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings_local.py" />
       <jump line="755" column="15" filename="/usr/lib/python3.6/os.py" />
@@ -686,49 +677,57 @@
       <jump line="115" column="36" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaPlate.py" />
       <jump line="136" column="20" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaPlate.py" />
       <jump line="133" column="8" filename="$USER_HOME$/PycharmProjects/hashCode2019/src/PizzaPlate.py" />
+      <jump line="34" column="37" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="157" column="27" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="182" column="4" filename="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py" />
+      <jump line="145" column="3" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>並</text>
+        <text>dire</text>
       </register>
       <register name="-" type="4">
-        <text>並</text>
+        <text>dire</text>
       </register>
       <register name="/" type="4">
         <text>IsValid</text>
       </register>
-      <register name="0" type="4">
-        <text>abs(v - A)</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXBwX2lkID0gJ2Q2NjgyYTU3JwphcHBfa2V5ID0gJzMwZThkMjJkOTIwZjVlY2YwOGVlOWMyYWU5MmI2NmNjJwpsYW5ndWFnZSA9ICdlbicKd29yZF9pZCA9ICdkaXJlJwp1cmwgPSAnaHR0cHM6Ly9vZC1hcGkub3hmb3JkZGljdGlvbmFyaWVzLmNvbTo0NDMvYXBpL3YxL2VudHJpZXMvJyAgKyBsYW5ndWFnZSArICcvJyAgKyB3b3JkX2lkLmxvd2VyKCkKI3VybCBOb3JtYWxpemVkIGZyZXF1ZW5jeQp1cmxGUiA9ICdodHRwczovL29kLWFwaS5veGZvcmRkaWN0aW9uYXJpZXMuY29tOjQ0My9hcGkvdjEvc3RhdHMvZnJlcXVlbmN5L3dvcmQvJyAgKyBsYW5ndWFnZSArICcvP2NvcnB1cz1ubWMmbGVtbWE9JyArIHdvcmRfaWQubG93ZXIoKQpyID0gcmVxdWVzdHMuZ2V0KHVybCwgaGVhZGVycyA9IHsnYXBwX2lkJyA6IGFwcF9pZCwgJ2FwcF9rZXknIDogYXBwX2tleX0pCnByaW50KCJjb2RlIHt9XG4iLmZvcm1hdChyLnN0YXR1c19jb2RlKSkKcHJpbnQoInRleHQgXG4iICsgci50ZXh0KQpwcmludCgianNvbiBcbiIgKyBqc29uLmR1bXBzKHIuanNvbigpLCBpbmRlbnQ9NCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGludFssXSA9IChpbnRbLF0pbVBsYXRlLkNMb25lKCk7ID8K</text>
+        <text encoding="base64">ICAgIHByaW50KHIpCg==</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICN1cmwgTm9ybWFsaXplZCBmcmVxdWVuY3kK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">IyBUT0RPOiByZXBsYWNlIHdpdGggeW91ciBvd24gYXBwX2lkIGFuZCBhcHBfa2V5CmFwcF9pZCA9ICdkNjY4MmE1NycKYXBwX2tleSA9ICczMGU4ZDIyZDkyMGY1ZWNmMDhlZTljMmFlOTJiNjZjYycKbGFuZ3VhZ2UgPSAnZW4nCndvcmRfaWQgPSAnZGlyZScKdXJsID0gJ2h0dHBzOi8vb2QtYXBpLm94Zm9yZGRpY3Rpb25hcmllcy5jb206NDQzL2FwaS92MS9lbnRyaWVzLycgICsgbGFuZ3VhZ2UgKyAnLycgICsgd29yZF9pZC5sb3dlcigpCiN1cmwgTm9ybWFsaXplZCBmcmVxdWVuY3kKdXJsRlIgPSAnaHR0cHM6Ly9vZC1hcGkub3hmb3JkZGljdGlvbmFyaWVzLmNvbTo0NDMvYXBpL3YxL3N0YXRzL2ZyZXF1ZW5jeS93b3JkLycgICsgbGFuZ3VhZ2UgKyAnLz9jb3JwdXM9bm1jJmxlbW1hPScgKyB3b3JkX2lkLmxvd2VyKCkKciA9IHJlcXVlc3RzLmdldCh1cmwsIGhlYWRlcnMgPSB7J2FwcF9pZCcgOiBhcHBfaWQsICdhcHBfa2V5JyA6IGFwcF9rZXl9KQpwcmludCgiY29kZSB7fVxuIi5mb3JtYXQoci5zdGF0dXNfY29kZSkpCnByaW50KCJ0ZXh0IFxuIiArIHIudGV4dCkKcHJpbnQoImpzb24gXG4iICsganNvbi5kdW1wcyhyLmpzb24oKSwgaW5kZW50PTQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIExpc3Q8UGl6emFTbGljZT4gc2xpY2VzID0gbmV3IExpc3Q+UGl6emFTbGljZShzbGljZS5IYXNoLlZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9lbmdsaXNoX3dvcmQod29yZCk6CiAgICByZXF1ZXN0X3Nlc3Npb24gPSByZXR1cm5fcmVxdWVzdF9zZXNzaW9uKCkKICAgIGFwcF9pZCA9ICdkNjY4MmE1NycKICAgIGFwcF9rZXkgPSAnMzBlOGQyMmQ5MjBmNWVjZjA4ZWU5YzJhZTkyYjY2Y2MnCiAgICBsYW5ndWFnZSA9ICdlbicKICAgIHdvcmRfaWQgPSAnZGlyZScKICAgIHVybCA9ICdodHRwczovL29kLWFwaS5veGZvcmRkaWN0aW9uYXJpZXMuY29tOjQ0My9hcGkvdjEvZW50cmllcy8nICArIGxhbmd1YWdlICsgJy8nICArIHdvcmRfaWQubG93ZXIoKQogICAgI3VybCBOb3JtYWxpemVkIGZyZXF1ZW5jeQogICAgdXJsRlIgPSAnaHR0cHM6Ly9vZC1hcGkub3hmb3JkZGljdGlvbmFyaWVzLmNvbTo0NDMvYXBpL3YxL3N0YXRzL2ZyZXF1ZW5jeS93b3JkLycgICsgbGFuZ3VhZ2UgKyAnLz9jb3JwdXM9bm1jJmxlbW1hPScgKyB3b3JkX2lkLmxvd2VyKCkKICAgIHIgPSByZXF1ZXN0X3Nlc3Npb24uZ2V0KHVybCwgaGVhZGVycyA9IHsnYXBwX2lkJyA6IGFwcF9pZCwgJ2FwcF9rZXknIDogYXBwX2tleX0pCiAgICByZXN1bHQgPSBqc29uLmxvYWRzKHIuanNvbigpKQoKICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIyBTbGljZSBQaXp6YQogICAgICAgICMjIHNsaWNlSGFzaCA9IHt9CiAgICAgICAgIyBzbGljZUhhc2hbMTIzNF0gPSBQaXp6YVNsaWNlKCkKICAgICAgICAjIHNsaWNlSGFzaFsyXSA9IDIK</text>
+        <text encoding="base64">ICAgICAgICBlbmdsaXNoX2RlZmluaXRpb24gPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KCJjb2RlIHt9XG4iLmZvcm1hdChyLnN0YXR1c19jb2RlKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0ZXh0IFxuIiArIHIudGV4dCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQaXp6YVNsaWNlIG1heFNsaWNlID0gc2VsZi5HZXRNYXhTTGljZUV4dGVuc2lvbkF0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXsncSc6d29yZCwgJ2tleSc6ICdBSXphU3lCeTN2MGQ4Qk9GMFd0NWM5Y3ZoNFJYOXI2V1gxM0FSUUUnLCAnY3gnOicwMDY4Njc4MjgwMjM2Mjc0NTIxODc6eDhkdzk3eGI2aTgnfSkKICAgIHJlc3VsdCA9IGpzb24ubG9hZHMoZW5nbGlzaF9kZWZpbml0aW9uLnRleHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">cmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoKQpwcmludChyZXNwb25zZS5zdGF0dXNfY29kZSkKcHJpbnQocmVzcG9uc2UudGV4dCkK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -759,10 +758,10 @@
         <entry>we</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action Run</entry>
       </history-cmd>
