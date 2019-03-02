@@ -6,7 +6,6 @@
       <file name="/start_script.py" timestamp="1550759808337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_templates.py" timestamp="1551541963132" />
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1550053190685">
         <mark key="'" line="8" column="26" />
         <mark key="[" line="18" column="18" />
@@ -177,6 +176,12 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/config.py" timestamp="1551558752006">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+      </file>
       <file name="/usr/lib/python3.6/os.py" timestamp="1550742084969">
         <mark key="'" line="728" column="21" />
       </file>
@@ -328,12 +333,12 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551541759455">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551558206042">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="153" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="34" column="153" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550846229366">
         <mark key="[" line="11" column="16" />
@@ -454,12 +459,12 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1551546178472">
-        <mark key="'" line="28" column="22" />
-        <mark key="[" line="46" column="71" />
-        <mark key="]" line="46" column="80" />
-        <mark key="." line="46" column="80" />
-        <mark key="^" line="46" column="80" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1551558518821">
+        <mark key="'" line="175" column="8" />
+        <mark key="[" line="75" column="22" />
+        <mark key="]" line="75" column="28" />
+        <mark key="." line="75" column="28" />
+        <mark key="^" line="75" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/start_docker.sh" timestamp="1551348061083">
         <mark key="[" line="9" column="0" />
@@ -574,7 +579,6 @@
       <jump line="58" column="89" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="200" column="17" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="217" column="13" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
-      <jump line="6" column="46" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="13" column="27" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="20" column="10" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="22" column="26" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
@@ -603,64 +607,65 @@
       <jump line="61" column="25" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
       <jump line="69" column="21" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
       <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
+      <jump line="6" column="22" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="174" column="8" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG9iaikK</text>
+        <text encoding="base64">cHJvY2VzX2ZvcnZvX2VuZ2xpc2goJ2NyZWF0dXJlcycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sound_card</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>english</text>
+        <text>proces</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsnbmFtZSc6ICdIaW50J30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG9iaikK</text>
+        <text encoding="base64">cHJvY2VzX2ZvcnZvX2VuZ2xpc2goJ2NyZWF0dXJlcycpCg==</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0KCkK</text>
+        <text encoding="base64">Pj4+Pj4+PiBzb21lIGJyYW5jaCBqYW5raQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICBnbG9iCj09PT09PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhhbXBsZXMgPSBbCiAgICB7CiAgICAgICAgJ25hbWUnOiAnQ2FyZCAxJywKICAgICAgICAncWZtdCc6ICdFeGFtcGxlczxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICB9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG9iaikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVtcGxhdGVzXzMgPSBbCiAgICB7CiAgICAgICAgJ25hbWUnOiAnQ2FyZCAxJywKICAgICAgICAncWZtdCc6ICdXb3JkIDxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tLYW5qaX19IDxicj4ge3tEaWFncmFtfX0nLAogICAgfV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c291bmRfZGVmaW5pdGlvbiA9IFsKICAgIHsKICAgICAgICAnbmFtZSc6ICdDYXJkIDEnLAogICAgICAgICdxZm10JzogJ0VuZ2xpc2ggZGVmaW5pdGlvbjxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICB9XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsnbmFtZSc6ICdIaW50J30sCg==</text>
+        <text encoding="base64">ZXhhbXBsZXMgPSBbCiAgICB7CiAgICAgICAgJ25hbWUnOiAnQ2FyZCAxJywKICAgICAgICAncWZtdCc6ICdFeGFtcGxlczxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICB9XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5nbGlzaF90b19rYW5qaSA9IGdlbmFua2kuTW9kZWwoCiAgICAxNjA3MzkxOTEzMTksCiAgICAnSmFwYW5lc2VfbW9kZWwnLAogICAgZmllbGRzPWZpZWxkc18xLAogICAgdGVtcGxhdGVzPXRlbXBsYXRlc18zLAogICAgY3NzPScnJy5jYXJkIHsKICAgICAgICBmb250LWZhbWlseTogaG9ueWFqaS1yZTsKICAgICAgICBmb250LXNpemU6IDQwcHg7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIGNvbG9yOiBibGFjazsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBBcXVhOwogICAgICAgIH0KICAgICAgICAuanAgeyBmb250LXNpemU6IDM1cHggfQogICAgICAgICAgICAud2luIC5qcCB7IGZvbnQtZmFtaWx5OiAiYXJpYWwiLCAiYXJpYWwiOyB9CiAgICAgICAgLm1hYyAuanAgeyBmb250LWZhbWlseTogImhvbnlhamktcmUiLCAiPz8/Pz8/IFBybyI7IH0KICAgICAgICAubGludXggLmpwIHsgZm9udC1mYW1pbHk6ICJLb2NoaSBNaW5jaG8iLCAiPz8/PyI7IH0KICAgICAgICAubW9iaWxlIC5qcCB7IGZvbnQtZmFtaWx5OiAiSGlyYWdpbm8gTWluY2hvIFByb04iOyB9JycnCikKCmthbmppX3RvX3JlYWRpbmcgPSBnZW5hbmtpLk1vZGVsKAogICAgMTYwNzM5MTAxODMxOSwKICAgICdrYW5qaSByZWFkaW5nIG1vZGVsJywKICAgIGZpZWxkcz1maWVsZHMsCiAgICB0ZW1wbGF0ZXM9dGVtcGxhdGVzXzQsCiAgICBjc3M9JycnLmNhcmQgewogICAgICAgIGZvbnQtZmFtaWx5OiBob255YWppLXJlOwogICAgICAgIGZvbnQtc2l6ZTogNDBweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgY29sb3I6IGJsYWNrOwogICAgICAgIGJhY2tncm91bmQtY29sb3I6IExpZ2h0Q3lhbjsKICAgICAgICB9CiAgICAgICAgLmpwIHsgZm9udC1zaXplOiAzNXB4IH0KICAgICAgICAgICAgLndpbiAuanAgeyBmb250LWZhbWlseTogImFyaWFsIiwgImFyaWFsIjsgfQogICAgICAgIC5tYWMgLmpwIHsgZm9udC1mYW1pbHk6ICJob255YWppLXJlIiwgIj8/Pz8/PyBQcm8iOyB9CiAgICAgICAgLmxpbnV4IC5qcCB7IGZvbnQtZmFtaWx5OiAiS29jaGkgTWluY2hvIiwgIj8/Pz8iOyB9CiAgICAgICAgLm1vYmlsZSAuanAgeyBmb250LWZhbWlseTogIkhpcmFnaW5vIE1pbmNobyBQcm9OIjsgfScnJwopCg==</text>
+        <text encoding="base64">dGVtcGxhdGVzXzMgPSBbCiAgICB7CiAgICAgICAgJ25hbWUnOiAnQ2FyZCAxJywKICAgICAgICAncWZtdCc6ICdXb3JkIDxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tLYW5qaX19IDxicj4ge3tEaWFncmFtfX0nLAogICAgfV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c291bmRfZGVmaW5pdGlvbiA9IFsKICAgIHsKICAgICAgICAnbmFtZSc6ICdDYXJkIDEnLAogICAgICAgICdxZm10JzogJ0VuZ2xpc2ggZGVmaW5pdGlvbjxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICB9XQoKdGVtcGxhdGVzXzMgPSBbCiAgICB7CiAgICAgICAgJ25hbWUnOiAnQ2FyZCAxJywKICAgICAgICAncWZtdCc6ICdXb3JkIDxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tLYW5qaX19IDxicj4ge3tEaWFncmFtfX0nLAogICAgfV0KCmV4YW1wbGVzID0gWwogICAgewogICAgICAgICduYW1lJzogJ0NhcmQgMScsCiAgICAgICAgJ3FmbXQnOiAnRXhhbXBsZXM8YnI+IHt7UXVlc3Rpb259fSA8YnI+IDxicj4gPGJyPiB7e2hpbnQ6SGludH19JywKICAgICAgICAnYWZtdCc6ICd7e0Zyb250U2lkZX19PGhyIGlkPSJhbnN3ZXIiPnt7QW5zd2VyfX0nLAogICAgfV0KCnNvdW5kX2NhcmQgPSBnZW5hbmtpLk1vZGVsKAogICAgMTYwNzM5MTExNTE5LAogICAgJ3NvdW5kIG1vZGVsJywKICAgIGZpZWxkcz1maWVsZHMsCiAgICB0ZW1wbGF0ZXM9c291bmRfZGVmaW5pdGlvbiwKICAgIGNzcz0nJycuY2FyZCB7CiAgICAgICAgZm9udC1mYW1pbHk6IGhvbnlhamktcmU7CiAgICAgICAgZm9udC1zaXplOiA0MHB4OwogICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICBjb2xvcjogYmxhY2s7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7CiAgICAgICAgfQogICAgICAgIC5qcCB7IGZvbnQtc2l6ZTogMzVweCB9CiAgICAgICAgICAgIC53aW4gLmpwIHsgZm9udC1mYW1pbHk6ICJhcmlhbCIsICJhcmlhbCI7IH0KICAgICAgICAubWFjIC5qcCB7IGZvbnQtZmFtaWx5OiAiaG9ueWFqaS1yZSIsICI/Pz8/Pz8gUHJvIjsgfQogICAgICAgIC5saW51eCAuanAgeyBmb250LWZhbWlseTogIktvY2hpIE1pbmNobyIsICI/Pz8/IjsgfQogICAgICAgIC5tb2JpbGUgLmpwIHsgZm9udC1mYW1pbHk6ICJIaXJhZ2lubyBNaW5jaG8gUHJvTiI7IH0nJycKKQoKa2FuamlfdG9fZW5nbGlzaF9jYXJkID0gZ2VuYW5raS5Nb2RlbCgKICAgIDE2MDczOTExODMxOSwKICAgICdrYW5qaSBtb2RlbCcsCiAgICBmaWVsZHM9ZmllbGRzLAogICAgdGVtcGxhdGVzPXRlbXBsYXRlc18yLAogICAgY3NzPScnJy5jYXJkIHsKICAgICAgICBmb250LWZhbWlseTogaG9ueWFqaS1yZTsKICAgICAgICBmb250LXNpemU6IDQwcHg7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIGNvbG9yOiBibGFjazsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB5ZWxsb3c7CiAgICAgICAgfQogICAgICAgIC5qcCB7IGZvbnQtc2l6ZTogMzVweCB9CiAgICAgICAgICAgIC53aW4gLmpwIHsgZm9udC1mYW1pbHk6ICJhcmlhbCIsICJhcmlhbCI7IH0KICAgICAgICAubWFjIC5qcCB7IGZvbnQtZmFtaWx5OiAiaG9ueWFqaS1yZSIsICI/Pz8/Pz8gUHJvIjsgfQogICAgICAgIC5saW51eCAuanAgeyBmb250LWZhbWlseTogIktvY2hpIE1pbmNobyIsICI/Pz8/IjsgfQogICAgICAgIC5tb2JpbGUgLmpwIHsgZm9udC1mYW1pbHk6ICJIaXJhZ2lubyBNaW5jaG8gUHJvTiI7IH0nJycKKQoKZW5nbGlzaF90b19rYW5qaSA9IGdlbmFua2kuTW9kZWwoCiAgICAxNjA3MzkxOTEzMTksCiAgICAnSmFwYW5lc2VfbW9kZWwnLAogICAgZmllbGRzPWZpZWxkc18xLAogICAgdGVtcGxhdGVzPXRlbXBsYXRlc18zLAogICAgY3NzPScnJy5jYXJkIHsKICAgICAgICBmb250LWZhbWlseTogaG9ueWFqaS1yZTsKICAgICAgICBmb250LXNpemU6IDQwcHg7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgIGNvbG9yOiBibGFjazsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBBcXVhOwogICAgICAgIH0KICAgICAgICAuanAgeyBmb250LXNpemU6IDM1cHggfQogICAgICAgICAgICAud2luIC5qcCB7IGZvbnQtZmFtaWx5OiAiYXJpYWwiLCAiYXJpYWwiOyB9CiAgICAgICAgLm1hYyAuanAgeyBmb250LWZhbWlseTogImhvbnlhamktcmUiLCAiPz8/Pz8/IFBybyI7IH0KICAgICAgICAubGludXggLmpwIHsgZm9udC1mYW1pbHk6ICJLb2NoaSBNaW5jaG8iLCAiPz8/PyI7IH0KICAgICAgICAubW9iaWxlIC5qcCB7IGZvbnQtZmFtaWx5OiAiSGlyYWdpbm8gTWluY2hvIFByb04iOyB9JycnCikKCmthbmppX3RvX3JlYWRpbmcgPSBnZW5hbmtpLk1vZGVsKAogICAgMTYwNzM5MTAxODMxOSwKICAgICdrYW5qaSByZWFkaW5nIG1vZGVsJywKICAgIGZpZWxkcz1maWVsZHMsCiAgICB0ZW1wbGF0ZXM9dGVtcGxhdGVzXzQsCiAgICBjc3M9JycnLmNhcmQgewogICAgICAgIGZvbnQtZmFtaWx5OiBob255YWppLXJlOwogICAgICAgIGZvbnQtc2l6ZTogNDBweDsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgY29sb3I6IGJsYWNrOwogICAgICAgIGJhY2tncm91bmQtY29sb3I6IExpZ2h0Q3lhbjsKICAgICAgICB9CiAgICAgICAgLmpwIHsgZm9udC1zaXplOiAzNXB4IH0KICAgICAgICAgICAgLndpbiAuanAgeyBmb250LWZhbWlseTogImFyaWFsIiwgImFyaWFsIjsgfQogICAgICAgIC5tYWMgLmpwIHsgZm9udC1mYW1pbHk6ICJob255YWppLXJlIiwgIj8/Pz8/PyBQcm8iOyB9CiAgICAgICAgLmxpbnV4IC5qcCB7IGZvbnQtZmFtaWx5OiAiS29jaGkgTWluY2hvIiwgIj8/Pz8iOyB9CiAgICAgICAgLm1vYmlsZSAuanAgeyBmb250LWZhbWlseTogIkhpcmFnaW5vIE1pbmNobyBQcm9OIjsgfScnJwopCg==</text>
+        <text encoding="base64">c291bmRfZGVmaW5pdGlvbiA9IFsKICAgIHsKICAgICAgICAnbmFtZSc6ICdDYXJkIDEnLAogICAgICAgICdxZm10JzogJ0VuZ2xpc2ggZGVmaW5pdGlvbjxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICB9XQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleDistractionFreeMode</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>english</last-search>
+      <last-search>proces</last-search>
       <last-offset />
-      <last-pattern>english</last-pattern>
+      <last-pattern>proces</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3RhbFw+</entry>
         <entry>rou</entry>
         <entry>round</entry>
         <entry>roun</entry>
@@ -680,6 +685,7 @@
         <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
         <entry>en</entry>
         <entry>english</entry>
+        <entry>proces</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
@@ -695,9 +701,9 @@
         <entry>unset incsearch</entry>
         <entry>set surround</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
