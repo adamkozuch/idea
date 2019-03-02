@@ -26,11 +26,11 @@
       <file name="/a.dummy" timestamp="1551022264019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/google_image" timestamp="1550955506910">
-        <mark key="[" line="3" column="94" />
-        <mark key="]" line="3" column="94" />
-        <mark key="^" line="3" column="94" />
-        <mark key="." line="3" column="94" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/google_image" timestamp="1551521275034">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/urls.py" timestamp="1550741554293">
         <mark key="[" line="25" column="45" />
@@ -122,6 +122,12 @@
         <mark key="]" line="0" column="100" />
         <mark key="." line="0" column="100" />
         <mark key="^" line="0" column="100" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1551521180208">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/build_test_docker.sh" timestamp="1549527644069">
         <mark key="[" line="19" column="35" />
@@ -683,10 +689,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>並</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>並</text>
       </register>
       <register name="/" type="4">
         <text>IsValid</text>
@@ -725,7 +731,7 @@
         <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleDistractionFreeMode</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -756,9 +762,9 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action ToggleDistractionFreeMode</entry>
+        <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
