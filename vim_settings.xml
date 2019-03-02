@@ -257,6 +257,11 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1551539222084">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/jwt_logic.py" timestamp="1548763113185">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="3" column="0" />
@@ -343,11 +348,25 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/krab/versions/current/api_clients/mdm.py" timestamp="1551178537274">
         <mark key="'" line="41" column="17" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/models.py" timestamp="1551538822433">
+        <mark key="'" line="83" column="11" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/home.html" timestamp="1550070171831">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="49" />
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551540746282">
+        <mark key="'" line="41" column="38" />
+        <mark key="[" line="39" column="153" />
+        <mark key="]" line="39" column="153" />
+        <mark key="." line="39" column="153" />
+        <mark key="^" line="39" column="153" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550846229366">
         <mark key="[" line="11" column="16" />
@@ -474,6 +493,13 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1551539701276">
+        <mark key="'" line="8" column="30" />
+        <mark key="[" line="229" column="14" />
+        <mark key="]" line="229" column="14" />
+        <mark key="." line="229" column="14" />
+        <mark key="^" line="229" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/start_docker.sh" timestamp="1551348061083">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -576,68 +602,86 @@
       <jump line="222" column="53" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="221" column="10" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="118" column="0" filename="$USER_HOME$/Projects/IT-GOLD/krab/ansible/main.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
+      <jump line="83" column="11" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
+      <jump line="38" column="29" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="44" column="46" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="184" column="20" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="16" column="27" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="49" column="24" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="58" column="89" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="200" column="17" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="217" column="13" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="6" column="46" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="13" column="27" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="20" column="10" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="22" column="26" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="35" column="24" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="8" column="30" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="51" column="22" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="6" column="172" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="88" column="45" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="50" column="24" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="39" column="38" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>możemy trzeba się umówić z adminami.</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>możemy trzeba się umówić z adminami.</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>roles</text>
+        <text encoding="base64">XDxzYXZlX3RvX2pzb25fZmlsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJtICAkcGF0aAo=</text>
+        <text encoding="base64">ICAgIGRlZiBzZWFyY2goc2VsZiwgd29yZCwgYmFzaWM9RmFsc2UsIHNvdW5kPVRydWUpOgogICAgICAgIHRyeToKICAgICAgICAgICAgIyB3b3JkID0gaW5wdXQoJ1R5cGUgd29yZCB5b3Ugd2FudCB0byBmaW5kOiAnKQogICAgICAgICAgICB3b3JkX29iamVjdCA9IGdldF93b3JkX29iamVjdCh3b3JkKQoKICAgICAgICAgICAgaWYgd29yZF9vYmplY3Q6CiAgICAgICAgICAgICAgICBwcmludF9maXJzdF90aHJlZV9vcHRpb25zKHdvcmRfb2JqZWN0KQoKICAgICAgICAgICAgICAgIGlmIGxlbih3b3JkX29iamVjdFsnZGF0YSddKSA9PSAwOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignTm8gc3VjaCBhIHdvcmQnKQoKICAgICAgICAgICAgICAgIHdvcmRfaW5kZXggPSBpbnB1dCgiV2hpY2ggd29yZCB0byBhZGQgKGRlZmF1bHQgMCkgOiAiKSBvciAwCgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIHZhbCA9IGludCh3b3JkX2luZGV4KQogICAgICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJDaG9zZW4gdmFsdWUgaXMgbm90IGEgbnVtYmVyIikKCgogICAgICAgICAgICAgICAgaWYgbGVuKHdvcmRfb2JqZWN0WydkYXRhJ10pIDwgaW50KHdvcmRfaW5kZXgpOgogICAgICAgICAgICAgICAgICAgIHByaW50KCJXcm9uZyBpbmRleCBza2lwcGluZyA6IikKCiAgICAgICAgICAgICAgICBjaG9vc2VuX29iamVjdCA9IHdvcmRfb2JqZWN0WydkYXRhJ11baW50KHdvcmRfaW5kZXgpXQogICAgICAgICAgICAgICAgamFwYW5lc2VfaW5mbyA9IGNob29zZW5fb2JqZWN0WydqYXBhbmVzZSddWzBdCgogICAgICAgICAgICAgICAgZW5nbGlzaF9kZWZpbml0aW9uID0gZ2V0X2VuZ2xpc2hfZGVmaW5pdGlvbihjaG9vc2VuX29iamVjdCkKICAgICAgICAgICAgICAgIGlmIGNvbmZpZy5GT1JWT19BUElfS0VZOgogICAgICAgICAgICAgICAgICAgIHByb2Nlc19mb3J2byhqYXBhbmVzZV9pbmZvWyd3b3JkJ10sIGVuZ2xpc2hfZGVmaW5pdGlvbikKICAgICAgICAgICAgICAgIHByaW50KGphcGFuZXNlX2luZm8sIGVuZ2xpc2hfZGVmaW5pdGlvbikKICAgICAgICAgICAgICAgIG9iaiA9IHsnZW5nbGlzaCc6IGVuZ2xpc2hfZGVmaW5pdGlvbiwgJ2thbmppJzogamFwYW5lc2VfaW5mb1snd29yZCddLCAncmVhZGluZyc6IGphcGFuZXNlX2luZm9bJ3JlYWRpbmcnXX0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHByaW50KCdXb3JkIHswfSBub3QgZm91bmQnLmZvcm1hdCh3b3JkKSkKCiAgICAgICAgICAgIHNhdmVfdG9fd29yZHNfanNvbihvYmopCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I0hUUEFTU1dEPSdtYXJpdXN6MTokYXByMSR4Lk9YT1VaNiRkYXVyV1d4NXhWcmgxUk55aVBDcEUwJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0KCkK</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V3N6eXN0a2llIGluZm9ybWFjamUgem5hamR1asSFIHNpxJkgbmEgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJtICAkcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1dvcmQgezB9IG5vdCBmb3VuZCcuZm9ybWF0KHdvcmQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImNvZGUgIiAkY3VybF9jb2RlCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1dvcmQgezB9IG5vdCBmb3VuZCcuZm9ybWF0KHdvcmQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJ0aGVyZSBpcyBlcnJvciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbih3b3JkX29iamVjdFsnZGF0YSddKSA8IGludCh3b3JkX2luZGV4KToKICAgICAgICAgICAgICAgICAgICBwcmludCgiV3JvbmcgaW5kZXggc2tpcHBpbmcgOiIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleDistractionFreeMode</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>roles</last-search>
+      <last-search encoding="base64">XDxzYXZlX3RvX2pzb25fZmlsZVw+</last-search>
       <last-offset />
-      <last-pattern>roles</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzYXZlX3RvX2pzb25fZmlsZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</entry>
-        <entry>import</entry>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
-        <entry>adju</entry>
-        <entry encoding="base64">XDx0eXBfc2x1Z2lmeVw+</entry>
         <entry>deleteOld</entry>
         <entry encoding="base64">XDxvcmRUb1w+</entry>
         <entry encoding="base64">XDx0b3RhbFw+</entry>
@@ -653,6 +697,11 @@
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9teXNxbF9kZWJpYW5fY25mXD4=</entry>
         <entry encoding="base64">XDxjdXJsX2NvZGVcPg==</entry>
         <entry>roles</entry>
+        <entry encoding="base64">XDxmaWVsZHNfMVw+</entry>
+        <entry encoding="base64">XDxpbnNlcnRfY2FyZHNfdG9fZGVja19lbmdsaXNoXD4=</entry>
+        <entry>english</entry>
+        <entry>example</entry>
+        <entry encoding="base64">XDxzYXZlX3RvX2pzb25fZmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
@@ -663,14 +712,14 @@
         <entry>action unsplit</entry>
         <entry>action Unsplit</entry>
         <entry>q</entry>
-        <entry>set surround</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set incsearch</entry>
         <entry>unset incsearch</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoFile</entry>
+        <entry>set surround</entry>
         <entry>action Run</entry>
         <entry>w</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />

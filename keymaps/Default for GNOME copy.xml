@@ -91,6 +91,9 @@
   <action id="Terminal.RenameSession">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Unsplit">
