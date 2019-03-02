@@ -1,16 +1,29 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="altGraph t" />
   </action>
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt f10" />
-    <keyboard-shortcut first-keystroke="alt a" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorContextInfo" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
@@ -19,10 +32,13 @@
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="GotoBookmark6" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="HippieCompletion" />
   <action id="InsertLiveTemplate" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -55,9 +71,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl right" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="SaveAll" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -85,5 +106,8 @@
   </action>
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
 </keymap>
