@@ -269,7 +269,7 @@
         <mark key="." line="22" column="52" />
         <mark key="^" line="22" column="52" />
       </file>
-      <file name="/Python Console" timestamp="1551541788605">
+      <file name="/Python Console" timestamp="1551634239451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.test" timestamp="1549528154186">
@@ -333,13 +333,13 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551609568679">
-        <mark key="a" line="41" column="4" />
-        <mark key="'" line="29" column="49" />
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="31" />
-        <mark key="^" line="33" column="31" />
-        <mark key="." line="33" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551634144951">
+        <mark key="a" line="54" column="4" />
+        <mark key="'" line="41" column="32" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550846229366">
         <mark key="[" line="11" column="16" />
@@ -397,7 +397,7 @@
         <mark key="." line="24" column="3" />
         <mark key="^" line="24" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550759838062">
+      <file name="/Dummy.txt" timestamp="1551635011117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
@@ -460,12 +460,12 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1551558518821">
-        <mark key="'" line="175" column="8" />
-        <mark key="[" line="75" column="22" />
-        <mark key="]" line="75" column="28" />
-        <mark key="." line="75" column="28" />
-        <mark key="^" line="75" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1551634919618">
+        <mark key="'" line="79" column="31" />
+        <mark key="[" line="84" column="23" />
+        <mark key="]" line="113" column="12" />
+        <mark key="^" line="113" column="12" />
+        <mark key="." line="84" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/start_docker.sh" timestamp="1551348061083">
         <mark key="[" line="9" column="0" />
@@ -615,10 +615,14 @@
       <jump line="36" column="12" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
       <jump line="30" column="17" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
       <jump line="29" column="49" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="46" column="52" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="41" column="32" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="79" column="31" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2VuZXJhdGVfZW5nbGlzaChzZWxmKToKICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzX2VuZ2xpc2guanNvbicpIGFzIGZpbGU6CiAgICAgICAgICAgIGVsZW1lbnRzID0ganNvbi5sb2FkKGZpbGUpWydkYXRhJ10KICAgICAgICAgICAgY2FyZHMgPSBbXQogICAgICAgICAgICBmb3Igb2JqIGluIGVsZW1lbnRzOgogICAgICAgICAgICAgICAgY2FyZHMgPSBjYXJkcyArIGdlbmVyYXRlX2NhcmRzX2VuZ2xpc2goc3RyKG9ialsnd29yZCddKSwgc3RyKG9ialsnZGVmaW5pdGlvbiddWzBdKSwgc3RyKCc8YnI+Jy5qb2luKFtpWyd0ZXh0J10gZm9yIGkgaW4gb2JqWydleGFtcGxlJ11dKSkpCiAgICAgICAgICAgICAgICBtZWRpYV9maWxlcyA9IChnbG9iLmdsb2IoIioubXAzIikpCiAgICAgICAgICAgIGluc2VydF9jYXJkc190b19kZWNrX2VuZ2xpc2goY2FyZHMsIG1lZGlhX2ZpbGVzKQoKICAgIGRlZiBzZWFyY2hfZW5nbGlzaChzZWxmLCB3b3JkKToK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -627,40 +631,40 @@
         <text>proces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2VuZXJhdGVfZW5nbGlzaChzZWxmKToKICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzX2VuZ2xpc2guanNvbicpIGFzIGZpbGU6CiAgICAgICAgICAgIGVsZW1lbnRzID0ganNvbi5sb2FkKGZpbGUpWydkYXRhJ10KICAgICAgICAgICAgY2FyZHMgPSBbXQogICAgICAgICAgICBmb3Igb2JqIGluIGVsZW1lbnRzOgogICAgICAgICAgICAgICAgY2FyZHMgPSBjYXJkcyArIGdlbmVyYXRlX2NhcmRzX2VuZ2xpc2goc3RyKG9ialsnd29yZCddKSwgc3RyKG9ialsnZGVmaW5pdGlvbiddWzBdKSwgc3RyKCc8YnI+Jy5qb2luKFtpWyd0ZXh0J10gZm9yIGkgaW4gb2JqWydleGFtcGxlJ11dKSkpCiAgICAgICAgICAgICAgICBtZWRpYV9maWxlcyA9IChnbG9iLmdsb2IoIioubXAzIikpCiAgICAgICAgICAgIGluc2VydF9jYXJkc190b19kZWNrX2VuZ2xpc2goY2FyZHMsIG1lZGlhX2ZpbGVzKQoKICAgIGRlZiBzZWFyY2hfZW5nbGlzaChzZWxmLCB3b3JkKToK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2VhcmNoX2VuZ2xpc2goc2VsZiwgd29yZCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhX2ZpbGVzLmluZGV4KCkK</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhX2ZpbGVzID0gKGdsb2IuZ2xvYigiKi5tcDMiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29yZAo=</text>
+        <text encoding="base64">ICAgIG15X3BhY2thZ2UubWVkaWFfZmlsZXMgPSBtZWRpYV9maWxlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYXBwZW5kKGZyb250KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3X2V4YW1wbGUgPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgIG1vZGVsPWVuZ2xpc2hfY2FyZCwKICAgICAgICAgICAgZmllbGRzPVt3b3JkLCBleGFtcGxlLCAnZXhhbXBsZXMnXSkKICAgICAgICByZXN1bHQgPSBbXQoKCiAgICAgICAgYXVkaW9fbmFtZSA9ICdzb3VuZHswfS5tcDMnLmZvcm1hdCh3b3JkKSAjIHNob3VsZCBJIGFkZCBvbmUgZm9yIGthbmppIGFzIHdlbGwKICAgICAgICBpZiBvcy5wYXRoLmlzZmlsZShhdWRpb19uYW1lKToKICAgICAgICAgICAgcHJvbmF1bmNpYXRpb24gPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgICAgICBtb2RlbD1lbmdsaXNoX2NhcmQsCiAgICAgICAgICAgICAgICBmaWVsZHM9Wydbc291bmQ6ezB9XScuZm9ybWF0KGF1ZGlvX25hbWUpLCBkZWZpbml0aW9uLCAnZGVmaW5pdGlvbiddKQogICAgICAgICAgICByZXN1bHQuYXBwZW5kKHByb25hdW5jaWF0aW9uKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudHMgPSBqc29uLmxvYWQoZmlsZSlbJ2RhdGEnXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvY2VzX2ZvcnZvX2VuZ2xpc2goJ2NyZWF0dXJlcycpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgc2VhcmNoX2VuZ2xpc2goc2VsZiwgd29yZCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzb21lIGJyYW5jaCBqYW5raQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICBnbG9iCj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>help g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -707,11 +711,11 @@
         <entry>unset incsearch</entry>
         <entry>set surround</entry>
         <entry>action Run</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
         <entry>marks</entry>
         <entry>help g</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
