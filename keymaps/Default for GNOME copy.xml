@@ -12,11 +12,6 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-    <keyboard-shortcut first-keystroke="alt slash" />
-  </action>
   <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
@@ -42,7 +37,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="Inline" />
   <action id="InsertLiveTemplate" />
   <action id="MethodDown" />
   <action id="MethodUp" />
@@ -54,7 +54,15 @@
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
   <action id="NextTab" />
+  <action id="NextTemplateParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />

@@ -333,12 +333,9 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551558206042">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="34" column="153" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1551603364498">
+        <mark key="a" line="41" column="4" />
+        <mark key="'" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/django_rest/new_project/config/organizer/serializers.py" timestamp="1550846229366">
         <mark key="[" line="11" column="16" />
@@ -609,10 +606,14 @@
       <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
       <jump line="6" column="22" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="174" column="8" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
+      <jump line="15" column="12" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="28" column="16" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="36" column="12" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="30" column="17" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJvY2VzX2ZvcnZvX2VuZ2xpc2goJ2NyZWF0dXJlcycpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2VuZXJhdGVfZW5nbGlzaChzZWxmKToKICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzX2VuZ2xpc2guanNvbicpIGFzIGZpbGU6CiAgICAgICAgICAgIGVsZW1lbnRzID0ganNvbi5sb2FkKGZpbGUpWydkYXRhJ10KICAgICAgICAgICAgY2FyZHMgPSBbXQogICAgICAgICAgICBmb3Igb2JqIGluIGVsZW1lbnRzOgogICAgICAgICAgICAgICAgY2FyZHMgPSBjYXJkcyArIGdlbmVyYXRlX2NhcmRzX2VuZ2xpc2goc3RyKG9ialsnd29yZCddKSwgc3RyKG9ialsnZGVmaW5pdGlvbiddWzBdKSwgc3RyKCc8YnI+Jy5qb2luKFtpWyd0ZXh0J10gZm9yIGkgaW4gb2JqWydleGFtcGxlJ11dKSkpCiAgICAgICAgICAgICAgICBtZWRpYV9maWxlcyA9IChnbG9iLmdsb2IoIioubXAzIikpCiAgICAgICAgICAgIGluc2VydF9jYXJkc190b19kZWNrX2VuZ2xpc2goY2FyZHMsIG1lZGlhX2ZpbGVzKQoKICAgIGRlZiBzZWFyY2hfZW5nbGlzaChzZWxmLCB3b3JkKToK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -621,40 +622,40 @@
         <text>proces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsnbmFtZSc6ICdIaW50J30sCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2VuZXJhdGVfZW5nbGlzaChzZWxmKToKICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzX2VuZ2xpc2guanNvbicpIGFzIGZpbGU6CiAgICAgICAgICAgIGVsZW1lbnRzID0ganNvbi5sb2FkKGZpbGUpWydkYXRhJ10KICAgICAgICAgICAgY2FyZHMgPSBbXQogICAgICAgICAgICBmb3Igb2JqIGluIGVsZW1lbnRzOgogICAgICAgICAgICAgICAgY2FyZHMgPSBjYXJkcyArIGdlbmVyYXRlX2NhcmRzX2VuZ2xpc2goc3RyKG9ialsnd29yZCddKSwgc3RyKG9ialsnZGVmaW5pdGlvbiddWzBdKSwgc3RyKCc8YnI+Jy5qb2luKFtpWyd0ZXh0J10gZm9yIGkgaW4gb2JqWydleGFtcGxlJ11dKSkpCiAgICAgICAgICAgICAgICBtZWRpYV9maWxlcyA9IChnbG9iLmdsb2IoIioubXAzIikpCiAgICAgICAgICAgIGluc2VydF9jYXJkc190b19kZWNrX2VuZ2xpc2goY2FyZHMsIG1lZGlhX2ZpbGVzKQoKICAgIGRlZiBzZWFyY2hfZW5nbGlzaChzZWxmLCB3b3JkKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJvY2VzX2ZvcnZvX2VuZ2xpc2goJ2NyZWF0dXJlcycpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgc2VhcmNoX2VuZ2xpc2goc2VsZiwgd29yZCk6Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzb21lIGJyYW5jaCBqYW5raQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICBnbG9iCj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG9iaikK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhhbXBsZXMgPSBbCiAgICB7CiAgICAgICAgJ25hbWUnOiAnQ2FyZCAxJywKICAgICAgICAncWZtdCc6ICdFeGFtcGxlczxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICB9XQo=</text>
+        <text encoding="base64">cHJvY2VzX2ZvcnZvX2VuZ2xpc2goJ2NyZWF0dXJlcycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVtcGxhdGVzXzMgPSBbCiAgICB7CiAgICAgICAgJ25hbWUnOiAnQ2FyZCAxJywKICAgICAgICAncWZtdCc6ICdXb3JkIDxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tLYW5qaX19IDxicj4ge3tEaWFncmFtfX0nLAogICAgfV0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBzb21lIGJyYW5jaCBqYW5raQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c291bmRfZGVmaW5pdGlvbiA9IFsKICAgIHsKICAgICAgICAnbmFtZSc6ICdDYXJkIDEnLAogICAgICAgICdxZm10JzogJ0VuZ2xpc2ggZGVmaW5pdGlvbjxicj4ge3tRdWVzdGlvbn19IDxicj4gPGJyPiA8YnI+IHt7aGludDpIaW50fX0nLAogICAgICAgICdhZm10JzogJ3t7RnJvbnRTaWRlfX08aHIgaWQ9ImFuc3dlciI+e3tBbnN3ZXJ9fScsCiAgICB9XQo=</text>
+        <text encoding="base64">aW1wb3J0ICBnbG9iCj09PT09PT0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>marks</text>
       </register>
     </registers>
     <search>
@@ -702,8 +703,9 @@
         <entry>set surround</entry>
         <entry>action Run</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>marks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -727,7 +729,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
