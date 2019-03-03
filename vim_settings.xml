@@ -460,12 +460,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1551634919618">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1551638641448">
         <mark key="'" line="79" column="31" />
-        <mark key="[" line="84" column="23" />
-        <mark key="]" line="113" column="12" />
-        <mark key="^" line="113" column="12" />
-        <mark key="." line="84" column="23" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/start_docker.sh" timestamp="1551348061083">
         <mark key="[" line="9" column="0" />
@@ -621,8 +620,8 @@
       <jump line="79" column="31" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -634,34 +633,34 @@
         <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhX2ZpbGVzLmluZGV4KCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>df(f)x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhX2ZpbGVzID0gKGdsb2IuZ2xvYigiKi5tcDMiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhX2ZpbGVzLmluZGV4KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG15X3BhY2thZ2UubWVkaWFfZmlsZXMgPSBtZWRpYV9maWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhX2ZpbGVzID0gKGdsb2IuZ2xvYigiKi5tcDMiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuYXBwZW5kKGZyb250KQo=</text>
+        <text encoding="base64">ICAgIG15X3BhY2thZ2UubWVkaWFfZmlsZXMgPSBtZWRpYV9maWxlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3X2V4YW1wbGUgPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgIG1vZGVsPWVuZ2xpc2hfY2FyZCwKICAgICAgICAgICAgZmllbGRzPVt3b3JkLCBleGFtcGxlLCAnZXhhbXBsZXMnXSkKICAgICAgICByZXN1bHQgPSBbXQoKCiAgICAgICAgYXVkaW9fbmFtZSA9ICdzb3VuZHswfS5tcDMnLmZvcm1hdCh3b3JkKSAjIHNob3VsZCBJIGFkZCBvbmUgZm9yIGthbmppIGFzIHdlbGwKICAgICAgICBpZiBvcy5wYXRoLmlzZmlsZShhdWRpb19uYW1lKToKICAgICAgICAgICAgcHJvbmF1bmNpYXRpb24gPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgICAgICBtb2RlbD1lbmdsaXNoX2NhcmQsCiAgICAgICAgICAgICAgICBmaWVsZHM9Wydbc291bmQ6ezB9XScuZm9ybWF0KGF1ZGlvX25hbWUpLCBkZWZpbml0aW9uLCAnZGVmaW5pdGlvbiddKQogICAgICAgICAgICByZXN1bHQuYXBwZW5kKHByb25hdW5jaWF0aW9uKQoK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYXBwZW5kKGZyb250KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudHMgPSBqc29uLmxvYWQoZmlsZSlbJ2RhdGEnXQo=</text>
+        <text encoding="base64">ICAgICAgICB3X2V4YW1wbGUgPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgIG1vZGVsPWVuZ2xpc2hfY2FyZCwKICAgICAgICAgICAgZmllbGRzPVt3b3JkLCBleGFtcGxlLCAnZXhhbXBsZXMnXSkKICAgICAgICByZXN1bHQgPSBbXQoKCiAgICAgICAgYXVkaW9fbmFtZSA9ICdzb3VuZHswfS5tcDMnLmZvcm1hdCh3b3JkKSAjIHNob3VsZCBJIGFkZCBvbmUgZm9yIGthbmppIGFzIHdlbGwKICAgICAgICBpZiBvcy5wYXRoLmlzZmlsZShhdWRpb19uYW1lKToKICAgICAgICAgICAgcHJvbmF1bmNpYXRpb24gPSBnZW5hbmtpLk5vdGUoCiAgICAgICAgICAgICAgICBtb2RlbD1lbmdsaXNoX2NhcmQsCiAgICAgICAgICAgICAgICBmaWVsZHM9Wydbc291bmQ6ezB9XScuZm9ybWF0KGF1ZGlvX25hbWUpLCBkZWZpbml0aW9uLCAnZGVmaW5pdGlvbiddKQogICAgICAgICAgICByZXN1bHQuYXBwZW5kKHByb25hdW5jaWF0aW9uKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2VhcmNoX2VuZ2xpc2goc2VsZiwgd29yZCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudHMgPSBqc29uLmxvYWQoZmlsZSlbJ2RhdGEnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZgo=</text>
+        <text encoding="base64">CiAgICBkZWYgc2VhcmNoX2VuZ2xpc2goc2VsZiwgd29yZCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29yZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
