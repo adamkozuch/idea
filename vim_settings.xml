@@ -431,11 +431,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/mockshopvouchers/README.md" timestamp="1551696881015">
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="51" column="2" />
-        <mark key="." line="51" column="2" />
-        <mark key="^" line="51" column="2" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/mockshopvouchers/README.md" timestamp="1551699210480">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="101" column="57" />
+        <mark key="]" line="101" column="57" />
+        <mark key="." line="101" column="57" />
+        <mark key="^" line="101" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/Dockerfile.test" timestamp="1549528154186">
         <mark key="[" line="5" column="4" />
@@ -574,7 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="219" column="60" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/sportProject/dbmanager/scripts/get_db.sh" />
       <jump line="8" column="26" filename="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" />
@@ -674,10 +674,11 @@
       <jump line="41" column="32" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
       <jump line="79" column="31" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="9" column="18" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/README.rst" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/IT-GOLD/mockshopvouchers/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>```</text>
+        <text>ssh-add ~/.ssh/id_rsa</text>
       </register>
       <register name="-" type="4">
         <text>```</text>
@@ -685,8 +686,8 @@
       <register name="/" type="4">
         <text>proces</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UHljaGFybSBjb25maWd1cmF0aW9uCj09PT09PT09PT09PQo=</text>
+      <register name="0" type="4">
+        <text>ssh-add ~/.ssh/id_rsa</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
