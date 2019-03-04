@@ -8,15 +8,27 @@
     <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="altGraph t" />
   </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-    <keyboard-shortcut first-keystroke="alt slash" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorContextInfo" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
     <keyboard-shortcut first-keystroke="alt m" />
@@ -31,6 +43,10 @@
     <keyboard-shortcut first-keystroke="shift alt 7" />
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="GotoBookmark6" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
@@ -38,8 +54,20 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="Inline" />
   <action id="InsertLiveTemplate" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
@@ -48,6 +76,12 @@
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
@@ -55,6 +89,7 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="RecentChangedFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="alt f" />
@@ -62,6 +97,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="ResizeToolWindowLeft">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
@@ -71,7 +110,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl right" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="SaveAll" />
+  <action id="SelectNextOccurrence" />
+  <action id="ShowContent" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt s" />
@@ -91,6 +136,9 @@
   <action id="Terminal.RenameSession">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Unsplit">
@@ -104,6 +152,8 @@
   <action id="VimWindowRight">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
