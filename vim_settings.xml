@@ -152,7 +152,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1551634239451">
+      <file name="/Python Console" timestamp="1551776046430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" timestamp="1551188410611">
@@ -393,6 +393,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/dbmanager/service.py" timestamp="1551776632957">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="46" column="50" />
+        <mark key="." line="46" column="50" />
+        <mark key="^" line="46" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" timestamp="1551277337506">
         <mark key="[" line="61" column="8" />
         <mark key="]" line="61" column="14" />
@@ -592,11 +598,11 @@
       <jump line="18" column="7" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGA8UHJvamVjdCBwYXRoPi9hcHBzL2A=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mdm</text>
