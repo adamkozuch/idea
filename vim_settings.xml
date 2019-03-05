@@ -393,11 +393,10 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/service.py" timestamp="1551776632957">
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="46" column="50" />
-        <mark key="." line="46" column="50" />
-        <mark key="^" line="46" column="50" />
+      <file name="$USER_HOME$/Projects/dbmanager/service.py" timestamp="1551778643470">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" timestamp="1551277337506">
         <mark key="[" line="61" column="8" />
@@ -598,8 +597,8 @@
       <jump line="18" column="7" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -611,7 +610,7 @@
         <text encoding="base64">YGBgCnNzaC1hZGQgLUwKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KCg==</text>
       </register>
       <register name="q" type="4">
         <text>f r=j</text>
@@ -623,13 +622,13 @@
         <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBgYGAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBgYGAK</text>
