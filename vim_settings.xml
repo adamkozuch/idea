@@ -69,7 +69,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/README.md" timestamp="1551344631298">
+      <file name="$USER_HOME$/Projects/dbmanager/README.md" timestamp="1551790836494">
         <mark key="[" line="5" column="48" />
         <mark key="]" line="5" column="48" />
         <mark key="^" line="5" column="48" />
@@ -155,8 +155,8 @@
         <mark key="." line="31" column="23" />
         <mark key="^" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/process_records.py" timestamp="1551270415464">
-        <mark key="'" line="2" column="7" />
+      <file name="$USER_HOME$/Projects/dbmanager/process_records.py" timestamp="1551790088086">
+        <mark key="'" line="77" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -468,12 +468,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/service.py" timestamp="1551787861130">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="47" column="84" />
-        <mark key="]" line="47" column="84" />
-        <mark key="." line="47" column="84" />
-        <mark key="^" line="40" column="98" />
+      <file name="$USER_HOME$/Projects/dbmanager/service.py" timestamp="1551790125705">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="35" />
+        <mark key="." line="55" column="35" />
+        <mark key="^" line="39" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1550053190685">
         <mark key="'" line="8" column="26" />
@@ -514,11 +514,11 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/test_api.sh" timestamp="1551787782746">
-        <mark key="[" line="4" column="103" />
-        <mark key="]" line="4" column="104" />
-        <mark key="^" line="4" column="104" />
-        <mark key="." line="4" column="104" />
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/test_api.sh" timestamp="1551793173331">
+        <mark key="[" line="4" column="111" />
+        <mark key="]" line="4" column="115" />
+        <mark key="^" line="4" column="115" />
+        <mark key="." line="4" column="115" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/detail.html" timestamp="1550069098896">
         <mark key="[" line="2" column="23" />
@@ -544,12 +544,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1551780250562">
-        <mark key="'" line="22" column="9" />
-        <mark key="[" line="219" column="24" />
-        <mark key="]" line="219" column="24" />
-        <mark key="^" line="224" column="57" />
-        <mark key="." line="219" column="24" />
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1551792451888">
+        <mark key="'" line="199" column="51" />
+        <mark key="[" line="214" column="51" />
+        <mark key="]" line="214" column="51" />
+        <mark key="." line="214" column="51" />
+        <mark key="^" line="214" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
         <mark key="[" line="3" column="4" />
@@ -589,37 +589,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="17" filename="$USER_HOME$/Projects/IT-GOLD/krab/versions/current/api_clients/mdm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/krab/venv/lib/python3.6/site-packages/pip/_vendor/requests/models.py" />
-      <jump line="123" column="51" filename="$USER_HOME$/Projects/IT-GOLD/krab/versions/current/vouchers/tests/test_commands.py" />
-      <jump line="108" column="51" filename="$USER_HOME$/Projects/IT-GOLD/krab/versions/current/vouchers/tests/test_commands.py" />
-      <jump line="177" column="68" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="152" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="180" column="90" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="28" column="27" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="60" column="64" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="70" column="32" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="74" column="27" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="141" column="43" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="159" column="33" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/service/bisync.py" />
-      <jump line="35" column="35" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
-      <jump line="20" column="2" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" />
-      <jump line="27" column="39" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
-      <jump line="1" column="25" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
-      <jump line="8" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/common.py" />
-      <jump line="41" column="13" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
-      <jump line="23" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
-      <jump line="15" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_details.py" />
-      <jump line="19" column="32" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_details.py" />
-      <jump line="11" column="17" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_details.py" />
       <jump line="5" column="6" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/models/dashboard_premii.py" />
       <jump line="9" column="34" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_details.py" />
       <jump line="18" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/common.py" />
       <jump line="24" column="21" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_details.py" />
       <jump line="3598" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/builtins.py" />
-      <jump line="231" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="204" column="13" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="220" column="4" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
@@ -689,65 +663,89 @@
       <jump line="46" column="57" filename="$USER_HOME$/Projects/dbmanager/service.py" />
       <jump line="14" column="15" filename="$USER_HOME$/Projects/dbmanager/service.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="7" column="17" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="62" column="95" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="58" column="60" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="47" column="73" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="42" column="11" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="41" column="47" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Projects/dbmanager/service.py" />
+      <jump line="74" column="12" filename="$USER_HOME$/Projects/dbmanager/process_records.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/Projects/dbmanager/process_records.py" />
+      <jump line="1" column="15" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="63" column="98" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="64" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="88" column="98" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="89" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="123" column="114" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="124" column="32" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="158" column="114" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="159" column="32" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="191" column="98" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="192" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="214" column="12" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="228" column="40" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="229" column="68" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="231" column="8" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="233" column="75" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="199" column="51" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>mdm</text>
+        <text>exit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbyhlbmNvZGVkKQo=</text>
+      <register name="0" type="4">
+        <text>&quot;CANNOT CONNECT MYSQL ON PORT&quot; $port</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbyhlbmNvZGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9IiQoZGF0ZSkgUE9TVEdSRVMgJHBvcnQgY2Fubm90IGFjY2VzIGRhdGFiYXNlIgo=</text>
       </register>
       <register name="q" type="4">
         <text>f r=j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbyh0eXBlKGVuY29kZWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIiQoZGF0ZSkgUE9TVEdSRVMgJHBvcnQgY2Fubm90IGFjY2VzIGRhdGFiYXNlIiA+PiAkRVJST1JfRklMRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHVuaWRlY29kZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbygnYmVmb3JlJykKICAgIGVuY29kZWQgPSByZXF1ZXN0LmhlYWRlcnMuZ2V0KCdzZW5kZXJuYW1lJywgTm9uZSkKICAgIGFwcC5sb2dnZXIuaW5mbygnYWZ0ZXInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbyhlbmNvZGVkKQogICAgYXBwLmxvZ2dlci5pbmZvKGVuY29kZWQuZGVjb2RlKCkpCg==</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwcC5sbwo=</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbygnYmVmb3JlJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbmRlcl9uYW1lID0gdW5pY29kZWRhdGEubm9ybWFsaXplKCdORktEJywgc2VuZGVyX25hbWUpLmVuY29kZSgnYXNjaWknLCAnaWdub3JlJykK</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbygnYWZ0ZXInKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbygiUkVDRUlWRUQgRklMRSBGUk9NICA6ICIgKyBzZW5kZXJfbmFtZSkK</text>
+        <text encoding="base64">ICAgIGVuY29kZWQgPSByZXF1ZXN0LmhlYWRlcnMuZ2V0KCdzZW5kZXJuYW1lJywgTm9uZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygndXRmOCcpCg==</text>
+        <text encoding="base64">ICAgIGVuY29kZWQgPSByZXF1ZXN0LmhlYWRlcnMuZ2V0KCdzZW5kZXJuYW1lJywgTm9uZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>mdm</last-search>
+      <last-search>exit</last-search>
       <last-offset />
-      <last-pattern>mdm</last-pattern>
+      <last-pattern>exit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>adju</entry>
         <entry encoding="base64">XDx0eXBfc2x1Z2lmeVw+</entry>
         <entry>deleteOld</entry>
@@ -766,6 +764,8 @@
         <entry encoding="base64">XDxjdXJsX2NvZGVcPg==</entry>
         <entry>roles</entry>
         <entry>mdm</entry>
+        <entry encoding="base64">XDxzZW5kZXJfbmFtZVw+</entry>
+        <entry>exit</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
@@ -782,9 +782,9 @@
         <entry>unset incsearch</entry>
         <entry>action GotoFile</entry>
         <entry>2w</entry>
-        <entry>action Run</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
