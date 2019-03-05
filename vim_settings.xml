@@ -344,7 +344,7 @@
         <mark key="." line="22" column="52" />
         <mark key="^" line="22" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/README.rst" timestamp="1551710303744">
+      <file name="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/README.rst" timestamp="1551770082364">
         <mark key="'" line="9" column="18" />
         <mark key="[" line="41" column="42" />
         <mark key="]" line="41" column="42" />
@@ -431,6 +431,9 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1551770378192">
+        <mark key="'" line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/dbmanager/crontab.txt" timestamp="1550832728364">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="3" />
@@ -487,9 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="19" filename="$USER_HOME$/Projects/sampleDjango/Try-Django/src/prroducts/views.py" />
-      <jump line="0" column="14" filename="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/list.html" />
-      <jump line="24" column="24" filename="$USER_HOME$/Projects/sampleDjango/Try-Django/src/trydjango/urls.py" />
       <jump line="10" column="53" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/order.py" />
       <jump line="20" column="34" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/migrations/0008_auto_20181220_1431.py" />
       <jump line="19" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/bisync/tests.py" />
@@ -587,6 +587,9 @@
       <jump line="0" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ipl/README.md" />
       <jump line="24" column="43" filename="$USER_HOME$/Projects/IT-GOLD/ipl/README.md" />
       <jump line="112" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/README.md" />
+      <jump line="55" column="12" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
+      <jump line="23" column="7" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
+      <jump line="18" column="7" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -596,7 +599,7 @@
         <text encoding="base64">IGA8UHJvamVjdCBwYXRoPi9hcHBzL2A=</text>
       </register>
       <register name="/" type="4">
-        <text>proces</text>
+        <text>mdm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YGBgCnNzaC1hZGQgLUwKYGBgCg==</text>
@@ -636,15 +639,14 @@
       </register>
     </registers>
     <search>
-      <last-search>proces</last-search>
+      <last-search>mdm</last-search>
       <last-offset />
-      <last-pattern>proces</last-pattern>
+      <last-pattern>mdm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXNoYm9hcmRJbXBvcnRcPg==</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>adju</entry>
@@ -664,6 +666,7 @@
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9teXNxbF9kZWJpYW5fY25mXD4=</entry>
         <entry encoding="base64">XDxjdXJsX2NvZGVcPg==</entry>
         <entry>roles</entry>
+        <entry>mdm</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
