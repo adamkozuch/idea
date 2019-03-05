@@ -161,9 +161,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1551778850393">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" timestamp="1551188410611">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="8" column="7" />
@@ -471,12 +468,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/service.py" timestamp="1551783447667">
+      <file name="$USER_HOME$/Projects/dbmanager/service.py" timestamp="1551787861130">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="20" />
-        <mark key="^" line="37" column="80" />
+        <mark key="[" line="47" column="84" />
+        <mark key="]" line="47" column="84" />
+        <mark key="." line="47" column="84" />
+        <mark key="^" line="40" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/process_records.py" timestamp="1550053190685">
         <mark key="'" line="8" column="26" />
@@ -517,11 +514,11 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/test_api.sh" timestamp="1551782670491">
-        <mark key="[" line="4" column="95" />
-        <mark key="]" line="4" column="97" />
-        <mark key="^" line="4" column="97" />
-        <mark key="." line="4" column="97" />
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/test_api.sh" timestamp="1551787782746">
+        <mark key="[" line="4" column="103" />
+        <mark key="]" line="4" column="104" />
+        <mark key="^" line="4" column="104" />
+        <mark key="." line="4" column="104" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/templates/product/detail.html" timestamp="1550069098896">
         <mark key="[" line="2" column="23" />
@@ -695,46 +692,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request.headers.get('sendername', None)</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;RECEIVED FILE FROM  : &quot; + sender_name</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mdm</text>
       </register>
-      <register name="0" type="4">
-        <text>request.headers.get('sendername', None)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbyhlbmNvZGVkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbmRlcl9uYW1lID0gdW5pY29kZWRhdGEubm9ybWFsaXplKCdORktEJywgc2VuZGVyX25hbWUpLmVuY29kZSgnYXNjaWknLCAnaWdub3JlJykK</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbyhlbmNvZGVkKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f r=j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbygiUkVDRUlWRUQgRklMRSBGUk9NICA6ICIgKyBzZW5kZXJfbmFtZSkK</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbyh0eXBlKGVuY29kZWQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygndXRmOCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbyhlbmNvZGVkKQogICAgYXBwLmxvZ2dlci5pbmZvKGVuY29kZWQuZGVjb2RlKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
+        <text encoding="base64">ICAgIGFwcC5sbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
+        <text encoding="base64">ICAgIHNlbmRlcl9uYW1lID0gdW5pY29kZWRhdGEubm9ybWFsaXplKCdORktEJywgc2VuZGVyX25hbWUpLmVuY29kZSgnYXNjaWknLCAnaWdub3JlJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGFwcC5sb2dnZXIuaW5mbygiUkVDRUlWRUQgRklMRSBGUk9NICA6ICIgKyBzZW5kZXJfbmFtZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGBgCg==</text>
+        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygndXRmOCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
