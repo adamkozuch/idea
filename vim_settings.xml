@@ -129,7 +129,6 @@
         <mark key="^" line="50" column="29" />
         <mark key="." line="50" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/pele-queues-project/pele-queues/Historical/HistoricalLivescoreapi.py" timestamp="1551778784349" />
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/config.py" timestamp="1549613574866">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="84" />
@@ -544,11 +543,11 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1551792451888">
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1551862338408">
         <mark key="'" line="199" column="51" />
-        <mark key="[" line="214" column="51" />
-        <mark key="]" line="214" column="51" />
-        <mark key="." line="214" column="51" />
+        <mark key="[" line="215" column="107" />
+        <mark key="]" line="215" column="108" />
+        <mark key="." line="215" column="108" />
         <mark key="^" line="214" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1549450376606">
@@ -734,7 +733,7 @@
         <text encoding="base64">ICAgIGVuY29kZWQgPSByZXF1ZXN0LmhlYWRlcnMuZ2V0KCdzZW5kZXJuYW1lJywgTm9uZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -783,8 +782,8 @@
         <entry>action GotoFile</entry>
         <entry>2w</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
