@@ -165,6 +165,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1551875533295">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" timestamp="1551873596695">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="9" column="0" />
@@ -507,12 +510,12 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" timestamp="1551874820803">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" timestamp="1551875390363">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="81" />
+        <mark key="^" line="9" column="81" />
+        <mark key="." line="9" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
         <mark key="[" line="0" column="2" />
@@ -607,8 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="12" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
-      <jump line="23" column="7" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="18" column="7" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="23" column="108" filename="$USER_HOME$/Projects/dbmanager/service.py" />
       <jump line="46" column="57" filename="$USER_HOME$/Projects/dbmanager/service.py" />
@@ -707,16 +708,18 @@
       <jump line="29" column="31" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/raport.py" />
       <jump line="50" column="18" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>information about orders</text>
       </register>
       <register name="-" type="4">
-        <text>orders</text>
+        <text>information about orders</text>
       </register>
       <register name="/" type="4">
-        <text>session.get</text>
+        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjVE9ETyB2ZXJpZnkgaWYgZmlsdGVycyBhcmUgdXNlZCBpbiBkYXNoYm9hcmQKICAgICAgICAjIGl0IHNlZW1zIHRoYXQgdGhlcmUgaXMgbm8gc3VjaCBhIHBhcmFtZXRlcgogICAgICAgICIiIgogICAgICAgIFJldHVybnMgb3JkZXJzIGZvciBnaXZlbiBjb2ZfaWQgYW5kIG9wdGlvbmFsbHkgZmlsdGVycyBpdCBieSBkYXRlIHJhbmdlIGFuZCBzdGF0dXNlcwoKICAgICAgICA6cGFyYW0gY29mX2lkOiBpbnQKICAgICAgICA6cGFyYW0gcXVlcnlfZmlsdGVyOiBkaWN0CiAgICAgICAgOnJldHVybjogZGljdAogICAgICAgICIiIgo=</text>
@@ -756,15 +759,14 @@
       </register>
     </registers>
     <search>
-      <last-search>session.get</last-search>
+      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
       <last-offset />
-      <last-pattern>session.get</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apps</entry>
         <entry>echo</entry>
         <entry>organizer</entry>
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9teXNxbF9kZWJpYW5fY25mXD4=</entry>
@@ -784,6 +786,7 @@
         <entry>session</entry>
         <entry>order</entry>
         <entry>session.get</entry>
+        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
