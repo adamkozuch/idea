@@ -510,12 +510,12 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" timestamp="1551875390363">
-        <mark key="'" line="58" column="8" />
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="9" column="81" />
-        <mark key="^" line="9" column="81" />
-        <mark key="." line="9" column="81" />
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" timestamp="1551877097935">
+        <mark key="'" line="57" column="15" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="8" column="55" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="8" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
         <mark key="[" line="0" column="2" />
@@ -610,15 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="7" filename="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" />
-      <jump line="23" column="108" filename="$USER_HOME$/Projects/dbmanager/service.py" />
-      <jump line="46" column="57" filename="$USER_HOME$/Projects/dbmanager/service.py" />
-      <jump line="14" column="15" filename="$USER_HOME$/Projects/dbmanager/service.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/dbmanager/service.py" />
-      <jump line="7" column="17" filename="$USER_HOME$/Projects/dbmanager/service.py" />
-      <jump line="62" column="95" filename="$USER_HOME$/Projects/dbmanager/service.py" />
-      <jump line="58" column="60" filename="$USER_HOME$/Projects/dbmanager/service.py" />
-      <jump line="47" column="73" filename="$USER_HOME$/Projects/dbmanager/service.py" />
       <jump line="42" column="11" filename="$USER_HOME$/Projects/dbmanager/service.py" />
       <jump line="41" column="47" filename="$USER_HOME$/Projects/dbmanager/service.py" />
       <jump line="39" column="4" filename="$USER_HOME$/Projects/dbmanager/service.py" />
@@ -709,7 +700,16 @@
       <jump line="50" column="18" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="63" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="60" column="34" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="64" column="30" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="16" column="33" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="77" column="20" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="73" column="12" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="65" column="21" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
       <jump line="58" column="8" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
+      <jump line="57" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/metrics.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -719,7 +719,7 @@
         <text>information about orders</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjVE9ETyB2ZXJpZnkgaWYgZmlsdGVycyBhcmUgdXNlZCBpbiBkYXNoYm9hcmQKICAgICAgICAjIGl0IHNlZW1zIHRoYXQgdGhlcmUgaXMgbm8gc3VjaCBhIHBhcmFtZXRlcgogICAgICAgICIiIgogICAgICAgIFJldHVybnMgb3JkZXJzIGZvciBnaXZlbiBjb2ZfaWQgYW5kIG9wdGlvbmFsbHkgZmlsdGVycyBpdCBieSBkYXRlIHJhbmdlIGFuZCBzdGF0dXNlcwoKICAgICAgICA6cGFyYW0gY29mX2lkOiBpbnQKICAgICAgICA6cGFyYW0gcXVlcnlfZmlsdGVyOiBkaWN0CiAgICAgICAgOnJldHVybjogZGljdAogICAgICAgICIiIgo=</text>
@@ -759,16 +759,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>echo</entry>
-        <entry>organizer</entry>
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9teXNxbF9kZWJpYW5fY25mXD4=</entry>
         <entry encoding="base64">XDxjdXJsX2NvZGVcPg==</entry>
         <entry>roles</entry>
@@ -779,7 +777,6 @@
         <entry encoding="base64">XDxOR0lOWF9DT05GSUdcPg==</entry>
         <entry encoding="base64">XDxTU0xfUEFTU1w+</entry>
         <entry encoding="base64">XDxIVFBBU1NXRFw+</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>bonux</entry>
         <entry>bonus</entry>
         <entry>orders</entry>
@@ -787,6 +784,9 @@
         <entry>order</entry>
         <entry>session.get</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxvYmplY3RzXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
