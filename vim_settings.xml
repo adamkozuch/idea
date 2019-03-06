@@ -268,12 +268,12 @@
         <mark key="^" line="234" column="45" />
         <mark key="." line="234" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" timestamp="1551889235264">
+      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" timestamp="1551891094541">
         <mark key="'" line="83" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="242" column="91" />
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="24" />
+        <mark key="." line="51" column="24" />
+        <mark key="^" line="51" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1551774303995">
         <mark key="'" line="18" column="7" />
@@ -298,18 +298,15 @@
         <mark key="." line="216" column="0" />
         <mark key="^" line="190" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1551889153810">
-        <mark key="'" line="848" column="18" />
-        <mark key="[" line="863" column="39" />
-        <mark key="]" line="863" column="38" />
-        <mark key="." line="863" column="38" />
-        <mark key="^" line="863" column="38" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1551890634203">
+        <mark key="'" line="864" column="30" />
+        <mark key="[" line="878" column="35" />
+        <mark key="]" line="878" column="41" />
+        <mark key="." line="878" column="41" />
+        <mark key="^" line="878" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="15" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" />
       <jump line="9" column="47" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/order_summary.py" />
       <jump line="48" column="35" filename="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/bonus.py" />
@@ -407,19 +404,22 @@
       <jump line="45" column="25" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
+      <jump line="877" column="45" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
+      <jump line="223" column="28" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
+      <jump line="864" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBURVJSQV9DT05GSUdfRElDVF9JVCA9IHsKIyAgICAgJ2xvZ2luJzogJ3Rlc3RXUycsCiMgICAgICdwYXNzd29yZCc6ICcnLAojICAgICAnb3JkZXJfdXJsJzogJ2h0dHA6Ly93d3cuZ2wtbmV0LmNvbS90cmFYaXMvV1NHTE4vU2hpcHBpbmcucGhwJywKIyAgICAgJ3N0YXR1c191cmwnOiAnaHR0cDovL3d3dy5nbC1uZXQuY29tL3RyYVhpcy9XU0dMTi9UcmFja2luZy5waHAnLAojICAgICAnb3JkZXJfc3RhdHVzX21hcHBpbmcnOiAnMjoxLDI7NDowJywKIyAgICAgJ2FwaV9rZXknOiAnJywKIyAgICAgJ3dzZGxfZGVmaW5pdGlvbic6ICdodHRwOi8vY2xpZW50ZXMuc2dlbC5lcy9lbG9naXN0aWNzL3NlcnZpY2VzL3p3c3MwcHViZGx3P3dzZGwnLAojICAgICAnY2xpZW50X2lkJzogJzI2OCcsCiMgICAgICdhcGlfYWNjb3VudCc6ICdURVNUJywKIyAgICAgJ2xvY2F0aW9uJzogJ01JTCcsCiMgfQojCiMgVEVSUkFfQ09ORklHX0RJQ1RfQUUgPSB7CiMgICAgICdsb2dpbic6ICd0ZXN0V1MnLAojICAgICAncGFzc3dvcmQnOiAnJywKIyAgICAgJ29yZGVyX3VybCc6ICdodHRwOi8vd3d3LmdsLW5ldC5jb20vdHJhWGlzL1dTR0xOL1NoaXBwaW5nLnBocCcsCiMgICAgICdzdGF0dXNfdXJsJzogJ2h0dHA6Ly93d3cuZ2wtbmV0LmNvbS90cmFYaXMvV1NHTE4vVHJhY2tpbmcucGhwJywKIyAgICAgJ29yZGVyX3N0YXR1c19tYXBwaW5nJzogJzI6MSwyOzQ6MCcsCiMgICAgICdhcGlfa2V5JzogJycsCiMgICAgICd3c2RsX2RlZmluaXRpb24nOiAnaHR0cDovL2NsaWVudGVzLnNnZWwuZXMvZWxvZ2lzdGljcy9zZXJ2aWNlcy96d3NzMHB1YmRsdz93c2RsJywKIyAgICAgJ2NsaWVudF9pZCc6ICcyNjgnLAojICAgICAnYXBpX2FjY291bnQnOiAnVEVTVCcsCiMgICAgICdsb2NhdGlvbic6ICdEWEInLAojIH0KCgo=</text>
+      <register name="&quot;" type="4">
+        <text>login</text>
       </register>
       <register name="-" type="4">
-        <text>self.input_dict['location']</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKHJlYWR5X2RpY3QpCiAgICAgICAgc2VsZi5sb2NhdGlvbiA9IGxvY2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndXNlciAnLCBzZWxmLmNvbmZpZy5sb2dpbikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBURVJSQV9DT05GSUdfRElDVF9JVCA9IHsKIyAgICAgJ2xvZ2luJzogJ3Rlc3RXUycsCiMgICAgICdwYXNzd29yZCc6ICcnLAojICAgICAnb3JkZXJfdXJsJzogJ2h0dHA6Ly93d3cuZ2wtbmV0LmNvbS90cmFYaXMvV1NHTE4vU2hpcHBpbmcucGhwJywKIyAgICAgJ3N0YXR1c191cmwnOiAnaHR0cDovL3d3dy5nbC1uZXQuY29tL3RyYVhpcy9XU0dMTi9UcmFja2luZy5waHAnLAojICAgICAnb3JkZXJfc3RhdHVzX21hcHBpbmcnOiAnMjoxLDI7NDowJywKIyAgICAgJ2FwaV9rZXknOiAnJywKIyAgICAgJ3dzZGxfZGVmaW5pdGlvbic6ICdodHRwOi8vY2xpZW50ZXMuc2dlbC5lcy9lbG9naXN0aWNzL3NlcnZpY2VzL3p3c3MwcHViZGx3P3dzZGwnLAojICAgICAnY2xpZW50X2lkJzogJzI2OCcsCiMgICAgICdhcGlfYWNjb3VudCc6ICdURVNUJywKIyAgICAgJ2xvY2F0aW9uJzogJ01JTCcsCiMgfQojCiMgVEVSUkFfQ09ORklHX0RJQ1RfQUUgPSB7CiMgICAgICdsb2dpbic6ICd0ZXN0V1MnLAojICAgICAncGFzc3dvcmQnOiAnJywKIyAgICAgJ29yZGVyX3VybCc6ICdodHRwOi8vd3d3LmdsLW5ldC5jb20vdHJhWGlzL1dTR0xOL1NoaXBwaW5nLnBocCcsCiMgICAgICdzdGF0dXNfdXJsJzogJ2h0dHA6Ly93d3cuZ2wtbmV0LmNvbS90cmFYaXMvV1NHTE4vVHJhY2tpbmcucGhwJywKIyAgICAgJ29yZGVyX3N0YXR1c19tYXBwaW5nJzogJzI6MSwyOzQ6MCcsCiMgICAgICdhcGlfa2V5JzogJycsCiMgICAgICd3c2RsX2RlZmluaXRpb24nOiAnaHR0cDovL2NsaWVudGVzLnNnZWwuZXMvZWxvZ2lzdGljcy9zZXJ2aWNlcy96d3NzMHB1YmRsdz93c2RsJywKIyAgICAgJ2NsaWVudF9pZCc6ICcyNjgnLAojICAgICAnYXBpX2FjY291bnQnOiAnVEVTVCcsCiMgICAgICdsb2NhdGlvbic6ICdEWEInLAojIH0KCgo=</text>
