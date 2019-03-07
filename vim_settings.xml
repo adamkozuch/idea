@@ -60,6 +60,9 @@
         <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/README.md" timestamp="1551956830610" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/users/admin.py" timestamp="1551970467183">
+        <mark key="'" line="50" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-dashboard/src/pages/Dashboard/Dashboard/OrdersSummary.vue" timestamp="1551873399599">
         <mark key="'" line="208" column="8" />
         <mark key="[" line="221" column="11" />
@@ -96,6 +99,10 @@
         <mark key="]" line="5" column="4" />
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/utils.py" timestamp="1551970504976">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="61" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/admin.py" timestamp="1550751458639">
         <mark key="[" line="10" column="27" />
@@ -199,6 +206,9 @@
         <mark key="." line="33" column="81" />
         <mark key="^" line="63" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/config.py" timestamp="1551967994298">
+        <mark key="'" line="25" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanagest/instrukcja" timestamp="1548760902144">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="24" />
@@ -218,6 +228,7 @@
         <mark key="^" line="219" column="17" />
         <mark key="." line="219" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/moneymatrix/exceptions.py" timestamp="1551967545123" />
       <file name="$USER_HOME$/Projects/IT-GOLD/krab/versions/current/vouchers/tests/test_commands.py" timestamp="1551194461132">
         <mark key="'" line="123" column="51" />
         <mark key="[" line="119" column="52" />
@@ -231,6 +242,9 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1073678717/-1756016830/flask_sqlalchemy/__init__.py" timestamp="1551970142117">
+        <mark key="'" line="673" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/trydjango/urls.py" timestamp="1550226516695">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="15" />
@@ -243,7 +257,7 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1551956271907">
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1551968821218">
         <mark key="'" line="142" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings_local.py" timestamp="1550742076425">
@@ -373,8 +387,8 @@
         <mark key="." line="37" column="29" />
         <mark key="^" line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1551965626528">
-        <mark key="'" line="55" column="15" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1551970189429">
+        <mark key="'" line="23" column="8" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="34" />
       </file>
@@ -512,18 +526,23 @@
         <mark key="^" line="234" column="45" />
         <mark key="." line="234" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1551966378331">
-        <mark key="'" line="133" column="53" />
-        <mark key="[" line="133" column="104" />
-        <mark key="]" line="133" column="139" />
-        <mark key="^" line="133" column="139" />
-        <mark key="." line="133" column="139" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1551970669388">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="106" column="16" />
+        <mark key="^" line="116" column="32" />
+        <mark key="." line="116" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/mdm/tasks.py" timestamp="1551970361252">
+        <mark key="'" line="40" column="22" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" timestamp="1551953285967">
         <mark key="'" line="201" column="28" />
@@ -541,12 +560,12 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/run.py" timestamp="1551966005753">
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/run.py" timestamp="1551970747852">
         <mark key="'" line="73" column="17" />
-        <mark key="[" line="75" column="16" />
-        <mark key="]" line="75" column="17" />
-        <mark key="." line="75" column="17" />
-        <mark key="^" line="75" column="17" />
+        <mark key="[" line="81" column="31" />
+        <mark key="]" line="81" column="39" />
+        <mark key="." line="81" column="39" />
+        <mark key="^" line="81" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/test_api.sh" timestamp="1551793173331">
         <mark key="[" line="4" column="111" />
@@ -581,12 +600,6 @@
         <mark key="]" line="26" column="24" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0023_update_logisticpartnerconfig_driver_names.py" timestamp="1551952275784">
-        <mark key="[" line="10" column="105" />
-        <mark key="]" line="10" column="104" />
-        <mark key="^" line="10" column="104" />
-        <mark key="." line="10" column="104" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1551865674304">
         <mark key="'" line="190" column="0" />
@@ -635,26 +648,8 @@
         <mark key="^" line="34" column="23" />
         <mark key="." line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0035_update_logisticpartnerconfig_driver_names.py" timestamp="1551951731068">
-        <mark key="[" line="11" column="66" />
-        <mark key="]" line="11" column="67" />
-        <mark key="." line="11" column="67" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="41" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/tasks.py" />
-      <jump line="55" column="21" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/tasks.py" />
-      <jump line="213" column="69" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
-      <jump line="68" column="18" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/tasks.py" />
-      <jump line="8" column="19" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0023_update_logisticpartnerconfig_driver_names.py" />
-      <jump line="849" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="847" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="853" column="32" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="947" column="21" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="95" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="909" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="940" column="25" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="214" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
       <jump line="22" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
       <jump line="780" column="44" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="62" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
@@ -735,73 +730,83 @@
       <jump line="111" column="55" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
       <jump line="51" column="4" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
       <jump line="113" column="44" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="23" column="16" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
-      <jump line="55" column="15" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
       <jump line="73" column="17" filename="$USER_HOME$/Projects/IT-GOLD/ppi/run.py" />
       <jump line="26" column="4" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
       <jump line="200" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="133" column="53" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="103" column="40" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="133" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="58" column="60" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="25" column="45" filename="$USER_HOME$/Projects/IT-GOLD/ppi/config.py" />
+      <jump line="132" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="7" column="16" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="673" column="13" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1073678717/-1756016830/flask_sqlalchemy/__init__.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
+      <jump line="55" column="27" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
+      <jump line="54" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
+      <jump line="40" column="22" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/mdm/tasks.py" />
+      <jump line="50" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/users/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICMgcGF5bWVudCBtZXRob2QgdG8gY2hhbm5lbCBjYW4gYmUgY2hhbmdlZCBwYXltZW50Lm1ldGhvZCBtdXMgYmUgdmFsaWRhdGVk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IGRiLnNlc3Npb24ucXVlcnkoUGF5bWVudENoYW5uZWwpLmZpbHRlcl9ieSgKICAgICAgICAgICAgb3BlcmF0b3JfaWQ9MiwKICAgICAgICApLmZpcnN0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgcGF5bWVudCBtZXRob2QgdG8gY2hhbm5lbCBjYW4gYmUgY2hhbmdlZCBwYXltZW50Lm1ldGhvZCBtdXMgYmUgdmFsaWRhdGVk</text>
+        <text>currency_code</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm92aWRlcl9uYW1lXD4=</text>
+        <text encoding="base64">XDxub3RpZmljYXRpb25fdG9fc2VuZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHFzID0gUGF5bWVudENoYW5uZWwucXVlcnkuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IGRiLnNlc3Npb24ucXVlcnkoUGF5bWVudENoYW5uZWwpLmZpbHRlcl9ieSgKICAgICAgICAgICAgb3BlcmF0b3JfaWQ9MiwKICAgICAgICApLmZpcnN0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBheW1lbnRDaGFubmVsLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmF0ZV9kYXRlPXNjaGVtYV9kYXRhLnJhdGVfZGF0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text>f r=j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBheW1lbnRDaGFubmVsCg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJDcmVhdGUgdmFsaWRhdGlvbiBydWxlcyBleGVjdXRlZCIpCiAgICBjcmVhdGVfdmFsaWRhdGlvbl9ydWxlcyhjbGVhcj1jbGVhcikK</text>
+        <text encoding="base64">ICAgIGRlZiByZXR1cm5fYXBpX2NvZGVzX2Zvcl9kb3RwYXkoc2VsZik6CiAgICAgICAgcXMgPSBQYXltZW50Q2hhbm5lbC5xdWVyeS5maWx0ZXJfYnkob3BlcmF0b3JfaWQ9MikKICAgICAgICBmb3IgaSBpbiBxczoKICAgICAgICAgICAgcHJpbnQoImNoYW5uZWwgIiwgaSkKICAgICAgICByZXR1cm4gW3BjLmFwaV9jb2RlICBmb3IgcGMgaW4gcXNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHFzOgogICAgICAgIHByaW50KCJjaGFubmVsICIsIGkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvZ2lzdGljUGFydG5lckNvbmZpZy5vYmplY3RzLmZpbHRlcih0eXBlX25hbWU9J0NFTEVSSVRBU19FU18xJykudXBkYXRlKGRyaXZlcl9uYW1lPSdDRUxFUklUQVMgU0dFTCBBTE9WRVJBX0VTJykKICAgIExvZ2lzdGljUGFydG5lckNvbmZpZy5vYmplY3RzLmZpbHRlcih0eXBlX25hbWU9J1NJVU5UVV9DRU5UUkFTX0xUXzEnKS51cGRhdGUoZHJpdmVyX25hbWU9J1NJVU5UVSBDRU5UUkFTX0xUJykKICAgIExvZ2lzdGljUGFydG5lckNvbmZpZy5vYmplY3RzLmZpbHRlcih0eXBlX25hbWU9J0VYUFJFU1NfUk1TX1JVXzEnKS51cGRhdGUoZHJpdmVyX25hbWU9J0VYUFJFU1MgUk1TX1JVJykK</text>
+        <text encoding="base64">ICAgIHFzXzEgPSBQYXltZW50Q2hhbm5lbC5xdWVyeS5maWx0ZXJfYnkob3BlcmF0b3JfaWQ9MikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvZ2lzdGljUGFydG5lckNvbmZpZy5vYmplY3RzLmZpbHRlcih0eXBlX25hbWU9J05FWFRfVEVSUkFfRlJfMScpLnVwZGF0ZShkcml2ZXJfbmFtZT0nTkVYVCBURVJSQV9GUicpCiAgICBMb2dpc3RpY1BhcnRuZXJDb25maWcub2JqZWN0cy5maWx0ZXIodHlwZV9uYW1lPSdORVhUX1RFUlJBX0ZSXzInKS51cGRhdGUoZHJpdmVyX25hbWU9J05FWFQgVEVSUkFfRlInKQo=</text>
+        <text encoding="base64">ICAgIHFzID0gUGF5bWVudENoYW5uZWwucXVlcnkuYWxsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIyBHZW5lcmF0ZWQgYnkgRGphbmdvIDEuMTEuMiBvbiAyMDE5LTAzLTA3IDA3OjU4CmZyb20gX19mdXR1cmVfXyBpbXBvcnQgdW5pY29kZV9saXRlcmFscwoKZnJvbSBkamFuZ28uZGIgaW1wb3J0IG1pZ3JhdGlvbnMKCg==</text>
+        <text encoding="base64">ICAgIGZvciBwYyBpbiBxc18xOgogICAgICAgIHByaW50KHBjLm9wZXJhdG9yX2lkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlzX3ZhbGlkKHBheW1lbnQubWV0aG9kKSAjIG1ldGhvZCBpcyBhY3R1YWxseSBhcGlfY29kZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm92aWRlcl9uYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxub3RpZmljYXRpb25fdG9fc2VuZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm92aWRlcl9uYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxub3RpZmljYXRpb25fdG9fc2VuZFw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Location</entry>
-        <entry>NextTerra</entry>
-        <entry encoding="base64">XDxvcmRlcl9jbGFzc1w+</entry>
         <entry>NextTerraDriver</entry>
         <entry encoding="base64">XDxpbnB1dF9kaWN0XD4=</entry>
         <entry>Terra</entry>
@@ -819,6 +824,9 @@
         <entry>method</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxwcm92aWRlcl9uYW1lXD4=</entry>
+        <entry>TestPaymentsApi</entry>
+        <entry encoding="base64">XDxkYlw+</entry>
+        <entry encoding="base64">XDxub3RpZmljYXRpb25fdG9fc2VuZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
@@ -836,8 +844,8 @@
         <entry>wq</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action GotoFile</entry>
         <entry>action Run</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
