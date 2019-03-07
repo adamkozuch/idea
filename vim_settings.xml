@@ -795,7 +795,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmlzX3ZhbGlkKHBheW1lbnQubWV0aG9kKSAjIG1ldGhvZCBpcyBhY3R1YWxseSBhcGlfY29kZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -845,8 +845,8 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
