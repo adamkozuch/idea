@@ -127,6 +127,10 @@
   </action>
   <action id="SaveAll" />
   <action id="SelectNextOccurrence" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="shift alt b" />
+  </action>
   <action id="ShowContent" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
@@ -147,7 +151,8 @@
   <action id="Terminal.RenameSession">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="ToggleBreakpointEnabled">
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="TypeHierarchy" />
@@ -171,4 +176,5 @@
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="tasks.open.in.browser" />
 </keymap>
