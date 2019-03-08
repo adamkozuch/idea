@@ -50,12 +50,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/__init__.py" timestamp="1552053755293">
         <mark key="'" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1552056560966">
-        <mark key="'" line="18" column="5" />
-        <mark key="[" line="103" column="42" />
-        <mark key="]" line="103" column="42" />
-        <mark key="." line="103" column="42" />
-        <mark key="^" line="46" column="41" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1552058056414">
+        <mark key="'" line="229" column="24" />
+        <mark key="[" line="189" column="81" />
+        <mark key="]" line="189" column="111" />
+        <mark key="." line="189" column="111" />
+        <mark key="^" line="189" column="111" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/tests.py" timestamp="1551872858785">
         <mark key="'" line="28" column="39" />
@@ -167,9 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="7" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="80" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="84" column="19" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
       <jump line="13" column="33" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
@@ -239,7 +236,6 @@
       <jump line="12" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/__init__.py" />
       <jump line="639" column="25" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="667" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="18" column="5" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="46" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
@@ -267,37 +263,41 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/moneymatrix/test_provider.py" />
       <jump line="80" column="25" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/moneymatrix/test_provider.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/moneymatrix/test_provider.py" />
+      <jump line="96" column="40" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="695" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="229" column="24" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'CreditCard'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'CreditCard'</text>
+        <text>, BasePaymentProvider</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
       </register>
-      <register name="0" type="4">
-        <text>PAYMENT_METHODS.CARD</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBsbl9jdXJyZW5jeSA9IEN1cnJlbmN5KAogICAgICAgICAgICBpZD0xLAogICAgICAgICAgICBuYW1lPSdQTE4nCiAgICAgICAgKQogICAgICAgIHNlbGYuZG90cGF5X29wZXJhdG9yID0gT3BlcmF0b3IoCiAgICAgICAgICAgIGlkPTIsCiAgICAgICAgICAgIG5hbWU9J0RvdHBheScKICAgICAgICApCiAgICAgICAgc2VsZi5jaGFubmVsX2JsaWsgPSBQYXltZW50Q2hhbm5lbCgKICAgICAgICAgICAgaWQ9MSwKICAgICAgICAgICAgb3BlcmF0b3JfaWQ9MiwKICAgICAgICAgICAgbmFtZT0nRG90cGF5JywKICAgICAgICAgICAgYXBpX2NvZGU9UEFZTUVOVF9NRVRIT0RTLkJMSUssCiAgICAgICAgICAgIGlzX2FjdGl2ZT1UcnVlLAogICAgICAgICAgICBkZWZhdWx0X2N1cnJlbmN5X2lkPTEKICAgICAgICApCiAgICAgICAgc2VsZi5jaGFubmVsX2NsYXNzaWNfcGF5bWVudCA9IFBheW1lbnRDaGFubmVsKAogICAgICAgICAgICBpZD0yLAogICAgICAgICAgICBvcGVyYXRvcl9pZD0yLAogICAgICAgICAgICBuYW1lPSdEb3RwYXknLAogICAgICAgICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuVFJBTlNGRVJfQ0xBU1NJQywKICAgICAgICAgICAgaXNfYWN0aXZlPVRydWUsCiAgICAgICAgICAgIGRlZmF1bHRfY3VycmVuY3lfaWQ9MQogICAgICAgICkKICAgICAgICBzZWxmLmNoYW5uZWxfY2FyZCA9IFBheW1lbnRDaGFubmVsKAogICAgICAgICAgICBpZD0zLAogICAgICAgICAgICBvcGVyYXRvcl9pZD0yLAogICAgICAgICAgICBuYW1lPSdEb3RwYXknLAogICAgICAgICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuQ0FSRCwKICAgICAgICAgICAgaXNfYWN0aXZlPVRydWUsCiAgICAgICAgICAgIGRlZmF1bHRfY3VycmVuY3lfaWQ9MQogICAgICAgICkKCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5kb3RwYXlfb3BlcmF0b3IpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5wbG5fY3VycmVuY3kpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5jaGFubmVsX2JsaWspCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5jaGFubmVsX2NsYXNzaWNfcGF5bWVudCkKICAgICAgICBkYi5zZXNzaW9uLmFkZChzZWxmLmNoYW5uZWxfY2FyZCkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIEJhc2VQYXltZW50UHJvdmlkZXIK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text>f r=j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5fdmFsaWRfYXBpX2NvZGVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIEJhc2VQYXltZW50UHJvdmlkZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5fdmFsaWRfYXBpX2NvZGVzKCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSBOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb24oIkFQSV9jb2RlIHt9IGRvZXMgbm90IGV4aXRzIGZvciB7fSIuZm9ybWF0KHBheW1lbnQubWV0aG9kLCBzZWxmLnByb3ZpZGVyX25hbWUpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSBOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb24oIkFQSV9jb2RlIHt9IGRvZXMgbm90IGV4aXRzIGZvciB7fSIuZm9ybWF0KHBheW1lbnQubWV0aG9kLCBzZWxmLnByb3ZpZGVyX25hbWUpKQo=</text>
@@ -306,10 +306,10 @@
         <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSBOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb24oIkFQSV9jb2RlIHt9IGRvZXMgbm90IGV4aXRzIGZvciB7fSIuZm9ybWF0KHBheW1lbnQubWV0aG9kLCBzZWxmLnByb3ZpZGVyX25hbWUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGRiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSBOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb24oIkFQSV9jb2RlIHt9IGRvZXMgbm90IGV4aXRzIGZvciB7fSIuZm9ybWF0KHBheW1lbnQubWV0aG9kLCBzZWxmLnByb3ZpZGVyX25hbWUpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGRiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
