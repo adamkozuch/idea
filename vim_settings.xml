@@ -274,12 +274,12 @@
         <mark key="^" line="11" column="60" />
         <mark key="." line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" timestamp="1552036560455">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="170" column="43" />
-        <mark key="]" line="170" column="45" />
-        <mark key="." line="170" column="45" />
-        <mark key="^" line="170" column="45" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" timestamp="1552046462182">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="187" column="45" />
+        <mark key="]" line="187" column="51" />
+        <mark key="." line="187" column="51" />
+        <mark key="^" line="187" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/scripts/build_test_docker.sh" timestamp="1549527644069">
         <mark key="[" line="19" column="35" />
@@ -540,12 +540,12 @@
         <mark key="^" line="234" column="45" />
         <mark key="." line="234" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1552035869954">
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1552046419506">
         <mark key="'" line="207" column="0" />
-        <mark key="[" line="114" column="54" />
-        <mark key="]" line="114" column="71" />
-        <mark key="^" line="114" column="71" />
-        <mark key="." line="114" column="71" />
+        <mark key="[" line="115" column="14" />
+        <mark key="]" line="115" column="28" />
+        <mark key="^" line="115" column="28" />
+        <mark key="." line="115" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/sportProject/dbmanager/ctontab.txt" timestamp="1549364967744">
         <mark key="[" line="0" column="2" />
@@ -656,10 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="877" column="45" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="864" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="57" column="21" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
       <jump line="875" column="61" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="13" column="68" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0023_update_logisticpartnerconfig_driver_names.py" />
       <jump line="865" column="27" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
@@ -756,49 +752,53 @@
       <jump line="150" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="153" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="110" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
+      <jump line="154" column="41" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZChjaGFubmVsKQogICAgICAgIGRiLnNlc3Npb24uYWRkKG9wZXJhdG9yKQogICAgICAgIGRiLnNlc3Npb24uYWRkKGN1cnJlbmN5KQogICAgICAgIHNlbGYucGF5bWVudC5tZXRob2QgPSAnb3RoZXJfY29kZScKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZChjaGFubmVsKQogICAgICAgIGRiLnNlc3Npb24uYWRkKG9wZXJhdG9yKQogICAgICAgIGRiLnNlc3Npb24uYWRkKGN1cnJlbmN5KQogICAgICAgIHNlbGYucGF5bWVudC5tZXRob2QgPSAnb3RoZXJfY29kZScKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW5jeSA9IEN1cnJlbmN5KGlkPTEsIG5hbWU9J1BMTicpCiAgICAgICAgb3BlcmF0b3IgPSBPcGVyYXRvcihpZD0yLCBuYW1lPSdEb3RwYXknKQoKICAgICAgICBjaGFubmVsID0gUGF5bWVudENoYW5uZWwoCiAgICAgICAgICAgIGlkPTEsIG9wZXJhdG9yX2lkPTIsIG5hbWU9J0RvdHBheScsIGFwaV9jb2RlPSdteV9jb2RlJywgaXNfYWN0aXZlPVRydWUsCiAgICAgICAgICAgIGRlZmF1bHRfY3VycmVuY3lfaWQ9MQogICAgICAgICkKCiAgICAgICAgIyBzZWxmLnBheW1lbnQubWV0aG9kID0gJ290aGVyX2NvZGUnCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoY2hhbm5lbCkKICAgICAgICBkYi5zZXNzaW9uLmFkZChvcGVyYXRvcikKICAgICAgICBkYi5zZXNzaW9uLmFkZChjdXJyZW5jeSkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCgogICAgICAgIGZpZWxkcyA9IHNlbGYucHJvdmlkZXIuZ2V0X2NoZWNrb3V0X2ZpZWxkcyhzZWxmLnBheW1lbnQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmaWVsZHNbJ2NoYW5uZWwnXSwgJycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpZWxkc1snY2hhbm5lbCddLCAnMTEnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZmllbGRzWydieWxhdyddLCAnMScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text>f r=j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBheW1lbnQubWV0aG9kID0gJ290aGVyX2NvZGUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBheW1lbnQubWV0aG9kID0gUEFZTUVOVF9NRVRIT0RTLlRSQU5TRkVSX0NMQVNTSUMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXR1cm5fdmFsaWRfYXBpX2NvZGVzKHNlbGYsIG9wZXJhdG9yX25hbWUpOgogICAgICAgIHFzID0gUGF5bWVudENoYW5uZWwucXVlcnkuZmlsdGVyX2J5KG5hbWU9c2VsZi5wcm92aWRlcl9uYW1lKQogICAgICAgIHJldHVybiBsaXN0KHNldChwYy5hcGlfY29kZSAgZm9yIHBjIGluIHFzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXR1cm5fYXBpX2NvZGVzX2Zvcl9kb3RwYXkoc2VsZik6CiAgICAgICAgcXMgPSBQYXltZW50Q2hhbm5lbC5xdWVyeS5maWx0ZXJfYnkobmFtZT1zZWxmLnByb3ZpZGVyX25hbWUpCiAgICAgICAgcmV0dXJuIGxpc3Qoc2V0KHBjLmFwaV9jb2RlICBmb3IgcGMgaW4gcXMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXR1cm5fdmFsaWRfYXBpX2NvZGVzKHNlbGYsIG9wZXJhdG9yX25hbWUpOgogICAgICAgIHFzID0gUGF5bWVudENoYW5uZWwucXVlcnkuZmlsdGVyX2J5KG5hbWU9c2VsZi5wcm92aWRlcl9uYW1lKQogICAgICAgIHJldHVybiBsaXN0KHNldChwYy5hcGlfY29kZSAgZm9yIHBjIGluIHFzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZhbGlkX2FwaV9jb2RlcyA9IHNlbGYucmV0dXJuX2FwaV9jb2Rlc19mb3JfZG90cGF5KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBheW1lbnQubWV0aG9kID0gJ290aGVyX2NvZGUnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZF9hcGlfY29kZXMgPQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZpZWxkcyA9IHNlbGYucHJvdmlkZXIuZ2V0X2NoZWNrb3V0X2ZpZWxkcyhzZWxmLnBheW1lbnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpZWxkc1snY2hhbm5lbCddLCAnMTEnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZmllbGRzWydieWxhdyddLCAnMScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
