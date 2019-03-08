@@ -526,8 +526,8 @@
         <mark key="^" line="234" column="45" />
         <mark key="." line="234" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1551970669388">
-        <mark key="'" line="7" column="16" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1552030325625">
+        <mark key="'" line="60" column="8" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="106" column="16" />
         <mark key="^" line="116" column="32" />
@@ -650,11 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="764" column="4" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="613" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="607" column="57" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="410" column="11" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="216" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
       <jump line="215" column="34" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
       <jump line="202" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="1010" column="21" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
@@ -750,6 +745,11 @@
       <jump line="546" column="75" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="618" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="654" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="222" column="17" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="18" column="36" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="232" column="22" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="53" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -759,7 +759,7 @@
         <text>currency_code</text>
       </register>
       <register name="/" type="4">
-        <text>method</text>
+        <text>get_che</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IGRiLnNlc3Npb24ucXVlcnkoUGF5bWVudENoYW5uZWwpLmZpbHRlcl9ieSgKICAgICAgICAgICAgb3BlcmF0b3JfaWQ9MiwKICAgICAgICApLmZpcnN0KCkK</text>
@@ -799,17 +799,14 @@
       </register>
     </registers>
     <search>
-      <last-search>method</last-search>
+      <last-search>get_che</last-search>
       <last-offset />
-      <last-pattern>method</last-pattern>
+      <last-pattern>get_che</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NextTerraDriver</entry>
-        <entry encoding="base64">XDxpbnB1dF9kaWN0XD4=</entry>
-        <entry>Terra</entry>
         <entry encoding="base64">XDxURVJSQV9DT05GSUdfRElDVF8zXD4=</entry>
         <entry>config</entry>
         <entry>status_map</entry>
@@ -827,6 +824,9 @@
         <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25fdG9fc2VuZFw+</entry>
         <entry>method</entry>
+        <entry>getCheck</entry>
+        <entry>get</entry>
+        <entry>get_che</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
