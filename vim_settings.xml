@@ -55,6 +55,9 @@
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/README.md" timestamp="1551956830610" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/enums.py" timestamp="1552048317946" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" timestamp="1552306800230">
+        <mark key="'" line="16" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/users/admin.py" timestamp="1551970467183">
         <mark key="'" line="50" column="6" />
       </file>
@@ -453,7 +456,7 @@
         <mark key="." line="88" column="18" />
         <mark key="^" line="88" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/README.md" timestamp="1551702377331">
+      <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/README.md" timestamp="1552306283242">
         <mark key="[" line="40" column="32" />
         <mark key="]" line="40" column="52" />
         <mark key="^" line="40" column="52" />
@@ -702,9 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="51" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="175" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="155" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="72" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
@@ -802,6 +802,9 @@
       <jump line="204" column="18" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="207" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="201" column="68" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
+      <jump line="22" column="36" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
+      <jump line="21" column="36" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
+      <jump line="16" column="40" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -847,7 +850,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -897,8 +900,8 @@
         <entry>W</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
