@@ -1,6 +1,16 @@
 <application>
   <component name="UISettings">
-    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="ALLOW_MERGE_BUTTONS" value="false" />
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="CYCLE_SCROLLING" value="false" />
+    <option name="EDITOR_TAB_PLACEMENT" value="3" />
+    <option name="FONT_FACE" value="Cantarell Regular" />
+    <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
   </component>
