@@ -22,6 +22,12 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/order.html" timestamp="1552310606745">
+        <mark key="'" line="102" column="75" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="89" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/bonus_details.py" timestamp="1551277164503">
         <mark key="'" line="24" column="21" />
         <mark key="[" line="35" column="23" />
@@ -53,16 +59,14 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/README.md" timestamp="1551956830610" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/enums.py" timestamp="1552048317946" />
       <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" timestamp="1552306800230">
         <mark key="'" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/users/admin.py" timestamp="1551970467183">
         <mark key="'" line="50" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" timestamp="1552308140940">
-        <mark key="'" line="169" column="62" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" timestamp="1552309867957">
+        <mark key="'" line="362" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-dashboard/src/pages/Dashboard/Dashboard/OrdersSummary.vue" timestamp="1551873399599">
         <mark key="'" line="208" column="8" />
@@ -147,7 +151,6 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/api/v1/serializers.py" timestamp="1551886446514" />
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1550150671151">
         <mark key="[" line="52" column="128" />
         <mark key="]" line="50" column="29" />
@@ -343,6 +346,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/views/token.py" timestamp="1551872702021">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/forms.py" timestamp="1550135051766">
         <mark key="[" line="24" column="41" />
         <mark key="]" line="24" column="65" />
@@ -429,6 +438,12 @@
         <mark key="]" line="20" column="99" />
         <mark key="." line="20" column="99" />
         <mark key="^" line="20" column="99" />
+      </file>
+      <file name="$USER_HOME$/Projects/dbmanager/datatables/index.html" timestamp="1551865578770">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/dashboard/reports/last3mc.py" timestamp="1551877761395">
         <mark key="'" line="15" column="32" />
@@ -616,13 +631,15 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1551774303995">
         <mark key="'" line="18" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" timestamp="1552309556523">
+        <mark key="'" line="348" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/dbmanager/crontab.txt" timestamp="1550832728364">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/commands.py" timestamp="1551959236078" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1552292098671">
         <mark key="'" line="195" column="17" />
         <mark key="[" line="198" column="17" />
@@ -700,34 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="72" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="82" column="16" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="86" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="55" column="28" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="198" column="57" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="63" column="78" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="643" column="47" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="632" column="47" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="610" column="47" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="400" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="383" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="349" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="296" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="5" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="637" column="25" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="30" column="17" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="12" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/__init__.py" />
-      <jump line="639" column="25" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="667" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="18" column="5" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="46" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="79" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="219" column="15" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="8" column="83" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="10" column="9" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="12" column="58" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="157" column="73" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="210" column="15" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
@@ -799,76 +788,92 @@
       <jump line="22" column="36" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
       <jump line="21" column="36" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
       <jump line="16" column="40" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
-      <jump line="169" column="62" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" />
+      <jump line="371" column="38" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" />
+      <jump line="169" column="58" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" />
+      <jump line="335" column="43" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="632" column="23" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="762" column="29" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="997" column="39" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="998" column="31" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="999" column="27" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="1000" column="34" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="1001" column="71" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="42" column="18" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="102" column="29" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="144" column="40" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="341" column="12" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="682" column="39" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="806" column="15" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="810" column="29" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="336" column="99" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="337" column="12" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/views.py" />
+      <jump line="372" column="14" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" />
+      <jump line="373" column="53" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" />
+      <jump line="369" column="8" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" />
+      <jump line="362" column="15" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" />
+      <jump line="96" column="75" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/order.html" />
+      <jump line="109" column="75" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/order.html" />
+      <jump line="116" column="75" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/order.html" />
+      <jump line="115" column="75" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/order.html" />
+      <jump line="114" column="75" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/order.html" />
+      <jump line="102" column="75" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/order.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE5leHRUZXJyYURyaXZlciwK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSJSTyI+U3BhaW48L29wdGlvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text>, driver_name</text>
+        <text>Poland</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb25cPg==</text>
+        <text encoding="base64">XDxOZXRoZXJsYW5kc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTmV4dFRlcnJhRHJpdmVyRlIoUGFydG5lckRyaXZlcik6Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSJSTyI+UG9sYW5kPC9vcHRpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5leHRUZXJyYURyaXZlciwK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSJSTyI+U3BhaW48L29wdGlvbj4K</text>
       </register>
       <register name="q" type="4">
         <text>f r=j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRiX2RyaXZlcl9uYW1lID0gZHJpdmVyX25hbWUK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSJSTyI+UG9sYW5kPC9vcHRpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRiX2RyaXZlcl9uYW1lID0gc3RhdGljcy5ORVhUX1RFUlJBX0FFX05BTUUK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSJSTyI+TmV0aGVybGFuZHM8L29wdGlvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRyaXZlcl9uYW1lID0gZHJpdmVyX25hbWUK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSJDWiI+RXN0b25pYTwvb3B0aW9uPiAjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRyaXZlcgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSJDWiI+RGVubWFyazwvb3B0aW9uPiAjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGJfZHJpdmVyX25hbWUgPSBzdGF0aWNzLk5FWFRfVEVSUkFfTkFNRQo=</text>
+        <text encoding="base64">ICAgIE5leHRUZXJyYURyaXZlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhcHAudmFsaWRhdGlvbl9ydWxlcy5tb2RlbHMgaW1wb3J0IEN1cnJlbmN5LCBPcGVyYXRvciwgUGF5bWVudENoYW5uZWwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRiX2RyaXZlcl9uYW1lID0gZHJpdmVyX25hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucGxuX2N1cnJlbmN5ID0gQ3VycmVuY3koCiAgICAgICAgIyAgICAgaWQ9MSwKICAgICAgICAjICAgICBuYW1lPSdQTE4nCiAgICAgICAgIyApCiAgICAgICAgIyBzZWxmLmRvdHBheV9vcGVyYXRvciA9IE9wZXJhdG9yKAogICAgICAgICMgICAgIGlkPTIsCiAgICAgICAgIyAgICAgbmFtZT0nRG90cGF5JwogICAgICAgICMgKQogICAgICAgICMgc2VsZi5jaGFubmVsX2JsaWsgPSBQYXltZW50Q2hhbm5lbCgKICAgICAgICAjICAgICBpZD0xLAogICAgICAgICMgICAgIG9wZXJhdG9yX2lkPTIsCiAgICAgICAgIyAgICAgbmFtZT0nRG90cGF5JywKICAgICAgICAjICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuQkxJSywKICAgICAgICAjICAgICBpc19hY3RpdmU9VHJ1ZSwKICAgICAgICAjICAgICBkZWZhdWx0X2N1cnJlbmN5X2lkPTEKICAgICAgICAjICkKICAgICAgICAjIHNlbGYuY2hhbm5lbF9jbGFzc2ljX3BheW1lbnQgPSBQYXltZW50Q2hhbm5lbCgKICAgICAgICAjICAgICBpZD0yLAogICAgICAgICMgICAgIG9wZXJhdG9yX2lkPTIsCiAgICAgICAgIyAgICAgbmFtZT0nRG90cGF5JywKICAgICAgICAjICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuVFJBTlNGRVJfQ0xBU1NJQywKICAgICAgICAjICAgICBpc19hY3RpdmU9VHJ1ZSwKICAgICAgICAjICAgICBkZWZhdWx0X2N1cnJlbmN5X2lkPTEKICAgICAgICAjICkKICAgICAgICAjIHNlbGYuY2hhbm5lbF9jYXJkID0gUGF5bWVudENoYW5uZWwoCiAgICAgICAgIyAgICAgaWQ9MywKICAgICAgICAjICAgICBvcGVyYXRvcl9pZD0yLAogICAgICAgICMgICAgIG5hbWU9J0RvdHBheScsCiAgICAgICAgIyAgICAgYXBpX2NvZGU9UEFZTUVOVF9NRVRIT0RTLkNBUkQsCiAgICAgICAgIyAgICAgaXNfYWN0aXZlPVRydWUsCiAgICAgICAgIyAgICAgZGVmYXVsdF9jdXJyZW5jeV9pZD0xCiAgICAgICAgIyApCiAgICAgICAgIwogICAgICAgICMgZGIuc2Vzc2lvbi5hZGQoc2VsZi5kb3RwYXlfb3BlcmF0b3IpCiAgICAgICAgIyBkYi5zZXNzaW9uLmFkZChzZWxmLnBsbl9jdXJyZW5jeSkKICAgICAgICAjIGRiLnNlc3Npb24uYWRkKHNlbGYuY2hhbm5lbF9ibGlrKQogICAgICAgICMgZGIuc2Vzc2lvbi5hZGQoc2VsZi5jaGFubmVsX2NsYXNzaWNfcGF5bWVudCkKICAgICAgICAjIGRiLnNlc3Npb24uYWRkKHNlbGYuY2hhbm5lbF9jYXJkKQogICAgICAgICMgZGIuc2Vzc2lvbi5jb21taXQoKQoK</text>
+        <text encoding="base64">ICAgIGRiX2RyaXZlcl9uYW1lID0gc3RhdGljcy5ORVhUX1RFUlJBX0FFX05BTUUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRyaXZlcl9uYW1lID0gZHJpdmVyX25hbWUK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb25cPg==</last-search>
+      <last-search encoding="base64">XDxOZXRoZXJsYW5kc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxOZXRoZXJsYW5kc1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getCheck</entry>
-        <entry>get</entry>
-        <entry>get_che</entry>
-        <entry>checkout</entry>
-        <entry>get_checkout_fields</entry>
-        <entry>assertEquals</entry>
-        <entry>TestPayment</entry>
-        <entry>test_payment_cre</entry>
-        <entry encoding="base64">XDxNb2NrXD4=</entry>
-        <entry>test_exceeded_attributes_length_without_all_attribute_to_cut</entry>
-        <entry encoding="base64">XDxCYXNlUGF5bWVudFByb3ZpZGVyXD4=</entry>
-        <entry>return</entry>
         <entry>valid</entry>
         <entry>test_exceed</entry>
         <entry>method</entry>
@@ -877,6 +882,18 @@
         <entry>patch</entry>
         <entry encoding="base64">XDxQYXltZW50Q2hhbm5lbFw+</entry>
         <entry encoding="base64">XDxOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb25cPg==</entry>
+        <entry encoding="base64">XDxjdXN0X2JpbGxpbmdfY291bnRyeVw+</entry>
+        <entry>cust</entry>
+        <entry>country</entry>
+        <entry>payment</entry>
+        <entry>payment_template</entry>
+        <entry encoding="base64">XDxpc29jXD4=</entry>
+        <entry>isoc</entry>
+        <entry encoding="base64">XDxEZW5tYXJrXD4=</entry>
+        <entry encoding="base64">XDxFc3RvbmlhXD4=</entry>
+        <entry encoding="base64">XDxTcGFpblw+</entry>
+        <entry encoding="base64">XDxQb2xhbmRcPg==</entry>
+        <entry encoding="base64">XDxOZXRoZXJsYW5kc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
@@ -895,8 +912,8 @@
         <entry>W</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
