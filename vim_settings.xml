@@ -106,12 +106,12 @@
         <mark key="." line="198" column="0" />
         <mark key="^" line="155" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/base/test_provider.py" timestamp="1552295248869">
-        <mark key="'" line="26" column="23" />
-        <mark key="[" line="82" column="81" />
-        <mark key="]" line="82" column="86" />
-        <mark key="." line="82" column="86" />
-        <mark key="^" line="82" column="86" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/base/test_provider.py" timestamp="1552296306012">
+        <mark key="'" line="35" column="36" />
+        <mark key="[" line="82" column="144" />
+        <mark key="]" line="83" column="7" />
+        <mark key="." line="83" column="7" />
+        <mark key="^" line="83" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-backend-django/ewidencja_konsultanta/settings_local.py" timestamp="1550742076425">
         <mark key="'" line="7" column="17" />
@@ -134,12 +134,12 @@
         <mark key="." line="78" column="9" />
         <mark key="^" line="78" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" timestamp="1552295001520">
-        <mark key="'" line="111" column="10" />
-        <mark key="[" line="111" column="5" />
-        <mark key="]" line="103" column="9" />
-        <mark key="." line="111" column="9" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" timestamp="1552296478610">
+        <mark key="'" line="8" column="36" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
         <mark key="^" line="103" column="9" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sampleDjango/Try-Django/src/trydjango/urls.py" timestamp="1550070844814">
         <mark key="'" line="24" column="24" />
@@ -291,12 +291,12 @@
         <mark key="^" line="234" column="45" />
         <mark key="." line="234" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1552291926518">
-        <mark key="'" line="107" column="51" />
-        <mark key="[" line="105" column="31" />
-        <mark key="]" line="105" column="53" />
-        <mark key="^" line="114" column="126" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1552296104065">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="109" column="126" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/mdm/tasks.py" timestamp="1551970361252">
         <mark key="'" line="40" column="22" />
@@ -342,14 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="154" column="41" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="134" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="222" column="29" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="52" column="27" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/moneymatrix/__init__.py" />
       <jump line="40" column="32" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/alliedwallet/__init__.py" />
       <jump line="13" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/__init__.py" />
@@ -442,65 +434,71 @@
       <jump line="103" column="10" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="111" column="10" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="26" column="23" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/base/test_provider.py" />
+      <jump line="100" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="99" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="9" column="40" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="35" column="36" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/base/test_provider.py" />
+      <jump line="6" column="23" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
+      <jump line="8" column="36" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>patch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>patch</text>
       </register>
       <register name="/" type="4">
-        <text>patch</text>
+        <text encoding="base64">XDxOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm5fdmFsaWRfY29kZXMucmV0dXJuX3ZhbHVlID0gW1BBWU1FTlRfTUVUSE9EUy5CTElLXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAudmFsaWRhdGlvbl9ydWxlcy5tb2RlbHMgaW1wb3J0IFBheW1lbnRDaGFubmVsLCBPcGVyYXRvciwgQ3VycmVuY3kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f r=j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucGxuX2N1cnJlbmN5ID0gQ3VycmVuY3koCiAgICAgICAgIyAgICAgaWQ9MSwKICAgICAgICAjICAgICBuYW1lPSdQTE4nCiAgICAgICAgIyApCiAgICAgICAgIyBzZWxmLmRvdHBheV9vcGVyYXRvciA9IE9wZXJhdG9yKAogICAgICAgICMgICAgIGlkPTIsCiAgICAgICAgIyAgICAgbmFtZT0nRG90cGF5JwogICAgICAgICMgKQogICAgICAgICMgc2VsZi5jaGFubmVsX2JsaWsgPSBQYXltZW50Q2hhbm5lbCgKICAgICAgICAjICAgICBpZD0xLAogICAgICAgICMgICAgIG9wZXJhdG9yX2lkPTIsCiAgICAgICAgIyAgICAgbmFtZT0nRG90cGF5JywKICAgICAgICAjICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuQkxJSywKICAgICAgICAjICAgICBpc19hY3RpdmU9VHJ1ZSwKICAgICAgICAjICAgICBkZWZhdWx0X2N1cnJlbmN5X2lkPTEKICAgICAgICAjICkKICAgICAgICAjIHNlbGYuY2hhbm5lbF9jbGFzc2ljX3BheW1lbnQgPSBQYXltZW50Q2hhbm5lbCgKICAgICAgICAjICAgICBpZD0yLAogICAgICAgICMgICAgIG9wZXJhdG9yX2lkPTIsCiAgICAgICAgIyAgICAgbmFtZT0nRG90cGF5JywKICAgICAgICAjICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuVFJBTlNGRVJfQ0xBU1NJQywKICAgICAgICAjICAgICBpc19hY3RpdmU9VHJ1ZSwKICAgICAgICAjICAgICBkZWZhdWx0X2N1cnJlbmN5X2lkPTEKICAgICAgICAjICkKICAgICAgICAjCiAgICAgICAgIyBkYi5zZXNzaW9uLmFkZChzZWxmLmRvdHBheV9vcGVyYXRvcikKICAgICAgICAjIGRiLnNlc3Npb24uYWRkKHNlbGYucGxuX2N1cnJlbmN5KQogICAgICAgICMgZGIuc2Vzc2lvbi5hZGQoc2VsZi5jaGFubmVsX2JsaWspCiAgICAgICAgIyBkYi5zZXNzaW9uLmFkZChzZWxmLmNoYW5uZWxfY2xhc3NpY19wYXltZW50KQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBsbl9jdXJyZW5jeSA9IEN1cnJlbmN5KAogICAgICAgICAgICBpZD0xLAogICAgICAgICAgICBuYW1lPSdQTE4nCiAgICAgICAgKQogICAgICAgIHNlbGYuZG90cGF5X29wZXJhdG9yID0gT3BlcmF0b3IoCiAgICAgICAgICAgIGlkPTIsCiAgICAgICAgICAgIG5hbWU9J0RvdHBheScKICAgICAgICApCiAgICAgICAgc2VsZi5jaGFubmVsX2JsaWsgPSBQYXltZW50Q2hhbm5lbCgKICAgICAgICAgICAgaWQ9MSwKICAgICAgICAgICAgb3BlcmF0b3JfaWQ9MiwKICAgICAgICAgICAgbmFtZT0nRG90cGF5JywKICAgICAgICAgICAgYXBpX2NvZGU9UEFZTUVOVF9NRVRIT0RTLkJMSUssCiAgICAgICAgICAgIGlzX2FjdGl2ZT1UcnVlLAogICAgICAgICAgICBkZWZhdWx0X2N1cnJlbmN5X2lkPTEKICAgICAgICApCiAgICAgICAgc2VsZi5jaGFubmVsX2NsYXNzaWNfcGF5bWVudCA9IFBheW1lbnRDaGFubmVsKAogICAgICAgICAgICBpZD0yLAogICAgICAgICAgICBvcGVyYXRvcl9pZD0yLAogICAgICAgICAgICBuYW1lPSdEb3RwYXknLAogICAgICAgICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuVFJBTlNGRVJfQ0xBU1NJQywKICAgICAgICAgICAgaXNfYWN0aXZlPVRydWUsCiAgICAgICAgICAgIGRlZmF1bHRfY3VycmVuY3lfaWQ9MQogICAgICAgICkKICAgICAgICBzZWxmLmNoYW5uZWxfY2FyZCA9IFBheW1lbnRDaGFubmVsKAogICAgICAgICAgICBpZD0zLAogICAgICAgICAgICBvcGVyYXRvcl9pZD0yLAogICAgICAgICAgICBuYW1lPSdEb3RwYXknLAogICAgICAgICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuQ0FSRCwKICAgICAgICAgICAgaXNfYWN0aXZlPVRydWUsCiAgICAgICAgICAgIGRlZmF1bHRfY3VycmVuY3lfaWQ9MQogICAgICAgICkKCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5kb3RwYXlfb3BlcmF0b3IpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5wbG5fY3VycmVuY3kpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5jaGFubmVsX2JsaWspCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5jaGFubmVsX2NsYXNzaWNfcGF5bWVudCkKICAgICAgICBkYi5zZXNzaW9uLmFkZChzZWxmLmNoYW5uZWxfY2FyZCkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JldHVybl92YWxpZF9hcGlfY29kZXNfcmV0dXJuc192YWxpZF9jb2Rlc19mb3JfZ2l2ZW5fb3BlcmF0b3Ioc2VsZik6ICMgdG9kbyB6xYJlIG1pZWpzY2UgbmEgdGVuIHRlc3QKICAgICAgICBzZWxmLnBsbl9jdXJyZW5jeSA9IEN1cnJlbmN5KAogICAgICAgICAgICBpZD0xLAogICAgICAgICAgICBuYW1lPSdQTE4nCiAgICAgICAgKQogICAgICAgIHNlbGYuZG90cGF5X29wZXJhdG9yID0gT3BlcmF0b3IoCiAgICAgICAgICAgIGlkPTIsCiAgICAgICAgICAgIG5hbWU9J0RvdHBheScKICAgICAgICApCiAgICAgICAgc2VsZi5jaGFubmVsX2JsaWsgPSBQYXltZW50Q2hhbm5lbCgKICAgICAgICAgICAgaWQ9MSwKICAgICAgICAgICAgb3BlcmF0b3JfaWQ9MiwKICAgICAgICAgICAgbmFtZT0nRG90cGF5JywKICAgICAgICAgICAgYXBpX2NvZGU9UEFZTUVOVF9NRVRIT0RTLkJMSUssCiAgICAgICAgICAgIGlzX2FjdGl2ZT1UcnVlLAogICAgICAgICAgICBkZWZhdWx0X2N1cnJlbmN5X2lkPTEKICAgICAgICApCiAgICAgICAgc2VsZi5jaGFubmVsX2NsYXNzaWNfcGF5bWVudCA9IFBheW1lbnRDaGFubmVsKAogICAgICAgICAgICBpZD0yLAogICAgICAgICAgICBvcGVyYXRvcl9pZD0yLAogICAgICAgICAgICBuYW1lPSdEb3RwYXknLAogICAgICAgICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuVFJBTlNGRVJfQ0xBU1NJQywKICAgICAgICAgICAgaXNfYWN0aXZlPVRydWUsCiAgICAgICAgICAgIGRlZmF1bHRfY3VycmVuY3lfaWQ9MQogICAgICAgICkKICAgICAgICBzZWxmLmNoYW5uZWxfY2FyZCA9IFBheW1lbnRDaGFubmVsKAogICAgICAgICAgICBpZD0zLAogICAgICAgICAgICBvcGVyYXRvcl9pZD0yLAogICAgICAgICAgICBuYW1lPSdEb3RwYXknLAogICAgICAgICAgICBhcGlfY29kZT1QQVlNRU5UX01FVEhPRFMuQ0FSRCwKICAgICAgICAgICAgaXNfYWN0aXZlPVRydWUsCiAgICAgICAgICAgIGRlZmF1bHRfY3VycmVuY3lfaWQ9MQogICAgICAgICkKCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5kb3RwYXlfb3BlcmF0b3IpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5wbG5fY3VycmVuY3kpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5jaGFubmVsX2JsaWspCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5jaGFubmVsX2NsYXNzaWNfcGF5bWVudCkKICAgICAgICBkYi5zZXNzaW9uLmFkZChzZWxmLmNoYW5uZWxfY2FyZCkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhcHAucGF5bWVudHMuYmFzZSBpbXBvcnQgQmFzZVBheW1lbnRQcm92aWRlcgo=</text>
+        <text encoding="base64">ZnJvbSBhcHAudmFsaWRhdGlvbl9ydWxlcy5tb2RlbHMgaW1wb3J0IFBheW1lbnRDaGFubmVsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiByZXR1cm5fYXBpX2NvZGVzX2Zvcl9kb3RwYXkoc2VsZik6CiAgICAgICAgcXMgPSBQYXltZW50Q2hhbm5lbC5xdWVyeS5maWx0ZXJfYnkobmFtZT1zZWxmLnByb3ZpZGVyX25hbWUpCiAgICAgICAgcmV0dXJuIGxpc3Qoc2V0KHBjLmFwaV9jb2RlICBmb3IgcGMgaW4gcXMpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>patch</last-search>
+      <last-search encoding="base64">XDxOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>patch</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb25cPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYlw+</entry>
-        <entry encoding="base64">XDxub3RpZmljYXRpb25fdG9fc2VuZFw+</entry>
         <entry>getCheck</entry>
         <entry>get</entry>
         <entry>get_che</entry>
@@ -519,6 +517,8 @@
         <entry>payment.method</entry>
         <entry encoding="base64">XDxtb2NrXD4=</entry>
         <entry>patch</entry>
+        <entry encoding="base64">XDxQYXltZW50Q2hhbm5lbFw+</entry>
+        <entry encoding="base64">XDxOb3RWYWxpZEFwaUNvZGVFeGNlcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set nu rnu</entry>
