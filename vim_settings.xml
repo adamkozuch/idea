@@ -61,6 +61,9 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/users/admin.py" timestamp="1551970467183">
         <mark key="'" line="50" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" timestamp="1552308140940">
+        <mark key="'" line="169" column="62" />
+      </file>
       <file name="$USER_HOME$/Projects/dashboard/ewidencja-konsultanta-dashboard/src/pages/Dashboard/Dashboard/OrdersSummary.vue" timestamp="1551873399599">
         <mark key="'" line="208" column="8" />
         <mark key="[" line="221" column="11" />
@@ -97,10 +100,6 @@
         <mark key="]" line="5" column="4" />
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/utils.py" timestamp="1551970504976">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="61" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sample_django/Try-Django/src/prroducts/admin.py" timestamp="1550751458639">
         <mark key="[" line="10" column="27" />
@@ -225,10 +224,6 @@
         <mark key="]" line="219" column="17" />
         <mark key="^" line="219" column="17" />
         <mark key="." line="219" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/moneymatrix/exceptions.py" timestamp="1552047476607">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/krab/versions/current/vouchers/tests/test_commands.py" timestamp="1551194461132">
         <mark key="'" line="123" column="51" />
@@ -705,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="155" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="72" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="82" column="16" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
@@ -805,6 +799,7 @@
       <jump line="22" column="36" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
       <jump line="21" column="36" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
       <jump line="16" column="40" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/main/urls.py" />
+      <jump line="169" column="62" filename="$USER_HOME$/Projects/IT-GOLD/mockshop/mockshop/shops/templates/naturemarket24/includes/payment_template.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
