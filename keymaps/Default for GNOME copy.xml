@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -12,6 +15,10 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
     <keyboard-shortcut first-keystroke="alt x" />
@@ -19,6 +26,9 @@
   <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -29,12 +39,17 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
@@ -50,10 +65,6 @@
   <action id="GotoBookmark6" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
-    <keyboard-shortcut first-keystroke="alt g" />
-  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -119,6 +130,10 @@
   </action>
   <action id="SaveAll" />
   <action id="SelectNextOccurrence" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="shift alt b" />
+  </action>
   <action id="ShowContent" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
@@ -139,7 +154,8 @@
   <action id="Terminal.RenameSession">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="ToggleBreakpointEnabled">
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="TypeHierarchy" />
@@ -163,4 +179,5 @@
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="tasks.open.in.browser" />
 </keymap>
