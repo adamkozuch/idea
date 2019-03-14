@@ -94,6 +94,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="NextTab" />
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
