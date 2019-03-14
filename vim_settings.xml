@@ -16,12 +16,12 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552554307628" />
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552567110467">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="140" column="49" />
-        <mark key="]" line="140" column="56" />
-        <mark key="." line="140" column="56" />
-        <mark key="^" line="140" column="56" />
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552568556803">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="204" column="3" />
+        <mark key="]" line="204" column="37" />
+        <mark key="." line="204" column="37" />
+        <mark key="^" line="204" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
@@ -36,40 +36,65 @@
       <jump line="101" column="7" filename="$USER_HOME$/Documents/alacritty.yml" />
       <jump line="467" column="2" filename="$USER_HOME$/Documents/alacritty.yml" />
       <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="213" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="129" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="220" column="42" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">JENPTU1BTkQgLWMg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjYW5fY29ubmVjdF9wb3N0Z3Jlc19kaWZmZXJlbnRfdXNlciAkUE9TVEdSRVNTX0NVU1RPTV9DT01NQU5EOyB0aGVuCiAgICAgICAgICAgICAgICBwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kICRwb3J0ICRQT1NUR1JFU1NfQ1VTVE9NX0NPTU1BTkQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5fdXAoKWpqawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aG9zdCAgIA==</text>
+        <text>can_connect_postgres_different_user</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByb2Nlc3NfcG9zdGdyZXNfY3VzdG9tX2NvbW1hbmQgJHBvcnQgJFBPU1RHUkVTU19DVVNUT01fQ09NTUFORAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlcj0kKGNhdCAvZXRjL3Bhc3N3ZCB8IGdyZXAgcG9zdGdyZXNxbCB8IGF3ayAtRiAnOicgJ3twcmludCAkMX0nKQpob3N0PSQoZGlybmFtZSAkKGxzb2YgLXAgJChwcyBhdXggfCBncmVwIHNxbCB8IGdyZXAgZGF0YSB8IGF3ayAne3ByaW50ICQyfScpIHwgZ3JlcCB1bml4IHwgYXdrICd7cHJpbnQgJDl9JykpCmRhdGFiYXNlPSQocHMgYXV4IHwgZ3JlcCAncG9zdGdyZXM6JyB8IGhlYWQgLTEgfCBhd2sgJ3twcmludCAkMTN9JykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5fdXAoKWpqawo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICMgc3RhcmEgbGluaWprYSBlY2hvICJ7XCJtZXNzYWdlXCI6XCJOTyBEQVRBQkFTRSBGT1VORFwiLCBcImxpbmVzXCI6IFwiMFwifSIKIyAgICBleGl0IDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aG9zdCAgIA==</text>
+        <text>can_connect_postgres_different_user</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19kaWZmZXJlbnRfdXNlclw+</text>
+        <text encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19kaWZmZXJlbnRfdXNlclw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</entry>
+        <entry encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -93,6 +118,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
