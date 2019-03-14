@@ -16,12 +16,12 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552554307628" />
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552571559792">
-        <mark key="'" line="223" column="57" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="131" column="19" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552573507965">
+        <mark key="'" line="206" column="16" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="^" line="127" column="22" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
@@ -39,7 +39,6 @@
       <jump line="120" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="213" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="220" column="42" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="204" column="32" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
@@ -51,69 +50,78 @@
       <jump line="101" column="49" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="223" column="57" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="58" column="8" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="103" column="40" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="212" column="63" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="220" column="38" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="208" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="206" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gImN1c3RvbSBjb21tYW5kIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhYmFzZVw+</text>
+        <text encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>$COMMAND -c &quot;SELECT datname FROM pg_database&quot;</text>
+        <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gImN1c3RvbSBjb21tYW5kIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIENPTU1BTkQ9JDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OUwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gImN1c3RvbSBjb21tYW5kICIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJERCUwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGxvY2FsIERBVEFCQVNFX1BPUlQ9JDEK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aWYgY2FuX2Nvbm5lY3RfcG9zdGdyZXNfY3VzdG9tX2NvbW1hbmQgJFBPU1RHUkVTU19DVVNUT01fQ09NTUFORDsgdGhlbgogICAgcHJvY2Vzc19wb3N0Z3Jlc19jdXN0b21fY29tbWFuZCAkUE9TVEdSRVNTX0NVU1RPTV9DT01NQU5ECmVsc2UKICAgIGVjaG8gIkNVU1RPTSBDT01NQU5EIE5PVCBFWEVDVVRFRCIKCmZpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAiVGhpcyBpcyBjdXN0b20gY29tbWFuZCAkUE9TVEdSRVNTX0NVU1RPTV9DT01NQU5EIgo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIkNVU1RPTSBDT01NQU5EIEVYRUNVVEVEIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXI9JChjYXQgL2V0Yy9wYXNzd2QgfCBncmVwIHBvc3RncmVzcWwgfCBhd2sgLUYgJzonICd7cHJpbnQgJDF9JykKICAgIGhvc3Q9JChkaXJuYW1lICQobHNvZiAtcCAkKHBzIGF1eCB8IGdyZXAgc3FsIHwgZ3JlcCBkYXRhIHwgYXdrICd7cHJpbnQgJDJ9JykgfCBncmVwIHVuaXggfCBhd2sgJ3twcmludCAkOX0nKSkKICAgIGRhdGFiYXNlPSQocHMgYXV4IHwgZ3JlcCAncG9zdGdyZXM6JyB8IGhlYWQgLTEgfCBhd2sgJ3twcmludCAkMTN9JykK</text>
+        <text encoding="base64">ICAgIGVjaG8gImluIHByb2Nlc3MgY3VzdG9tIGNvbW1hbmRzIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhYmFzZVw+</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhYmFzZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19kaWZmZXJlbnRfdXNlclw+</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</entry>
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</entry>
         <entry>custom</entry>
         <entry encoding="base64">XDxkYXRhYmFzZVw+</entry>
+        <entry encoding="base64">XDxkYlw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
         <entry>s</entry>
+        <entry>:w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -140,6 +148,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
