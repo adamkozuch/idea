@@ -16,12 +16,12 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552554307628" />
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552570423920">
-        <mark key="'" line="204" column="32" />
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="34" column="17" />
-        <mark key="^" line="34" column="16" />
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552571559792">
+        <mark key="'" line="223" column="57" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="131" column="19" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
@@ -39,54 +39,67 @@
       <jump line="120" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="213" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="129" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="220" column="42" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="204" column="32" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="139" column="25" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="66" column="9" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="129" column="17" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="138" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="201" column="31" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="101" column="49" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="223" column="57" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxkYXRhYmFzZVw+</text>
+      </register>
       <register name="0" type="4">
         <text>$COMMAND -c &quot;SELECT datname FROM pg_database&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAiZXhlY3V0ZSB0aGlzOiAiICR0b19leGVjdXRlCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvY2FsIENPTU1BTkQ9JDIK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NfcG9zdGdyZXNfY3VzdG9tX2NvbW1hbmQgJHBvcnQgJFBPU1RHUkVTU19DVVNUT01fQ09NTUFORAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gImN1c3RvbSBjb21tYW5kICIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlcj0kKGNhdCAvZXRjL3Bhc3N3ZCB8IGdyZXAgcG9zdGdyZXNxbCB8IGF3ayAtRiAnOicgJ3twcmludCAkMX0nKQpob3N0PSQoZGlybmFtZSAkKGxzb2YgLXAgJChwcyBhdXggfCBncmVwIHNxbCB8IGdyZXAgZGF0YSB8IGF3ayAne3ByaW50ICQyfScpIHwgZ3JlcCB1bml4IHwgYXdrICd7cHJpbnQgJDl9JykpCmRhdGFiYXNlPSQocHMgYXV4IHwgZ3JlcCAncG9zdGdyZXM6JyB8IGhlYWQgLTEgfCBhd2sgJ3twcmludCAkMTN9JykK</text>
+        <text encoding="base64">ICAgIGVjaG8gJERCUwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5fdXAoKWpqawo=</text>
+        <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc3RhcmEgbGluaWprYSBlY2hvICJ7XCJtZXNzYWdlXCI6XCJOTyBEQVRBQkFTRSBGT1VORFwiLCBcImxpbmVzXCI6IFwiMFwifSIKIyAgICBleGl0IDAK</text>
+        <text encoding="base64">ICAgIGxvY2FsIERBVEFCQVNFX1BPUlQ9JDEK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZWNobyAiVGhpcyBpcyBjdXN0b20gY29tbWFuZCAkUE9TVEdSRVNTX0NVU1RPTV9DT01NQU5EIgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHVzZXI9JChjYXQgL2V0Yy9wYXNzd2QgfCBncmVwIHBvc3RncmVzcWwgfCBhd2sgLUYgJzonICd7cHJpbnQgJDF9JykKICAgIGhvc3Q9JChkaXJuYW1lICQobHNvZiAtcCAkKHBzIGF1eCB8IGdyZXAgc3FsIHwgZ3JlcCBkYXRhIHwgYXdrICd7cHJpbnQgJDJ9JykgfCBncmVwIHVuaXggfCBhd2sgJ3twcmludCAkOX0nKSkKICAgIGRhdGFiYXNlPSQocHMgYXV4IHwgZ3JlcCAncG9zdGdyZXM6JyB8IGhlYWQgLTEgfCBhd2sgJ3twcmludCAkMTN9JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</text>
-      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</last-search>
+      <last-search encoding="base64">XDxkYXRhYmFzZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhYmFzZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -95,6 +108,8 @@
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19kaWZmZXJlbnRfdXNlclw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</entry>
         <entry encoding="base64">XDxjYW5fY29ubmVjdF9wb3N0Z3Jlc19jdXN0b21fY29tbWFuZFw+</entry>
+        <entry>custom</entry>
+        <entry encoding="base64">XDxkYXRhYmFzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
