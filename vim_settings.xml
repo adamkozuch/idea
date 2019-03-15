@@ -7,7 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552643925688">
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552648531840">
         <mark key="[" line="71" column="80" />
         <mark key="]" line="71" column="79" />
         <mark key="^" line="71" column="79" />
@@ -30,12 +30,12 @@
         <mark key="^" line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552646960490">
-        <mark key="'" line="24" column="15" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="0" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="92" column="78" />
+        <mark key="]" line="91" column="13" />
+        <mark key="." line="91" column="13" />
+        <mark key="^" line="91" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
         <mark key="'" line="8" column="12" />
@@ -76,6 +76,7 @@
       <jump line="39" column="38" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
       <jump line="69" column="12" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
       <jump line="24" column="15" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -89,7 +90,7 @@
         <text>rnal</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCUE9cPg==</text>
+        <text>ssl_cer</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
@@ -126,14 +127,14 @@
         <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCUE9cPg==</last-search>
+      <last-search>ssl_cer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCUE9cPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>ssl_cer</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -148,13 +149,14 @@
         <entry encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</entry>
         <entry>type</entry>
         <entry encoding="base64">XDxCUE9cPg==</entry>
+        <entry>ssl_cer</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
