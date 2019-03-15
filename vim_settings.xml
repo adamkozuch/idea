@@ -7,6 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552642553171" />
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
@@ -24,8 +25,8 @@
         <mark key="^" line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552641284522">
-        <mark key="'" line="37" column="37" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552642638797">
+        <mark key="'" line="69" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
         <mark key="'" line="8" column="12" />
@@ -61,6 +62,11 @@
       <jump line="203" column="50" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="204" column="37" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="37" column="37" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
+      <jump line="26" column="24" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
+      <jump line="67" column="12" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
+      <jump line="39" column="38" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
+      <jump line="69" column="12" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -70,7 +76,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>odoo_db</text>
+        <text encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
@@ -107,10 +113,10 @@
       </register>
     </registers>
     <search>
-      <last-search>odoo_db</last-search>
+      <last-search encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>odoo_db</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -122,6 +128,7 @@
         <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</entry>
         <entry>odoo_db</entry>
+        <entry encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
