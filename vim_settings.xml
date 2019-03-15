@@ -24,6 +24,9 @@
         <mark key="^" line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552641284522">
+        <mark key="'" line="37" column="37" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
         <mark key="'" line="8" column="12" />
         <mark key="[" line="9" column="13" />
@@ -57,6 +60,7 @@
       <jump line="206" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="203" column="50" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="204" column="37" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="37" column="37" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -66,7 +70,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</text>
+        <text>odoo_db</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
@@ -103,10 +107,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</last-search>
+      <last-search>odoo_db</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>odoo_db</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -117,6 +121,7 @@
         <entry encoding="base64">XDxkYXRhYmFzZVw+</entry>
         <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</entry>
+        <entry>odoo_db</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
