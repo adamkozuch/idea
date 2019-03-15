@@ -33,8 +33,12 @@
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552554307628" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1552655399997">
-        <mark key="'" line="71" column="0" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1552657318403">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="56" column="39" />
+        <mark key="^" line="56" column="39" />
+        <mark key="." line="56" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
         <mark key="'" line="48" column="0" />
@@ -88,20 +92,18 @@
       <jump line="82" column="36" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="51" column="51" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="202" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>postgresql_user_privileges:
-  - name: &quot;{{ postgresql_users[0].name }}&quot;
-    db: &quot;{{ odoo_db_name }}&quot;
-    priv: &quot;ALL&quot;
-    role_attr_flags: CREATEDB</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>rnal</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>ssl_cer</text>
+        <text>distinct</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
@@ -138,13 +140,13 @@
         <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ssl_cer</last-search>
+      <last-search>distinct</last-search>
       <last-offset />
-      <last-pattern>ssl_cer</last-pattern>
+      <last-pattern>distinct</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -161,14 +163,15 @@
         <entry>type</entry>
         <entry encoding="base64">XDxCUE9cPg==</entry>
         <entry>ssl_cer</entry>
+        <entry>distinct</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>q</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
