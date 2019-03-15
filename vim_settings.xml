@@ -3,11 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552390312446">
+      <file name="/Dummy.txt" timestamp="1552645197285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552642553171" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552643925688">
+        <mark key="[" line="71" column="80" />
+        <mark key="]" line="71" column="79" />
+        <mark key="^" line="71" column="79" />
+        <mark key="." line="71" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
@@ -25,8 +30,12 @@
         <mark key="^" line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552642638797">
-        <mark key="'" line="69" column="12" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552644971244">
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
         <mark key="'" line="8" column="12" />
@@ -65,57 +74,65 @@
       <jump line="26" column="24" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
       <jump line="67" column="12" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
       <jump line="39" column="38" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
       <jump line="69" column="12" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
+      <jump line="24" column="15" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>postgresql_user_privileges:
+  - name: &quot;{{ postgresql_users[0].name }}&quot;
+    db: &quot;{{ odoo_db_name }}&quot;
+    priv: &quot;ALL&quot;
+    role_attr_flags: CREATEDB</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>rnal</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</text>
+        <text encoding="base64">XDxCUE9cPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gICQoY2F0IC90bXAvZGJtYW5hZ2VyX3NjaGVtYV9sb2NhbGhvc3QpCg==</text>
+      <register name="1" type="4">
+        <text>postgresql_user_privileges:
+  - name: &quot;{{ postgresql_users[0].name }}&quot;
+    db: &quot;{{ odoo_db_name }}&quot;
+    priv: &quot;ALL&quot;
+    role_attr_flags: CREATEDB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG51bWJlcl9vZl9saW5lcz0kKHdjIC1sIDwgJHBhdGgpCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gICQoY2F0IC90bXAvZGJtYW5hZ2VyX3NjaGVtYV9sb2NhbGhvc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJERCUwo=</text>
+        <text encoding="base64">ICAgIG51bWJlcl9vZl9saW5lcz0kKHdjIC1sIDwgJHBhdGgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGZpcnN0X2NvbW1hbmQK</text>
+        <text encoding="base64">ICAgIGVjaG8gJERCUwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gImN1c3RvbSBjb21tYW5kIgo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJGZpcnN0X2NvbW1hbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gImN1c3RvbSBjb21tYW5kIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIERBVEFCQVNFX1BPUlQ9JDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OUwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
+        <text encoding="base64">ICAgIGxvY2FsIERBVEFCQVNFX1BPUlQ9JDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxCUE9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCUE9cPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -129,6 +146,8 @@
         <entry encoding="base64">XDxwcm9jZXNzX3Bvc3RncmVzX2N1c3RvbV9jb21tYW5kXD4=</entry>
         <entry>odoo_db</entry>
         <entry encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</entry>
+        <entry>type</entry>
+        <entry encoding="base64">XDxCUE9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -164,6 +183,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
