@@ -3,74 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552390312446">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
-        <mark key="'" line="467" column="2" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1552464056257">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/scratch_pad.py" timestamp="1552465795584">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/panda_3d_first.py" timestamp="1552469358999">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/make_translations.py" timestamp="1552744800861">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="101" column="7" filename="$USER_HOME$/Documents/alacritty.yml" />
-      <jump line="467" column="2" filename="$USER_HOME$/Documents/alacritty.yml" />
-      <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" />
-      <jump line="14" column="21" filename="$USER_HOME$/PycharmProjects/untitled/panda_3d_first.py" />
-      <jump line="17" column="15" filename="$USER_HOME$/PycharmProjects/untitled/panda_3d_first.py" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAocmVkLCBibHVlLCBncmVlbiwgeWVsbG93LCBibGFjaykgaW4gaXRlcnRvb2xzLnBlcm11dGF0aW9ucyhbMSwyLDMsIDQsIDVdKToK</text>
+      <register name="0" type="4">
+        <text>'ODD + ODD == EVEN'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbC5hcHBlbmQoJ2FkYW0nKQogICAgICBsLmNvdW50KCdrb3p1Y2gnKQo=</text>
+        <text encoding="base64">ICAgIG1ha2V0cmFucygpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbC5hcHBlbmQoJ2FkYW0nKQogICAgICBsLmNvdW50KCdrb3p1Y2gnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>eval</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChyZWQsIGJsdWUsIGdyZWVuLCB5ZWxsb3csIGJsYWNrKSBpbiBpdGVydG9vbHMucGVybXV0YXRpb25zKFsxLDIsMywgNCwgNV0pOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCIiLmpvaW4obGV0dGVycyksICIiLmpvaW4oZmlsbGluZykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBzdHJpbmcgaW1wb3J0IG1ha2V0cmFucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlZCwgYmx1ZSwgZ3JlZW4pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBmb3IK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5fdXAoKWpqawo=</text>
+        <text encoding="base64">ICBpZiB2YWxpZChmb3JtdWxhKToK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>eval</text>
       </register>
     </registers>
     <search>
@@ -80,32 +44,13 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action GotoFile</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>action Run</entry>
       </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed L</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
