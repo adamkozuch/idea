@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/untitled/make_translations.py" timestamp="1552744800861">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="32" />
-        <mark key="." line="25" column="32" />
-        <mark key="^" line="25" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/make_translations.py" timestamp="1552752485945">
+        <mark key="[" line="35" column="47" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+        <mark key="^" line="35" column="48" />
       </file>
     </filemarks>
     <jumps />
@@ -16,25 +16,28 @@
         <text>'ODD + ODD == EVEN'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1ha2V0cmFucygpCg==</text>
+        <text encoding="base64">cHJpbnQoc29sdmUoJ09ERCArIE9ERCA9PSBFVkVOJykpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>eval</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiLmpvaW4obGV0dGVycyksICIiLmpvaW4oZmlsbGluZykpCg==</text>
+        <text encoding="base64">ICAgIG1ha2V0cmFucygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzdHJpbmcgaW1wb3J0IG1ha2V0cmFucwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCIiLmpvaW4obGV0dGVycyksICIiLmpvaW4oZmlsbGluZykpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBzdHJpbmcgaW1wb3J0IG1ha2V0cmFucwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBpZiB2YWxpZChmb3JtdWxhKToK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>eval</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
