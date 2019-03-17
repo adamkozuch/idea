@@ -9,41 +9,56 @@
         <mark key="." line="35" column="47" />
         <mark key="^" line="35" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/hennge.py" timestamp="1552823247672">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/hennge.py" timestamp="1552825653878">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/untitled/hennge.py" />
+    </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>'ODD + ODD == EVEN'</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoc29sdmUoJ09ERCArIE9ERCA9PSBFVkVOJykpCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1ha2V0cmFucygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiLmpvaW4obGV0dGVycyksICIiLmpvaW4oZmlsbGluZykpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzdHJpbmcgaW1wb3J0IG1ha2V0cmFucwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpZiB2YWxpZChmb3JtdWxhKToK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+        <text>token.password()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>token.password()</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQocnIuc3RhdHVzX2NvZGUpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">dG9rZW4gPSBUb2tlbihnZW5lcmF0b3IsICduYW1lJywgJ2lzc3VlcicpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">a2sK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQocGFzc3MpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cGFzc3MgPSBjcmVhdGUoc2VjcmV0KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHB5b3RwCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyByZXF1ZXN0cy5wb3N0KCdodHRwczovL2hkZWNoYWxsZW5nZS1zb2x2ZS5hcHBzcG90LmNvbS9jaGFsbGVuZ2UvMDAzL2VuZHBvaW50JyAsCiMgICAgICAgICAgICAgICBoZWFkZXJzPWhlYWRlcnMsIGRhdGE9ZGF0YSwgYXV0aD0oKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cGFzc3MgPSBjcmVhdGUoc2VjcmV0KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQoc29sdmUoJ09ERCArIE9ERCA9PSBFVkVOJykpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1ha2V0cmFucygpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -53,8 +68,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
