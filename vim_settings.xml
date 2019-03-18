@@ -157,7 +157,7 @@
         <text>L</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</text>
+        <text>NEXT</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
@@ -194,14 +194,14 @@
         <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</last-search>
+      <last-search>NEXT</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>NEXT</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -223,14 +223,15 @@
         <entry>PATRON</entry>
         <entry>PL</entry>
         <entry encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</entry>
+        <entry>NEXT</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
