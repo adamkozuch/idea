@@ -3,51 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552647096090">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/statics.py" timestamp="1552901061376">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="32" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552648531840">
-        <mark key="[" line="71" column="80" />
-        <mark key="]" line="71" column="79" />
-        <mark key="^" line="71" column="79" />
-        <mark key="." line="71" column="79" />
-      </file>
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/config/urls.py" timestamp="1552899896339">
-        <mark key="'" line="41" column="38" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/tasks/setup_ubuntu_14_04.yml" timestamp="1552918923969">
+        <mark key="'" line="15" column="15" />
+      </file>
+      <file name="/Python Console" timestamp="1552919460389">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" timestamp="1552900345581">
         <mark key="'" line="208" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons/stock/i18n/mn.po" timestamp="1552907952696" />
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552635951380">
-        <mark key="'" line="204" column="37" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="154" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0037_auto_20190312_1043.py" timestamp="1552901539064">
         <mark key="'" line="17" column="272" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1552914145521">
-        <mark key="'" line="342" column="4" />
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1552653186115">
-        <mark key="'" line="81" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/production/vars.yml" timestamp="1552902041341">
         <mark key="[" line="22" column="37" />
@@ -55,23 +32,64 @@
         <mark key="^" line="22" column="37" />
         <mark key="." line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552900387243">
-        <mark key="'" line="219" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1552657318403">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="56" column="39" />
-        <mark key="^" line="56" column="39" />
-        <mark key="." line="56" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="92" column="78" />
         <mark key="]" line="91" column="13" />
         <mark key="." line="91" column="13" />
         <mark key="^" line="91" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" timestamp="1552901992611">
+        <mark key="'" line="184" column="38" />
+        <mark key="[" line="135" column="37" />
+        <mark key="]" line="135" column="37" />
+        <mark key="^" line="135" column="37" />
+        <mark key="." line="135" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1552921103475">
+        <mark key="'" line="20" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552647096090">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552648531840">
+        <mark key="[" line="71" column="80" />
+        <mark key="]" line="71" column="79" />
+        <mark key="^" line="71" column="79" />
+        <mark key="." line="71" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/config/urls.py" timestamp="1552899896339">
+        <mark key="'" line="41" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552635951380">
+        <mark key="'" line="204" column="37" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="154" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1552922562268">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="0" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="374" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1552653186115">
+        <mark key="'" line="81" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1552918870978" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552900387243">
+        <mark key="'" line="219" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/meta/main.yml" timestamp="1552917727329" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1552657318403">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="56" column="39" />
+        <mark key="^" line="56" column="39" />
+        <mark key="." line="56" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
         <mark key="'" line="8" column="12" />
@@ -86,13 +104,6 @@
         <mark key="]" line="181" column="46" />
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" timestamp="1552901992611">
-        <mark key="'" line="184" column="38" />
-        <mark key="[" line="135" column="37" />
-        <mark key="]" line="135" column="37" />
-        <mark key="^" line="135" column="37" />
-        <mark key="." line="135" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
@@ -162,72 +173,84 @@
       <jump line="26" column="20" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="351" column="24" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="221" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="17" column="16" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="361" column="24" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="339" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="340" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="341" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="342" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="3" column="15" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/tasks/setup_ubuntu_14_04.yml" />
+      <jump line="39" column="15" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/tasks/setup_ubuntu_14_04.yml" />
+      <jump line="15" column="15" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/tasks/setup_ubuntu_14_04.yml" />
+      <jump line="22" column="16" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="95" column="19" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="343" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="344" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="19" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="20" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="24" column="20" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
+      <jump line="343" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
+      <jump line="344" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
+      <jump line="19" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
+      <jump line="20" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXdtc190cmFja2luZyBcCg==</text>
       </register>
       <register name="-" type="4">
         <text>L</text>
       </register>
       <register name="/" type="4">
-        <text>stock_location</text>
+        <text>stock_move</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CXdtc190cmFja2luZyBcCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>postgresql_user_privileges:
   - name: &quot;{{ postgresql_users[0].name }}&quot;
     db: &quot;{{ odoo_db_name }}&quot;
     priv: &quot;ALL&quot;
     role_attr_flags: CREATEDB</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGVjaG8gICQoY2F0IC90bXAvZGJtYW5hZ2VyX3NjaGVtYV9sb2NhbGhvc3QpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG51bWJlcl9vZl9saW5lcz0kKHdjIC1sIDwgJHBhdGgpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGVjaG8gJERCUwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGVjaG8gJGZpcnN0X2NvbW1hbmQK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gImN1c3RvbSBjb21tYW5kIgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OUwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGxvY2FsIERBVEFCQVNFX1BPUlQ9JDEK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGV2YWwgJGZpcnN0X2NvbW1hbmQK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>stock_location</last-search>
+      <last-search>stock_move</last-search>
       <last-offset />
-      <last-pattern>stock_location</last-pattern>
+      <last-pattern>stock_move</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>odoo_db</entry>
-        <entry encoding="base64">XDxvZG9vX2RiX25hbWVcPg==</entry>
-        <entry>type</entry>
-        <entry encoding="base64">XDxCUE9cPg==</entry>
         <entry>ssl_cer</entry>
         <entry>distinct</entry>
         <entry encoding="base64">XDxQQVRST05fU0VSVklDRV9ESUNUXD4=</entry>
@@ -239,19 +262,23 @@
         <entry>stock_locaion</entry>
         <entry>stock_quant</entry>
         <entry>product_template</entry>
-        <entry>stock_move</entry>
         <entry>stock_move_dist</entry>
         <entry>wms_tracking</entry>
         <entry>stock_country</entry>
         <entry>stock_location</entry>
+        <entry>wms</entry>
+        <entry>stock_coun</entry>
+        <entry>stock_loca</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry>stock_move</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
         <entry>q</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
