@@ -54,6 +54,9 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" timestamp="1552896454029">
+        <mark key="'" line="184" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/alacritty.yml" />
@@ -94,6 +97,8 @@
       <jump line="71" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="202" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" />
+      <jump line="184" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -103,7 +108,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>distinct</text>
+        <text encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
@@ -144,10 +149,10 @@
       </register>
     </registers>
     <search>
-      <last-search>distinct</last-search>
+      <last-search encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</last-search>
       <last-offset />
-      <last-pattern>distinct</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -164,6 +169,7 @@
         <entry encoding="base64">XDxCUE9cPg==</entry>
         <entry>ssl_cer</entry>
         <entry>distinct</entry>
+        <entry encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
