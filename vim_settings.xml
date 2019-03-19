@@ -51,13 +51,6 @@
         <mark key="." line="91" column="13" />
         <mark key="^" line="91" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" timestamp="1552901992611">
-        <mark key="'" line="184" column="38" />
-        <mark key="[" line="135" column="37" />
-        <mark key="]" line="135" column="37" />
-        <mark key="^" line="135" column="37" />
-        <mark key="." line="135" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1552982961490">
         <mark key="'" line="16" column="16" />
         <mark key="[" line="21" column="0" />
@@ -121,13 +114,6 @@
         <mark key="^" line="56" column="39" />
         <mark key="." line="56" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/views.py" timestamp="1552900758346">
         <mark key="'" line="205" column="0" />
         <mark key="[" line="181" column="40" />
@@ -138,12 +124,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1553004345525">
-        <mark key="'" line="598" column="37" />
-        <mark key="[" line="574" column="8" />
-        <mark key="]" line="574" column="18" />
-        <mark key="." line="574" column="18" />
-        <mark key="^" line="574" column="18" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1553008288471">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="558" column="36" />
+        <mark key="]" line="558" column="40" />
+        <mark key="^" line="558" column="40" />
+        <mark key="." line="558" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/crypto/sensitive.json" timestamp="1552981769722">
         <mark key="[" line="9" column="3" />
@@ -152,13 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="19" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="343" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="344" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="19" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="24" column="20" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
-      <jump line="343" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
-      <jump line="344" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
       <jump line="19" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
       <jump line="20" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
       <jump line="24" column="12" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
@@ -252,61 +231,67 @@
       <jump line="227" column="50" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" />
       <jump line="199" column="30" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" />
       <jump line="177" column="30" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" />
+      <jump line="540" column="34" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="542" column="53" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="557" column="24" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="215" column="63" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="46" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>existing_actions</text>
+        <text>duplicate_action.status_date:</text>
       </register>
       <register name="-" type="4">
-        <text>existing_actions</text>
+        <text>duplicate_action.status_date:</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>Report</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAoCiAgICAgICAgICAgICd0eXBlJywgJ3N0YXR1cycsICd0aWRfZXh0ZXJuYWwnLCAnYW1vdW50JywgJ2N1cnJlbmN5JywgJ29wZXJhdG9yJywgJ29wZXJhdG9yX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlJywKICAgICAgICAgICAgJ2Nvb2tpZScsICdjb250cmFjdG9yJywgJ2dyb3VwaW5nX2lkJywgJ3B1bl9pZCcsICdjb21tdW5pY2F0aW9uX2tleScsICdtZXRob2QnLCAnY2hhbm5lbCcsICdleGNoYW5nZV9yYXRlJywKICAgICAgICAgICAgJ3N0YXR1c19kYXRlJywgJ2V4dGVybmFsX2RhdGUnLAogICAgICAgICAgICAnY3VzdG9tX2ZpZWxkcycKICAgICAgICApCg==</text>
+      <register name="0" type="4">
+        <text>pcb_action.update_date, duplicate_action.status_date)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVGhlc2UgYXJlIGFjdGlvbnMgdGhhdCBhcmUgcGFyc2VkIiwgcGFyc2VkX2FjdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInN0YXR1cyBkYXRlICIsIGR1cGxpY2F0ZV9hY3Rpb24uc3RhdHVzX2RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgX2R1cGxpY2F0ZV9hY3Rpb25faXNfdmFsaWQoZHVwbGljYXRlX2FjdGlvbiwgcGNiX2FjdGlvbik6CiAgICAgICAgICAgICcnJwogICAgICAgICAgICBWYWxpZGF0ZXMgaWYgZHVwbGljYXRlIGFjdGlvbiBmdWxmaWxsIHNldCBvZiBjb25kaXRpb25zIHRoYXQgbWFrZXMgaXQgdmFsaWQgcmV0dXJuIG9iamVjdC4KICAgICAgICAgICAgOnBhcmFtIGR1cGxpY2F0ZV9hY3Rpb246CiAgICAgICAgICAgIDpwYXJhbSBwY2JfYWN0aW9uOgogICAgICAgICAgICA6cmV0dXJuOiBCb29sZWFuCiAgICAgICAgICAgICcnJwoKICAgICAgICAgICAgaWYgZHVwbGljYXRlX2FjdGlvbi50eXBlIGlzIG5vdCBUWVBFX0NIT0lDRVMuUkVWRVJTQUw6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgICAgIGlmIGR1cGxpY2F0ZV9hY3Rpb24uc3RhdHVzIGlzIG5vdCBTVEFUVVNfQ0hPSUNFUy5GQUlMRUQ6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgICAgIGlmIHBjYl9hY3Rpb24uc3RhdHVzIGlzIG5vdCBTVEFUVVNfQ0hPSUNFUy5ET05FOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgICAgICAgICBpZiBwY2JfYWN0aW9uLnVwZGF0ZV9kYXRlID4gZHVwbGljYXRlX2FjdGlvbi5zdGF0dXNfZGF0ZToKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgZGVmIGhpZ2hlcl9zdGF0dXNfd2llZ2h0KGR1cGxpY2F0ZV9hY3Rpb24sIHBjYl9hY3Rpb24pOgogICAgICAgICAgICBpZiBBQ1RJT05fU1RBVFVTX1dFSUdIVFNbZHVwbGljYXRlX2FjdGlvbi5zdGF0dXNdIDw9IEFDVElPTl9TVEFUVVNfV0VJR0hUU1twY2JfYWN0aW9uLnN0YXR1c106CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICAgICAgcmV0dXJuIFRydWUKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGNiX2FjdGlvbi51cGRhdGVfZGF0ZSkKICAgICAgICAgICAgcHJpbnQoZHVwbGljYXRlX2FjdGlvbi51cGRhdGVfZGF0ZSkK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVOYW1lc3BhY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgndGhlcmUgaXMgZHVwbGljYXRlJyApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25fZm9ybSA9IFJlcG9ydEFjdGlvbkZvcm0oCiAgICAgICAgICAgIGN1cnJlbmN5LAogICAgICAgICAgICBjb250cmFjdG9yLAogICAgICAgICAgICBkYXRhPWRhdGEKICAgICAgICApCgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwY2JfYWN0aW9ucykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNob3VsZCBwdXQgc3RoIGludCBkYXRhYmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZHVwbGljYXRlX2FjdGlvbi5zdGF0dXMpCiAgICAgICAgICAgIHByaW50KHBjYl9hY3Rpb24uc3RhdHVzKQogICAgICAgICAgICAjIHByaW50KEFDVElPTl9TVEFUVVNfV0VJR0hUU1tkdXBsaWNhdGVfYWN0aW9uLnN0YXR1c10sIEFDVElPTl9TVEFUVVNfV0VJR0hUU1twY2JfYWN0aW9uLnN0YXR1c10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFjdGlvbi5vYmplY3RzLmNyZWF0ZSgqKmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGNiX2FjdGlvbi51cGRhdGVfZGF0ZSA8IGR1cGxpY2F0ZV9hY3Rpb24uc3RhdHVzX2RhdGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgYXJlIGRhdGVzOiAiLCAgcGNiX2FjdGlvbi51cGRhdGVfZGF0ZSwgZHVwbGljYXRlX2FjdGlvbi5zdGF0dXNfZGF0ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>Report</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>Report</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stock_qua</entry>
         <entry>stock_lo</entry>
         <entry>stock_pick</entry>
         <entry>stock_prod</entry>
@@ -326,6 +311,7 @@
         <entry>TYPE</entry>
         <entry>Action</entry>
         <entry>date</entry>
+        <entry>Report</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
