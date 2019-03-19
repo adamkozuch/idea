@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1553001829131">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/statics.py" timestamp="1552901061376">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="16" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
       </file>
@@ -38,11 +44,11 @@
       <file name="/Django Console" timestamp="1552995033754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1553004148675">
-        <mark key="'" line="59" column="29" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1553011307212">
+        <mark key="[" line="68" column="44" />
+        <mark key="]" line="68" column="44" />
+        <mark key="." line="68" column="44" />
+        <mark key="^" line="65" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
         <mark key="'" line="48" column="0" />
@@ -63,6 +69,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated.py" timestamp="1552980101098" />
       <file name="/Dummy.txt" timestamp="1552647096090">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552648531840">
+        <mark key="[" line="71" column="80" />
+        <mark key="]" line="71" column="79" />
+        <mark key="^" line="71" column="79" />
+        <mark key="." line="71" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/config/urls.py" timestamp="1552899896339">
         <mark key="'" line="41" column="38" />
@@ -124,12 +136,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1553008288471">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="558" column="36" />
-        <mark key="]" line="558" column="40" />
-        <mark key="^" line="558" column="40" />
-        <mark key="." line="558" column="40" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1553011736839">
+        <mark key="'" line="722" column="4" />
+        <mark key="[" line="562" column="19" />
+        <mark key="]" line="563" column="3" />
+        <mark key="." line="563" column="3" />
+        <mark key="^" line="563" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/crypto/sensitive.json" timestamp="1552981769722">
         <mark key="[" line="9" column="3" />
@@ -138,11 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
-      <jump line="20" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
-      <jump line="24" column="12" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
-      <jump line="1820" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
-      <jump line="1769" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
       <jump line="1634" column="33" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
       <jump line="1696" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
       <jump line="1515" column="34" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
@@ -238,46 +245,51 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="35" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="46" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="539" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="585" column="19" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="721" column="19" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="563" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="722" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>duplicate_action.status_date:</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>duplicate_action.status_date:</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>Report</text>
       </register>
       <register name="0" type="4">
-        <text>pcb_action.update_date, duplicate_action.status_date)</text>
+        <text>datetime(2018, 10, 1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcmV0dXJuIFRydWUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgX2R1cGxpY2F0ZV9hY3Rpb25faXNfdmFsaWQoZHVwbGljYXRlX2FjdGlvbiwgcGNiX2FjdGlvbik6CiAgICAgICAgICAgICcnJwogICAgICAgICAgICBWYWxpZGF0ZXMgaWYgZHVwbGljYXRlIGFjdGlvbiBmdWxmaWxsIHNldCBvZiBjb25kaXRpb25zIHRoYXQgbWFrZXMgaXQgdmFsaWQgcmV0dXJuIG9iamVjdC4KICAgICAgICAgICAgOnBhcmFtIGR1cGxpY2F0ZV9hY3Rpb246CiAgICAgICAgICAgIDpwYXJhbSBwY2JfYWN0aW9uOgogICAgICAgICAgICA6cmV0dXJuOiBCb29sZWFuCiAgICAgICAgICAgICcnJwoKICAgICAgICAgICAgaWYgZHVwbGljYXRlX2FjdGlvbi50eXBlIGlzIG5vdCBUWVBFX0NIT0lDRVMuUkVWRVJTQUw6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgICAgIGlmIGR1cGxpY2F0ZV9hY3Rpb24uc3RhdHVzIGlzIG5vdCBTVEFUVVNfQ0hPSUNFUy5GQUlMRUQ6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgICAgIGlmIHBjYl9hY3Rpb24uc3RhdHVzIGlzIG5vdCBTVEFUVVNfQ0hPSUNFUy5ET05FOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgICAgICAgICBpZiBwY2JfYWN0aW9uLnVwZGF0ZV9kYXRlID4gZHVwbGljYXRlX2FjdGlvbi5zdGF0dXNfZGF0ZToKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgZGVmIGhpZ2hlcl9zdGF0dXNfd2llZ2h0KGR1cGxpY2F0ZV9hY3Rpb24sIHBjYl9hY3Rpb24pOgogICAgICAgICAgICBpZiBBQ1RJT05fU1RBVFVTX1dFSUdIVFNbZHVwbGljYXRlX2FjdGlvbi5zdGF0dXNdIDw9IEFDVElPTl9TVEFUVVNfV0VJR0hUU1twY2JfYWN0aW9uLnN0YXR1c106CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICAgICAgcmV0dXJuIFRydWUKCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJzZWRfb2JqLiA9ICJzb21lIGNvbnRyYWN0b3IiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">a2trCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgndGhlcmUgaXMgZHVwbGljYXRlJyApCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwY2JfYWN0aW9ucykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFkZCB0ZXN0IGNhc2UgZm9yIGRhdGVzCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZHVwbGljYXRlX2FjdGlvbi5zdGF0dXMpCiAgICAgICAgICAgIHByaW50KHBjYl9hY3Rpb24uc3RhdHVzKQogICAgICAgICAgICAjIHByaW50KEFDVElPTl9TVEFUVVNfV0VJR0hUU1tkdXBsaWNhdGVfYWN0aW9uLnN0YXR1c10sIEFDVElPTl9TVEFUVVNfV0VJR0hUU1twY2JfYWN0aW9uLnN0YXR1c10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGNiX2FjdGlvbi51cGRhdGVfZGF0ZSA8IGR1cGxpY2F0ZV9hY3Rpb24uc3RhdHVzX2RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRhdGEgPSB7J3N0YXR1cyc6IDZMLCAnY3VzdG9tX2ZpZWxkcyc6IE5vbmUsICdjb21tdW5pY2F0aW9uX2tleSc6IE5vbmUsICdleHRlcm5hbF9kYXRlJzogTm9uZSwgJ3N0YXR1c19kYXRlJzogZGF0ZXRpbWUuZGF0ZXRpbWUoMjAxOCwgOSwgMjEsIDksIDAsIDMxKSwgJ29wZXJhdG9yX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlJzogZGF0ZXRpbWUuZGF0ZXRpbWUoMjAxOCwgOSwgMjUsIDE1LCA0NSwgMTgsIDk5OTk5OSksICdjb250cmFjdG9yJzogdSdQYXlQYWwnLCAnY3VycmVuY3knOiB1J0NaSycsICdhbW91bnQnOiAxMTk4TCwgJ2Nvb2tpZSc6IHUnRUUzMTM2ZjM3OTE2NWU1NDBjYzI5NjhlNjRhNjUyRUUnLCAncHVuX2lkJzogTm9uZSwgJ2V4Y2hhbmdlX3JhdGUnOiBOb25lLCAndGlkX2V4dGVybmFsJzogdSc4TVczNDIySU5DT01FVEVTVF8yJywgJ29wZXJhdG9yJzogdSdQYXlQYWwnLCAnZ3JvdXBpbmdfaWQnOiB1JzhNVzM0MjJJTkNPTUVURVNUXzInLCAndHlwZSc6IDNMLCAnbWV0aG9kJzogdSdDQVJEJywgJ2NoYW5uZWwnOiBOb25lfQogICAgICAgICMgbCA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgYXJlIGRhdGVzOiAiLCAgcGNiX2FjdGlvbi51cGRhdGVfZGF0ZSwgZHVwbGljYXRlX2FjdGlvbi5zdGF0dXNfZGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
