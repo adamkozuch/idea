@@ -22,6 +22,9 @@
         <mark key="'" line="208" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons/stock/i18n/mn.po" timestamp="1552907952696" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" timestamp="1552927244819">
+        <mark key="'" line="1529" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0037_auto_20190312_1043.py" timestamp="1552901539064">
         <mark key="'" line="17" column="272" />
@@ -32,8 +35,8 @@
         <mark key="^" line="22" column="37" />
         <mark key="." line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" timestamp="1552925831383">
-        <mark key="'" line="1226" column="25" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" timestamp="1552926804471">
+        <mark key="'" line="1549" column="5" />
         <mark key="[" line="3" column="19" />
         <mark key="." line="4" column="33" />
       </file>
@@ -51,15 +54,16 @@
         <mark key="^" line="135" column="37" />
         <mark key="." line="135" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1552926025224">
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1552981839376">
         <mark key="'" line="16" column="16" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" timestamp="1552925395871">
         <mark key="'" line="809" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated.py" timestamp="1552980101098" />
       <file name="/Dummy.txt" timestamp="1552647096090">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,17 +83,23 @@
         <mark key="." line="33" column="4" />
         <mark key="^" line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1552922562268">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="374" column="0" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" timestamp="1552927074034">
+        <mark key="'" line="826" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1552980698184">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="21" column="28" />
         <mark key="^" line="21" column="28" />
-        <mark key="." line="374" column="0" />
+        <mark key="." line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1552653186115">
         <mark key="'" line="81" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1552918870978" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_2.py" timestamp="1552981210529">
+        <mark key="'" line="1553" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552900387243">
         <mark key="'" line="219" column="27" />
@@ -119,32 +129,13 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/crypto/sensitive.json" timestamp="1552981769722">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="7" filename="$USER_HOME$/Documents/alacritty.yml" />
-      <jump line="467" column="2" filename="$USER_HOME$/Documents/alacritty.yml" />
-      <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="213" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="139" column="25" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="66" column="9" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="129" column="17" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="138" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="201" column="31" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="101" column="49" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="223" column="57" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="58" column="8" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="103" column="40" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="212" column="63" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="220" column="38" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="208" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="206" column="16" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="203" column="50" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="204" column="37" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="37" column="37" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
       <jump line="26" column="24" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
       <jump line="67" column="12" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
@@ -198,7 +189,6 @@
       <jump line="343" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="344" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="19" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="20" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="24" column="20" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
       <jump line="343" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
       <jump line="344" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
@@ -212,96 +202,126 @@
       <jump line="1515" column="34" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
       <jump line="490" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
       <jump line="809" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" />
-      <jump line="4" column="33" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
       <jump line="302" column="32" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
       <jump line="1226" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
       <jump line="17" column="16" filename="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" />
+      <jump line="25" column="21" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="1761" column="12" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="73" column="12" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="2" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="1379" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="1714" column="34" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="1722" column="35" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="1730" column="33" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="1738" column="31" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="301" column="21" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="492" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="491" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="811" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="1003" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="1259" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="1549" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check_1.py" />
+      <jump line="20" column="23" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="166" column="29" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" />
+      <jump line="810" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" />
+      <jump line="490" column="5" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" />
+      <jump line="826" column="49" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" />
+      <jump line="21" column="17" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" />
+      <jump line="1612" column="34" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" />
+      <jump line="1697" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" />
+      <jump line="1703" column="13" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" />
+      <jump line="1761" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" />
+      <jump line="1521" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" />
+      <jump line="1529" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" />
+      <jump line="1607" column="13" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_2.py" />
+      <jump line="1553" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c291cmNlCg==</text>
+        <text encoding="base64">CXN0b2NrX21vdmVfZGlzdHJpYnV0aW9uIFwK</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>tracking</text>
+        <text>country</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c291cmNlCg==</text>
+        <text encoding="base64">CXN0b2NrX21vdmVfZGlzdHJpYnV0aW9uIFwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">c291cmNlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c291cmNlCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CXdtc190cmFja2luZyBcCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>postgresql_user_privileges:
   - name: &quot;{{ postgresql_users[0].name }}&quot;
     db: &quot;{{ odoo_db_name }}&quot;
     priv: &quot;ALL&quot;
     role_attr_flags: CREATEDB</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGVjaG8gICQoY2F0IC90bXAvZGJtYW5hZ2VyX3NjaGVtYV9sb2NhbGhvc3QpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG51bWJlcl9vZl9saW5lcz0kKHdjIC1sIDwgJHBhdGgpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVjaG8gJERCUwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGVjaG8gJGZpcnN0X2NvbW1hbmQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gImN1c3RvbSBjb21tYW5kIgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJFRBQkxFX0RFU0NSSVBUSU9OUwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>tracking</last-search>
+      <last-search>country</last-search>
       <last-offset />
-      <last-pattern>tracking</last-pattern>
+      <last-pattern>country</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
-        <entry>PATRON</entry>
-        <entry>PL</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaF9yZWdpc3Rlcl9hcGlfYmFzZV91cmxcPg==</entry>
-        <entry>NEXT</entry>
-        <entry>stock_locaion</entry>
-        <entry>stock_quant</entry>
-        <entry>product_template</entry>
-        <entry>stock_move_dist</entry>
-        <entry>wms_tracking</entry>
-        <entry>stock_country</entry>
-        <entry>stock_coun</entry>
-        <entry>stock_loca</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry>wms_stock_ware</entry>
         <entry>wms</entry>
-        <entry>street</entry>
-        <entry>stock_move</entry>
         <entry>stock_location</entry>
         <entry>tracking</entry>
+        <entry>move_distri</entry>
+        <entry>product_tem</entry>
+        <entry>stock_qua</entry>
+        <entry>stock_lo</entry>
+        <entry>stock_pick</entry>
+        <entry>stock_prod</entry>
+        <entry>stock_wareh</entry>
+        <entry>stock_move</entry>
+        <entry>distribution</entry>
+        <entry>wms_stock_warehouse</entry>
+        <entry>stock_ware</entry>
+        <entry>street</entry>
+        <entry>zip</entry>
+        <entry>city</entry>
+        <entry>country</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
