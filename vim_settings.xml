@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/statics.py" timestamp="1552901061376">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="16" column="32" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
+        <mark key="'" line="225" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
@@ -40,6 +37,9 @@
         <mark key="[" line="3" column="19" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="/Django Console" timestamp="1552995033754">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="92" column="78" />
@@ -66,12 +66,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated.py" timestamp="1552980101098" />
       <file name="/Dummy.txt" timestamp="1552647096090">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1552648531840">
-        <mark key="[" line="71" column="80" />
-        <mark key="]" line="71" column="79" />
-        <mark key="^" line="71" column="79" />
-        <mark key="." line="71" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/config/urls.py" timestamp="1552899896339">
         <mark key="'" line="41" column="38" />
@@ -100,6 +94,7 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_2.py" timestamp="1552981210529">
         <mark key="'" line="1553" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" timestamp="1552997278787" />
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552900387243">
         <mark key="'" line="219" column="27" />
@@ -129,8 +124,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1552985293048">
-        <mark key="'" line="689" column="35" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1552997410606">
+        <mark key="'" line="601" column="37" />
+        <mark key="[" line="567" column="31" />
+        <mark key="]" line="567" column="32" />
+        <mark key="." line="567" column="32" />
+        <mark key="^" line="567" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/crypto/sensitive.json" timestamp="1552981769722">
         <mark key="[" line="9" column="3" />
@@ -139,41 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="24" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
-      <jump line="67" column="12" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
-      <jump line="39" column="38" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
-      <jump line="69" column="12" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
-      <jump line="24" column="15" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
-      <jump line="81" column="23" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" />
-      <jump line="93" column="58" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="82" column="36" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="51" column="51" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="202" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="196" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/views.py" />
-      <jump line="943" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
-      <jump line="41" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ipl/config/urls.py" />
-      <jump line="208" column="37" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" />
-      <jump line="1532" column="26" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="196" column="16" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="219" column="27" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="17" column="552" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" />
-      <jump line="17" column="272" filename="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0037_auto_20190312_1043.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" />
-      <jump line="184" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" />
-      <jump line="93" column="11" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="18" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="350" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="9" column="16" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="16" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="15" column="9" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="23" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
-      <jump line="338" column="4" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="26" column="20" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="351" column="24" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="221" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
@@ -239,70 +203,95 @@
       <jump line="1607" column="13" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_2.py" />
       <jump line="1553" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_2.py" />
       <jump line="689" column="35" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="582" column="41" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="566" column="25" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="589" column="46" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="609" column="43" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="619" column="37" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="636" column="43" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="708" column="37" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="726" column="43" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="378" column="54" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="473" column="15" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="66" column="31" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="179" column="12" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="199" column="29" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="200" column="23" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="201" column="23" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="399" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="434" column="16" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="435" column="41" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="456" column="41" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="492" column="60" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="553" column="13" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="554" column="44" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="566" column="69" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="639" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="665" column="16" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="578" column="25" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="618" column="51" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="710" column="57" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="568" column="49" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="552" column="30" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="132" column="22" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="131" column="12" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="600" column="37" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="117" column="27" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="225" column="17" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXN0b2NrX21vdmVfZGlzdHJpYnV0aW9uIFwK</text>
+      <register name="&quot;" type="4">
+        <text>update_date</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>update_date</text>
       </register>
       <register name="/" type="4">
-        <text>country</text>
+        <text>Action</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Pj4gJHtSRVNVTFRfUEFUSH1fJHtEQVRBQkFTRV9IT1NUfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZHVwbGljYXRlX2FjdGlvbi51cGRhdGVfZGF0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXN0b2NrX21vdmVfZGlzdHJpYnV0aW9uIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2FmdGVyIHN0YXR1cycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c291cmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQUNUSU9OX1NUQVRVU19XRUlHSFRTW2R1cGxpY2F0ZV9hY3Rpb24ucGNdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c291cmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhbWVfY29udHJhY3RvciA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXdtc190cmFja2luZyBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhbWVfdHlwZSA9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>postgresql_user_privileges:
-  - name: &quot;{{ postgresql_users[0].name }}&quot;
-    db: &quot;{{ odoo_db_name }}&quot;
-    priv: &quot;ALL&quot;
-    role_attr_flags: CREATEDB</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhbWVfdGlkX2V4dGVybmFsID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gICQoY2F0IC90bXAvZGJtYW5hZ2VyX3NjaGVtYV9sb2NhbGhvc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAnJycKICAgICAgICAgRmlsdGVyIG91dCBkdXBsaWNhdGUgYWN0aW9ucyBleGNlcHQgd2hlCiAgICAgICAgOnBhcmFtIHBhcnNlZF9hY3Rpb25zOiAKICAgICAgICA6cmV0dXJuOiAKICAgICAgICAnJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG51bWJlcl9vZl9saW5lcz0kKHdjIC1sIDwgJHBhdGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJERCUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGZpcnN0X2NvbW1hbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>country</last-search>
+      <last-search>Action</last-search>
       <last-offset />
-      <last-pattern>country</last-pattern>
+      <last-pattern>Action</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
-        <entry>wms_stock_ware</entry>
-        <entry>wms</entry>
-        <entry>stock_location</entry>
-        <entry>tracking</entry>
-        <entry>move_distri</entry>
         <entry>product_tem</entry>
         <entry>stock_qua</entry>
         <entry>stock_lo</entry>
@@ -317,14 +306,20 @@
         <entry>zip</entry>
         <entry>city</entry>
         <entry>country</entry>
+        <entry>wybierz</entry>
+        <entry>Status</entry>
+        <entry>STATUS</entry>
+        <entry>update_date</entry>
+        <entry>TYPE</entry>
+        <entry>Action</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
