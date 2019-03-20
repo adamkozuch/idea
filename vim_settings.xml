@@ -121,12 +121,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/config/urls.py" timestamp="1552899896339">
         <mark key="'" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1552635951380">
-        <mark key="'" line="204" column="37" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="154" column="0" />
+      <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1553093488686">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="200" column="89" />
+        <mark key="]" line="200" column="89" />
+        <mark key="." line="200" column="89" />
+        <mark key="^" line="200" column="89" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transfers.py" timestamp="1553001566823">
         <mark key="[" line="14" column="0" />
@@ -164,11 +164,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/api/views.py" timestamp="1553083161570" />
     </filemarks>
     <jumps>
-      <jump line="1553" column="25" filename="$USER_HOME$/Projects/IT-GOLD/wms/generated_2.py" />
-      <jump line="689" column="35" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
-      <jump line="582" column="41" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
-      <jump line="566" column="25" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
-      <jump line="589" column="46" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="609" column="43" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="619" column="37" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="636" column="43" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -264,42 +259,38 @@
       <jump line="27" column="28" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
       <jump line="146" column="22" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="137" column="23" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="204" column="40" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="125" column="34" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="58" column="77" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
+      <jump line="122" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import sys
-import logging
-logging.basicConfig(format=&quot;%(levelname)-8s %(asctime)s %(name)s %(message)s&quot;, datefmt='%m/%d/%y %H:%M:%S', stream=sys.stdout )
-log = logging.getLogger(&quot;root&quot;)
-
-from django.db.models import get_models
-from django.conf import settings
-from django.core.exceptions import ObjectDoesNotExist, MultipleObjectsReturned
-
-logging.config.dictConfig(settings.LOGGING)
-log.debug(&quot;Logging has been initialized at DEBUG&quot;)
-log.setLevel( logging.DEBUG)
-log.disabled = False
-
-for _class in get_models():
-    if _class.__name__.startswith(&quot;Historical&quot;): continue
-    log.debug(&quot;Registering model {}&quot;.format(_class.__name__))
-    globals()[_class.__name__] = _class
-
-def debug_sql():
-    from debug_toolbar.management.commands import debugsqlshell
-    return</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>capture</text>
+        <text>databases</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9yZXZlcnNhbF9uZXcuc3RhdHVzX2RhdGUgPSBOb25lCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJChjYXQgJHBhdGgpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gJGNvbW1hbmRfYwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gJGRiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIlBvc3RyZXMgY3VzdG9tIGNvbW1hbmQiCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>import sys
 import logging
 logging.basicConfig(format=&quot;%(levelname)-8s %(asctime)s %(name)s %(message)s&quot;, datefmt='%m/%d/%y %H:%M:%S', stream=sys.stdout )
@@ -323,44 +314,31 @@ def debug_sql():
     from debug_toolbar.management.commands import debugsqlshell
     return</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmN1cnJlbmNpZXMubW9kZWxzIGltcG9ydCBDdXJyZW5jeQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmNvbnRyYWN0b3JzLm1vZGVscyBpbXBvcnQgQ29udHJhY3Rvcgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQWN0aW9uLCAnb2JqZWN0cycpCiAgICBkZWYgdGVzdF9jaGVja2luZ19kYXRlcyhzZWxmLCBhY3Rpb25zKToKICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fbm9fc3RhdHVzX2RhdGVfdXNpbmdfb3BlcmF0aW9uX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlKHNlbGYsIGFjdGlvbnMpOgogICAgICAgIHNlbGYuYWN0aW9uX3JldmVyc2FsX25ldy5zdGF0dXNfZGF0ZSA9IE5vbmUK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFjdGlvbnMKICAgICAgICAjCiAgICAgICAgIyBwYXJzZWRfb2JqID0gbGFtYmRhOiBOb25lCiAgICAgICAgIyBwYXJzZWRfb2JqLnR5cGUgPSBUWVBFX0NIT0lDRVMuUkVWRVJTQUwKICAgICAgICAjIHBhcnNlZF9vYmouc3RhdHVzID0gU1RBVFVTX0NIT0lDRVMuRkFJTEVECiAgICAgICAgIyBwYXJzZWRfb2JqLnRpZF9leHRlcm5hbCA9ICJzb21ldGhpbmciCiAgICAgICAgIyBwYXJzZWRfb2JqLmNvbnRyYWN0b3IgPSAic29tZSBjb250cmFjdG9yIgogICAgICAgICMgcGFyc2VkX29iai5zdGF0dXNfZGF0ZSA9IGRhdGV0aW1lKDIwMTgsIDExLCAxKQogICAgICAgICMKICAgICAgICAjIHJlc3VsdCA9IFJlcG9ydFZpZXcoKS5fZmlsdGVyX2R1cGxpY2F0ZWRfYWN0aW9ucyhbcGFyc2VkX29ial0pCiAgICAgICAgIyBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdCwgW3BhcnNlZF9vYmpdKQogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>capture</last-search>
+      <last-search>databases</last-search>
       <last-offset />
-      <last-pattern>capture</last-pattern>
+      <last-pattern>databases</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>distribution</entry>
         <entry>wms_stock_warehouse</entry>
         <entry>stock_ware</entry>
         <entry>street</entry>
@@ -380,6 +358,7 @@ def debug_sql():
         <entry>contractor</entry>
         <entry>get_a</entry>
         <entry>capture</entry>
+        <entry>databases</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
