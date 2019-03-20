@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1553001829131">
-        <mark key="[" line="0" column="0" />
+      <file name="/start_script.py" timestamp="1553078890131">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
@@ -21,12 +23,9 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" timestamp="1552900345581">
         <mark key="'" line="208" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons/stock/i18n/mn.po" timestamp="1552907952696" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/README.md" timestamp="1553001936857" />
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" timestamp="1552927244819">
         <mark key="'" line="1529" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/README.md" timestamp="1552558601331" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0037_auto_20190312_1043.py" timestamp="1552901539064">
         <mark key="'" line="17" column="272" />
       </file>
@@ -35,7 +34,7 @@
         <mark key="[" line="3" column="19" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="/Django Console" timestamp="1552995033754">
+      <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1553069638966">
@@ -68,7 +67,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_to_check.py" timestamp="1552925395871">
         <mark key="'" line="809" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated.py" timestamp="1552980101098" />
       <file name="/Dummy.txt" timestamp="1552647096090">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,7 +97,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1552653186115">
         <mark key="'" line="81" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1552918870978" />
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_2.py" timestamp="1552981210529">
         <mark key="'" line="1553" column="25" />
       </file>
@@ -110,11 +107,9 @@
         <mark key="^" line="227" column="50" />
         <mark key="." line="227" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/wms/addons_external/web_export_view/__manifest__.py" timestamp="1552563917818" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552900387243">
         <mark key="'" line="219" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/meta/main.yml" timestamp="1552917727329" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1552657318403">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="56" column="40" />
@@ -256,7 +251,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>import sys
+import logging
+logging.basicConfig(format=&quot;%(levelname)-8s %(asctime)s %(name)s %(message)s&quot;, datefmt='%m/%d/%y %H:%M:%S', stream=sys.stdout )
+log = logging.getLogger(&quot;root&quot;)
+
+from django.db.models import get_models
+from django.conf import settings
+from django.core.exceptions import ObjectDoesNotExist, MultipleObjectsReturned
+
+logging.config.dictConfig(settings.LOGGING)
+log.debug(&quot;Logging has been initialized at DEBUG&quot;)
+log.setLevel( logging.DEBUG)
+log.disabled = False
+
+for _class in get_models():
+    if _class.__name__.startswith(&quot;Historical&quot;): continue
+    log.debug(&quot;Registering model {}&quot;.format(_class.__name__))
+    globals()[_class.__name__] = _class
+
+def debug_sql():
+    from debug_toolbar.management.commands import debugsqlshell
+    return</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -267,32 +283,53 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9yZXZlcnNhbF9uZXcuc3RhdHVzX2RhdGUgPSBOb25lCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmN1cnJlbmNpZXMubW9kZWxzIGltcG9ydCBDdXJyZW5jeQo=</text>
+      <register name="1" type="4">
+        <text>import sys
+import logging
+logging.basicConfig(format=&quot;%(levelname)-8s %(asctime)s %(name)s %(message)s&quot;, datefmt='%m/%d/%y %H:%M:%S', stream=sys.stdout )
+log = logging.getLogger(&quot;root&quot;)
+
+from django.db.models import get_models
+from django.conf import settings
+from django.core.exceptions import ObjectDoesNotExist, MultipleObjectsReturned
+
+logging.config.dictConfig(settings.LOGGING)
+log.debug(&quot;Logging has been initialized at DEBUG&quot;)
+log.setLevel( logging.DEBUG)
+log.disabled = False
+
+for _class in get_models():
+    if _class.__name__.startswith(&quot;Historical&quot;): continue
+    log.debug(&quot;Registering model {}&quot;.format(_class.__name__))
+    globals()[_class.__name__] = _class
+
+def debug_sql():
+    from debug_toolbar.management.commands import debugsqlshell
+    return</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmNvbnRyYWN0b3JzLm1vZGVscyBpbXBvcnQgQ29udHJhY3Rvcgo=</text>
+        <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmN1cnJlbmNpZXMubW9kZWxzIGltcG9ydCBDdXJyZW5jeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmNvbnRyYWN0b3JzLm1vZGVscyBpbXBvcnQgQ29udHJhY3Rvcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQWN0aW9uLCAnb2JqZWN0cycpCiAgICBkZWYgdGVzdF9jaGVja2luZ19kYXRlcyhzZWxmLCBhY3Rpb25zKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fbm9fc3RhdHVzX2RhdGVfdXNpbmdfb3BlcmF0aW9uX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlKHNlbGYsIGFjdGlvbnMpOgogICAgICAgIHNlbGYuYWN0aW9uX3JldmVyc2FsX25ldy5zdGF0dXNfZGF0ZSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIEBwYXRjaC5vYmplY3QoQWN0aW9uLCAnb2JqZWN0cycpCiAgICBkZWYgdGVzdF9jaGVja2luZ19kYXRlcyhzZWxmLCBhY3Rpb25zKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fbm9fc3RhdHVzX2RhdGVfdXNpbmdfb3BlcmF0aW9uX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlKHNlbGYsIGFjdGlvbnMpOgogICAgICAgIHNlbGYuYWN0aW9uX3JldmVyc2FsX25ldy5zdGF0dXNfZGF0ZSA9IE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFjdGlvbnMKICAgICAgICAjCiAgICAgICAgIyBwYXJzZWRfb2JqID0gbGFtYmRhOiBOb25lCiAgICAgICAgIyBwYXJzZWRfb2JqLnR5cGUgPSBUWVBFX0NIT0lDRVMuUkVWRVJTQUwKICAgICAgICAjIHBhcnNlZF9vYmouc3RhdHVzID0gU1RBVFVTX0NIT0lDRVMuRkFJTEVECiAgICAgICAgIyBwYXJzZWRfb2JqLnRpZF9leHRlcm5hbCA9ICJzb21ldGhpbmciCiAgICAgICAgIyBwYXJzZWRfb2JqLmNvbnRyYWN0b3IgPSAic29tZSBjb250cmFjdG9yIgogICAgICAgICMgcGFyc2VkX29iai5zdGF0dXNfZGF0ZSA9IGRhdGV0aW1lKDIwMTgsIDExLCAxKQogICAgICAgICMKICAgICAgICAjIHJlc3VsdCA9IFJlcG9ydFZpZXcoKS5fZmlsdGVyX2R1cGxpY2F0ZWRfYWN0aW9ucyhbcGFyc2VkX29ial0pCiAgICAgICAgIyBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdCwgW3BhcnNlZF9vYmpdKQogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFjdGlvbnMKICAgICAgICAjCiAgICAgICAgIyBwYXJzZWRfb2JqID0gbGFtYmRhOiBOb25lCiAgICAgICAgIyBwYXJzZWRfb2JqLnR5cGUgPSBUWVBFX0NIT0lDRVMuUkVWRVJTQUwKICAgICAgICAjIHBhcnNlZF9vYmouc3RhdHVzID0gU1RBVFVTX0NIT0lDRVMuRkFJTEVECiAgICAgICAgIyBwYXJzZWRfb2JqLnRpZF9leHRlcm5hbCA9ICJzb21ldGhpbmciCiAgICAgICAgIyBwYXJzZWRfb2JqLmNvbnRyYWN0b3IgPSAic29tZSBjb250cmFjdG9yIgogICAgICAgICMgcGFyc2VkX29iai5zdGF0dXNfZGF0ZSA9IGRhdGV0aW1lKDIwMTgsIDExLCAxKQogICAgICAgICMKICAgICAgICAjIHJlc3VsdCA9IFJlcG9ydFZpZXcoKS5fZmlsdGVyX2R1cGxpY2F0ZWRfYWN0aW9ucyhbcGFyc2VkX29ial0pCiAgICAgICAgIyBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdCwgW3BhcnNlZF9vYmpdKQogICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
