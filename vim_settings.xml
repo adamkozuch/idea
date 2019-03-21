@@ -77,12 +77,12 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553157014543">
-        <mark key="'" line="128" column="38" />
-        <mark key="[" line="73" column="90" />
-        <mark key="]" line="73" column="104" />
-        <mark key="^" line="73" column="104" />
-        <mark key="." line="73" column="104" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553158409657">
+        <mark key="'" line="88" column="8" />
+        <mark key="[" line="128" column="81" />
+        <mark key="]" line="128" column="81" />
+        <mark key="^" line="128" column="81" />
+        <mark key="." line="128" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1553069435526">
         <mark key="'" line="47" column="18" />
@@ -131,12 +131,15 @@
         <mark key="^" line="135" column="37" />
         <mark key="." line="135" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553156558954">
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1553158543826">
+        <mark key="'" line="187" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553159415651">
         <mark key="'" line="378" column="50" />
-        <mark key="[" line="369" column="108" />
-        <mark key="]" line="369" column="115" />
+        <mark key="[" line="357" column="61" />
+        <mark key="]" line="357" column="61" />
         <mark key="^" line="369" column="115" />
-        <mark key="." line="369" column="115" />
+        <mark key="." line="357" column="61" />
       </file>
       <file name="/Dummy.txt" timestamp="1552647096090">
         <mark key="[" line="0" column="0" />
@@ -151,10 +154,10 @@
         <mark key="." line="200" column="89" />
         <mark key="^" line="200" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" timestamp="1553156880183">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="53" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" timestamp="1553159321141">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
         <mark key="^" line="27" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" timestamp="1552927074034">
@@ -189,8 +192,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/api/views.py" timestamp="1553083161570" />
     </filemarks>
     <jumps>
-      <jump line="435" column="41" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="456" column="41" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="492" column="60" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="553" column="13" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="554" column="44" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -289,36 +290,47 @@
       <jump line="181" column="33" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="209" column="33" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" />
+      <jump line="88" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
+      <jump line="187" column="34" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: Optional[str]=None</text>
+        <text encoding="base64">ICMgbWFteSBkb21lbsSZIGkgdGEgZG9tZW5hIHBvd2lubmEgYnnEhyBwcnpla2F6eXdhbmEgZGFsZWo=</text>
       </register>
       <register name="-" type="4">
-        <text>: Optional[str]=None</text>
+        <text encoding="base64">ICMgbWFteSBkb21lbsSZIGkgdGEgZG9tZW5hIHBvd2lubmEgYnnEhyBwcnpla2F6eXdhbmEgZGFsZWo=</text>
       </register>
       <register name="/" type="4">
-        <text>verify_and_save</text>
+        <text>paypal</text>
       </register>
       <register name="0" type="4">
         <text>domain: Optional[str]=None</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBkYi5Db2x1bW4oZGIuRGF0ZVRpbWUsIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PWRhdGV0aW1lLnV0Y25vdykK</text>
+        <text encoding="base64">ICAgICMgaXMgZXZlbnQgYm9keSBkaWN0aW9uYXJ5Pwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJChjYXQgJHBhdGgpCg==</text>
+        <text encoding="base64">ICAgIGV2ZW50X2JvZHlbJ2RvbWFpbiddID0gZG9tYWluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gJGNvbW1hbmRfYwo=</text>
+        <text encoding="base64">ICAgICAgICAjIGN6eSBwb3dpbmllbmVtIGRvZGHEhyBkb21haW4gZG8gZXZlbnQgYm9keQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gJGRiCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBkYi5Db2x1bW4oZGIuRGF0ZVRpbWUsIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PWRhdGV0aW1lLnV0Y25vdykK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJChjYXQgJHBhdGgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gJGNvbW1hbmRfYwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gJGRiCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVjaG8gIlBvc3RyZXMgY3VzdG9tIGNvbW1hbmQiCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>import sys
 import logging
 logging.basicConfig(format=&quot;%(levelname)-8s %(asctime)s %(name)s %(message)s&quot;, datefmt='%m/%d/%y %H:%M:%S', stream=sys.stdout )
@@ -342,30 +354,19 @@ def debug_sql():
     from debug_toolbar.management.commands import debugsqlshell
     return</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmN1cnJlbmNpZXMubW9kZWxzIGltcG9ydCBDdXJyZW5jeQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmNvbnRyYWN0b3JzLm1vZGVscyBpbXBvcnQgQ29udHJhY3Rvcgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>verify_and_save</last-search>
+      <last-search>paypal</last-search>
       <last-offset />
-      <last-pattern>verify_and_save</last-pattern>
+      <last-pattern>paypal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>zip</entry>
-        <entry>city</entry>
         <entry>country</entry>
         <entry>wybierz</entry>
         <entry>Status</entry>
@@ -384,13 +385,15 @@ def debug_sql():
         <entry encoding="base64">XDxwcFw+</entry>
         <entry encoding="base64">XDxnZXRfdHJhbnNhY3Rpb25faWRfZnJvbV9kYXRhXD4=</entry>
         <entry>verify_and_save</entry>
+        <entry encoding="base64">XDxkb21haW5cPg==</entry>
+        <entry>paypal</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>action GotoFile</entry>
         <entry>:w</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
