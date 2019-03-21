@@ -53,12 +53,12 @@
         <mark key="^" line="227" column="50" />
         <mark key="." line="227" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1553155749416">
-        <mark key="'" line="181" column="32" />
-        <mark key="[" line="168" column="37" />
-        <mark key="]" line="168" column="44" />
-        <mark key="^" line="168" column="44" />
-        <mark key="." line="168" column="44" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1553156955281">
+        <mark key="'" line="209" column="33" />
+        <mark key="[" line="213" column="12" />
+        <mark key="]" line="213" column="18" />
+        <mark key="^" line="213" column="18" />
+        <mark key="." line="213" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/__init__.py" timestamp="1553089060360">
         <mark key="'" line="26" column="30" />
@@ -77,12 +77,12 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553155899172">
-        <mark key="'" line="128" column="35" />
-        <mark key="[" line="125" column="24" />
-        <mark key="]" line="125" column="32" />
-        <mark key="^" line="125" column="32" />
-        <mark key="." line="125" column="32" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553157014543">
+        <mark key="'" line="128" column="38" />
+        <mark key="[" line="73" column="90" />
+        <mark key="]" line="73" column="104" />
+        <mark key="^" line="73" column="104" />
+        <mark key="." line="73" column="104" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1553069435526">
         <mark key="'" line="47" column="18" />
@@ -131,8 +131,8 @@
         <mark key="^" line="135" column="37" />
         <mark key="." line="135" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553156393984">
-        <mark key="'" line="369" column="12" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553156558954">
+        <mark key="'" line="378" column="50" />
         <mark key="[" line="369" column="108" />
         <mark key="]" line="369" column="115" />
         <mark key="^" line="369" column="115" />
@@ -151,11 +151,11 @@
         <mark key="." line="200" column="89" />
         <mark key="^" line="200" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" timestamp="1553155660857">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-        <mark key="^" line="27" column="9" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" timestamp="1553156880183">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="53" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="27" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" timestamp="1552927074034">
         <mark key="'" line="826" column="49" />
@@ -189,7 +189,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/api/views.py" timestamp="1553083161570" />
     </filemarks>
     <jumps>
-      <jump line="434" column="16" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="435" column="41" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="456" column="41" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="492" column="60" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -283,25 +282,26 @@
       <jump line="119" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="269" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="224" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="181" column="32" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" />
-      <jump line="128" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="378" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="10" column="67" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="369" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="378" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="128" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
+      <jump line="181" column="33" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="209" column="33" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>payment_provider_transaction_id</text>
+        <text>: Optional[str]=None</text>
       </register>
       <register name="-" type="4">
-        <text>payment_provider_transaction_id</text>
+        <text>: Optional[str]=None</text>
       </register>
       <register name="/" type="4">
         <text>verify_and_save</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBheW1lbnRfcHJvdmlkZXJfdHJhbnNhY3Rpb25faWQgPSBkYi5Db2x1bW4oZGIuU3RyaW5nKDEwMCkpCg==</text>
+      <register name="0" type="4">
+        <text>domain: Optional[str]=None</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBkYi5Db2x1bW4oZGIuRGF0ZVRpbWUsIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PWRhdGV0aW1lLnV0Y25vdykK</text>
