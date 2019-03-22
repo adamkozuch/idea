@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/group_vars/development/vars.yml" timestamp="1553270115366">
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" timestamp="1553255595280">
         <mark key="'" line="47" column="73" />
         <mark key="[" line="162" column="77" />
@@ -443,7 +448,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChwcm92aWRlcikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -482,8 +487,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
