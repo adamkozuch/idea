@@ -80,6 +80,13 @@
         <mark key="." line="63" column="65" />
         <mark key="^" line="63" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/config/configurator.py" timestamp="1553270717186">
+        <mark key="'" line="15" column="37" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553082766233">
         <mark key="'" line="14" column="10" />
       </file>
@@ -306,7 +313,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1553176649452" />
     </filemarks>
     <jumps>
-      <jump line="28" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="12" column="27" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="17" column="37" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
       <jump line="158" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
@@ -406,49 +412,50 @@
       <jump line="106" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="18" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="121" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
+      <jump line="15" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/config/configurator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>Config.ODOO_SERVER_WIDE_MODULES</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>Config.ODOO_SERVER_WIDE_MODULES</text>
       </register>
       <register name="/" type="4">
         <text>tutaj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQub3B0aW9uc1snY29udHJhY3RvciddLCAnUGF5UGFsIGhhcHB5JykK</text>
+        <text encoding="base64">ICAgIGNvbmZbJ3NlcnZlcl93aWRlX21vZHVsZXMnXSA9IENvbmZpZy5PRE9PX1NFUlZFUl9XSURFX01PRFVMRVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3B0aW9ucyc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRyYWN0b3InOiAnUGF5UGFsJwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbmZbJ2RhdGFiYXNlJ10gPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rpc3RpbmN0X2FjY291bnRzX3JldHVybl9vbGRfY29udHJhY3Rvcl9uYW1lKHNlbGYpOgogICAgICAgIGFwaV9jbGllbnQgPSBzZWxmLnByb3ZpZGVyLmdldF9hcGlfY2xpZW50X2J5X2RvbWFpbihzZWxmLmRvbWFpbnNfYWNjb3VudDFbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50Lm9wdGlvbnNbJ2NvbnRyYWN0b3InXSwgJ1BheVBhbCcpCgogICAgZGVmIHRlc3RfZGlzdGluY3RfYWNjb3VudHNfcmV0dXJuX25ld19jb250cmFjdG9yX25hbWUoc2VsZik6CiAgICAgICAgYXBpX2NsaWVudCA9IHNlbGYucHJvdmlkZXIuZ2V0X2FwaV9jbGllbnRfYnlfZG9tYWluKHNlbGYuZG9tYWluc19hY2NvdW50MlswXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQub3B0aW9uc1snY29udHJhY3RvciddLCAnUGF5UGFsIEdvRCcpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3B0aW9ucyc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRyYWN0b3InOiAnUGF5UGFsJwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X2lkLCBzZWxmLnBheXBhbF9jbGllbnQxX2NyZWRlbnRpYWxzWydjbGllbnRfaWQnXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X3NlY3JldCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X3NlY3JldCddKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rpc3RpbmN0X2FjY291bnRzX3JldHVybl9vbGRfY29udHJhY3Rvcl9uYW1lKHNlbGYpOgogICAgICAgIGFwaV9jbGllbnQgPSBzZWxmLnByb3ZpZGVyLmdldF9hcGlfY2xpZW50X2J5X2RvbWFpbihzZWxmLmRvbWFpbnNfYWNjb3VudDFbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50Lm9wdGlvbnNbJ2NvbnRyYWN0b3InXSwgJ1BheVBhbCcpCgogICAgZGVmIHRlc3RfZGlzdGluY3RfYWNjb3VudHNfcmV0dXJuX25ld19jb250cmFjdG9yX25hbWUoc2VsZik6CiAgICAgICAgYXBpX2NsaWVudCA9IHNlbGYucHJvdmlkZXIuZ2V0X2FwaV9jbGllbnRfYnlfZG9tYWluKHNlbGYuZG9tYWluc19hY2NvdW50MlswXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQub3B0aW9uc1snY29udHJhY3RvciddLCAnUGF5UGFsIEdvRCcpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X3NlY3JldCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X3NlY3JldCddKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X2lkLCBzZWxmLnBheXBhbF9jbGllbnQxX2NyZWRlbnRpYWxzWydjbGllbnRfaWQnXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X3NlY3JldCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X3NlY3JldCddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRvbWFpbnNfdG9fYXBpX2NsaWVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X3NlY3JldCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X3NlY3JldCddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IFBheW1lbnRQcm92aWRlcnMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRvbWFpbnNfdG9fYXBpX2NsaWVudHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCcnKSMK</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IFBheW1lbnRQcm92aWRlcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGFwcCBpbXBvcnQgcHAK</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCcnKSMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm92aWRlcikK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGFwcCBpbXBvcnQgcHAK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -487,8 +494,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
