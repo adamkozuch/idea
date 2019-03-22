@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" timestamp="1553252728822">
-        <mark key="'" line="163" column="40" />
-        <mark key="[" line="163" column="93" />
-        <mark key="]" line="163" column="94" />
-        <mark key="." line="163" column="94" />
-        <mark key="^" line="163" column="93" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" timestamp="1553253214827">
+        <mark key="'" line="47" column="73" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="47" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553252614915">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553253345693">
         <mark key="'" line="147" column="36" />
-        <mark key="[" line="163" column="83" />
-        <mark key="]" line="163" column="90" />
-        <mark key="^" line="163" column="90" />
-        <mark key="." line="163" column="90" />
+        <mark key="[" line="162" column="37" />
+        <mark key="]" line="162" column="37" />
+        <mark key="^" line="162" column="90" />
+        <mark key="." line="162" column="37" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1553182476839">
         <mark key="'" line="168" column="8" />
@@ -160,6 +160,13 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1553164485790">
         <mark key="'" line="41" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" timestamp="1553253892135">
+        <mark key="'" line="283" column="0" />
+        <mark key="[" line="293" column="63" />
+        <mark key="]" line="294" column="7" />
+        <mark key="." line="294" column="7" />
+        <mark key="^" line="294" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" timestamp="1553164591135">
         <mark key="'" line="19" column="37" />
         <mark key="[" line="16" column="36" />
@@ -251,12 +258,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" timestamp="1553164498254">
         <mark key="'" line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1553252955000">
-        <mark key="'" line="73" column="54" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="^" line="44" column="48" />
-        <mark key="." line="248" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1553254462481">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="181" column="48" />
+        <mark key="]" line="181" column="46" />
+        <mark key="^" line="181" column="46" />
+        <mark key="." line="181" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1552900387243">
         <mark key="'" line="219" column="27" />
@@ -282,24 +289,16 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/__init__.py" timestamp="1553176629432">
         <mark key="'" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" timestamp="1553251632869">
-        <mark key="'" line="21" column="45" />
-        <mark key="[" line="271" column="60" />
-        <mark key="]" line="271" column="65" />
-        <mark key="^" line="271" column="65" />
-        <mark key="." line="271" column="65" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" timestamp="1553253280267">
+        <mark key="'" line="180" column="65" />
+        <mark key="[" line="180" column="60" />
+        <mark key="]" line="180" column="65" />
+        <mark key="^" line="180" column="65" />
+        <mark key="." line="180" column="65" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1553176649452" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" />
-      <jump line="88" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="187" column="34" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="85" column="40" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="25" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="81" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="45" column="17" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="28" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="12" column="27" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="17" column="37" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
@@ -365,7 +364,6 @@
       <jump line="158" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="188" column="56" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
       <jump line="258" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="180" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
       <jump line="165" column="54" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="247" column="20" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="137" column="66" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
@@ -375,14 +373,12 @@
       <jump line="170" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="103" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="38" column="33" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="18" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="193" column="37" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="205" column="37" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="217" column="37" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="229" column="37" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="241" column="37" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="44" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="21" column="45" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
       <jump line="84" column="33" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="70" column="22" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
       <jump line="154" column="77" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
@@ -392,62 +388,71 @@
       <jump line="147" column="36" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="149" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="73" column="54" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
+      <jump line="48" column="73" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
+      <jump line="21" column="45" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
+      <jump line="180" column="65" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
+      <jump line="285" column="29" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
+      <jump line="286" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
+      <jump line="283" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
+      <jump line="106" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
+      <jump line="18" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCcnKSMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3B0aW9ucyc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRyYWN0b3InOiAnUGF5UGFsJwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>['options']['contractor']</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>patch</text>
+        <text>options</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fZ2V0X2NvbnRyYWN0b3JfYnlfZG9tYWluKHNlbGYuZG9tYWluKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQub3B0aW9uc1snY29udHJhY3RvciddLCAnUGF5UGFsIGhhcHB5JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCcnKSMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3B0aW9ucyc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRyYWN0b3InOiAnUGF5UGFsJwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGFwcCBpbXBvcnQgcHAK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rpc3RpbmN0X2FjY291bnRzX3JldHVybl9vbGRfY29udHJhY3Rvcl9uYW1lKHNlbGYpOgogICAgICAgIGFwaV9jbGllbnQgPSBzZWxmLnByb3ZpZGVyLmdldF9hcGlfY2xpZW50X2J5X2RvbWFpbihzZWxmLmRvbWFpbnNfYWNjb3VudDFbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50Lm9wdGlvbnNbJ2NvbnRyYWN0b3InXSwgJ1BheVBhbCcpCgogICAgZGVmIHRlc3RfZGlzdGluY3RfYWNjb3VudHNfcmV0dXJuX25ld19jb250cmFjdG9yX25hbWUoc2VsZik6CiAgICAgICAgYXBpX2NsaWVudCA9IHNlbGYucHJvdmlkZXIuZ2V0X2FwaV9jbGllbnRfYnlfZG9tYWluKHNlbGYuZG9tYWluc19hY2NvdW50MlswXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQub3B0aW9uc1snY29udHJhY3RvciddLCAnUGF5UGFsIEdvRCcpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm92aWRlcikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X2lkLCBzZWxmLnBheXBhbF9jbGllbnQxX2NyZWRlbnRpYWxzWydjbGllbnRfaWQnXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X3NlY3JldCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X3NlY3JldCddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlciA9IFBheW1lbnRQcm92aWRlcnMuZ2V0X3Byb3ZpZGVyKCdwYXlwYWwnKQogICAgICAgIHJldHVybiBwcm92aWRlci5nZXRfYXBpX2NsaWVudF9ieV9kb21haW4oc2VsZi5kb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaV9jbGllbnQuY2xpZW50X3NlY3JldCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X3NlY3JldCddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlciA9IFBheW1lbnRQcm92aWRlcnMuZ2V0X3Byb3ZpZGVyKCdwYXlwYWwnKQogICAgICAgIHJldHVybiBwcm92aWRlci5nZXRfYXBpX2NsaWVudF9ieV9kb21haW4oc2VsZi5kb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRvbWFpbnNfdG9fYXBpX2NsaWVudHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlciA9IFBheW1lbnRQcm92aWRlcnMuZ2V0X3Byb3ZpZGVyKCdwYXlwYWwnKQogICAgICAgIHJldHVybiBwcm92aWRlci5nZXRfYXBpX2NsaWVudF9ieV9kb21haW4oc2VsZi5kb21haW4pCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IFBheW1lbnRQcm92aWRlcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlciA9IFBheW1lbnRQcm92aWRlcnMuZ2V0X3Byb3ZpZGVyKCdwYXlwYWwnKQogICAgICAgIHJldHVybiBwcm92aWRlci5nZXRfYXBpX2NsaWVudF9ieV9kb21haW4oc2VsZi5kb21haW4pCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCcnKSMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlciA9IFBheW1lbnRQcm92aWRlcnMuZ2V0X3Byb3ZpZGVyKCdwYXlwYWwnKQogICAgICAgIHJldHVybiBwcm92aWRlci5nZXRfYXBpX2NsaWVudF9ieV9kb21haW4oc2VsZi5kb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGFwcCBpbXBvcnQgcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcCA9IFBheW1lbnRQcm92aWRlcnMoKQogICAgICAgIHByaW50KHBwKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwcm92aWRlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>patch</last-search>
+      <last-search>options</last-search>
       <last-offset />
-      <last-pattern>patch</last-pattern>
+      <last-pattern>options</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_a</entry>
-        <entry>capture</entry>
         <entry>databases</entry>
         <entry encoding="base64">XDxnZXRfdHJhbnNhY3Rpb25faWRfZnJvbV9kYXRhXD4=</entry>
         <entry>verify_and_save</entry>
@@ -462,10 +467,12 @@
         <entry encoding="base64">XDxQYXltZW50UHJvdmlkZXJzXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2NvbnRyYWN0b3JcPg==</entry>
         <entry>contractor</entry>
-        <entry encoding="base64">XDxwcm92aWRlclw+</entry>
         <entry>created</entry>
         <entry>cont</entry>
         <entry>patch</entry>
+        <entry>get_con</entry>
+        <entry encoding="base64">XDxwcm92aWRlclw+</entry>
+        <entry>options</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -518,6 +525,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
