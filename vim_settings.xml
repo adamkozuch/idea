@@ -139,8 +139,11 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/tasks/setup_ubuntu_14_04.yml" timestamp="1552918923969">
         <mark key="'" line="15" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1553249655332">
+      <file name="/Python Console" timestamp="1553257810048">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" timestamp="1552900345581">
         <mark key="'" line="208" column="37" />
@@ -528,6 +531,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
