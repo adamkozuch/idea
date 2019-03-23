@@ -39,6 +39,12 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/evaluate_cer.py" timestamp="1553334760216">
+        <mark key="'" line="11" column="62" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
@@ -240,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="50" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" />
-      <jump line="199" column="30" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" />
       <jump line="177" column="30" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" />
       <jump line="540" column="34" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="542" column="53" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
@@ -340,65 +344,75 @@
       <jump line="25" column="28" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
       <jump line="238" column="77" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
+      <jump line="11" column="38" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/evaluate_cer.py" />
+      <jump line="10" column="62" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/evaluate_cer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmQK</text>
+        <text encoding="base64">ICAgIHByaW50KCJhbmtpIGlzIGdyZWF0IikK</text>
       </register>
       <register name="-" type="4">
-        <text># not sure what's here</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>cont</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rpc3RpbmN0X2FjY291bnRzX3JldHVybl9vbGRfY29udHJhY3Rvcl9uYW1lKHNlbGYpOgogICAgICAgIGFwaV9jbGllbnQgPSBzZWxmLnByb3ZpZGVyLmdldF9hcGlfY2xpZW50X2J5X2RvbWFpbihzZWxmLmRvbWFpbnNfYWNjb3VudDFbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50LmNsaWVudF9pZCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X2lkJ10pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50LmNsaWVudF9zZWNyZXQsIHNlbGYucGF5cGFsX2NsaWVudDFfY3JlZGVudGlhbHNbJ2NsaWVudF9zZWNyZXQnXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmQK</text>
+        <text encoding="base64">ICAgIHByaW50KCJhbmtpIGlzIGdyZWF0IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyBoZXJlIHRoZXJlIHNob3VsZCBiZSBjb250cmFjdG9yCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIFsnYWRhbScsIDFdOgogICAgICAgIHByaW50KCkKICAgICAgICBmb3IgaSBpbiBbJ2FkYW0nXToKICAgICAgICAgICAgcHJpbnQoJ2FkYW0nKQogICAgICAgIAogICAgCgogICAgaGFuZHdyaXRpbmdfbGluZV9yZWNvZ25pdGlvbl9uZXQgPSBIYW5kd3JpdGluZ1JlY29nbml0aW9uTmV0KHJubl9oaWRkZW5fc3RhdGVzPXJubl9oaWRkZW5fc3RhdGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJubl9sYXllcnM9cm5uX2xheWVycywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhfc2VxX2xlbj1tYXhfc2VxX2xlbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdHg9Y3R4KQogICAgaGFuZHdyaXRpbmdfbGluZV9yZWNvZ25pdGlvbl9uZXQubG9hZF9wYXJhbWV0ZXJzKHJlY29nbml0aW9uX21vZGVsLCBjdHgpCiAgICBsb2dnaW5nLmluZm8oIm1vZGVscyBsb2FkZWQuIikKCiAgICAjIERhdGEKICAgIGxvZ2dpbmcuaW5mbygibG9hZGluZyBkYXRhLi4uIikKICAgIHRlc3RfZHMgPSBJQU1EYXRhc2V0KCJmb3JtX29yaWdpbmFsIiwgdHJhaW49RmFsc2UpCiAgICBsb2dnaW5nLmluZm8oImRhdGEgbG9hZGVkLiIpCgogICAgc2NsaXRlID0gU2NsaXRlX2hlbHBlcigpCiAgICBmb3IgaSBpbiB0cWRtKHJhbmdlKGxlbih0ZXN0X2RzKSkpOgogICAgICAgIGltYWdlLCB0ZXh0ID0gdGVzdF9kc1tpXQogICAgICAgIHJlc2l6ZWRfaW1hZ2UgPSBwYXJhZ3JhcGhfc2VnbWVudGF0aW9uX3RyYW5zZm9ybShpbWFnZSwgaW1hZ2Vfc2l6ZT1mb3JtX3NpemUpCiAgICAgICAgcGFyYWdyYXBoX2JiID0gcGFyYWdyYXBoX3NlZ21lbnRhdGlvbl9uZXQocmVzaXplZF9pbWFnZS5hc19pbl9jb250ZXh0KGN0eCkpCiAgICAgICAgcGFyYWdyYXBoX3NlZ21lbnRlZF9pbWFnZSA9IGNyb3BfaGFuZHdyaXRpbmdfcGFnZShpbWFnZSwgcGFyYWdyYXBoX2JiWzBdLmFzbnVtcHkoKSwgaW1hZ2Vfc2l6ZT1zZWdtZW50ZWRfcGFyYWdyYXBoX3NpemUpCiAgICAgICAgd29yZF9iYiA9IHByZWRpY3RfYm91bmRpbmdfYm94ZXMod29yZF9zZWdtZW50YXRpb25fbmV0LCBwYXJhZ3JhcGhfc2VnbWVudGVkX2ltYWdlLCBtaW5fYywgb3ZlcmxhcF90aHJlcywgdG9waywgY3R4KQogICAgICAgIGxpbmVfYmJzID0gc29ydF9iYnNfbGluZV9ieV9saW5lKHdvcmRfYmIpCiAgICAgICAgbGluZV9pbWFnZXMgPSBjcm9wX2xpbmVfaW1hZ2VzKHBhcmFncmFwaF9zZWdtZW50ZWRfaW1hZ2UsIGxpbmVfYmJzKQoKICAgICAgICBwcmVkaWN0ZWRfdGV4dCA9IFtdCiAgICAgICAgZm9yIGxpbmVfaW1hZ2UgaW4gbGluZV9pbWFnZXM6CiAgICAgICAgICAgIGxpbmVfaW1hZ2UgPSBoYW5kd3JpdGluZ19yZWNvZ25pdGlvbl90cmFuc2Zvcm0obGluZV9pbWFnZSwgbGluZV9pbWFnZV9zaXplKQogICAgICAgICAgICBjaGFyYWN0ZXJfcHJvYmFiaWxpdGllcyA9IGhhbmR3cml0aW5nX2xpbmVfcmVjb2duaXRpb25fbmV0KGxpbmVfaW1hZ2UuYXNfaW5fY29udGV4dChjdHgpKQogICAgICAgICAgICBkZWNvZGVkX3RleHQgPSBkZW5vaXNlX2Z1bmMoY2hhcmFjdGVyX3Byb2JhYmlsaXRpZXMpCiAgICAgICAgICAgIHByZWRpY3RlZF90ZXh0LmFwcGVuZChkZWNvZGVkX3RleHQpCgogICAgICAgIGFjdHVhbF90ZXh0ID0gdGV4dFswXS5yZXBsYWNlKCImcXVvdCIsICdcIicpLnJlcGxhY2UoIiZhbXAiLCAiJiIpLnJlcGxhY2UoJyI7JywgJ1wiJylbOi0xXQogICAgICAgIGFjdHVhbF90ZXh0ID0gYWN0dWFsX3RleHQuc3BsaXQoIlxuIikKICAgICAgICBpZiBsZW4ocHJlZGljdGVkX3RleHQpID4gbGVuKGFjdHVhbF90ZXh0KToKICAgICAgICAgICAgcHJlZGljdGVkX3RleHQgPSBwcmVkaWN0ZWRfdGV4dFs6bGVuKGFjdHVhbF90ZXh0KV0KICAgICAgICBzY2xpdGUuYWRkX3RleHQocHJlZGljdGVkX3RleHQsIGFjdHVhbF90ZXh0KQoKICAgIF8sIGVyID0gc2NsaXRlLmdldF9jZXIoKQogICAgcHJpbnQoIk1lYW4gQ0VSID0ge30iLmZvcm1hdChlcikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgaXMgZXZlbnQgYm9keSBkaWN0aW9uYXJ5Pwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml0bigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV2ZW50X2JvZHlbJ2RvbWFpbiddID0gZG9tYWluCg==</text>
+        <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGN6eSBwb3dpbmllbmVtIGRvZGHEhyBkb21haW4gZG8gZXZlbnQgYm9keQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBkYi5Db2x1bW4oZGIuRGF0ZVRpbWUsIG51bGxhYmxlPUZhbHNlLCBkZWZhdWx0PWRhdGV0aW1lLnV0Y25vdykK</text>
+        <text encoding="base64">anNvbi5kdW1wKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJChjYXQgJHBhdGgpCg==</text>
+        <text encoding="base64">anNvbi5kdW1wKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cont</last-search>
+      <last-search>r</last-search>
       <last-offset />
-      <last-pattern>cont</last-pattern>
+      <last-pattern>r</last-pattern>
+      <last-replace />
+      <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>/paragraph/wwww/</entry>
+        <entry>r</entry>
+      </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>action Run</entry>
         <entry>1</entry>
         <entry>q!</entry>
+        <entry>s%/paragraph/wwww/</entry>
+        <entry encoding="base64">bWFwIFxyIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
+        <entry>action ReformatCode</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
