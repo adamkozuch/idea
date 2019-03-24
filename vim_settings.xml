@@ -32,7 +32,8 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/graph_bfs.py" timestamp="1553343589579">
+      <file name="$USER_HOME$/PycharmProjects/untitled/graph_bfs.py" timestamp="1553454428481">
+        <mark key="'" line="13" column="14" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -165,7 +166,8 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1553164485790">
         <mark key="'" line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/make_translations.py" timestamp="1552752485945">
+      <file name="$USER_HOME$/PycharmProjects/untitled/make_translations.py" timestamp="1553454492383">
+        <mark key="'" line="0" column="2" />
         <mark key="[" line="35" column="47" />
         <mark key="]" line="35" column="47" />
         <mark key="." line="35" column="47" />
@@ -241,7 +243,6 @@
         <mark key="^" line="128" column="81" />
         <mark key="." line="128" column="81" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1553425354983" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" timestamp="1553170161559">
         <mark key="'" line="27" column="6" />
         <mark key="[" line="66" column="0" />
@@ -270,10 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
-      <jump line="46" column="4" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
-      <jump line="539" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="585" column="19" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="721" column="19" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="563" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
@@ -370,6 +367,10 @@
       <jump line="99" column="4" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
       <jump line="168" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
       <jump line="175" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
+      <jump line="13" column="14" filename="$USER_HOME$/PycharmProjects/untitled/graph_bfs.py" />
+      <jump line="40" column="23" filename="$USER_HOME$/PycharmProjects/untitled/make_translations.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/untitled/make_translations.py" />
+      <jump line="0" column="2" filename="$USER_HOME$/PycharmProjects/untitled/make_translations.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -379,7 +380,7 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>r</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rpc3RpbmN0X2FjY291bnRzX3JldHVybl9vbGRfY29udHJhY3Rvcl9uYW1lKHNlbGYpOgogICAgICAgIGFwaV9jbGllbnQgPSBzZWxmLnByb3ZpZGVyLmdldF9hcGlfY2xpZW50X2J5X2RvbWFpbihzZWxmLmRvbWFpbnNfYWNjb3VudDFbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50LmNsaWVudF9pZCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X2lkJ10pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50LmNsaWVudF9zZWNyZXQsIHNlbGYucGF5cGFsX2NsaWVudDFfY3JlZGVudGlhbHNbJ2NsaWVudF9zZWNyZXQnXSkK</text>
@@ -412,13 +413,13 @@
         <text encoding="base64">ICAgICAgICBwcmludCgpLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>set incsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>r</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>r</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -428,6 +429,9 @@
       <history-search>
         <entry>/paragraph/wwww/</entry>
         <entry>r</entry>
+        <entry>default</entry>
+        <entry>result</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
@@ -447,6 +451,7 @@
         <entry>w</entry>
         <entry>action Run</entry>
         <entry>action Switcher</entry>
+        <entry>set incsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
