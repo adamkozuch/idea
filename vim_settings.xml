@@ -61,6 +61,11 @@
         <mark key="^" line="31" column="40" />
         <mark key="." line="31" column="40" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/.pytest_cache/.gitignore" timestamp="1553421245268">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553166192130">
         <mark key="'" line="158" column="8" />
         <mark key="[" line="357" column="61" />
@@ -354,11 +359,11 @@
       <jump line="10" column="62" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/evaluate_cer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBwcmlu</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>r</text>
@@ -394,7 +399,7 @@
         <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -422,11 +427,13 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action SwitchViewAction</entry>
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gU3dpdGNoZXI8Q1I+</entry>
-        <entry>action Switcher</entry>
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gUnVuPENSPg==</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ResizeToolWindowLeft</entry>
         <entry>action Run</entry>
+        <entry>action Switcher</entry>
+        <entry>action GotoFile</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -473,6 +480,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
