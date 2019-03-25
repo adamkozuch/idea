@@ -69,7 +69,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/contractors/fixtures/contractors.json" timestamp="1553508599504">
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/contractors/fixtures/contractors.json" timestamp="1553513561695">
+        <mark key="'" line="76" column="0" />
         <mark key="[" line="74" column="14" />
         <mark key="]" line="74" column="16" />
         <mark key="^" line="76" column="30" />
@@ -308,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="585" column="19" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="721" column="19" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="563" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
@@ -408,6 +408,7 @@
       <jump line="28" column="6" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
       <jump line="244" column="19" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" />
       <jump line="215" column="24" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/contractors/fixtures/contractors.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
