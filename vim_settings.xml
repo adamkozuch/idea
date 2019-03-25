@@ -69,6 +69,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/contractors/fixtures/contractors.json" timestamp="1553508599504">
+        <mark key="[" line="74" column="14" />
+        <mark key="]" line="74" column="16" />
+        <mark key="^" line="76" column="30" />
+        <mark key="." line="74" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/config/configurator.py" timestamp="1553270717186">
         <mark key="'" line="15" column="37" />
         <mark key="[" line="17" column="20" />
@@ -134,7 +140,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/Vagrantfile" timestamp="1553268803373" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" timestamp="1553252508258">
         <mark key="'" line="202" column="21" />
         <mark key="[" line="202" column="60" />
@@ -180,7 +185,6 @@
         <mark key="^" line="180" column="57" />
         <mark key="." line="180" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/README.md" timestamp="1553268833515" />
       <file name="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1553082242839">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="0" />
@@ -293,7 +297,6 @@
         <mark key="^" line="180" column="65" />
         <mark key="." line="180" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1553176649452" />
     </filemarks>
     <jumps>
       <jump line="1" column="0" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
@@ -399,16 +402,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMgbW/FvGUgdHV0YWogdG8gbW9nxJkgd3lzecWCYcSH</text>
+        <text>GlobalCollect</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgbW/FvGUgdHV0YWogdG8gbW9nxJkgd3lzecWCYcSH</text>
+        <text>GlobalCollect</text>
       </register>
       <register name="/" type="4">
         <text>może</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rpc3RpbmN0X2FjY291bnRzX3JldHVybl9vbGRfY29udHJhY3Rvcl9uYW1lKHNlbGYpOgogICAgICAgIGFwaV9jbGllbnQgPSBzZWxmLnByb3ZpZGVyLmdldF9hcGlfY2xpZW50X2J5X2RvbWFpbihzZWxmLmRvbWFpbnNfYWNjb3VudDFbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50LmNsaWVudF9pZCwgc2VsZi5wYXlwYWxfY2xpZW50MV9jcmVkZW50aWFsc1snY2xpZW50X2lkJ10pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50LmNsaWVudF9zZWNyZXQsIHNlbGYucGF5cGFsX2NsaWVudDFfY3JlZGVudGlhbHNbJ2NsaWVudF9zZWNyZXQnXSkK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAibW9kZWwiOiAiY29udHJhY3RvcnMuY29udHJhY3RvciIsCiAgICAgICAgInBrIjogMTAsCiAgICAgICAgImZpZWxkcyI6IHsKICAgICAgICAgICAgIm5hbWUiOiAiR2xvYmFsQ29sbGVjdCIKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHdvcmQgPSBpbnB1dCgnVHlwZSB3b3JkIHlvdSB3YW50IHRvIGZpbmQ6ICcpCg==</text>
