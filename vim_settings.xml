@@ -294,11 +294,11 @@
         <mark key="'" line="41" column="38" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1553526389345" />
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1553528922160">
-        <mark key="[" line="93" column="22" />
-        <mark key="]" line="93" column="28" />
-        <mark key="^" line="93" column="28" />
-        <mark key="." line="93" column="28" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1553531320151">
+        <mark key="[" line="91" column="7" />
+        <mark key="]" line="91" column="7" />
+        <mark key="^" line="91" column="7" />
+        <mark key="." line="91" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1553153484429">
         <mark key="'" line="122" column="0" />
@@ -469,16 +469,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHBwCg==</text>
+      <register name="0" type="4">
+        <text>srv/wms/scripts/ci/install_modules.sh</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSAudXRpbHMgaW1wb3J0IAo=</text>
