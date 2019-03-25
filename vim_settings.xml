@@ -151,6 +151,13 @@
         <mark key="." line="375" column="48" />
         <mark key="^" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1553521758497">
+        <mark key="'" line="609" column="29" />
+        <mark key="[" line="555" column="34" />
+        <mark key="]" line="555" column="36" />
+        <mark key="." line="555" column="36" />
+        <mark key="^" line="555" column="36" />
+      </file>
       <file name="/Python Console" timestamp="1553329242268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="0" />
@@ -247,7 +254,7 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="23" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553516781377">
+      <file name="/Dummy.txt" timestamp="1553521396489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1553172932943">
@@ -308,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="46" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="1" column="7" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="112" column="33" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="86" column="48" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="79" column="57" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
@@ -408,16 +413,18 @@
       <jump line="62" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" />
       <jump line="276" column="38" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
       <jump line="244" column="26" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" />
+      <jump line="572" column="46" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="609" column="29" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getting</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="-" type="4">
-        <text>getting</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnZXJcPg==</text>
+        <text>is not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2Rpc3RpbmN0X2FjY291bnRzX3JldHVybl9uZXdfY29udHJhY3Rvcl9uYW1lKHNlbGYpOgogICAgICAgIGFwaV9jbGllbnQgPSBzZWxmLnByb3ZpZGVyLmdldF9hcGlfY2xpZW50X2J5X2RvbWFpbihzZWxmLmRvbWFpbnNfYWNjb3VudDJbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcGlfY2xpZW50Lm9wdGlvbnNbJ2NvbnRyYWN0b3InXSwgJ1BheVBhbCBHb0QnKQo=</text>
@@ -454,17 +461,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
+      <last-search>is not</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
+      <last-pattern>is not</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb21haW5cPg==</entry>
         <entry>paypal</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZWRfZGF0YVw+</entry>
         <entry>contrac</entry>
@@ -484,6 +490,7 @@
         <entry>tutaj</entry>
         <entry>może</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry>is not</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
