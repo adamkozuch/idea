@@ -442,7 +442,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgpLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -483,8 +483,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
