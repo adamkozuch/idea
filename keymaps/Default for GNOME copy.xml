@@ -141,6 +141,10 @@
   <action id="SaveAll" />
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NextTab" />
+  <action id="SearchEverywhere.SelectItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
