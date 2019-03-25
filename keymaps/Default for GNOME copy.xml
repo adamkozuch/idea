@@ -2,10 +2,6 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
@@ -14,6 +10,7 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="BraceOrQuoteOut" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
@@ -23,22 +20,29 @@
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorContextInfo" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="EditorIndentSelection" />
   <action id="EditorUnSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="ExpandLiveTemplateByTab" />
   <action id="ExportToTextFile" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
@@ -77,6 +81,9 @@
   <action id="HippieCompletion" />
   <action id="Inline" />
   <action id="InsertLiveTemplate" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NewElement">
@@ -88,12 +95,15 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="NextParameter">
-    <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="ctrl alt n" />
     <keyboard-shortcut first-keystroke="alt w" />
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="NextTab" />
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -129,6 +139,8 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="SaveAll" />
+  <action id="SearchEverywhere.CompleteCommand" />
+  <action id="SearchEverywhere.NextTab" />
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
