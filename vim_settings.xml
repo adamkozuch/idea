@@ -243,8 +243,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1553519179281">
         <mark key="'" line="244" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1553586765417">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1553591853760">
+        <mark key="'" line="22" column="20" />
         <mark key="[" line="373" column="0" />
         <mark key="]" line="373" column="0" />
         <mark key="." line="373" column="0" />
@@ -351,7 +351,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/ci/install_modules.sh" timestamp="1553584689358" />
     </filemarks>
     <jumps>
-      <jump line="55" column="4" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" />
       <jump line="59" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/views.py" />
       <jump line="22" column="26" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/views.py" />
       <jump line="10" column="36" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
@@ -451,6 +450,7 @@
       <jump line="581" column="11" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
       <jump line="572" column="33" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
       <jump line="549" column="23" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="22" column="20" filename="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
