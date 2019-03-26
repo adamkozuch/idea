@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1553516664095">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" timestamp="1553585187127">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -31,6 +28,12 @@
         <mark key="]" line="188" column="8" />
         <mark key="^" line="188" column="8" />
         <mark key="." line="188" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" timestamp="1553170161559">
+        <mark key="'" line="27" column="6" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1553500016574">
         <mark key="'" line="26" column="33" />
@@ -72,6 +75,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1553529243017">
         <mark key="'" line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1552982961490">
+        <mark key="'" line="16" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1553166615340">
         <mark key="'" line="26" column="44" />
       </file>
@@ -100,10 +109,11 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553082766233">
         <mark key="'" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1553533153169">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1553586835206">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="0" />
+        <mark key="." line="374" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1553082940578">
         <mark key="'" line="55" column="4" />
@@ -177,8 +187,21 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/tasks/setup_ubuntu_14_04.yml" timestamp="1552918923969">
         <mark key="'" line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" timestamp="1553588605692">
+        <mark key="'" line="549" column="23" />
+        <mark key="[" line="560" column="15" />
+        <mark key="]" line="560" column="33" />
+        <mark key="." line="560" column="33" />
+        <mark key="^" line="560" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" timestamp="1552900345581">
         <mark key="'" line="208" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1553434155312">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" timestamp="1552927244819">
         <mark key="'" line="1529" column="25" />
@@ -210,9 +233,6 @@
         <mark key="^" line="31" column="40" />
         <mark key="." line="31" column="40" />
       </file>
-      <file name="/Django Console" timestamp="1553078928960">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" timestamp="1553166243794">
         <mark key="'" line="284" column="52" />
         <mark key="[" line="228" column="31" />
@@ -222,6 +242,12 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1553519179281">
         <mark key="'" line="244" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1553586765417">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="373" column="0" />
+        <mark key="]" line="373" column="0" />
+        <mark key="." line="373" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" timestamp="1552901992611">
         <mark key="'" line="184" column="38" />
@@ -247,9 +273,6 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="23" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553329491731">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1553172932943">
         <mark key="'" line="239" column="77" />
         <mark key="[" line="189" column="25" />
@@ -261,7 +284,7 @@
         <mark key="'" line="41" column="38" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1553526389345" />
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1553584564760">
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1553586826769">
         <mark key="[" line="94" column="38" />
         <mark key="]" line="94" column="39" />
         <mark key="^" line="94" column="39" />
@@ -328,17 +351,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/ci/install_modules.sh" timestamp="1553584689358" />
     </filemarks>
     <jumps>
-      <jump line="79" column="57" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="72" column="47" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="65" column="47" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="58" column="47" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="57" column="47" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="50" column="47" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="49" column="47" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="14" column="10" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/admin.py" />
-      <jump line="82" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" />
-      <jump line="10" column="51" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" />
-      <jump line="51" column="37" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" />
       <jump line="55" column="4" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" />
       <jump line="59" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/views.py" />
       <jump line="22" column="26" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/views.py" />
@@ -428,68 +440,73 @@
       <jump line="69" column="15" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
       <jump line="67" column="29" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="20" column="18" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" />
+      <jump line="291" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="417" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="457" column="15" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="89" column="4" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="83" column="4" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="559" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="581" column="11" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="572" column="33" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
+      <jump line="549" column="23" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRG9tYWluICIsIHNlbGYubm90aWZpY2F0aW9uLmRvbWFpbikK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxleGlzdGluZ19zY2hlbWFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0X3BheXBhbF9jb250cmFjdG9yX2J5X2RvbWFpbihzZWxmLmRvbWFpbiwgbG9nZ2VyKQo=</text>
+      <register name="0" type="4">
+        <text>column_name in sensitive_fields</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRG9tYWluICIsIHNlbGYubm90aWZpY2F0aW9uLmRvbWFpbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1uX25hbWUgaW4gc2Vuc2l0aXZlX2ZpZWxkcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRldGVybWluZSBzZW5zaXRpdmUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1uX25hbWUgaW4gc2Vuc2l0aXZlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9ja19jb3VudHJ5IFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X2NvbnRyYWN0b3JfYnlfZG9tYWluKGRvbWFpbiwgcHJvdmlkZXJfbmFtZSk6CiAgICAgICAgcHJvdmlkZXIgPSBwcC5nZXRfcHJvdmlkZXIocHJvdmlkZXJfbmFtZSkKICAgICAgICByZXR1cm4gcHJvdmlkZXIuZ2V0X2FwaV9jbGllbnRfYnlfZG9tYWluKGRvbWFpbikub3B0aW9uc1snY29udHJhY3RvciddCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9ja19jb3VudHJ5IFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl9nZXRfY29udHJhY3Rvcl9ieV9kb21haW4oc2VsZi5kb21haW4sICdwYXlwYWwnKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbihmIkdldHRpbmcgY29udHJhY3RvciBmYWlsZWQgd2l0aDoge2V9LiBSZXR1cm5pbmcgZGVmYXVsdCBQYXlQYWwgY29udHJhY3Rvci4iKQogICAgICAgICAgICByZXR1cm4gIlBheVBhbCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl9nZXRfY29udHJhY3Rvcl9ieV9kb21haW4oc2VsZi5kb21haW4sICdwYXlwYWwnKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbihmIkdldHRpbmcgY29udHJhY3RvciBmYWlsZWQgd2l0aDoge2V9LiBSZXR1cm5pbmcgZGVmYXVsdCBQYXlQYWwgY29udHJhY3Rvci4iKQogICAgICAgICAgICByZXR1cm4gIlBheVBhbCIK</text>
+        <text encoding="base64">c291cmNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0X3BheXBhbF9jb250cmFjdG9yX2J5X2RvbWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRG9tYWluICIsIHNlbGYubm90aWZpY2F0aW9uLmRvbWFpbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0X3BheXBhbF9jb250cmFjdG9yX2J5X2RvbWFpbigpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxleGlzdGluZ19zY2hlbWFcPg==</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern encoding="base64">XDxleGlzdGluZ19zY2hlbWFcPg==</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcFw+</entry>
-        <entry>save_noti</entry>
-        <entry>contr</entry>
-        <entry encoding="base64">XDxQYXltZW50UHJvdmlkZXJzXD4=</entry>
-        <entry encoding="base64">XDxfZ2V0X2NvbnRyYWN0b3JcPg==</entry>
-        <entry>contractor</entry>
         <entry>created</entry>
         <entry>cont</entry>
         <entry>patch</entry>
@@ -504,6 +521,12 @@
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>get_pa</entry>
         <entry>print</entry>
+        <entry>sensitive</entry>
+        <entry encoding="base64">XDxuZXZlcl9zZW5zaXRpdmVfY29sdW1uc1w+</entry>
+        <entry encoding="base64">XDxkZXRlcm1pbmVfc2Vuc2l0aXZlXD4=</entry>
+        <entry encoding="base64">XDxleGlzdGluZ19jb2x1bW5fc2NoZW1hXD4=</entry>
+        <entry encoding="base64">XDxnZXRfZXhpc3RpbmdfY29sdW1uX3NjaGVtYVw+</entry>
+        <entry encoding="base64">XDxleGlzdGluZ19zY2hlbWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
