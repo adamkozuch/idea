@@ -263,11 +263,11 @@
         <mark key="'" line="41" column="38" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1553526389345" />
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1553531320151">
-        <mark key="[" line="91" column="7" />
-        <mark key="]" line="91" column="7" />
-        <mark key="^" line="91" column="7" />
-        <mark key="." line="91" column="7" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1553584564760">
+        <mark key="[" line="94" column="38" />
+        <mark key="]" line="94" column="39" />
+        <mark key="^" line="94" column="39" />
+        <mark key="." line="94" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1553153484429">
         <mark key="'" line="122" column="0" />
@@ -276,11 +276,11 @@
         <mark key="." line="200" column="89" />
         <mark key="^" line="200" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/sensitive.json" timestamp="1553533075821">
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/sensitive.json" timestamp="1553584269956">
         <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="3" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/fixtures/test_data.json" timestamp="1553510482991" />
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" timestamp="1552927074034">
@@ -327,6 +327,7 @@
         <mark key="^" line="178" column="33" />
         <mark key="." line="178" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/ci/install_modules.sh" timestamp="1553584689358" />
     </filemarks>
     <jumps>
       <jump line="74" column="46" filename="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
@@ -432,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stock_warehouse</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>stock_warehouse</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
