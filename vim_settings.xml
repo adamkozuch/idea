@@ -249,12 +249,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1553519179281">
         <mark key="'" line="244" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553607124232">
-        <mark key="'" line="50" column="52" />
-        <mark key="[" line="49" column="23" />
-        <mark key="]" line="49" column="23" />
-        <mark key="." line="49" column="23" />
-        <mark key="^" line="68" column="60" />
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553610256352">
+        <mark key="'" line="79" column="55" />
+        <mark key="[" line="91" column="52" />
+        <mark key="]" line="87" column="51" />
+        <mark key="." line="87" column="51" />
+        <mark key="^" line="87" column="51" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1553591853760">
         <mark key="'" line="22" column="20" />
@@ -367,7 +367,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/ci/install_modules.sh" timestamp="1553584689358" />
     </filemarks>
     <jumps>
-      <jump line="164" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
       <jump line="335" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
       <jump line="65" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
@@ -467,19 +466,20 @@
       <jump line="53" column="21" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="15" column="8" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="50" column="52" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="79" column="55" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>quant_ids</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>quant_ids</text>
       </register>
       <register name="/" type="4">
         <text>Cron fini</text>
       </register>
-      <register name="0" type="4">
-        <text>column_name in sensitive_fields</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicXVhbnQgaWRzIHt9Ii5mb3JtYXQoIHF1YW50X2lkcyApKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3bXNfcGEK</text>
