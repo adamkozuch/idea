@@ -249,12 +249,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1553519179281">
         <mark key="'" line="244" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553602218376">
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553605937423">
         <mark key="'" line="50" column="52" />
-        <mark key="[" line="21" column="94" />
-        <mark key="]" line="21" column="103" />
-        <mark key="^" line="21" column="103" />
-        <mark key="." line="21" column="103" />
+        <mark key="[" line="68" column="60" />
+        <mark key="]" line="68" column="60" />
+        <mark key="." line="68" column="60" />
+        <mark key="^" line="68" column="60" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1553591853760">
         <mark key="'" line="22" column="20" />
@@ -470,60 +470,59 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGlzdGluZ19zY2hlbWFcPg==</text>
+        <text>Cron fini</text>
       </register>
       <register name="0" type="4">
         <text>column_name in sensitive_fields</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1uX25hbWUgaW4gc2Vuc2l0aXZlX2ZpZWxkcykK</text>
+        <text encoding="base64">ICAgICAgICB3bXNfcGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRldGVybWluZSBzZW5zaXRpdmUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1uX25hbWUgaW4gc2Vuc2l0aXZlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ja19jb3VudHJ5IFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1uX25hbWUgaW4gc2Vuc2l0aXZlX2ZpZWxkcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ja19jb3VudHJ5IFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRldGVybWluZSBzZW5zaXRpdmUiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1uX25hbWUgaW4gc2Vuc2l0aXZlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c291cmNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9ja19jb3VudHJ5IFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRG9tYWluICIsIHNlbGYubm90aWZpY2F0aW9uLmRvbWFpbikK</text>
+        <text encoding="base64">ICAgICAgICBzdG9ja19jb3VudHJ5IFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGlzdGluZ19zY2hlbWFcPg==</last-search>
+      <last-search>Cron fini</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGlzdGluZ19zY2hlbWFcPg==</last-pattern>
+      <last-pattern>Cron fini</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>created</entry>
         <entry>cont</entry>
         <entry>patch</entry>
         <entry>get_con</entry>
@@ -543,6 +542,7 @@
         <entry encoding="base64">XDxleGlzdGluZ19jb2x1bW5fc2NoZW1hXD4=</entry>
         <entry encoding="base64">XDxnZXRfZXhpc3RpbmdfY29sdW1uX3NjaGVtYVw+</entry>
         <entry encoding="base64">XDxleGlzdGluZ19zY2hlbWFcPg==</entry>
+        <entry>Cron fini</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -551,10 +551,10 @@
         <entry>:w</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcg==</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
