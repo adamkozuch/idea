@@ -502,7 +502,7 @@
         <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHBwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -545,6 +545,9 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcg==</entry>
+        <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
