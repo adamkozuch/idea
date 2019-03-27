@@ -15,8 +15,8 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553615113063">
-        <mark key="'" line="331" column="24" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553670859569">
+        <mark key="'" line="339" column="8" />
         <mark key="[" line="356" column="63" />
         <mark key="]" line="356" column="85" />
         <mark key="." line="356" column="85" />
@@ -379,8 +379,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/ci/install_modules.sh" timestamp="1553584689358" />
     </filemarks>
     <jumps>
-      <jump line="269" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="224" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="10" column="67" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="369" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="378" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
@@ -479,6 +477,8 @@
       <jump line="332" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="168" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
       <jump line="162" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="34" column="15" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="339" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +488,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlX25vdGlmaWNhdGlvblw+</text>
+        <text encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicXVhbnQgaWRzIHt9Ii5mb3JtYXQoIHF1YW50X2lkcyApKQo=</text>
@@ -525,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlX25vdGlmaWNhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlX25vdGlmaWNhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>-1</last-dir>
@@ -535,7 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>options</entry>
         <entry>tutaj</entry>
         <entry>może</entry>
         <entry>is not</entry>
@@ -555,6 +554,7 @@
         <entry>domain</entry>
         <entry>Incoming</entry>
         <entry encoding="base64">XDxzYXZlX25vdGlmaWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
