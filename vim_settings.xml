@@ -6,21 +6,15 @@
       <file name="/start_script.py" timestamp="1553516664095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" timestamp="1553585187127">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="158" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553674628747">
-        <mark key="'" line="334" column="27" />
-        <mark key="[" line="331" column="82" />
-        <mark key="]" line="331" column="82" />
-        <mark key="." line="331" column="82" />
-        <mark key="^" line="331" column="82" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553680253565">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="365" column="23" />
+        <mark key="]" line="365" column="32" />
+        <mark key="." line="365" column="32" />
+        <mark key="^" line="365" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
@@ -32,12 +26,12 @@
         <mark key="^" line="142" column="17" />
         <mark key="." line="142" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1553614817700">
-        <mark key="'" line="162" column="13" />
-        <mark key="[" line="150" column="46" />
-        <mark key="]" line="150" column="79" />
-        <mark key="^" line="150" column="79" />
-        <mark key="." line="150" column="79" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1553680002813">
+        <mark key="'" line="150" column="8" />
+        <mark key="[" line="153" column="59" />
+        <mark key="]" line="153" column="28" />
+        <mark key="^" line="153" column="28" />
+        <mark key="." line="153" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" timestamp="1553170161559">
         <mark key="'" line="27" column="6" />
@@ -222,7 +216,9 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" timestamp="1552927244819">
         <mark key="'" line="1529" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1553674163658" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1553678707994">
+        <mark key="'" line="629" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0037_auto_20190312_1043.py" timestamp="1552901539064">
         <mark key="'" line="17" column="272" />
       </file>
@@ -242,6 +238,9 @@
         <mark key="]" line="180" column="57" />
         <mark key="^" line="180" column="57" />
         <mark key="." line="180" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1553679179426">
+        <mark key="'" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" timestamp="1553166634763">
         <mark key="'" line="159" column="38" />
@@ -292,6 +291,13 @@
         <mark key="]" line="357" column="61" />
         <mark key="^" line="369" column="115" />
         <mark key="." line="357" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" timestamp="1553680508898">
+        <mark key="'" line="44" column="35" />
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="49" column="67" />
+        <mark key="^" line="49" column="67" />
+        <mark key="." line="49" column="67" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" timestamp="1553247581413">
         <mark key="'" line="23" column="15" />
@@ -387,19 +393,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/ci/install_modules.sh" timestamp="1553584689358" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" />
-      <jump line="88" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="187" column="34" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="85" column="40" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="81" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="45" column="17" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="28" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="12" column="27" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="17" column="37" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="158" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="31" column="31" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="49" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="41" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="19" column="48" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="26" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/__init__.py" />
@@ -487,55 +480,68 @@
       <jump line="113" column="6" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" />
       <jump line="7" column="58" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" />
       <jump line="334" column="27" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="176" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="665" column="53" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="629" column="53" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="1" column="23" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" />
+      <jump line="29" column="45" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" />
+      <jump line="147" column="42" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="129" column="40" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="47" column="39" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" />
+      <jump line="46" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" />
+      <jump line="224" column="28" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="150" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
+      <jump line="364" column="77" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>notification_domain</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>notification_domain</text>
+        <text>warning</text>
       </register>
       <register name="/" type="4">
-        <text>contractor</text>
+        <text>capture</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicXVhbnQgaWRzIHt9Ii5mb3JtYXQoIHF1YW50X2lkcyApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiTm8gWC1DdXN0b20tVXJsIGhlYWRlciBzZXQgYW5kIG5vIGZhbGxiYWNrIGRvbWFpbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QuaGVhZGVyc1snSG9zdCddKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3bXNfcGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QuZW52aXJvbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QuZ2V0X2RhdGEoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1uX25hbWUgaW4gc2Vuc2l0aXZlX2ZpZWxkcykK</text>
+        <text encoding="base64">ICAgIHByaW50KCJpbiBub3RpZmljYXRpb25zIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRldGVybWluZSBzZW5zaXRpdmUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sdW1uX25hbWUgaW4gc2Vuc2l0aXZlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ja19jb3VudHJ5IFwK</text>
+        <text encoding="base64">ICAgICAgICB3bXNfcGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>contractor</last-search>
+      <last-search>capture</last-search>
       <last-offset />
-      <last-pattern>contractor</last-pattern>
+      <last-pattern>capture</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -543,8 +549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>może</entry>
-        <entry>is not</entry>
         <entry encoding="base64">XDxzdHJlZXRcPg==</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>get_pa</entry>
@@ -563,6 +567,8 @@
         <entry encoding="base64">XDxzYXZlX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</entry>
         <entry>contractor</entry>
+        <entry encoding="base64">XDxpbmNvbWluZ19wYXltZW50XD4=</entry>
+        <entry>capture</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
