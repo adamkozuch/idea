@@ -91,12 +91,12 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553782548714">
-        <mark key="'" line="139" column="36" />
-        <mark key="[" line="57" column="101" />
-        <mark key="]" line="57" column="101" />
-        <mark key="^" line="57" column="109" />
-        <mark key="." line="57" column="101" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553787846870">
+        <mark key="'" line="53" column="53" />
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+        <mark key="^" line="71" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553158409657">
         <mark key="'" line="88" column="8" />
@@ -231,12 +231,12 @@
         <mark key="." line="60" column="3" />
         <mark key="^" line="60" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1553783245139">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1553787984360">
         <mark key="'" line="57" column="38" />
-        <mark key="[" line="80" column="78" />
-        <mark key="]" line="80" column="78" />
-        <mark key="^" line="119" column="98" />
-        <mark key="." line="80" column="78" />
+        <mark key="[" line="83" column="57" />
+        <mark key="]" line="84" column="11" />
+        <mark key="^" line="84" column="11" />
+        <mark key="." line="84" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1553069638966">
         <mark key="'" line="47" column="47" />
@@ -357,12 +357,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1553519179281">
         <mark key="'" line="244" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553781413013">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553786276198">
         <mark key="'" line="74" column="34" />
-        <mark key="[" line="75" column="119" />
-        <mark key="]" line="75" column="150" />
-        <mark key="." line="75" column="150" />
-        <mark key="^" line="75" column="150" />
+        <mark key="[" line="110" column="63" />
+        <mark key="]" line="110" column="68" />
+        <mark key="." line="110" column="68" />
+        <mark key="^" line="110" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" timestamp="1552901992611">
         <mark key="'" line="184" column="38" />
@@ -441,7 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="27" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
       <jump line="142" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
       <jump line="43" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
       <jump line="27" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
@@ -541,55 +540,56 @@
       <jump line="50" column="28" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" />
       <jump line="135" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" />
       <jump line="139" column="36" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" />
+      <jump line="53" column="53" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>payment_channel_id</text>
+        <text>dynamic</text>
       </register>
-      <register name="0" type="4">
-        <text>availabilities</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChhMS5pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQ3JvbiBzcHJleGl0IHN5bmMgc3RhcnRlZCcpCiAgICAgICAgd21zX2Jhc2VfdXJsID0gb3MuZW52aXJvbi5nZXQoJ1dNU19CQVNFX1VSTCcpCiAgICAgICAgd21zX2RiX25hbWUgPSBvcy5lbnZpcm9uLmdldCgnV01TX0RCX05BTUUnKQogICAgICAgIHdtc191c2VybmFtZSA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUk5BTUUnKQogICAgICAgIHdtc19wYXNzd29yZCA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUl9QQVNTV09SRCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGl0ZW0sIHNsaWNlKSBhbmQgKGlzaW5zdGFuY2UoaXRlbS5zdGFydCwgZGF0ZSkgb3IgaXNpbnN0YW5jZShpdGVtLnN0b3AsIGRhdGUpKToKICAgICAgICAgICAgcXVlcnkgPSBzZWxmCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbS5zdGFydCwgZGF0ZSk6CiAgICAgICAgICAgICAgICBxdWVyeSA9IHF1ZXJ5LmZpbHRlcihQb3N0LmRhdGUgPj0gaXRlbS5zdGFydCkKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtLnN0b3AsIGRhdGUpOgogICAgICAgICAgICAgICAgcXVlcnkgPSBxdWVyeS5maWx0ZXIoUG9zdC5kYXRlIDwgaXRlbS5zdG9wKQogICAgICAgICAgICByZXR1cm4gcXVlcnkuYWxsKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhpcyBpcyB3YXJlaG91c2U6e30gIi5mb3JtYXQod2FyZWhvdXNlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAga2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygibG9jYWwgd2FyZWhvdXNlIHt9Ii5mb3JtYXQoIGxvY2FsX3dhcmVob3VzZSApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGIuKEF2YWlsYWJpbGl0eSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicXVhbnQgaWRzIHt9Ii5mb3JtYXQocXVhbnRfaWRzKSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYXJlIGFyZWFzIHN1YiBhcmVhcyB3aXRoIGludGVybmFsIHVzYWdlIHt9Ii5mb3JtYXQoc3ViX2FyZWFzX3dpdGhfaW50ZXJuYWxfdXNhZ2UpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnkoc2VsZiwqYXJncywqKmt3YXJncyk6CiAgICAgICAgcmV0dXJuIHN1cGVyKFBheW1lbnRDaGFubmVsQWRtaW5WaWV3LHNlbGYpLmdldF9xdWVyeSgqYXJncywqKmt3YXJncykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhlc2UgYXJlIGFyZWFzIHdpdGggdmlldyB7fSIuZm9ybWF0KGFyZWFzX3dpdGhfdmlld191c2FnZSkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuc2Vzc2lvbi5xdWVyeShBdmFpbGFiaWxpdHkpLmFsbCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnS2VlcGluZyBhcmVhIHt9Jy5mb3JtYXQoa2VlcGluZ19hcmVhKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhlc2UgYXJlIGFyZWFzIHt9Ii5mb3JtYXQoYXJlYXNfd2l0aF9pbnRlcm5hbF91c2FnZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQ3JvbiBzcHJleGl0IHN5bmMgc3RhcnRlZCcpCiAgICAgICAgd21zX2Jhc2VfdXJsID0gb3MuZW52aXJvbi5nZXQoJ1dNU19CQVNFX1VSTCcpCiAgICAgICAgd21zX2RiX25hbWUgPSBvcy5lbnZpcm9uLmdldCgnV01TX0RCX05BTUUnKQogICAgICAgIHdtc191c2VybmFtZSA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUk5BTUUnKQogICAgICAgIHdtc19wYXNzd29yZCA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUl9QQVNTV09SRCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
-      <last-search>payment_channel_id</last-search>
+      <last-search>dynamic</last-search>
       <last-offset />
-      <last-pattern>payment_channel_id</last-pattern>
+      <last-pattern>dynamic</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -597,7 +597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>capture</entry>
         <entry encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxEb3RwYXlQcm92aWRlclw+</entry>
         <entry>no-x</entry>
@@ -617,6 +616,7 @@
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry>payment_cha</entry>
         <entry>payment_channel_id</entry>
+        <entry>dynamic</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -627,9 +627,9 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcg==</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Switcher</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
