@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" timestamp="1553778539766">
+        <mark key="[" line="157" column="14" />
+        <mark key="]" line="157" column="21" />
+        <mark key="^" line="157" column="21" />
+        <mark key="." line="157" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1553685453663">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="364" column="23" />
@@ -43,15 +49,8 @@
         <mark key="." line="91" column="13" />
         <mark key="^" line="91" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/development/vars.yml" timestamp="1553613736229" />
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1553529243017">
         <mark key="'" line="9" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1552982961490">
-        <mark key="'" line="16" column="16" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1553673338960">
         <mark key="'" line="7" column="58" />
@@ -95,7 +94,6 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1553526438253" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553158409657">
         <mark key="'" line="88" column="8" />
         <mark key="[" line="128" column="81" />
@@ -187,7 +185,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/config/urls.py" timestamp="1552899896339">
         <mark key="'" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1553526389345" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" timestamp="1553159321141">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="4" />
@@ -197,7 +194,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" timestamp="1553170147684">
         <mark key="'" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/serializers.py" timestamp="1553520014097" />
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" timestamp="1552464029602">
         <mark key="'" line="8" column="12" />
         <mark key="[" line="9" column="13" />
@@ -207,13 +203,6 @@
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/ci/install_modules.sh" timestamp="1553584689358" />
-      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" timestamp="1553170161559">
-        <mark key="'" line="27" column="6" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1553500016574">
         <mark key="'" line="26" column="33" />
@@ -312,12 +301,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/defaultengineconfig.py" timestamp="1552900345581">
         <mark key="'" line="208" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1553434155312">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" timestamp="1553614372837">
         <mark key="'" line="266" column="82" />
         <mark key="[" line="304" column="0" />
@@ -360,11 +343,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1553519179281">
         <mark key="'" line="244" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1553591853760">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="." line="373" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553779211269">
+        <mark key="'" line="69" column="24" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="113" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" timestamp="1552901992611">
         <mark key="'" line="184" column="38" />
@@ -411,7 +395,6 @@
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/fixtures/test_data.json" timestamp="1553510482991" />
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_3.py" timestamp="1552927074034">
         <mark key="'" line="826" column="49" />
       </file>
@@ -447,9 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="67" column="29" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
       <jump line="20" column="18" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" />
       <jump line="291" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
       <jump line="417" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" />
@@ -547,49 +527,52 @@
       <jump line="153" column="30" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/admin.py" />
       <jump line="152" column="15" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/admin.py" />
       <jump line="102" column="41" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/admin.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="41" column="18" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="69" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>availabilities_ids</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQ3JvbiBzcHJleGl0IHN5bmMgc3RhcnRlZCcpCiAgICAgICAgd21zX2Jhc2VfdXJsID0gImh0dHA6Ly8xOTIuMTY4LjMzLjEwMzo4MDY5IiAjb3MuZW52aXJvbi5nZXQoJ1dNU19CQVNFX1VSTCcpCiAgICAgICAgd21zX2RiX25hbWUgPSAidGVzdF9maXh0dXJlcyIgIyBvcy5lbnZpcm9uLmdldCgnV01TX0RCX05BTUUnKQogICAgICAgIHdtc191c2VybmFtZSA9ICJhZG1pbiIgIyBvcy5lbnZpcm9uLmdldCgnV01TX1VTRVJOQU1FJykKICAgICAgICB3bXNfcGFzc3dvcmQgPSAiYWRtaW5hZG1pbiIgI29zLmVudmlyb24uZ2V0KCdXTVNfVVNFUl9QQVNTV09SRCcpCiAgICAgICAgbG9nZ2VyLmluZm8oImNyZWRlbnRpYWxzIHt9IHt9IHt9IHt9Ii5mb3JtYXQod21zX2Jhc2VfdXJsLCB3bXNfZGJfbmFtZSwgd21zX3VzZXJuYW1lLCB3bXNfcGFzc3dvcmQpKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGYiSW5jb21pbmcgYXZhaWxpYmlsaXRpZXNfaWRzOiB7YXZhaWxhYmlsaXRpZXNfaWRzfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQ3JvbiBzcHJleGl0IHN5bmMgc3RhcnRlZCcpCiAgICAgICAgd21zX2Jhc2VfdXJsID0gb3MuZW52aXJvbi5nZXQoJ1dNU19CQVNFX1VSTCcpCiAgICAgICAgd21zX2RiX25hbWUgPSBvcy5lbnZpcm9uLmdldCgnV01TX0RCX05BTUUnKQogICAgICAgIHdtc191c2VybmFtZSA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUk5BTUUnKQogICAgICAgIHdtc19wYXNzd29yZCA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUl9QQVNTV09SRCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhpcyBpcyB3YXJlaG91c2U6e30gIi5mb3JtYXQod2FyZWhvdXNlKSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQ3JvbiBzcHJleGl0IHN5bmMgc3RhcnRlZCcpCiAgICAgICAgd21zX2Jhc2VfdXJsID0gb3MuZW52aXJvbi5nZXQoJ1dNU19CQVNFX1VSTCcpCiAgICAgICAgd21zX2RiX25hbWUgPSBvcy5lbnZpcm9uLmdldCgnV01TX0RCX05BTUUnKQogICAgICAgIHdtc191c2VybmFtZSA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUk5BTUUnKQogICAgICAgIHdtc19wYXNzd29yZCA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUl9QQVNTV09SRCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygibG9jYWwgd2FyZWhvdXNlIHt9Ii5mb3JtYXQoIGxvY2FsX3dhcmVob3VzZSApKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhpcyBpcyB3YXJlaG91c2U6e30gIi5mb3JtYXQod2FyZWhvdXNlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicXVhbnQgaWRzIHt9Ii5mb3JtYXQocXVhbnRfaWRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygibG9jYWwgd2FyZWhvdXNlIHt9Ii5mb3JtYXQoIGxvY2FsX3dhcmVob3VzZSApKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYXJlIGFyZWFzIHN1YiBhcmVhcyB3aXRoIGludGVybmFsIHVzYWdlIHt9Ii5mb3JtYXQoc3ViX2FyZWFzX3dpdGhfaW50ZXJuYWxfdXNhZ2UpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicXVhbnQgaWRzIHt9Ii5mb3JtYXQocXVhbnRfaWRzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhlc2UgYXJlIGFyZWFzIHdpdGggdmlldyB7fSIuZm9ybWF0KGFyZWFzX3dpdGhfdmlld191c2FnZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYXJlIGFyZWFzIHN1YiBhcmVhcyB3aXRoIGludGVybmFsIHVzYWdlIHt9Ii5mb3JtYXQoc3ViX2FyZWFzX3dpdGhfaW50ZXJuYWxfdXNhZ2UpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnS2VlcGluZyBhcmVhIHt9Jy5mb3JtYXQoa2VlcGluZ19hcmVhKSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhlc2UgYXJlIGFyZWFzIHdpdGggdmlldyB7fSIuZm9ybWF0KGFyZWFzX3dpdGhfdmlld191c2FnZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhlc2UgYXJlIGFyZWFzIHt9Ii5mb3JtYXQoYXJlYXNfd2l0aF9pbnRlcm5hbF91c2FnZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnS2VlcGluZyBhcmVhIHt9Jy5mb3JtYXQoa2VlcGluZ19hcmVhKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkJlZm9yZSBtb2RlbCByZWNvcmQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiVGhlc2UgYXJlIGFyZWFzIHt9Ii5mb3JtYXQoYXJlYXNfd2l0aF9pbnRlcm5hbF91c2FnZSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -632,10 +615,10 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcg==</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
