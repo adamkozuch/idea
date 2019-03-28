@@ -136,12 +136,12 @@
         <mark key="^" line="228" column="40" />
         <mark key="." line="228" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553764378627">
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553764983630">
         <mark key="'" line="144" column="48" />
-        <mark key="[" line="103" column="42" />
-        <mark key="]" line="83" column="28" />
-        <mark key="^" line="83" column="28" />
-        <mark key="." line="83" column="28" />
+        <mark key="[" line="80" column="20" />
+        <mark key="]" line="80" column="48" />
+        <mark key="^" line="80" column="48" />
+        <mark key="." line="80" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1553158543826">
         <mark key="'" line="187" column="34" />
@@ -494,11 +494,11 @@
       <jump line="144" column="48" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQ3JvbiBzcHJleGl0IHN5bmMgc3RhcnRlZCcpCiAgICAgICAgd21zX2Jhc2VfdXJsID0gb3MuZW52aXJvbi5nZXQoJ1dNU19CQVNFX1VSTCcpCiAgICAgICAgd21zX2RiX25hbWUgPSBvcy5lbnZpcm9uLmdldCgnV01TX0RCX05BTUUnKQogICAgICAgIHdtc191c2VybmFtZSA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUk5BTUUnKQogICAgICAgIHdtc19wYXNzd29yZCA9IG9zLmVudmlyb24uZ2V0KCdXTVNfVVNFUl9QQVNTV09SRCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>query_stock_areas_with_internal_usage</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>query_stock_areas_with_internal_usage</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
