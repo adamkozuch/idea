@@ -137,6 +137,11 @@
         <mark key="^" line="180" column="57" />
         <mark key="." line="180" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" timestamp="1553872269230">
+        <mark key="[" line="544" column="0" />
+        <mark key="]" line="544" column="0" />
+        <mark key="." line="544" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1553082242839">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="0" />
@@ -342,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29kID0gZmxvYXQoc2VsZi5kYXRhW1NfT1JERVIuQ09EX1ZBTFVFXSkgPiAwCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW4g</text>
@@ -354,13 +359,13 @@
         <text>payment_channel.availabilities</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29kID0gZmxvYXQoc2VsZi5kYXRhW1NfT1JERVIuQ09EX1ZBTFVFXSkgPiAwCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -372,13 +377,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkNvbnRyYWN0b3IgaWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb250cmFjdG9yc19zZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkNvbnRyYWN0b3IgaWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICMgcGF5bWVudF9jaGFubmVsLmF2YWlsYWJpbGl0aWVzLmZpbHRlcihBdmFpbGFiaWxpdHkuaWQuaW5fKGF2YWlsYWJpbGl0aWVzX2lkcykpXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb250cmFjdG9yc19zZXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Switcher</text>
