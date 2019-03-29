@@ -31,6 +31,10 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
