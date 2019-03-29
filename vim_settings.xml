@@ -306,12 +306,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1553519179281">
         <mark key="'" line="244" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553852919212">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="85" column="35" />
-        <mark key="]" line="85" column="35" />
-        <mark key="." line="85" column="35" />
-        <mark key="^" line="85" column="82" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553855397745">
+        <mark key="'" line="85" column="55" />
+        <mark key="[" line="99" column="107" />
+        <mark key="]" line="99" column="107" />
+        <mark key="." line="99" column="107" />
+        <mark key="^" line="99" column="148" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553768452810">
         <mark key="'" line="144" column="48" />
@@ -453,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
       <jump line="27" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
       <jump line="66" column="6" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
       <jump line="98" column="17" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
@@ -532,7 +531,6 @@
       <jump line="219" column="47" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="216" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="111" column="74" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="99" column="48" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="81" column="36" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="73" column="81" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="68" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
@@ -553,59 +551,57 @@
       <jump line="53" column="53" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" />
       <jump line="74" column="25" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="99" column="47" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="85" column="55" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>.options(joinedload('account_product_group'))</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>.options(joinedload('account_product_group'))</text>
       </register>
       <register name="/" type="4">
-        <text>dynamic</text>
+        <text>accoutn_product_group</text>
       </register>
       <register name="0" type="4">
-        <text>Account.query
-            .filter(Account.shops.any(Shop.domain == Domain.query.filter_by(name=data['domain']).first()))
-            # .filter(Account.product_groups.any(ProductGroup.hash_id.in_(product_groups_hash_ids))) # change this to all Grupy ktore zawieraja wszystkie
-            .filter(Account.is_active == True)
-            .all()</text>
+        <text>Account.query.join(account_product_groups).join(ProductGroup).all()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIAo=</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkX2FjY291bnRfaWRzID0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGZvciBpIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkX2FjY291bnRfaWRzID0gIFthYyBmb3IgYWMgaW4gIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRzID0gc2Vzc2lvbi5xdWVyeShBY2NvdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAuZmlsdGVyKEFjY291bnQucHJvZHVjdF9ncm91cHMuYW55KFByb2R1Y3RHcm91cC5oYXNoX2lkLmluXyhwcm9kdWN0X2dyb3Vwc19oYXNoX2lkcykpKSAjIGNoYW5nZSB0aGlzIHRvIGFsbCBHcnVweSBrdG9yZSB6YXdpZXJhamEgd3N6eXN0a2llCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFsbCgpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KFtwLmlkIGZvciBwIGluIHBfZ10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgY2hhbmdlIHRoaXMgdG8gYWxsIEdydXB5IGt0b3JlIHphd2llcmFqYSB3c3p5c3RraWUuIENhbiBJIGp1c3QgdXNlIGdhdGhlcmVkIGlkcy4K</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHNldAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJiZWZvcmUiKQogICAgcHJpbnQoaW5faWRzLmFsbCgpKQogICAgcHJpbnQoImFmdGVyIikK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUG9zdENsYXNzUXVlcnkoUXVlcnkpOgoKICAgIGRlZiBfX2dldGl0ZW1fXyhzZWxmLCBpdGVtKToKCiAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtLCBzbGljZSkgYW5kIChpc2luc3RhbmNlKGl0ZW0uc3RhcnQsIGRhdGUpIG9yIGlzaW5zdGFuY2UoaXRlbS5zdG9wLCBkYXRlKSk6CiAgICAgICAgICAgIHF1ZXJ5ID0gc2VsZgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGl0ZW0uc3RhcnQsIGRhdGUpOgogICAgICAgICAgICAgICAgcXVlcnkgPSBxdWVyeS5maWx0ZXIoUG9zdC5kYXRlID49IGl0ZW0uc3RhcnQpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbS5zdG9wLCBkYXRlKToKICAgICAgICAgICAgICAgIHF1ZXJ5ID0gcXVlcnkuZmlsdGVyKFBvc3QuZGF0ZSA8IGl0ZW0uc3RvcCkKICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5LmFsbCgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3VwZXIoUG9zdENsYXNzUXVlcnksIHNlbGYpLl9fZ2V0aXRlbV9fKGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgIGFjY291bnRzID0gc2Vzc2lvbi5xdWVyeShBY2NvdW50KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dynamic</last-search>
+      <last-search>accoutn_product_group</last-search>
       <last-offset />
-      <last-pattern>dynamic</last-pattern>
+      <last-pattern>accoutn_product_group</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -613,7 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxEb3RwYXlQcm92aWRlclw+</entry>
         <entry>no-x</entry>
         <entry>no_x</entry>
@@ -633,19 +628,20 @@
         <entry>payment_cha</entry>
         <entry>payment_channel_id</entry>
         <entry>dynamic</entry>
+        <entry>accoutn_product_group</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>q</entry>
         <entry>:w</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcg==</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Switcher</entry>
-        <entry>w</entry>
+        <entry>action GotoFile</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
