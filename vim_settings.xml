@@ -31,7 +31,7 @@
         <mark key="." line="60" column="3" />
         <mark key="^" line="60" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1553862265571">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1553863974756">
         <mark key="[" line="80" column="78" />
         <mark key="]" line="80" column="78" />
         <mark key="." line="80" column="78" />
@@ -113,11 +113,11 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553863344592">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553863947474">
         <mark key="[" line="73" column="24" />
-        <mark key="]" line="73" column="24" />
-        <mark key="^" line="73" column="24" />
-        <mark key="." line="73" column="24" />
+        <mark key="]" line="75" column="50" />
+        <mark key="^" line="75" column="50" />
+        <mark key="." line="75" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553158409657">
         <mark key="'" line="88" column="8" />
@@ -210,12 +210,12 @@
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553861966813">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553864847346">
         <mark key="'" line="82" column="69" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="83" column="19" />
+        <mark key="[" line="87" column="20" />
+        <mark key="]" line="87" column="20" />
+        <mark key="^" line="115" column="98" />
+        <mark key="." line="87" column="20" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-111857053/builtins.py" timestamp="1553861971823" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1553158543826">
@@ -400,46 +400,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>issu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2RhdGEoc2VsZik6CiAgICAgICAgZG9tYWluID0gRG9tYWluKG5hbWU9c2VsZi5xdWVyeVsnZG9tYWluJ10pCiAgICAgICAgc2hvcCA9IFNob3AobmFtZT0nMTgwbmV4dCcsIGRvbWFpbj1kb21haW4pCiAgICAgICAgY3VycmVuY3kgPSBDdXJyZW5jeShuYW1lPXNlbGYucXVlcnlbJ2N1cnJlbmN5J10pCiAgICAgICAgY291bnRyeSA9IENvdW50cnkobmFtZT1zZWxmLnF1ZXJ5Wydjb3VudHJ5J10pCiAgICAgICAgY29udHJhY3RvciA9IENvbnRyYWN0b3IobmFtZT0nUGF5UGFsJykKICAgICAgICBvcGVyYXRvciA9IE9wZXJhdG9yKG5hbWU9J1BheVBhbCcpCiAgICAgICAgcHJvZHVjdF9ncm91cCA9IFByb2R1Y3RHcm91cChoYXNoX2lkPSdhYmNkZWYxMjQnKQogICAgICAgIGRiLnNlc3Npb24uYWRkKAogICAgICAgICAgICBQcm9kdWN0VmFyaWFudEluQ291bnRyeShoYXNoX2lkPXNlbGYucXVlcnlbJ2hhc2hfY29kZXMnXS5zcGxpdCgnLCcpWzBdLCBwcm9kdWN0X2dyb3VwPXByb2R1Y3RfZ3JvdXApKQogICAgICAgIGFjY291bnQgPSBBY2NvdW50KG5hbWU9J0FjY291bnQnLCBpc19hY3RpdmU9VHJ1ZSwgY29udHJhY3Rvcj1jb250cmFjdG9yKQogICAgICAgIGFjY291bnQuc2hvcHMuYXBwZW5kKHNob3ApCiAgICAgICAgYWNjb3VudC5wcm9kdWN0X2dyb3Vwcy5hcHBlbmQocHJvZHVjdF9ncm91cCkKICAgICAgICBwYXltZW50X2NoYW5uZWwgPSBQYXltZW50Q2hhbm5lbChvcGVyYXRvcj1vcGVyYXRvciwgbmFtZT0nQkxJSycsIGFwaV9jb2RlPSc3MycsIGlzX2FjdGl2ZT1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRfY3VycmVuY3k9Y3VycmVuY3kpCiAgICAgICAgcGF5bWVudF9jaGFubmVsLmN1cnJlbmNpZXMuYXBwZW5kKGN1cnJlbmN5KQogICAgICAgIGF2YWlsYWJpbGl0eSA9IEF2YWlsYWJpbGl0eShwYXltZW50X2NoYW5uZWw9cGF5bWVudF9jaGFubmVsLCBhY2NvdW50PWFjY291bnQsIGlzX2FjdGl2ZT1UcnVlLCBjb3VudHJ5PWNvdW50cnkpCgogICAgICAgIGRiLnNlc3Npb24uYWRkKGRvbWFpbikKICAgICAgICBkYi5zZXNzaW9uLmFkZChzaG9wKQogICAgICAgIGRiLnNlc3Npb24uYWRkKGNvdW50cnkpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoY3VycmVuY3kpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQob3BlcmF0b3IpCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQocHJvZHVjdF9ncm91cCkKICAgICAgICBkYi5zZXNzaW9uLmFkZChhY2NvdW50KQogICAgICAgIGRiLnNlc3Npb24uYWRkKHBheW1lbnRfY2hhbm5lbCkKICAgICAgICBkYi5zZXNzaW9uLmFkZChhdmFpbGFiaWxpdHkpCiAgICAgICAgZGIuc2Vzc2lvbi5jb21taXQoKQo=</text>
+      <register name="0" type="4">
+        <text>payment_channel.availabilities</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbl9zZWxlY3RfcmVsYXRlZF9saXN0ID0gKCdhdmFpbGFiaWxpdGllcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgYWNjb3VudHNfaWRzID0gWwogICAgIyAgICAgYWNjLmlkIGZvciBhY2MgaW4gQWNjb3VudC5xdWVyeQogICAgIyAgICAgICAgIC5maWx0ZXIoQWNjb3VudC5zaG9wcy5hbnkoU2hvcC5kb21haW4gPT0gRG9tYWluLnF1ZXJ5LmZpbHRlcl9ieShuYW1lPWRhdGFbJ2RvbWFpbiddKS5maXJzdCgpKSkKICAgICMgICAgICAgICAuZmlsdGVyKEFjY291bnQucHJvZHVjdF9ncm91cHMuYW55KFByb2R1Y3RHcm91cC5oYXNoX2lkLmluXyhwcm9kdWN0X2dyb3Vwc19oYXNoX2lkcykpKQogICAgIyAgICAgICAgIC5maWx0ZXIoQWNjb3VudC5pc19hY3RpdmUgPT0gVHJ1ZSkKICAgICMgICAgICAgICAuYWxsKCkKICAgICMgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdNQU5EQVRPUlkgJywgbWFuZGF0b3J5X3Byb2R1Y3RfZ3JvdXBfaWRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAuZmlsdGVyKEFjY291bnQucHJvZHVjdF9ncm91cHMuYW55KFByb2R1Y3RHcm91cC5oYXNoX2lkLmluXyhwcm9kdWN0X2dyb3Vwc19oYXNoX2lkcykpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdvcmQgPSBpbnB1dCgnVHlwZSB3b3JkIHlvdSB3YW50IHRvIGZpbmQ6ICcpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -470,15 +470,15 @@
         <entry>action SwitchViewAction</entry>
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gU3dpdGNoZXI8Q1I+</entry>
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gUnVuPENSPg==</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>action ResizeToolWindowLeft</entry>
         <entry>set incsearch</entry>
-        <entry>action Run</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
-        <entry>action Switcher</entry>
         <entry>q</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
+        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
