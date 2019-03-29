@@ -357,12 +357,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1553519179281">
         <mark key="'" line="244" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553849699042">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553850780291">
         <mark key="'" line="74" column="34" />
-        <mark key="[" line="88" column="10" />
-        <mark key="]" line="72" column="48" />
-        <mark key="." line="72" column="48" />
-        <mark key="^" line="72" column="48" />
+        <mark key="[" line="80" column="33" />
+        <mark key="]" line="80" column="34" />
+        <mark key="." line="80" column="34" />
+        <mark key="^" line="80" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/ansible/api/group_vars/all.yml" timestamp="1552901992611">
         <mark key="'" line="184" column="38" />
@@ -556,10 +556,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Pro Spedition Limited</text>
+        <text>has</text>
       </register>
       <register name="-" type="4">
-        <text>Pro Spedition Limited</text>
+        <text>has</text>
       </register>
       <register name="/" type="4">
         <text>dynamic</text>
@@ -567,38 +567,39 @@
       <register name="0" type="4">
         <text>Account.query
             .filter(Account.shops.any(Shop.domain == Domain.query.filter_by(name=data['domain']).first()))
-            .filter(Account.product_groups.any(ProductGroup.hash_id.in_(product_groups_hash_ids))) # change this to all Grupy ktore zawieraja wszystkie
-            .filter(Account.is_active == True)</text>
+            # .filter(Account.product_groups.any(ProductGroup.hash_id.in_(product_groups_hash_ids))) # change this to all Grupy ktore zawieraja wszystkie
+            .filter(Account.is_active == True)
+            .all()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgY2hhbmdlIHRoaXMgdG8gYWxsIEdydXB5IGt0b3JlIHphd2llcmFqYSB3c3p5c3RraWUuIENhbiBJIGp1c3QgdXNlIGdhdGhlcmVkIGlkcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFsbCgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICMgY2hhbmdlIHRoaXMgdG8gYWxsIEdydXB5IGt0b3JlIHphd2llcmFqYSB3c3p5c3RraWUuIENhbiBJIGp1c3QgdXNlIGdhdGhlcmVkIGlkcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJiZWZvcmUiKQogICAgcHJpbnQoaW5faWRzLmFsbCgpKQogICAgcHJpbnQoImFmdGVyIikK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUG9zdENsYXNzUXVlcnkoUXVlcnkpOgoKICAgIGRlZiBfX2dldGl0ZW1fXyhzZWxmLCBpdGVtKToKCiAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtLCBzbGljZSkgYW5kIChpc2luc3RhbmNlKGl0ZW0uc3RhcnQsIGRhdGUpIG9yIGlzaW5zdGFuY2UoaXRlbS5zdG9wLCBkYXRlKSk6CiAgICAgICAgICAgIHF1ZXJ5ID0gc2VsZgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGl0ZW0uc3RhcnQsIGRhdGUpOgogICAgICAgICAgICAgICAgcXVlcnkgPSBxdWVyeS5maWx0ZXIoUG9zdC5kYXRlID49IGl0ZW0uc3RhcnQpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbS5zdG9wLCBkYXRlKToKICAgICAgICAgICAgICAgIHF1ZXJ5ID0gcXVlcnkuZmlsdGVyKFBvc3QuZGF0ZSA8IGl0ZW0uc3RvcCkKICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5LmFsbCgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3VwZXIoUG9zdENsYXNzUXVlcnksIHNlbGYpLl9fZ2V0aXRlbV9fKGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJiZWZvcmUiKQogICAgcHJpbnQoaW5faWRzLmFsbCgpKQogICAgcHJpbnQoImFmdGVyIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Y2xhc3MgUG9zdENsYXNzUXVlcnkoUXVlcnkpOgoKICAgIGRlZiBfX2dldGl0ZW1fXyhzZWxmLCBpdGVtKToKCiAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtLCBzbGljZSkgYW5kIChpc2luc3RhbmNlKGl0ZW0uc3RhcnQsIGRhdGUpIG9yIGlzaW5zdGFuY2UoaXRlbS5zdG9wLCBkYXRlKSk6CiAgICAgICAgICAgIHF1ZXJ5ID0gc2VsZgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGl0ZW0uc3RhcnQsIGRhdGUpOgogICAgICAgICAgICAgICAgcXVlcnkgPSBxdWVyeS5maWx0ZXIoUG9zdC5kYXRlID49IGl0ZW0uc3RhcnQpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbS5zdG9wLCBkYXRlKToKICAgICAgICAgICAgICAgIHF1ZXJ5ID0gcXVlcnkuZmlsdGVyKFBvc3QuZGF0ZSA8IGl0ZW0uc3RvcCkKICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5LmFsbCgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3VwZXIoUG9zdENsYXNzUXVlcnksIHNlbGYpLl9fZ2V0aXRlbV9fKGl0ZW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGl0ZW0sIHNsaWNlKSBhbmQgKGlzaW5zdGFuY2UoaXRlbS5zdGFydCwgZGF0ZSkgb3IgaXNpbnN0YW5jZShpdGVtLnN0b3AsIGRhdGUpKToKICAgICAgICAgICAgcXVlcnkgPSBzZWxmCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbS5zdGFydCwgZGF0ZSk6CiAgICAgICAgICAgICAgICBxdWVyeSA9IHF1ZXJ5LmZpbHRlcihQb3N0LmRhdGUgPj0gaXRlbS5zdGFydCkKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtLnN0b3AsIGRhdGUpOgogICAgICAgICAgICAgICAgcXVlcnkgPSBxdWVyeS5maWx0ZXIoUG9zdC5kYXRlIDwgaXRlbS5zdG9wKQogICAgICAgICAgICByZXR1cm4gcXVlcnkuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2sK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGl0ZW0sIHNsaWNlKSBhbmQgKGlzaW5zdGFuY2UoaXRlbS5zdGFydCwgZGF0ZSkgb3IgaXNpbnN0YW5jZShpdGVtLnN0b3AsIGRhdGUpKToKICAgICAgICAgICAgcXVlcnkgPSBzZWxmCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbS5zdGFydCwgZGF0ZSk6CiAgICAgICAgICAgICAgICBxdWVyeSA9IHF1ZXJ5LmZpbHRlcihQb3N0LmRhdGUgPj0gaXRlbS5zdGFydCkKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtLnN0b3AsIGRhdGUpOgogICAgICAgICAgICAgICAgcXVlcnkgPSBxdWVyeS5maWx0ZXIoUG9zdC5kYXRlIDwgaXRlbS5zdG9wKQogICAgICAgICAgICByZXR1cm4gcXVlcnkuYWxsKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuKEF2YWlsYWJpbGl0eSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGIuKEF2YWlsYWJpbGl0eSksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -643,8 +644,8 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Switcher</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
