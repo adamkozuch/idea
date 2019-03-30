@@ -109,7 +109,6 @@
         <mark key="^" line="227" column="50" />
         <mark key="." line="227" column="50" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/config.py" timestamp="1553893208818" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1553082940578">
         <mark key="'" line="55" column="4" />
       </file>
@@ -458,7 +457,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -479,8 +478,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
-        <entry>s%/paragraph/wwww/</entry>
         <entry encoding="base64">bWFwIFxyIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
         <entry>action ReformatCode</entry>
         <entry>tabnext</entry>
@@ -488,8 +485,6 @@
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gU3dpdGNoZXI8Q1I+</entry>
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gUnVuPENSPg==</entry>
         <entry>action ResizeToolWindowLeft</entry>
-        <entry>q</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
         <entry>set incsearch</entry>
         <entry>help e</entry>
@@ -499,6 +494,10 @@
         <entry>action GotoFile</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action RecentFiles</entry>
+        <entry>q</entry>
+        <entry>cmap w :action Unsplit</entry>
+        <entry>cmap :w :action Unsplit</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
