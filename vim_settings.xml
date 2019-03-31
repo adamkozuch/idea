@@ -330,12 +330,11 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1554054534186">
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1554057339447">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="31" column="21" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/wsgi.py" timestamp="1554054365363">
         <mark key="[" line="13" column="64" />
@@ -467,8 +466,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENhcmQK</text>
       </register>
       <register name="-" type="4">
         <text>index</text>
@@ -480,31 +479,31 @@
         <text encoding="base64">ZGVmIGluZGV4KHJlcXVlc3QpOgogICAgdGVtcGxhdGUgPSBsb2FkZXIuZ2V0X3RlbXBsYXRlKCdpbmRleC5odG1sJykKICAgIGNhcmRzID0gQ2FyZC5vYmplY3RzLmFsbCgpCiAgICBjb250ZXh0ID0gewogICAgICAgICdpbmZvJzogeyJjYXJkcyI6IGNhcmRzfSwKICAgIH0KICAgIHJldHVybiBIdHRwUmVzcG9uc2UodGVtcGxhdGUucmVuZGVyKGNvbnRleHQsIHJlcXVlc3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
+        <text encoding="base64">ICAgIENhcmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2FyZCBpbiBpbmZvLmNhcmRzJX0K</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2FyZCBpbiBpbmZvLmNhcmRzJX0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2hvaWNlIGluIHF1ZXN0aW9uLmNob2ljZV9zZXQuYWxsICV9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBjc3JmX3Rva2VuICV9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2hvaWNlIGluIHF1ZXN0aW9uLmNob2ljZV9zZXQuYWxsICV9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB7JSBjc3JmX3Rva2VuICV9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2sgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
