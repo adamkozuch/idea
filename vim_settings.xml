@@ -330,11 +330,12 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1554057339447">
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1554063889844">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/wsgi.py" timestamp="1554054365363">
         <mark key="[" line="13" column="64" />
@@ -506,7 +507,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ToggleDistractionFreeMode</text>
       </register>
     </registers>
     <search>
@@ -539,7 +540,6 @@
         <entry>help e</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
-        <entry>action ToggleDistractionFreeMode</entry>
         <entry>q</entry>
         <entry>cmap w :action Unsplit</entry>
         <entry>cmap :w :action Unsplit</entry>
@@ -547,6 +547,7 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBSZWNlbnRGaWxlczxDUj4=</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action ToggleDistractionFreeMode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
