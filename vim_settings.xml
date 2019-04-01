@@ -141,6 +141,13 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/__init__.py" timestamp="1553165272433">
         <mark key="'" line="26" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" timestamp="1554118645784">
+        <mark key="'" line="170" column="19" />
+        <mark key="[" line="581" column="56" />
+        <mark key="]" line="581" column="55" />
+        <mark key="." line="581" column="55" />
+        <mark key="^" line="581" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1552657318403">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="56" column="40" />
@@ -310,6 +317,17 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1554117322595">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="52" />
+        <mark key="^" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1554118204471">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" timestamp="1553153484429">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="200" column="89" />
@@ -366,13 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
-      <jump line="102" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
-      <jump line="142" column="73" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="50" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="40" column="107" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="223" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="173" column="36" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="212" column="34" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="98" column="33" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="190" column="16" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
@@ -466,63 +477,69 @@
       <jump line="244" column="28" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="226" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="209" column="64" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="146" column="6" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
+      <jump line="149" column="12" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
+      <jump line="150" column="23" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
+      <jump line="151" column="12" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
+      <jump line="153" column="8" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
+      <jump line="165" column="79" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
+      <jump line="170" column="19" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZhbGlkYXRpb25fcHJvZHVjdF9kaXN0cmlidXRpb25fdGFiKCdyZXNlcnZlZF9hdmFpbGFiaWxpdHknKQo=</text>
+        <text encoding="base64">ICAgIC0gdmFncmFudCBzc2ggLWMgInNydi93bXMvc2NyaXB0cy9iaS9pbnN0YWxsX21vZHVsZXMuc2giCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNlcnZlZF9hdmFpbGFiaWxpdHlcPg==</text>
+        <text>sensitive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnZhbGlkYXRpb25fcHJvZHVjdF9kaXN0cmlidXRpb25fdGFiKCdyZXNlcnZlZF9hdmFpbGFiaWxpdHknKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
+        <text encoding="base64">ICAgIC0gdmFncmFudCBzc2ggLWMgInNydi93bXMvc2NyaXB0cy9iaS9pbnN0YWxsX21vZHVsZXMuc2giCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
+        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
+        <text encoding="base64">ICAgIF9uYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2FyZCBpbiBpbmZvLmNhcmRzJX0K</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2FyZCBpbiBpbmZvLmNhcmRzJX0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2hvaWNlIGluIHF1ZXN0aW9uLmNob2ljZV9zZXQuYWxsICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNlcnZlZF9hdmFpbGFiaWxpdHlcPg==</last-search>
+      <last-search>sensitive</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNlcnZlZF9hdmFpbGFiaWxpdHlcPg==</last-pattern>
+      <last-pattern>sensitive</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>button_awaits</entry>
         <entry encoding="base64">XDxidXR0b25fYXdhaXRzX2NvbXBsZXRpb25cPg==</entry>
         <entry>button_a</entry>
         <entry>action_toggle_is</entry>
@@ -542,6 +559,7 @@
         <entry>reserve</entry>
         <entry encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</entry>
         <entry encoding="base64">XDxyZXNlcnZlZF9hdmFpbGFiaWxpdHlcPg==</entry>
+        <entry>sensitive</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
@@ -560,8 +578,8 @@
         <entry>q</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
