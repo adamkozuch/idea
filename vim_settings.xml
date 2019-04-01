@@ -15,12 +15,6 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" timestamp="1553865650025">
-        <mark key="[" line="128" column="16" />
-        <mark key="]" line="128" column="22" />
-        <mark key="^" line="128" column="22" />
-        <mark key="." line="128" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
@@ -161,13 +155,7 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553863947474">
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="75" column="50" />
-        <mark key="^" line="75" column="50" />
-        <mark key="." line="75" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554102593388">
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554105611368">
         <mark key="'" line="156" column="0" />
         <mark key="[" line="316" column="0" />
         <mark key="]" line="316" column="0" />
@@ -193,6 +181,9 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1554105689087">
+        <mark key="'" line="102" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/ansible-crypto/tasks/setup_ubuntu_14_04.yml" timestamp="1552918923969">
         <mark key="'" line="15" column="15" />
@@ -266,11 +257,12 @@
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553871567671">
-        <mark key="[" line="51" column="72" />
-        <mark key="]" line="51" column="71" />
-        <mark key="^" line="51" column="71" />
-        <mark key="." line="51" column="71" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553868535268">
+        <mark key="'" line="78" column="69" />
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="82" column="53" />
+        <mark key="^" line="81" column="63" />
+        <mark key="." line="82" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" timestamp="1554054249572">
         <mark key="'" line="20" column="0" />
@@ -296,7 +288,7 @@
         <mark key="^" line="369" column="115" />
         <mark key="." line="357" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554047386647">
+      <file name="/Dummy.txt" timestamp="1554105115805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1553172932943">
@@ -374,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="4" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" />
-      <jump line="59" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/views.py" />
-      <jump line="22" column="26" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/views.py" />
       <jump line="10" column="36" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
       <jump line="164" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
@@ -474,6 +463,9 @@
       <jump line="47" column="46" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="40" column="104" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="19" column="86" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="36" column="48" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
+      <jump line="51" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
+      <jump line="102" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -483,7 +475,7 @@
         <text>_name.</text>
       </register>
       <register name="/" type="4">
-        <text>Complete</text>
+        <text>Picking</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGluZGV4KHJlcXVlc3QpOgogICAgdGVtcGxhdGUgPSBsb2FkZXIuZ2V0X3RlbXBsYXRlKCdpbmRleC5odG1sJykKICAgIGNhcmRzID0gQ2FyZC5vYmplY3RzLmFsbCgpCiAgICBjb250ZXh0ID0gewogICAgICAgICdpbmZvJzogeyJjYXJkcyI6IGNhcmRzfSwKICAgIH0KICAgIHJldHVybiBIdHRwUmVzcG9uc2UodGVtcGxhdGUucmVuZGVyKGNvbnRleHQsIHJlcXVlc3QpKQo=</text>
@@ -520,9 +512,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Complete</last-search>
+      <last-search>Picking</last-search>
       <last-offset />
-      <last-pattern>Complete</last-pattern>
+      <last-pattern>Picking</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -538,6 +530,8 @@
         <entry>issu</entry>
         <entry>Awaits</entry>
         <entry>Complete</entry>
+        <entry>StockPi</entry>
+        <entry>Picking</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
