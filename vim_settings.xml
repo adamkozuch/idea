@@ -114,12 +114,12 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554124294225">
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554124408022">
         <mark key="'" line="16" column="104" />
         <mark key="[" line="20" column="168" />
-        <mark key="]" line="20" column="180" />
-        <mark key="^" line="20" column="180" />
-        <mark key="." line="20" column="180" />
+        <mark key="]" line="20" column="168" />
+        <mark key="^" line="20" column="168" />
+        <mark key="." line="20" column="168" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" timestamp="1553004060318">
         <mark key="'" line="177" column="30" />
@@ -162,12 +162,12 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554123592686">
-        <mark key="'" line="45" column="58" />
-        <mark key="[" line="106" column="30" />
-        <mark key="]" line="106" column="41" />
-        <mark key="^" line="106" column="41" />
-        <mark key="." line="106" column="41" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554125057772">
+        <mark key="'" line="298" column="8" />
+        <mark key="[" line="301" column="94" />
+        <mark key="]" line="301" column="94" />
+        <mark key="." line="301" column="94" />
+        <mark key="^" line="301" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553158409657">
         <mark key="'" line="88" column="8" />
@@ -384,9 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="65" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="86" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="224" column="13" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="49" column="25" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="496" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
@@ -484,43 +481,46 @@
       <jump line="248" column="4" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="35" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
+      <jump line="294" column="16" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="292" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="298" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lse</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>lse</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>picking_type_code</text>
+        <text encoding="base64">XDxfY29tcHV0ZV9waWNraW5nX2NvdW50XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZhbGlkYXRpb25fcHJvZHVjdF9kaXN0cmlidXRpb25fdGFiKCdyZXNlcnZlZF9hdmFpbGFiaWxpdHknKQo=</text>
+      <register name="0" type="4">
+        <text>[('state', 'in', ('assigned', 'waiting', 'confirmed'))]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gdmFncmFudCBzc2ggLWMgInNydi93bXMvc2NyaXB0cy9iaS9pbnN0YWxsX21vZHVsZXMuc2giCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlNUQVRFIElTOiAiLCBzZWxmLnN0YXRlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
+        <text encoding="base64">ICAgIC0gdmFncmFudCBzc2ggLWMgInNydi93bXMvc2NyaXB0cy9iaS9pbnN0YWxsX21vZHVsZXMuc2giCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
+        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
+        <text encoding="base64">ICAgIF9uYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2FyZCBpbiBpbmZvLmNhcmRzJX0K</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2FyZCBpbiBpbmZvLmNhcmRzJX0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -530,17 +530,16 @@
       </register>
     </registers>
     <search>
-      <last-search>picking_type_code</last-search>
+      <last-search encoding="base64">XDxfY29tcHV0ZV9waWNraW5nX2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern>picking_type_code</last-pattern>
+      <last-pattern encoding="base64">XDxfY29tcHV0ZV9waWNraW5nX2NvdW50XD4=</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Scrap</entry>
         <entry encoding="base64">XDxfY29tcHV0ZV9hd2FpdHNfY29tcGxldGlvblw+</entry>
         <entry>Check</entry>
         <entry>Validate</entry>
@@ -560,6 +559,7 @@
         <entry>reserved</entry>
         <entry>picking_type</entry>
         <entry>picking_type_code</entry>
+        <entry encoding="base64">XDxfY29tcHV0ZV9waWNraW5nX2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
