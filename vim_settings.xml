@@ -114,12 +114,12 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554102776004">
-        <mark key="'" line="19" column="86" />
-        <mark key="[" line="40" column="104" />
-        <mark key="]" line="40" column="106" />
-        <mark key="^" line="40" column="106" />
-        <mark key="." line="40" column="106" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554112825402">
+        <mark key="'" line="17" column="15" />
+        <mark key="[" line="16" column="131" />
+        <mark key="]" line="16" column="131" />
+        <mark key="^" line="56" column="120" />
+        <mark key="." line="16" column="143" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" timestamp="1553004060318">
         <mark key="'" line="177" column="30" />
@@ -155,12 +155,12 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554105611368">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="316" column="0" />
-        <mark key="^" line="316" column="8" />
-        <mark key="." line="316" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554113123215">
+        <mark key="'" line="51" column="58" />
+        <mark key="[" line="104" column="16" />
+        <mark key="]" line="104" column="16" />
+        <mark key="^" line="104" column="16" />
+        <mark key="." line="104" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553158409657">
         <mark key="'" line="88" column="8" />
@@ -366,90 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="36" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="164" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="335" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="65" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="200" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="361" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="28" column="28" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="15" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" />
-      <jump line="61" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" />
-      <jump line="27" column="28" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="146" column="22" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
-      <jump line="137" column="23" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="204" column="40" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="125" column="34" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="58" column="77" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="122" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
-      <jump line="93" column="23" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="41" column="23" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="7" column="24" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="170" column="47" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="119" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="269" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="224" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="10" column="67" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
-      <jump line="369" column="12" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
-      <jump line="378" column="50" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
-      <jump line="128" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="181" column="33" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="209" column="33" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" />
-      <jump line="88" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="187" column="34" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="85" column="40" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="81" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="45" column="17" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="28" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="12" column="27" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="17" column="37" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="158" column="42" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="31" column="31" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="49" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="41" column="35" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="19" column="48" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="26" column="30" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/__init__.py" />
-      <jump line="282" column="52" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
-      <jump line="158" column="8" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
-      <jump line="180" column="24" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="24" column="25" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="186" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="272" column="13" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="27" column="6" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="39" column="17" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" />
-      <jump line="26" column="44" filename="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" />
-      <jump line="23" column="15" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="159" column="38" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="62" column="4" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/__init__.py" />
-      <jump line="23" column="17" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/__init__.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="20" column="26" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="25" column="28" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="238" column="77" filename="$USER_HOME$/Projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="11" column="38" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/evaluate_cer.py" />
-      <jump line="10" column="62" filename="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/evaluate_cer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/config.py" />
-      <jump line="19" column="8" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
-      <jump line="99" column="4" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
-      <jump line="13" column="14" filename="$USER_HOME$/PycharmProjects/untitled/graph_bfs.py" />
-      <jump line="40" column="23" filename="$USER_HOME$/PycharmProjects/untitled/make_translations.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/untitled/make_translations.py" />
-      <jump line="0" column="2" filename="$USER_HOME$/PycharmProjects/untitled/make_translations.py" />
-      <jump line="76" column="45" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="82" column="69" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" />
-      <jump line="50" column="19" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
-      <jump line="3628" column="8" filename="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/950329523/builtins.py" />
-      <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/anki_jisho/english_dict.py" />
-      <jump line="41" column="24" filename="$USER_HOME$/PycharmProjects/anki_jisho/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/genanki/__init__.py" />
       <jump line="46" column="32" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
       <jump line="53" column="19" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
@@ -460,78 +376,172 @@
       <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
       <jump line="156" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="35" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="47" column="46" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="40" column="104" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="19" column="86" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="36" column="48" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="51" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="102" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
+      <jump line="142" column="73" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="40" column="107" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="223" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="173" column="36" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="212" column="34" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="98" column="33" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="190" column="16" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="200" column="22" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="213" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="220" column="22" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="282" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="283" column="40" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="284" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="285" column="32" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="286" column="109" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="287" column="74" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="291" column="19" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="354" column="18" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="360" column="16" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="374" column="46" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="422" column="76" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="435" column="46" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="437" column="64" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="441" column="90" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="484" column="42" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="485" column="31" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="88" column="42" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="90" column="17" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="77" column="55" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="117" column="43" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="8" column="264" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="58" column="10" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="227" column="20" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="32" column="65" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="47" column="53" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="86" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="224" column="13" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="49" column="25" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="496" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="59" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="156" column="80" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="151" column="84" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="16" column="113" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="44" column="28" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="48" column="79" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="145" column="77" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="75" column="24" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="240" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="157" column="76" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="246" column="28" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="237" column="59" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="54" column="17" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="235" column="36" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="64" column="10" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="500" column="40" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="456" column="124" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="415" column="71" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="302" column="103" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="301" column="125" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="299" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="92" column="44" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="252" column="57" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="242" column="13" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="225" column="13" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="231" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="50" column="17" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="63" column="22" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="248" column="40" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="239" column="71" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="104" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="103" column="116" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="17" column="15" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="300" column="54" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="243" column="28" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="233" column="63" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="102" column="26" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="101" column="104" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="99" column="126" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="94" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="62" column="10" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="51" column="58" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9uYW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="-" type="4">
-        <text>_name.</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Picking</text>
+        <text encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGluZGV4KHJlcXVlc3QpOgogICAgdGVtcGxhdGUgPSBsb2FkZXIuZ2V0X3RlbXBsYXRlKCdpbmRleC5odG1sJykKICAgIGNhcmRzID0gQ2FyZC5vYmplY3RzLmFsbCgpCiAgICBjb250ZXh0ID0gewogICAgICAgICdpbmZvJzogeyJjYXJkcyI6IGNhcmRzfSwKICAgIH0KICAgIHJldHVybiBIdHRwUmVzcG9uc2UodGVtcGxhdGUucmVuZGVyKGNvbnRleHQsIHJlcXVlc3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGFueShtb3ZlLnN0YXRlIGluICgncGFydGlhbGx5X2F2YWlsYWJsZScsICdhc3NpZ25lZCcpIGZvciBtb3ZlIGluIHNlbGYubW92ZV9saW5lcykgYW5kIG5vdCBhd2FpdHNfY29tcGxldGlvbiBhbmQgbm90IGluX2NvbXBsZXRpb246CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnYXdhaXRzX2NvbXBsZXRpb24nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9uYW1lCg==</text>
+        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
+        <text encoding="base64">ICAgIF9uYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2FyZCBpbiBpbmZvLmNhcmRzJX0K</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2FyZCBpbiBpbmZvLmNhcmRzJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2hvaWNlIGluIHF1ZXN0aW9uLmNob2ljZV9zZXQuYWxsICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBjc3JmX3Rva2VuICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBmb3IgY2hvaWNlIGluIHF1ZXN0aW9uLmNob2ljZV9zZXQuYWxsICV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Picking</last-search>
+      <last-search encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</last-search>
       <last-offset />
-      <last-pattern>Picking</last-pattern>
+      <last-pattern encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>/paragraph/wwww/</entry>
-        <entry>r</entry>
-        <entry>default</entry>
-        <entry>result</entry>
-        <entry>print</entry>
-        <entry>issu</entry>
-        <entry>Awaits</entry>
-        <entry>Complete</entry>
-        <entry>StockPi</entry>
-        <entry>Picking</entry>
+        <entry>state</entry>
+        <entry>draft</entry>
+        <entry>show_reserved</entry>
+        <entry encoding="base64">XDxzaG93X2F3YWl0c19jb21wbGV0aW9uXD4=</entry>
+        <entry>awaits_com</entry>
+        <entry>_compute</entry>
+        <entry>awaits_completion</entry>
+        <entry>button_awaits</entry>
+        <entry encoding="base64">XDxidXR0b25fYXdhaXRzX2NvbXBsZXRpb25cPg==</entry>
+        <entry>button_a</entry>
+        <entry>action_toggle_is</entry>
+        <entry encoding="base64">XDxfY29tcHV0ZV9pbl9jb21wbGV0aW9uXD4=</entry>
+        <entry>Ready</entry>
+        <entry encoding="base64">XDxhc3NpZ25lZFw+</entry>
+        <entry>button_in_com</entry>
+        <entry>button_awa</entry>
+        <entry encoding="base64">XDxfY29tcHV0ZV9zdGF0ZVw+</entry>
+        <entry encoding="base64">XDxfY29tcHV0ZV9hd2FpdHNfY29tcGxldGlvblw+</entry>
+        <entry encoding="base64">XDxpbl9jb21wbGV0aW9uXD4=</entry>
+        <entry encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
