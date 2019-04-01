@@ -114,8 +114,8 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554112825402">
-        <mark key="'" line="17" column="15" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554114101271">
+        <mark key="'" line="12" column="143" />
         <mark key="[" line="16" column="131" />
         <mark key="]" line="16" column="131" />
         <mark key="^" line="56" column="120" />
@@ -155,10 +155,10 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554113123215">
-        <mark key="'" line="51" column="58" />
-        <mark key="[" line="104" column="16" />
-        <mark key="]" line="104" column="16" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554114406161">
+        <mark key="'" line="209" column="64" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="73" />
         <mark key="^" line="104" column="16" />
         <mark key="." line="104" column="16" />
       </file>
@@ -366,18 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="32" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
-      <jump line="53" column="19" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
-      <jump line="105" column="4" filename="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" />
-      <jump line="0" column="10" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/templates/index.html" />
-      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="35" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="19" column="86" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="36" column="48" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="51" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="102" column="37" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="142" column="73" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
@@ -416,7 +404,6 @@
       <jump line="8" column="264" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="87" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="58" column="10" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="227" column="20" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="32" column="65" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="47" column="53" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="86" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
@@ -443,42 +430,55 @@
       <jump line="456" column="124" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="415" column="71" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="302" column="103" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="301" column="125" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="299" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="92" column="44" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="252" column="57" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="242" column="13" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="225" column="13" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="231" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="50" column="17" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="63" column="22" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="248" column="40" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="239" column="71" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="104" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="103" column="116" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="17" column="15" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="300" column="54" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="243" column="28" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="233" column="63" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="102" column="26" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="101" column="104" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="99" column="126" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="50" column="17" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="15" column="26" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="12" column="143" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="59" column="48" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="207" column="32" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="211" column="32" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="132" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="227" column="24" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="103" column="30" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="102" column="21" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="100" column="43" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="94" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="62" column="10" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="51" column="58" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="301" column="54" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="244" column="28" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="226" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="209" column="64" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YW5kIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnZhbGlkYXRpb25fcHJvZHVjdF9kaXN0cmlidXRpb25fdGFiKCdyZXNlcnZlZF9hdmFpbGFiaWxpdHknKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</text>
+        <text encoding="base64">XDxyZXNlcnZlZF9hdmFpbGFiaWxpdHlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGFueShtb3ZlLnN0YXRlIGluICgncGFydGlhbGx5X2F2YWlsYWJsZScsICdhc3NpZ25lZCcpIGZvciBtb3ZlIGluIHNlbGYubW92ZV9saW5lcykgYW5kIG5vdCBhd2FpdHNfY29tcGxldGlvbiBhbmQgbm90IGluX2NvbXBsZXRpb246CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnYXdhaXRzX2NvbXBsZXRpb24nCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZhbGlkYXRpb25fcHJvZHVjdF9kaXN0cmlidXRpb25fdGFiKCdyZXNlcnZlZF9hdmFpbGFiaWxpdHknKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
@@ -512,9 +512,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</last-search>
+      <last-search encoding="base64">XDxyZXNlcnZlZF9hdmFpbGFiaWxpdHlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNlcnZlZF9hdmFpbGFiaWxpdHlcPg==</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>-1</last-dir>
@@ -522,13 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>state</entry>
-        <entry>draft</entry>
-        <entry>show_reserved</entry>
-        <entry encoding="base64">XDxzaG93X2F3YWl0c19jb21wbGV0aW9uXD4=</entry>
-        <entry>awaits_com</entry>
-        <entry>_compute</entry>
-        <entry>awaits_completion</entry>
         <entry>button_awaits</entry>
         <entry encoding="base64">XDxidXR0b25fYXdhaXRzX2NvbXBsZXRpb25cPg==</entry>
         <entry>button_a</entry>
@@ -539,9 +532,16 @@
         <entry>button_in_com</entry>
         <entry>button_awa</entry>
         <entry encoding="base64">XDxfY29tcHV0ZV9zdGF0ZVw+</entry>
-        <entry encoding="base64">XDxfY29tcHV0ZV9hd2FpdHNfY29tcGxldGlvblw+</entry>
         <entry encoding="base64">XDxpbl9jb21wbGV0aW9uXD4=</entry>
+        <entry>Unreserve</entry>
+        <entry>Scrap</entry>
+        <entry encoding="base64">XDxfY29tcHV0ZV9hd2FpdHNfY29tcGxldGlvblw+</entry>
+        <entry>Check</entry>
+        <entry>Validate</entry>
+        <entry>unreserve</entry>
+        <entry>reserve</entry>
         <entry encoding="base64">XDxhd2FpdHNfY29tcGxldGlvblw+</entry>
+        <entry encoding="base64">XDxyZXNlcnZlZF9hdmFpbGFiaWxpdHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
