@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/__init__.py" timestamp="1553165272433">
         <mark key="'" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" timestamp="1554192635561">
-        <mark key="'" line="521" column="19" />
-        <mark key="[" line="581" column="56" />
-        <mark key="]" line="581" column="55" />
-        <mark key="." line="581" column="55" />
-        <mark key="^" line="581" column="55" />
+      <file name="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" timestamp="1554200940141">
+        <mark key="'" line="556" column="8" />
+        <mark key="[" line="578" column="24" />
+        <mark key="]" line="578" column="24" />
+        <mark key="." line="578" column="24" />
+        <mark key="^" line="578" column="119" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1554127954407">
         <mark key="'" line="127" column="17" />
@@ -393,8 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="64" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="146" column="6" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
       <jump line="149" column="12" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
       <jump line="150" column="23" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
       <jump line="151" column="12" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
@@ -493,13 +491,15 @@
       <jump line="248" column="44" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
       <jump line="249" column="54" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
       <jump line="2211" column="25" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="59" column="11" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
+      <jump line="556" column="8" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0b2NrX3F1YW50X2VuaGFuY2VkIFwKICAgIHN0b2NrX3F1YW50X3ZpZXcgXAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>country</text>
