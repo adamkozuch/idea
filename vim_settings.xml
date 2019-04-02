@@ -19,8 +19,14 @@
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" timestamp="1554202772769">
+        <mark key="'" line="46" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/previous_generated.py" timestamp="1554200600739">
         <mark key="'" line="1722" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1554202505112">
+        <mark key="'" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1553085445053">
         <mark key="'" line="61" column="13" />
@@ -309,6 +315,9 @@
         <mark key="." line="357" column="61" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1553869759899" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" timestamp="1554202378409">
+        <mark key="'" line="23" column="42" />
+      </file>
       <file name="/Dummy.txt" timestamp="1554105115805">
         <mark key="[" line="0" column="0" />
       </file>
@@ -385,6 +394,9 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" timestamp="1554202379345">
+        <mark key="'" line="19" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" timestamp="1554052509925">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="8" />
@@ -393,12 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="12" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
-      <jump line="150" column="23" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
-      <jump line="151" column="12" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
-      <jump line="153" column="8" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
-      <jump line="165" column="79" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
-      <jump line="170" column="19" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
       <jump line="48" column="74" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="44" column="23" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="12" column="24" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
@@ -493,6 +499,12 @@
       <jump line="2211" column="25" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
       <jump line="59" column="11" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
       <jump line="556" column="8" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
+      <jump line="23" column="42" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
+      <jump line="19" column="6" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
+      <jump line="22" column="16" filename="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" />
+      <jump line="91" column="47" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
+      <jump line="105" column="33" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
+      <jump line="46" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -502,7 +514,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>country</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0b2NrX3F1YW50X2VuaGFuY2VkIFwKICAgIHN0b2NrX3F1YW50X3ZpZXcgXAo=</text>
@@ -535,13 +547,13 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
-      <last-search>country</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>country</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -549,7 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in_com</entry>
         <entry>show_in</entry>
         <entry>show_in_complet</entry>
         <entry encoding="base64">XDxzaG93X2luX2NvbXBsZXRpbmdcPg==</entry>
@@ -569,6 +580,7 @@
         <entry>street</entry>
         <entry>city</entry>
         <entry>country</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
@@ -588,8 +600,8 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>action Run</entry>
         <entry>wq</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
