@@ -166,10 +166,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" timestamp="1554128761739">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" timestamp="1554189336037">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1554124169540">
@@ -430,8 +430,8 @@
       <jump line="54" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlbGV0aW9ucyBcCg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -443,31 +443,31 @@
         <text>Technical field used to compute whether the awaits_completion should be shown.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGlvbnMgXAo=</text>
+        <text encoding="base64">ICAgIGRlbGV0aW9ucyBcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdkZWxldGlvbnMnCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGlvbnMgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlNUQVRFIElTOiAiLCBzZWxmLnN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICdkZWxldGlvbnMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gdmFncmFudCBzc2ggLWMgInNydi93bXMvc2NyaXB0cy9iaS9pbnN0YWxsX21vZHVsZXMuc2giCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlNUQVRFIElTOiAiLCBzZWxmLnN0YXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
+        <text encoding="base64">ICAgIC0gdmFncmFudCBzc2ggLWMgInNydi93bXMvc2NyaXB0cy9iaS9pbnN0YWxsX21vZHVsZXMuc2giCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
+        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF9uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
+        <text encoding="base64">ICAgIF9uYW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBlbmRmb3IgJX0K</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJjaG9pY2V7eyBmb3Jsb29wLmNvdW50ZXIgfX0iPnt7IGNob2ljZS5jaG9pY2VfdGV4dCB9fTwvbGFiZWw+PGJyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
