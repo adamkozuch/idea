@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/previous_generated.py" timestamp="1554200600739">
+        <mark key="'" line="1722" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1553085445053">
         <mark key="'" line="61" column="13" />
       </file>
@@ -61,6 +64,9 @@
         <mark key="." line="91" column="13" />
         <mark key="^" line="91" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1554200700116">
+        <mark key="'" line="2211" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1553166615340">
         <mark key="'" line="26" column="44" />
       </file>
@@ -84,6 +90,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/production/vars.yml" timestamp="1553871561218" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553082766233">
         <mark key="'" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1554200184529">
+        <mark key="'" line="355" column="30" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/validation_rules/models.py" timestamp="1553082940578">
         <mark key="'" line="55" column="4" />
@@ -265,6 +277,13 @@
         <mark key="." line="83" column="53" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-111857053/builtins.py" timestamp="1553861971823" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
+        <mark key="'" line="352" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" timestamp="1554054249572">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="40" column="5" />
@@ -374,23 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="15" column="26" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
-      <jump line="59" column="48" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="207" column="32" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="211" column="32" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="132" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="227" column="24" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="103" column="30" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="102" column="21" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="100" column="43" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="94" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="62" column="10" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="51" column="58" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="301" column="54" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="244" column="28" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="226" column="50" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="209" column="64" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="146" column="6" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
       <jump line="149" column="12" filename="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" />
@@ -474,55 +476,72 @@
       <jump line="50" column="18" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" />
       <jump line="99" column="25" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" />
       <jump line="82" column="18" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" />
+      <jump line="20" column="18" filename="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="15" column="4" filename="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="349" column="4" filename="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="1666" column="13" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="2432" column="16" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="2456" column="16" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="2600" column="16" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="350" column="4" filename="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" />
+      <jump line="353" column="30" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/previous_generated.py" />
+      <jump line="1722" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/previous_generated.py" />
+      <jump line="2197" column="33" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="2379" column="25" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="0" column="61" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="248" column="44" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="249" column="54" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
+      <jump line="2211" column="25" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGlvbnMgXAo=</text>
+        <text encoding="base64">ICAgIHN0b2NrX3F1YW50X2VuaGFuY2VkIFwKICAgIHN0b2NrX3F1YW50X3ZpZXcgXAo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>template</text>
+        <text>country</text>
       </register>
-      <register name="0" type="4">
-        <text>Technical field used to compute whether the awaits_completion should be shown.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0b2NrX3F1YW50X2VuaGFuY2VkIFwKICAgIHN0b2NrX3F1YW50X3ZpZXcgXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGlvbnMgXAo=</text>
+        <text encoding="base64">ICAgIHN0b2NrX3F1YW50X2VuaGFuY2VkIFwKICAgIHN0b2NrX3F1YW50X3ZpZXcgXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbGV0aW9ucyBcCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZWxldGlvbnMgXAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlbGV0aW9ucyBcCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdkZWxldGlvbnMnCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGlvbnMgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlNUQVRFIElTOiAiLCBzZWxmLnN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICdkZWxldGlvbnMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gdmFncmFudCBzc2ggLWMgInNydi93bXMvc2NyaXB0cy9iaS9pbnN0YWxsX21vZHVsZXMuc2giCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlNUQVRFIElTOiAiLCBzZWxmLnN0YXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
+        <text encoding="base64">ICAgIC0gdmFncmFudCBzc2ggLWMgInNydi93bXMvc2NyaXB0cy9iaS9pbnN0YWxsX21vZHVsZXMuc2giCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
+        <text encoding="base64">ZWxpZiBhbnkobW92ZS5zdGF0ZSBpbiAoJ3BhcnRpYWxseV9hdmFpbGFibGUnLCAnYXNzaWduZWQnKSBmb3IgbW92ZSBpbiBzZWxmLm1vdmVfbGluZXMpIGFuZCBub3QgYXdhaXRzX2NvbXBsZXRpb24gYW5kIG5vdCBpbl9jb21wbGV0aW5nOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2F3YWl0c19jb21wbGV0aW9uJwogICAgICAgIGVsaWYgYW55KG1vdmUuc3RhdGUgaW4gKCdwYXJ0aWFsbHlfYXZhaWxhYmxlJywgJ2Fzc2lnbmVkJykgZm9yIG1vdmUgaW4gc2VsZi5tb3ZlX2xpbmVzKSBhbmQgbm90IGluX2NvbXBsZXRpbmc6CiAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnaW5fY29tcGxldGluZycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF9uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQ09NUFVURSBTVEFURScsIHNlbGYuc3RhdGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>template</last-search>
+      <last-search>country</last-search>
       <last-offset />
-      <last-pattern>template</last-pattern>
+      <last-pattern>country</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -530,12 +549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reserved</entry>
-        <entry>picking_type</entry>
-        <entry>picking_type_code</entry>
-        <entry encoding="base64">XDxfY29tcHV0ZV9waWNraW5nX2NvdW50XD4=</entry>
-        <entry>brokers</entry>
-        <entry>importer</entry>
         <entry>in_com</entry>
         <entry>show_in</entry>
         <entry>show_in_complet</entry>
@@ -550,6 +563,12 @@
         <entry>deletion</entry>
         <entry>vouch</entry>
         <entry>template</entry>
+        <entry>stock_quamn</entry>
+        <entry>stock_quan</entry>
+        <entry>'sensitive': T</entry>
+        <entry>street</entry>
+        <entry>city</entry>
+        <entry>country</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
