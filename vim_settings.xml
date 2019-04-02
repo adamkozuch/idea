@@ -90,12 +90,12 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554186951205">
-        <mark key="'" line="56" column="24" />
-        <mark key="[" line="56" column="42" />
-        <mark key="]" line="56" column="43" />
-        <mark key="^" line="56" column="43" />
-        <mark key="." line="56" column="43" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554187815332">
+        <mark key="'" line="31" column="43" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="40" />
+        <mark key="^" line="52" column="40" />
+        <mark key="." line="52" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/forms.py" timestamp="1553004060318">
         <mark key="'" line="177" column="30" />
@@ -139,12 +139,12 @@
         <mark key="^" line="181" column="46" />
         <mark key="." line="181" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554186971251">
-        <mark key="'" line="248" column="8" />
-        <mark key="[" line="248" column="26" />
-        <mark key="]" line="248" column="27" />
-        <mark key="." line="248" column="27" />
-        <mark key="^" line="248" column="27" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1554188092718">
+        <mark key="'" line="54" column="38" />
+        <mark key="[" line="238" column="28" />
+        <mark key="]" line="238" column="29" />
+        <mark key="." line="238" column="29" />
+        <mark key="^" line="238" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" timestamp="1553158409657">
         <mark key="'" line="88" column="8" />
@@ -328,9 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="124" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="415" column="71" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="302" column="103" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="299" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="92" column="44" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="252" column="57" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
@@ -428,6 +425,9 @@
       <jump line="39" column="42" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="56" column="24" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="248" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="31" column="43" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="54" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -437,7 +437,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidXR0b25faW5fY29tcGxldGluZ1w+</text>
+        <text>in_completion</text>
       </register>
       <register name="0" type="4">
         <text>Technical field used to compute whether the awaits_completion should be shown.</text>
@@ -474,17 +474,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidXR0b25faW5fY29tcGxldGluZ1w+</last-search>
+      <last-search>in_completion</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidXR0b25faW5fY29tcGxldGluZ1w+</last-pattern>
+      <last-pattern>in_completion</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Unreserve</entry>
         <entry encoding="base64">XDxzaG93X2F3YWl0c19jb21wbGV0aW9uXD4=</entry>
         <entry encoding="base64">XDxhY3Rpb25fYXNzaWduXD4=</entry>
         <entry>Print</entry>
@@ -500,10 +499,11 @@
         <entry>in_com</entry>
         <entry>show_in</entry>
         <entry>show_in_complet</entry>
-        <entry>show_in_com</entry>
         <entry encoding="base64">XDxzaG93X2luX2NvbXBsZXRpbmdcPg==</entry>
         <entry>button_in_co</entry>
         <entry encoding="base64">XDxidXR0b25faW5fY29tcGxldGluZ1w+</entry>
+        <entry>show_in_com</entry>
+        <entry>in_completion</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
