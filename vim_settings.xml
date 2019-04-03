@@ -20,12 +20,12 @@
       <file name="$USER_HOME$/Documents/alacritty.yml" timestamp="1552464014048">
         <mark key="'" line="467" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" timestamp="1554296890967">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" timestamp="1554299097769">
         <mark key="'" line="73" column="42" />
-        <mark key="[" line="128" column="107" />
-        <mark key="]" line="128" column="112" />
+        <mark key="[" line="73" column="121" />
+        <mark key="]" line="73" column="121" />
         <mark key="^" line="128" column="112" />
-        <mark key="." line="128" column="112" />
+        <mark key="." line="73" column="121" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1554297086679">
         <mark key="'" line="373" column="45" />
@@ -505,11 +505,11 @@
       <jump line="20" column="28" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgbWF5YmUgSSBzaG91bGQgYWRkIG1ldGhvZCBmaWVsZCB0byBub3RpZmljYXRpb24=</text>
       </register>
       <register name="-" type="4">
-        <text>save()</text>
+        <text encoding="base64">ICMgbWF5YmUgSSBzaG91bGQgYWRkIG1ldGhvZCBmaWVsZCB0byBub3RpZmljYXRpb24=</text>
       </register>
       <register name="/" type="4">
         <text>txn</text>
