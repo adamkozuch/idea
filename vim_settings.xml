@@ -27,12 +27,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1553085445053">
         <mark key="'" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1554215766987">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1554272221475">
         <mark key="'" line="43" column="32" />
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
-        <mark key="^" line="30" column="37" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="30" column="106" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
         <mark key="'" line="48" column="0" />
@@ -379,6 +379,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" timestamp="1554202379345">
         <mark key="'" line="19" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1554272242123" />
     </filemarks>
     <jumps>
       <jump line="346" column="5" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
@@ -483,11 +484,11 @@
       <jump line="44" column="34" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgbWF5YmUgbm9uZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>rerutn</text>
+        <text encoding="base64">ICMgbWF5YmUgbm9uZQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
