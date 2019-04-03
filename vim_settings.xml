@@ -6,8 +6,12 @@
       <file name="/start_script.py" timestamp="1553890418636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1554286127879">
-        <mark key="'" line="17" column="18" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1554291107743">
+        <mark key="'" line="77" column="40" />
+        <mark key="[" line="76" column="31" />
+        <mark key="]" line="76" column="34" />
+        <mark key="." line="76" column="34" />
+        <mark key="^" line="76" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
@@ -33,14 +37,17 @@
         <mark key="^" line="222" column="115" />
         <mark key="." line="223" column="39" />
       </file>
+      <file name="/a.dummy" timestamp="1554288847751">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1553085445053">
         <mark key="'" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1554286549616">
-        <mark key="[" line="91" column="89" />
-        <mark key="]" line="91" column="120" />
-        <mark key="." line="91" column="120" />
-        <mark key="^" line="91" column="120" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1554291174786">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
         <mark key="'" line="48" column="0" />
@@ -100,6 +107,12 @@
         <mark key="]" line="563" column="3" />
         <mark key="." line="563" column="3" />
         <mark key="^" line="563" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" timestamp="1554198490900">
+        <mark key="'" line="82" column="18" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1554124169540">
         <mark key="'" line="35" column="8" />
@@ -176,12 +189,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1554202505112">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1554285026899">
-        <mark key="'" line="50" column="21" />
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="8" />
-        <mark key="." line="113" column="12" />
-        <mark key="^" line="37" column="50" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1554290618776">
+        <mark key="'" line="193" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1554285454220">
         <mark key="'" line="140" column="4" />
@@ -222,6 +234,12 @@
         <mark key="^" line="35" column="48" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/production/vars.yml" timestamp="1553871561218" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1554200184529">
+        <mark key="'" line="355" column="30" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1554054534186">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="31" column="4" />
@@ -403,53 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="6" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
-      <jump line="22" column="16" filename="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" />
-      <jump line="91" column="47" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="105" column="33" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="46" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="71" column="34" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="77" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="75" column="11" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="64" column="38" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="43" column="3" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="57" column="7" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="120" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
-      <jump line="124" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
-      <jump line="99" column="61" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="24" column="3" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="128" column="12" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="47" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="117" column="47" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="101" column="73" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="52" column="7" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="29" column="32" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="49" column="28" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="44" column="34" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
-      <jump line="91" column="127" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="129" column="22" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="74" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/config.py" />
-      <jump line="91" column="10" filename="$USER_HOME$/projects/IT-GOLD/ppi/config.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="112" column="7" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="113" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="148" column="40" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="55" column="41" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="138" column="60" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="373" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="73" column="42" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
@@ -503,63 +474,109 @@
       <jump line="80" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
       <jump line="85" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
       <jump line="90" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
+      <jump line="114" column="55" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="12" column="27" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="85" column="15" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="92" column="27" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="88" column="26" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="233" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="225" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="218" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="206" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="203" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="187" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="180" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="11" column="39" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="53" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="59" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="97" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="98" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="52" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="77" column="40" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbnNfdG9fc2VuZCA9IEludmFsaWROb3RpZmljYXRpb25Ub1NlbmQucXVlcnkuZmlsdGVyX2J5KHNlbnQ9RmFsc2UsIHNraXA9RmFsc2UpLmxpbWl0KDEwMDApCiAgICBsb2dnZXIuaW5mbygiU3RhcnRlZCBzZW5kaW5nIGFjdGlvbnMgdG8gUENCIGZvciAlcyBpbnZhbGlkIG5vdGlmaWNhdGlvbnMiLCBub3RpZmljYXRpb25zX3RvX3NlbmQuY291bnQoKSkKICAgIGZvciB0b19zZW5kIGluIG5vdGlmaWNhdGlvbnNfdG9fc2VuZDoKICAgICAgICBub3RpZmljYXRpb24gPSBJbnZhbGlkTm90aWZpY2F0aW9uLnF1ZXJ5LmZpbHRlcl9ieShpZD10b19zZW5kLm5vdGlmaWNhdGlvbikub25lKCkKICAgICAgICBpZiBub3RpZmljYXRpb24ubWV0aG9kOgogICAgICAgICAgICBzZW5kX2ludmFsaWRfbm90aWZpY2F0aW9uX3RvX3BjYi5kZWxheSh0b19zZW5kLmlkKQo=</text>
+        <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgbm90aWZpY2F0aW9uX3RvX3NlbmQgPSBOb3RpZmljYXRpb25Ub1NlbmQucXVlcnkuZmlsdGVyX2J5KGlkPW5vdGlmaWNhdGlvbl90b19zZW5kX2lkKS5vbmUoKQogICAgIyBleGNlcHQgTm9SZXN1bHRGb3VuZDoKICAgICMgICAgIGxvZ2dlci53YXJuaW5nKCJObyBOb3RpZmljYXRpb25Ub1NlbmQgd2l0aCBpZCAlcyBmb3VuZC4iLCBub3RpZmljYXRpb25fdG9fc2VuZF9pZCkKICAgICMgICAgIHJldHVybgogICAgIwogICAgIyBpZiBub3RpZmljYXRpb25fdG9fc2VuZC5zZW50OgogICAgIyAgICAgbG9nZ2VyLmluZm8oIk5vdGlmaWNhdGlvbiB3aXRoIGlkICVzIGFscmVhZHkgc2VudCB0byBQQ0IiLCBub3RpZmljYXRpb25fdG9fc2VuZF9pZCkKICAgICMgICAgIHJldHVybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>def add_invalid_notifications_to_send_notification(): # sketch for cron</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjZWxlcnlfYmVhdF9zY2hlZHVsZV9wb3N0X3JlcXVlc3RzX3Rhc2tzXD4=</text>
+        <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbnNfdG9fc2VuZCA9IEludmFsaWROb3RpZmljYXRpb25Ub1NlbmQucXVlcnkuZmlsdGVyX2J5KHNlbnQ9RmFsc2UsIHNraXA9RmFsc2UpLmxpbWl0KDEwMDApCiAgICBsb2dnZXIuaW5mbygiU3RhcnRlZCBzZW5kaW5nIGFjdGlvbnMgdG8gUENCIGZvciAlcyBpbnZhbGlkIG5vdGlmaWNhdGlvbnMiLCBub3RpZmljYXRpb25zX3RvX3NlbmQuY291bnQoKSkKICAgIGZvciB0b19zZW5kIGluIG5vdGlmaWNhdGlvbnNfdG9fc2VuZDoKICAgICAgICBub3RpZmljYXRpb24gPSBJbnZhbGlkTm90aWZpY2F0aW9uLnF1ZXJ5LmZpbHRlcl9ieShpZD10b19zZW5kLm5vdGlmaWNhdGlvbikub25lKCkKICAgICAgICBpZiBub3RpZmljYXRpb24ubWV0aG9kOgogICAgICAgICAgICBzZW5kX2ludmFsaWRfbm90aWZpY2F0aW9uX3RvX3BjYi5kZWxheSh0b19zZW5kLmlkKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X25vdGlmaWNhdGlvbl9pc19ub3RfcmV0dXJuZWRfd2hlbl9kb2VzX25vdF9leGlzdHMoc2VsZiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRfZGF0YV90b19wY2IpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGFkZF9pbnZhbGlkX25vdGlmaWNhdGlvbnNfdG9fc2VuZF9ub3RpZmljYXRpb24oKTogIyBza2V0Y2ggZm9yIGNyb24KICAgIGludmFsaWRfbm90aWZpY2F0aW9ucyA9IEludmFsaWROb3RpZmljYXRpb24ucXVlcnkKICAgIGZvciBpbnZhbGlkX25vdGlmaWNhdGlvbiBpbiBpbnZhbGlkX25vdGlmaWNhdGlvbnM6CiAgICAgICAgcHJvY2Vzc29yX2NscyA9IGdldF9ub3RpZmljYXRpb25fcHJvY2Vzc29yKGludmFsaWRfbm90aWZpY2F0aW9uLnBheW1lbnRfcHJvdmlkZXIsIGludmFsaWRfbm90aWZpY2F0aW9uLm1ldGhvZCkKICAgICAgICAjIGZpcnN0IHN0ZXAgdHJ5IHRvIHBhcnNlCiAgICAgICAgIyBzZWNvbmQgc3RlcCBhZGQgdG8gZGF0YWJhc2UgYXMgdG8gc2VuZAogICAgICAgIG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IgPSBwcm9jZXNzb3JfY2xzKG5vdGlmaWNhdGlvbj1pbnZhbGlkX25vdGlmaWNhdGlvbikKCiAgICAgICAgdHJ5OgogICAgICAgICAgICBkYXRhID0gbm90aWZpY2F0aW9uX3Byb2Nlc3Nvci5nZXRfZGF0YSgpCiAgICAgICAgICAgICMgdHdvcnp5bXkgbm93YSBub3R5ZmlrYWNqZSB0byBzZW5kCiAgICAgICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kID0gTm90aWZpY2F0aW9uVG9TZW5kKAogICAgICAgICAgICAgICAgaW52YWxpZF9ub3RpZmljYXRpb249aW52YWxpZF9ub3RpZmljYXRpb24uaWQsCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIGRiLnNlc3Npb24uYWRkKG5vdGlmaWNhdGlvbl90b19zZW5kKQogICAgICAgIGV4Y2VwdCAoSW52YWxpZE5vdGlmaWNhdGlvbkRhdGEsIEludmFsaWREaXNwdXRlRGF0YSk6CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJOb3RpZmljYXRpb24gY2Fubm90IGJlIHBhcnNlZCIpCiAgICAgICAgICAgICMgbm90aWZpY2F0aW9uX3RvX3NlbmQuZXJyb3JzID0gbm90aWZpY2F0aW9uX3Byb2Nlc3Nvci5lcnJvcnMK</text>
+        <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgbm90aWZpY2F0aW9uX3RvX3NlbmQgPSBOb3RpZmljYXRpb25Ub1NlbmQucXVlcnkuZmlsdGVyX2J5KGlkPW5vdGlmaWNhdGlvbl90b19zZW5kX2lkKS5vbmUoKQogICAgIyBleGNlcHQgTm9SZXN1bHRGb3VuZDoKICAgICMgICAgIGxvZ2dlci53YXJuaW5nKCJObyBOb3RpZmljYXRpb25Ub1NlbmQgd2l0aCBpZCAlcyBmb3VuZC4iLCBub3RpZmljYXRpb25fdG9fc2VuZF9pZCkKICAgICMgICAgIHJldHVybgogICAgIwogICAgIyBpZiBub3RpZmljYXRpb25fdG9fc2VuZC5zZW50OgogICAgIyAgICAgbG9nZ2VyLmluZm8oIk5vdGlmaWNhdGlvbiB3aXRoIGlkICVzIGFscmVhZHkgc2VudCB0byBQQ0IiLCBub3RpZmljYXRpb25fdG9fc2VuZF9pZCkKICAgICMgICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbiA9IEludmFsaWROb3RpZmljYXRpb25Ub1NlbmQucXVlcnkuZmlsdGVyKG5vdGlmaWNhdGlvbj1ub3RpZmljYXRpb25zX3RvX3NlbmQuaWQpCg==</text>
+        <text encoding="base64">ICAgICMKICAgICMgdHJ5OgogICAgIyAgICAgcHJvY2Vzc29yX2NscyA9IGdldF9ub3RpZmljYXRpb25fcHJvY2Vzc29yKG5vdGlmaWNhdGlvbi5wYXltZW50X3Byb3ZpZGVyLCBub3RpZmljYXRpb24ubWV0aG9kKQogICAgIyBleGNlcHQgVW5zdXBwb3J0ZWROb3RpZmljYXRpb25NZXRob2Q6CiAgICAjICAgICBsb2dnZXIud2FybmluZygnUmVjZWl2ZWQgbm90aWZpY2F0aW9uIGZvciB1bnN1cHBvcnRlZCBub3RpZmljYXRpb24gbWV0aG9kIGAlc2AuJywgbm90aWZpY2F0aW9uLm1ldGhvZCkKICAgICMgICAgIHJldHVybgogICAgIyBleGNlcHQgVW5zdXBwb3J0ZWRQcm92aWRlcjoKICAgICMgICAgIGxvZ2dlci53YXJuaW5nKCdSZWNlaXZlZCBub3RpZmljYXRpb24gZm9yIHVuc3VwcG9ydGVkIHByb3ZpZGVyIGAlc2AuJywgbm90aWZpY2F0aW9uLnBheW1lbnRfcHJvdmlkZXIpCiAgICAjICAgICByZXR1cm4KCiAgICAjIG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IgPSBwcm9jZXNzb3JfY2xzKG5vdGlmaWNhdGlvbj1ub3RpZmljYXRpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kPSdpcG4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3Muc2VuZF9kYXRhX3RvX3BjYi5kZWxheScpCg==</text>
+        <text encoding="base64">QGNlbGVyeS50YXNrKG5hbWU9J2NhbGxfc2VuZF9pbnZhbGlkX25vdGlmaWNhdGlvbnNfdG9fcGNiX3Rhc2tzJykKZGVmIGNhbGxfc2VuZF9pbnZhbGlkX25vdGlmaWNhdGlvbnNfdG9fcGNiX3Rhc2soKToKICAgIG5vdGlmaWNhdGlvbnNfdG9fc2VuZCA9IEludmFsaWROb3RpZmljYXRpb25Ub1NlbmQucXVlcnkuZmlsdGVyX2J5KHNlbnQ9RmFsc2UsIHNraXA9RmFsc2UpLmxpbWl0KDEwMDApCiAgICBsb2dnZXIuaW5mbygiU3RhcnRlZCBzZW5kaW5nIGFjdGlvbnMgdG8gUENCIGZvciAlcyBpbnZhbGlkIG5vdGlmaWNhdGlvbnMiLCBub3RpZmljYXRpb25zX3RvX3NlbmQuY291bnQoKSkKICAgIGZvciB0b19zZW5kIGluIG5vdGlmaWNhdGlvbnNfdG9fc2VuZDoKICAgICAgICBub3RpZmljYXRpb24gPSBJbnZhbGlkTm90aWZpY2F0aW9uLnF1ZXJ5LmZpbHRlcl9ieShpZD10b19zZW5kLm5vdGlmaWNhdGlvbikub25lKCkKICAgICAgICBpZiBub3RpZmljYXRpb24ubWV0aG9kOgogICAgICAgICAgICBzZW5kX2ludmFsaWRfbm90aWZpY2F0aW9uX3RvX3BjYi5kZWxheSh0b19zZW5kLmlkKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3Muc2VuZF9kYXRhX3RvX3BjYi5kZWxheScpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAubm90aWZpY2F0aW9ucy5wY2IgaW1wb3J0IGdldF9ub3RpZmljYXRpb25fcHJvY2Vzc29yCmZyb20gYXBwLmV4Y2VwdGlvbnMgaW1wb3J0IEludmFsaWROb3RpZmljYXRpb25EYXRhLCBJbnZhbGlkRGlzcHV0ZURhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3Muc2VuZF9kYXRhX3RvX3BjYi5kZWxheScpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGRiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3Muc2VuZF9kYXRhX3RvX3BjYi5kZWxheScpCg==</text>
+        <text encoding="base64">ICAgICMgYmVjYXVzZSBvZiBiaWcgbnVtYmVyIG9mIHByZXZpb3VzbHkgZ2F0aGVyZWQgbm90aWZpY2F0aW9uIHdlIGp1c3Qgc2VuZCAxMDAwIGVhY2ggdGltZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3Muc2VuZF9pbnZhbGlkX25vdGlmaWNhdGlvbl90b19wY2IuZGVsYXknKQogICAgZGVmIHRlc3RfY2FsbF9zZW5kX2RhdGFfdG9fcGNiX3Rhc2tzX3Rhc2tfX25vdGlmaWNhdGlvbl90b19zZW5kX2lzX25vdF9lbGlnaWJsZV9hbmRfbm90X3NlbnRfc3RhdHVzX3NraXAoc2VsZiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRfZGF0YV90b19wY2IpOgogICAgICAgICIiIkNoZWNrIGlmIHNlbmRfZGF0YV90b19wY2IgdGFzayB3YXNuJ3QgY2FsbGVkLgoKICAgICAgICAgICAgTm90aWZpY2F0aW9uVG9TZW5kIGlzIG5vdCBlbGlnaWJsZSBhbmQgbm90IHNlbnQuCiAgICAgICAgIiIiCgogICAgICAgIHNlbmRfZGF0YV90b19wY2IucmV0dXJuX3ZhbHVlID0gTm9uZQogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kID0gSW52YWxpZE5vdGlmaWNhdGlvblRvU2VuZCgKICAgICAgICAgICAgbm90aWZpY2F0aW9uPXNlbGYubm90aWZpY2F0aW9uLmlkLAogICAgICAgICAgICBzeXN0ZW09J3BjYicsCiAgICAgICAgICAgIHNraXA9VHJ1ZSwKICAgICAgICAgICAgc2VudD1GYWxzZQogICAgICAgICkKICAgICAgICBkYi5zZXNzaW9uLmFkZChub3RpZmljYXRpb25fdG9fc2VuZCkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgY2FsbF9zZW5kX2ludmFsaWRfbm90aWZpY2F0aW9uc190b19wY2JfdGFzaygpICMgcG93aW5ubyBieWMgcG9qZWR5bmN6ZQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc2VuZF9kYXRhX3RvX3BjYi5jYWxsX2NvdW50LCAwKQoKICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3MuY2FsbF9zZW5kX2ludmFsaWRfbm90aWZpY2F0aW9uc190b19wY2JfdGFza3MuZGVsYXknKQogICAgZGVmIHRlc3RfY2FsbF9zZW5kX2RhdGFfdG9fcGNiX3Rhc2tzX3Rhc2tfX25vdGlmaWNhdGlvbl90b19zZW5kX2lzX2VsaWdpYmxlX2FuZF9ub3Rfc2VudChzZWxmLCBzZW5kX2RhdGFfdG9fcGNiKToKICAgICAgICAiIiJDaGVjayBpZiBzZW5kX2RhdGFfdG9fcGNiIHRhc2sgd2Fzbid0IGNhbGxlZC4KCiAgICAgICAgICAgIE5vdGlmaWNhdGlvblRvU2VuZCBpcyBlbGlnaWJsZSBhbmQgbm90IHNlbnQuCiAgICAgICAgIiIiCgogICAgICAgIHNlbmRfZGF0YV90b19wY2IucmV0dXJuX3ZhbHVlID0gTm9uZQogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kID0gSW52YWxpZE5vdGlmaWNhdGlvblRvU2VuZCgKICAgICAgICAgICAgbm90aWZpY2F0aW9uPXNlbGYubm90aWZpY2F0aW9uLmlkLAogICAgICAgICAgICBzeXN0ZW09J3BjYicsCiAgICAgICAgICAgIHNraXA9RmFsc2UsCiAgICAgICAgICAgIHNlbnQ9RmFsc2UKICAgICAgICApCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQobm90aWZpY2F0aW9uX3RvX3NlbmQpCiAgICAgICAgZGIuc2Vzc2lvbi5jb21taXQoKQogICAgICAgIGNhbGxfc2VuZF9pbnZhbGlkX25vdGlmaWNhdGlvbnNfdG9fcGNiX3Rhc2soKSAjIGNvcyBqZXN0IG5pZSB0YWsKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbmRfZGF0YV90b19wY2IuY2FsbF9jb3VudCwgMSkK</text>
+        <text encoding="base64">ICAgICMgcmVmYWN0b3IgaXQgaW4gYmV0dGVyIHdheQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBkYXRhID0gbm90aWZpY2F0aW9uX3Byb2Nlc3Nvci5nZXRfZGF0YSgpCiAgICBleGNlcHQgKEludmFsaWROb3RpZmljYXRpb25EYXRhLCBJbnZhbGlkRGlzcHV0ZURhdGEpOgogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kLmVycm9ycyA9IG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQobm90aWZpY2F0aW9uX3RvX3NlbmQpCiAgICAgICAgZGIuc2Vzc2lvbi5jb21taXQoKQoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJOb3RpZmljYXRpb24gJXMgKCMlcykgY291bGQgbm90IGJlIHNlbnQgdG8gUENCLiBFcnJvcjogJXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uLnBheW1lbnRfcHJvdmlkZXJfdHJhbnNhY3Rpb25faWQsCiAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb24uaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb25fcHJvY2Vzc29yLmVycm9ycykKICAgICAgICByZXR1cm4KICAgIGV4Y2VwdCBWb2lkRXJyb3JzRXhjZXB0aW9uOgogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kLmVycm9ycyA9IG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzCiAgICAgICAgbm90aWZpY2F0aW9uX3RvX3NlbmQuc2tpcCA9IFRydWUKICAgICAgICBkYi5zZXNzaW9uLmFkZChub3RpZmljYXRpb25fdG9fc2VuZCkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgbG9nZ2VyLndhcm5pbmcoIk5vdGlmaWNhdGlvbiAlcyB3aWxsIG5vdCBiZSBzZW50IHRvIFBDQi4gUmVhc29uOiAlcyIsCiAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uLnBheW1lbnRfcHJvdmlkZXJfdHJhbnNhY3Rpb25faWQsIG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzKQogICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAjIG1ldGhvZCBpcG4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjZWxlcnlfYmVhdF9zY2hlZHVsZV9wb3N0X3JlcXVlc3RzX3Rhc2tzXD4=</last-search>
+      <last-search>db</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjZWxlcnlfYmVhdF9zY2hlZHVsZV9wb3N0X3JlcXVlc3RzX3Rhc2tzXD4=</last-pattern>
+      <last-pattern>db</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>button_in_co</entry>
         <entry encoding="base64">XDxidXR0b25faW5fY29tcGxldGluZ1w+</entry>
         <entry>show_in_com</entry>
         <entry>in_completion</entry>
@@ -579,6 +596,7 @@
         <entry encoding="base64">XDxub3RpZmljYXRpb25fcHJvY2Vzc29yXD4=</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxjZWxlcnlfYmVhdF9zY2hlZHVsZV9wb3N0X3JlcXVlc3RzX3Rhc2tzXD4=</entry>
+        <entry>db</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
