@@ -545,7 +545,7 @@
         <text encoding="base64">ICAgIHRyeToKICAgICAgICBkYXRhID0gbm90aWZpY2F0aW9uX3Byb2Nlc3Nvci5nZXRfZGF0YSgpCiAgICBleGNlcHQgKEludmFsaWROb3RpZmljYXRpb25EYXRhLCBJbnZhbGlkRGlzcHV0ZURhdGEpOgogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kLmVycm9ycyA9IG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQobm90aWZpY2F0aW9uX3RvX3NlbmQpCiAgICAgICAgZGIuc2Vzc2lvbi5jb21taXQoKQoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJOb3RpZmljYXRpb24gJXMgKCMlcykgY291bGQgbm90IGJlIHNlbnQgdG8gUENCLiBFcnJvcjogJXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uLnBheW1lbnRfcHJvdmlkZXJfdHJhbnNhY3Rpb25faWQsCiAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb24uaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb25fcHJvY2Vzc29yLmVycm9ycykKICAgICAgICByZXR1cm4KICAgIGV4Y2VwdCBWb2lkRXJyb3JzRXhjZXB0aW9uOgogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kLmVycm9ycyA9IG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzCiAgICAgICAgbm90aWZpY2F0aW9uX3RvX3NlbmQuc2tpcCA9IFRydWUKICAgICAgICBkYi5zZXNzaW9uLmFkZChub3RpZmljYXRpb25fdG9fc2VuZCkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgbG9nZ2VyLndhcm5pbmcoIk5vdGlmaWNhdGlvbiAlcyB3aWxsIG5vdCBiZSBzZW50IHRvIFBDQi4gUmVhc29uOiAlcyIsCiAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uLnBheW1lbnRfcHJvdmlkZXJfdHJhbnNhY3Rpb25faWQsIG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzKQogICAgICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -598,8 +598,8 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>wq</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
