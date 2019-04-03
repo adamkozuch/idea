@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1553085445053">
         <mark key="'" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1554273431638">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="149" column="40" />
-        <mark key="]" line="149" column="40" />
-        <mark key="." line="149" column="40" />
-        <mark key="^" line="149" column="40" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1554276296099">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="134" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
         <mark key="'" line="48" column="0" />
@@ -176,17 +176,18 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1554202505112">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1554275116050">
-        <mark key="'" line="145" column="8" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1554276396275">
+        <mark key="'" line="55" column="41" />
+        <mark key="[" line="56" column="56" />
+        <mark key="]" line="56" column="56" />
+        <mark key="." line="56" column="56" />
+        <mark key="^" line="55" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1554274039667">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1554275565501">
         <mark key="'" line="139" column="4" />
-        <mark key="[" line="79" column="17" />
-        <mark key="]" line="79" column="41" />
-        <mark key="." line="79" column="41" />
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="16" />
+        <mark key="." line="71" column="16" />
         <mark key="^" line="79" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/evaluate_cer.py" timestamp="1553337720955">
@@ -406,10 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="10" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="240" column="20" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
-      <jump line="39" column="42" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="56" column="24" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
       <jump line="248" column="8" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
       <jump line="31" column="43" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" />
@@ -506,49 +503,53 @@
       <jump line="112" column="7" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="113" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="148" column="40" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
+      <jump line="55" column="41" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bWVudF9wcm92aWRlcj0nJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgY28gamEgdHV0YWogdGVzdHVqZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Notification</text>
+        <text encoding="base64">ICMgY28gamEgdHV0YWogdGVzdHVqZQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZWxlcnlfYmVhdF9zY2hlZHVsZV9wb3N0X3JlcXVlc3RzX3Rhc2tzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzdXBlcigpLnNldFVwKCkKICAgICAgICBzZWxmLm5vdGlmaWNhdGlvbiA9IE5vdGlmaWNhdGlvbigKICAgICAgICAgICAgZGF0YT17fSwKICAgICAgICAgICAgcGF5bWVudF9wcm92aWRlcj0nUGF5UGFsJywKICAgICAgICApCiAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5ub3RpZmljYXRpb24pCiAgICAgICAgZGIuc2Vzc2lvbi5jb21taXQoKQoK</text>
+        <text encoding="base64">QGNlbGVyeS50YXNrKAogICAgbmFtZT0nc2VuZF9kYXRhX3RvX3BjYicsCiAgICBhdXRvcmV0cnlfZm9yPShSZXF1ZXN0RXhjZXB0aW9uLCApLAogICAgcmV0cnlfYmFja29mZj1UcnVlLAopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bWVudF9wcm92aWRlcj0nJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0b19zZW5kKQoKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3MuY2FsbF9zZW5kX2ludmFsaWRfbm90aWZpY2F0aW9uc190b19wY2JfdGFza3MuZGVsYXknKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsX3NlbmRfZGF0YV90b19wY2JfdGFza3MoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IK</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3Muc2VuZF9kYXRhX3RvX3BjYi5kZWxheScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF5bWVudF9wcm92aWRlcj0nJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0bwo=</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -601,8 +602,8 @@
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>wq</entry>
         <entry>action Switcher</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
