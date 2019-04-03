@@ -27,12 +27,12 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1553085445053">
         <mark key="'" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1554272221475">
-        <mark key="'" line="43" column="32" />
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="30" column="106" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1554272964223">
+        <mark key="'" line="91" column="61" />
+        <mark key="[" line="91" column="102" />
+        <mark key="]" line="91" column="129" />
+        <mark key="." line="91" column="129" />
+        <mark key="^" line="91" column="129" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1552648731629">
         <mark key="'" line="48" column="0" />
@@ -382,8 +382,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1554272242123" />
     </filemarks>
     <jumps>
-      <jump line="346" column="5" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
-      <jump line="81" column="5" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="144" column="5" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="216" column="5" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="80" column="5" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
@@ -482,40 +480,42 @@
       <jump line="29" column="32" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="49" column="28" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
       <jump line="44" column="34" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" />
+      <jump line="71" column="46" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
+      <jump line="91" column="61" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMgbWF5YmUgbm9uZQ==</text>
+        <text>mehtod</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgbWF5YmUgbm9uZQ==</text>
+        <text>mehtod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIF9yZXR1cm5fdmFsaWRfbm90aWZpY2F0aW9uX3RvX3NlbmQobm90aWZpY2F0aW9uX3RvX3NlbmRfaWQpOgogICAgdHJ5OgogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kID0gTm90aWZpY2F0aW9uVG9TZW5kLnF1ZXJ5LmZpbHRlcl9ieShpZD1ub3RpZmljYXRpb25fdG9fc2VuZF9pZCkub25lKCkKICAgIGV4Y2VwdCBOb1Jlc3VsdEZvdW5kOgogICAgICAgIGxvZ2dlci53YXJuaW5nKCJObyBOb3RpZmljYXRpb25Ub1NlbmQgd2l0aCBpZCAlcyBmb3VuZC4iLCBub3RpZmljYXRpb25fdG9fc2VuZF9pZCkKICAgICAgICByYWlzZSAjIG1heWJlIG5vbmUKCiAgICBpZiBub3RpZmljYXRpb25fdG9fc2VuZC5zZW50OgogICAgICAgIGxvZ2dlci5pbmZvKCJOb3RpZmljYXRpb24gd2l0aCBpZCAlcyBhbHJlYWR5IHNlbnQgdG8gUENCIiwgbm90aWZpY2F0aW9uX3RvX3NlbmRfaWQpCiAgICAgICAgcmFpc2UgIyBtYXliZSBub25lCgogICAgcmV0dXJuIG5vdGlmaWNhdGlvbl90b19zZW5kCg==</text>
+        <text encoding="base64">QGNlbGVyeS50YXNrKG5hbWU9J2NhbGxfc2VuZF9kYXRhX3RvX3BjYl90YXNrcycpCmRlZiBjYWxsX3NlbmRfZGF0YV90b19wY2JfdGFza3MoKToKICAgIG5vdGlmaWNhdGlvbnNfdG9fc2VuZCA9IE5vdGlmaWNhdGlvblRvU2VuZC5xdWVyeS5maWx0ZXJfYnkoc2VudD1GYWxzZSwgc2tpcD1GYWxzZSkgIyB0YSBub3R5ZmlrYWNqYSBtdXNpIGJ5YyB3eXNsYW5hIGRvIHBjYgogICAgbG9nZ2VyLmluZm8oIlN0YXJ0ZWQgc2VuZGluZyBhY3Rpb25zIHRvIFBDQiBmb3IgJXMgbm90aWZpY2F0aW9ucyIsIG5vdGlmaWNhdGlvbnNfdG9fc2VuZC5jb3VudCgpKQogICAgZm9yIHRvX3NlbmQgaW4gbm90aWZpY2F0aW9uc190b19zZW5kOgogICAgICAgIHNlbmRfZGF0YV90b19wY2IuZGVsYXkodG9fc2VuZC5pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50Cg==</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0bwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBpZiB0bwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
