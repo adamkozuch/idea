@@ -30,8 +30,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1554371575136">
         <mark key="'" line="373" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1554371437918">
-        <mark key="'" line="210" column="31" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1554382248239">
+        <mark key="'" line="107" column="35" />
         <mark key="[" line="223" column="39" />
         <mark key="]" line="223" column="39" />
         <mark key="^" line="222" column="115" />
@@ -97,6 +97,7 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" timestamp="1552927244819">
         <mark key="'" line="1529" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1554382157243" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0037_auto_20190312_1043.py" timestamp="1552901539064">
         <mark key="'" line="17" column="272" />
       </file>
@@ -149,15 +150,18 @@
         <mark key="." line="75" column="66" />
         <mark key="^" line="75" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1554372355019">
-        <mark key="'" line="141" column="4" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1554381586413">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="45" column="63" />
         <mark key="]" line="45" column="63" />
         <mark key="." line="45" column="63" />
         <mark key="^" line="45" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554380585014">
-        <mark key="'" line="118" column="63" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/dotpay/mappings.py" timestamp="1554382100733">
+        <mark key="'" line="50" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554382446514">
+        <mark key="'" line="118" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1553166615340">
         <mark key="'" line="26" column="44" />
@@ -189,8 +193,8 @@
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1553868535268">
-        <mark key="'" line="79" column="69" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1554381543862">
+        <mark key="'" line="110" column="41" />
         <mark key="[" line="83" column="52" />
         <mark key="]" line="83" column="53" />
         <mark key="^" line="82" column="63" />
@@ -203,6 +207,9 @@
         <mark key="]" line="25" column="22" />
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1554382466163">
+        <mark key="'" line="44" column="56" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" timestamp="1554215399791">
         <mark key="'" line="44" column="34" />
@@ -256,13 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="41" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
-      <jump line="17" column="37" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/schema.py" />
-      <jump line="990" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/marshmallow/schema.py" />
-      <jump line="76" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
-      <jump line="77" column="29" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
-      <jump line="19" column="54" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="237" column="38" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
       <jump line="31" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
@@ -354,8 +354,15 @@
       <jump line="70" column="18" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="142" column="40" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
       <jump line="226" column="9" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/processor.py" />
+      <jump line="224" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="112" column="56" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="110" column="41" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
       <jump line="11" column="38" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="118" column="63" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="118" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
+      <jump line="50" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/dotpay/mappings.py" />
+      <jump line="44" column="56" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="107" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -398,7 +405,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdCZWZvcmUgcHJvY2Vzc29yJykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -412,9 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
-        <entry>stock_quamn</entry>
-        <entry>stock_quan</entry>
         <entry>'sensitive': T</entry>
         <entry>street</entry>
         <entry>city</entry>
@@ -431,6 +435,9 @@
         <entry encoding="base64">XDx2YWxpZGF0ZWRfZGF0YVw+</entry>
         <entry encoding="base64">XDxpbnZhbGlkX25vdGlmaWNhdGlvblw+</entry>
         <entry>get_ti</entry>
+        <entry>method</entry>
+        <entry>PaymentCh</entry>
+        <entry>Payment</entry>
         <entry encoding="base64">XDxQYXltZW50TWV0aG9kc1w+</entry>
       </history-search>
       <history-cmd>
@@ -451,9 +458,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
-        <entry>action Switcher</entry>
         <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
