@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1553890418636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1554371295886">
-        <mark key="'" line="29" column="54" />
-        <mark key="[" line="99" column="15" />
-        <mark key="]" line="99" column="78" />
-        <mark key="^" line="99" column="78" />
-        <mark key="." line="99" column="78" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1554373634279">
+        <mark key="'" line="14" column="14" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1552997321211">
         <mark key="'" line="225" column="17" />
@@ -201,12 +201,12 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1554371400743">
-        <mark key="'" line="140" column="4" />
-        <mark key="[" line="47" column="36" />
-        <mark key="]" line="47" column="36" />
-        <mark key="." line="47" column="36" />
-        <mark key="^" line="47" column="36" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1554372355019">
+        <mark key="'" line="141" column="4" />
+        <mark key="[" line="45" column="63" />
+        <mark key="]" line="45" column="63" />
+        <mark key="." line="45" column="63" />
+        <mark key="^" line="45" column="78" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HandwrittenTextRecognition_MXNet/ocr/evaluate_cer.py" timestamp="1553337720955">
         <mark key="'" line="11" column="62" />
@@ -403,12 +403,12 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1554370882168">
-        <mark key="'" line="299" column="38" />
-        <mark key="[" line="302" column="49" />
-        <mark key="]" line="302" column="50" />
-        <mark key="." line="302" column="50" />
-        <mark key="^" line="302" column="51" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1554373955617">
+        <mark key="'" line="287" column="0" />
+        <mark key="[" line="304" column="37" />
+        <mark key="]" line="304" column="37" />
+        <mark key="." line="304" column="37" />
+        <mark key="^" line="304" column="37" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/ipn/schema.py" timestamp="1554365966385">
         <mark key="'" line="17" column="37" />
@@ -436,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="165" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="160" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="151" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
@@ -534,51 +532,53 @@
       <jump line="299" column="38" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="61" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="62" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="29" column="54" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="53" column="40" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
+      <jump line="29" column="54" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="287" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
+      <jump line="14" column="14" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return_valid_notification_to_send_by_id</text>
+        <text>{})</text>
       </register>
       <register name="-" type="4">
-        <text>return_valid_notification_to_send_by_id</text>
+        <text>{})</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZWRfZGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQoc2VsZi5yZWZ1bmRfbm90aWZpY2F0aW9uKQogICAgICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcGlfY2xpZW50cy5wY2IuY3JlYXRlX2FjdGlvbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5vdGlmaWNhdGlvbl90b19zZW5kLnNlbnQsIEZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZvaWRlZF9ub3RpZmljYXRpb24gPSBOb3RpZmljYXRpb24oCiAgICAgICAgICAgIGRhdGE9c2VsZi5yZWZ1bmRfZGF0YSwKICAgICAgICAgICAgcGF5bWVudF9wcm92aWRlcj0nUGF5UGFsJywKICAgICAgICAgICAgbWV0aG9kPSdyZXN0JywKICAgICAgICAgICAgZG9tYWluPSdsb2NhbGhvc3Q6OTA5MCcKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJOb3JpZmljYXRpb24gIiwgbm90aWZpY2F0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3MubG9nZ2VyLndhcm5pbmcnKQogICAgZGVmIHRlc3Rfdm9pZF9lcnJvcnNfaW5fdGFza3NfZm9yX2ludmFsaWRfbm90aWZpY2F0aW9uKHNlbGYsIGxvZ2dlcl9tb2NrKToKCiAgICAgICAgbm90aWZpY2F0aW9uX3RvX3NlbmQgPSBOb3RpZmljYXRpb25Ub1NlbmQoCiAgICAgICAgICAgIG5vdGlmaWNhdGlvbj1zZWxmLnZvaWRlZF9ub3RpZmljYXRpb24uaWQsCiAgICAgICAgICAgIHNlbnQ9RmFsc2UsCiAgICAgICAgICAgIHNraXA9RmFsc2UsCiAgICAgICAgICAgIHN5c3RlbT0ncGNiJwogICAgICAgICkKICAgICAgICBkYi5zZXNzaW9uLmFkZChub3RpZmljYXRpb25fdG9fc2VuZCkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCgogICAgICAgIHNlbmRfZGF0YV90b19wY2Iobm90aWZpY2F0aW9uX3RvX3NlbmQuaWQpCgogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kID0gTm90aWZpY2F0aW9uVG9TZW5kLnF1ZXJ5LmZpbHRlcl9ieShpZD1ub3RpZmljYXRpb25fdG9fc2VuZC5pZCkub25lKCkgICMgcmVmcmVzaCBmcm9tIGRiCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChub3RpZmljYXRpb25fdG9fc2VuZC5za2lwLCBUcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb25lKG5vdGlmaWNhdGlvbl90b19zZW5kLmV4dGVybmFsX2lkKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobm90aWZpY2F0aW9uX3RvX3NlbmQuc2VudCwgRmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChqc29uLmR1bXBzKG5vdGlmaWNhdGlvbl90b19zZW5kLmVycm9ycyksCiAgICAgICAgICAgICAgICAgICAgICAgICBqc29uLmR1bXBzKFBheVBhbFJFU1ROb3RpZmljYXRpb25Qcm9jZXNzb3Iudm9pZF9lcnJvcnMpKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxvZ2dlcl9tb2NrLmNhbGxfY291bnQsIDEpCiAgICAgICAgbG9nZ2VyX21vY2suYXNzZXJ0X2NhbGxlZF93aXRoKCJOb3RpZmljYXRpb24gJXMgd2lsbCBub3QgYmUgc2VudCB0byBQQ0IuIFJlYXNvbjogJXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnZvaWRlZF9ub3RpZmljYXRpb24ucGF5bWVudF9wcm92aWRlcl90cmFuc2FjdGlvbl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGF5UGFsUkVTVE5vdGlmaWNhdGlvblByb2Nlc3Nvci52b2lkX2Vycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5vdGlmaWNhdGlvbl90b19zZW5kLnNlbnQsIEZhbHNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydERpY3RFcXVhbChUcnVlLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZvaWRlZF9ub3RpZmljYXRpb24gPSBOb3RpZmljYXRpb24oCiAgICAgICAgICAgIGRhdGE9c2VsZi5yZWZ1bmRfZGF0YSwKICAgICAgICAgICAgcGF5bWVudF9wcm92aWRlcj0nUGF5UGFsJywKICAgICAgICAgICAgbWV0aG9kPSdyZXN0JywKICAgICAgICAgICAgZG9tYWluPSdsb2NhbGhvc3Q6OTA5MCcKICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb25fdG9fc2VuZC5lcnJvcnMgPSBub3RpZmljYXRpb25fcHJvY2Vzc29yLmVycm9ycwogICAgICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kLnNraXAgPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQobm90aWZpY2F0aW9uX3RvX3NlbmQpCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcHAubm90aWZpY2F0aW9ucy5wY2IudGFza3MubG9nZ2VyLndhcm5pbmcnKQogICAgZGVmIHRlc3Rfdm9pZF9lcnJvcnNfaW5fdGFza3NfZm9yX2ludmFsaWRfbm90aWZpY2F0aW9uKHNlbGYsIGxvZ2dlcl9tb2NrKToKCiAgICAgICAgbm90aWZpY2F0aW9uX3RvX3NlbmQgPSBOb3RpZmljYXRpb25Ub1NlbmQoCiAgICAgICAgICAgIG5vdGlmaWNhdGlvbj1zZWxmLnZvaWRlZF9ub3RpZmljYXRpb24uaWQsCiAgICAgICAgICAgIHNlbnQ9RmFsc2UsCiAgICAgICAgICAgIHNraXA9RmFsc2UsCiAgICAgICAgICAgIHN5c3RlbT0ncGNiJwogICAgICAgICkKICAgICAgICBkYi5zZXNzaW9uLmFkZChub3RpZmljYXRpb25fdG9fc2VuZCkKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCgogICAgICAgIHNlbmRfZGF0YV90b19wY2Iobm90aWZpY2F0aW9uX3RvX3NlbmQuaWQpCgogICAgICAgIG5vdGlmaWNhdGlvbl90b19zZW5kID0gTm90aWZpY2F0aW9uVG9TZW5kLnF1ZXJ5LmZpbHRlcl9ieShpZD1ub3RpZmljYXRpb25fdG9fc2VuZC5pZCkub25lKCkgICMgcmVmcmVzaCBmcm9tIGRiCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChub3RpZmljYXRpb25fdG9fc2VuZC5za2lwLCBUcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb25lKG5vdGlmaWNhdGlvbl90b19zZW5kLmV4dGVybmFsX2lkKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobm90aWZpY2F0aW9uX3RvX3NlbmQuc2VudCwgRmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChqc29uLmR1bXBzKG5vdGlmaWNhdGlvbl90b19zZW5kLmVycm9ycyksCiAgICAgICAgICAgICAgICAgICAgICAgICBqc29uLmR1bXBzKFBheVBhbFJFU1ROb3RpZmljYXRpb25Qcm9jZXNzb3Iudm9pZF9lcnJvcnMpKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxvZ2dlcl9tb2NrLmNhbGxfY291bnQsIDEpCiAgICAgICAgbG9nZ2VyX21vY2suYXNzZXJ0X2NhbGxlZF93aXRoKCJOb3RpZmljYXRpb24gJXMgd2lsbCBub3QgYmUgc2VudCB0byBQQ0IuIFJlYXNvbjogJXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnZvaWRlZF9ub3RpZmljYXRpb24ucGF5bWVudF9wcm92aWRlcl90cmFuc2FjdGlvbl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGF5UGFsUkVTVE5vdGlmaWNhdGlvblByb2Nlc3Nvci52b2lkX2Vycm9ycykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydERpY3RFcXVhbChUcnVlLCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb25fdG9fc2VuZC5lcnJvcnMgPSBub3RpZmljYXRpb25fcHJvY2Vzc29yLmVycm9ycwogICAgICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uYWRkKG5vdGlmaWNhdGlvbl90b19zZW5kKQogICAgICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -614,7 +614,6 @@
         <entry encoding="base64">XDx2YWxpZGF0ZWRfZGF0YVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
         <entry>q!</entry>
         <entry>s%/paragraph/wwww/</entry>
         <entry encoding="base64">bWFwIFxyIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
@@ -630,9 +629,11 @@
         <entry>q</entry>
         <entry>action ToggleDistractionFreeMode</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>action Switcher</entry>
-        <entry>w</entry>
+        <entry>we</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
