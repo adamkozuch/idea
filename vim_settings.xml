@@ -32,12 +32,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1554371575136">
         <mark key="'" line="373" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1554382248239">
-        <mark key="'" line="107" column="35" />
-        <mark key="[" line="223" column="39" />
-        <mark key="]" line="223" column="39" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1554449249919">
+        <mark key="'" line="223" column="38" />
+        <mark key="[" line="222" column="117" />
+        <mark key="]" line="222" column="117" />
         <mark key="^" line="222" column="115" />
-        <mark key="." line="223" column="39" />
+        <mark key="." line="222" column="117" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1553085445053">
         <mark key="'" line="61" column="13" />
@@ -318,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
       <jump line="112" column="47" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="120" column="37" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
@@ -418,16 +417,17 @@
       <jump line="67" column="9" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
       <jump line="73" column="47" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
       <jump line="68" column="29" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
+      <jump line="223" column="38" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAjIGZvciBpbnZhbGlkIGl0IHdpbGwgYWx3YXlzIGJlIGlw</text>
+        <text encoding="base64">ICMgemFwaXN1amVteSB0eWxrbyBpZA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIGZvciBpbnZhbGlkIGl0IHdpbGwgYWx3YXlzIGJlIGlw</text>
+        <text encoding="base64">ICMgemFwaXN1amVteSB0eWxrbyBpZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYXltZW50TWV0aG9kc1w+</text>
+        <text>zapisu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJhcG9ydFsnZXJyb3JzJ10uYXBwZW5kKHsnaWQnOiBpX24uaWQsICdlcnJvcnMnOiBub3RpZmljYXRpb25fcHJvY2Vzc29yLmVycm9yc30pCg==</text>
@@ -464,17 +464,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQYXltZW50TWV0aG9kc1w+</last-search>
+      <last-search>zapisu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYXltZW50TWV0aG9kc1w+</last-pattern>
+      <last-pattern>zapisu</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'sensitive': T</entry>
         <entry>street</entry>
         <entry>city</entry>
         <entry>country</entry>
@@ -494,6 +493,7 @@
         <entry>PaymentCh</entry>
         <entry>Payment</entry>
         <entry encoding="base64">XDxQYXltZW50TWV0aG9kc1w+</entry>
+        <entry>zapisu</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
