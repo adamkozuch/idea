@@ -91,6 +91,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/.crypto/lib/python3.6/site-packages/crypto_config_generator/generator.py" timestamp="1554189805727">
         <mark key="'" line="524" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" timestamp="1554469443957" />
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/generated_file_4.py" timestamp="1552927244819">
         <mark key="'" line="1529" column="25" />
       </file>
@@ -129,8 +130,8 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" timestamp="1553170147684">
         <mark key="'" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554468698686">
-        <mark key="'" line="145" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554470091398">
+        <mark key="'" line="167" column="36" />
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -151,7 +152,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1554452398822">
         <mark key="'" line="47" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1554467344068" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1554470105326">
+        <mark key="'" line="195" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1554462217258">
         <mark key="'" line="66" column="42" />
         <mark key="[" line="56" column="0" />
@@ -277,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="360" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="312" column="28" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="304" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
@@ -364,7 +366,6 @@
       <jump line="131" column="54" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_rest.py" />
       <jump line="58" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="68" column="14" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
-      <jump line="167" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="40" column="1" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="605" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="26" column="72" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
@@ -377,6 +378,8 @@
       <jump line="137" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="140" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="145" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="167" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="195" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -425,7 +428,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb24sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -479,8 +482,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>action Run</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
