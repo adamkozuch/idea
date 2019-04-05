@@ -123,6 +123,13 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" timestamp="1553170147684">
         <mark key="'" line="25" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554467480932">
+        <mark key="'" line="26" column="72" />
+        <mark key="[" line="164" column="52" />
+        <mark key="]" line="165" column="35" />
+        <mark key="^" line="165" column="35" />
+        <mark key="." line="165" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
       </file>
@@ -139,6 +146,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1554452398822">
         <mark key="'" line="47" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1554467344068" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1554462217258">
         <mark key="'" line="66" column="42" />
         <mark key="[" line="56" column="0" />
@@ -258,10 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="26" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="47" column="60" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="286" column="3" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="368" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="289" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="369" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
@@ -358,6 +362,10 @@
       <jump line="131" column="54" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_rest.py" />
       <jump line="58" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="68" column="14" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
+      <jump line="167" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="40" column="1" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="605" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="26" column="72" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -367,7 +375,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_return</text>
+        <text encoding="base64">XDx0YXNrX2NsaWVudF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Notification %s will not be sent to PCB. Reason: %s&quot;,
@@ -406,21 +414,20 @@
         <text encoding="base64">ICAgICAgICBwcmludCgndm9pZCBlcnJvcnMgZXhjZXB0aW9uIHByb2JsZW0nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_return</last-search>
+      <last-search encoding="base64">XDx0YXNrX2NsaWVudF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lXD4=</last-search>
       <last-offset />
-      <last-pattern>_return</last-pattern>
+      <last-pattern encoding="base64">XDx0YXNrX2NsaWVudF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lXD4=</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub3RpZmljYXRpb25fcHJvY2Vzc29yXD4=</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxjZWxlcnlfYmVhdF9zY2hlZHVsZV9wb3N0X3JlcXVlc3RzX3Rhc2tzXD4=</entry>
         <entry>db</entry>
@@ -440,6 +447,7 @@
         <entry>patch</entry>
         <entry>return_in</entry>
         <entry>_return</entry>
+        <entry encoding="base64">XDx0YXNrX2NsaWVudF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -460,8 +468,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
