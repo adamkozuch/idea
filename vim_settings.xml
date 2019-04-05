@@ -76,6 +76,12 @@
         <mark key="^" line="75" column="50" />
         <mark key="." line="75" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" timestamp="1554198490900">
+        <mark key="'" line="82" column="18" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1554124169540">
         <mark key="'" line="35" column="8" />
       </file>
@@ -123,12 +129,11 @@
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/__init__.py" timestamp="1553170147684">
         <mark key="'" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554467480932">
-        <mark key="'" line="26" column="72" />
-        <mark key="[" line="164" column="52" />
-        <mark key="]" line="165" column="35" />
-        <mark key="^" line="165" column="35" />
-        <mark key="." line="165" column="35" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554468698686">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
         <mark key="'" line="17" column="552" />
@@ -172,6 +177,12 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/production/vars.yml" timestamp="1553871561218" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/schemas.py" timestamp="1554382601960" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1554200184529">
+        <mark key="'" line="355" column="30" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/samples/ipn_samples/ipn.json" timestamp="1554369612179" />
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/payments/__init__.py" timestamp="1553165272433">
         <mark key="'" line="26" column="30" />
@@ -266,15 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="289" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="369" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="324" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="247" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="260" column="7" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="394" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="45" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="380" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="360" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
       <jump line="312" column="28" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
@@ -366,10 +368,19 @@
       <jump line="40" column="1" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="605" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="26" column="72" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="125" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="140" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBnZXR0aW5nIGlwIG9mIHRoZSB1c2VyCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -384,34 +395,34 @@
                                        PayPalRESTNotificationProcessor.void_errors</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBnZXR0aW5nIGlwIG9mIHRoZSB1c2VyCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICMgZGVmIHRlc3RfYWRkX3RvX3NlbmRfb3ZlcmR1ZV9ub3RpZmljYXRpb25zKHNlbGYpOgogICAgIyAgICAgaW52YWxpZF9ub3RpZmljYXRpb24gPSBJbnZhbGlkTm90aWZpY2F0aW9uKAogICAgIyAgICAgICAgIGRhdGE9eyd0eG5faWQnOiAna2Rra2RsZGRkZGZkZmRmZGZmZGRmJywKICAgICMgICAgICAgICAgICAgICAncGF5bWVudF9zdGF0dXMnOiAnQ29tcGxldGVkJywKICAgICMgICAgICAgICAgICAgICAnbWNfZ3Jvc3MnOiAnMTIuMzQnLAogICAgIyAgICAgICAgICAgICAgICdtY19jdXJyZW5jeSc6ICdkZmFkZicsCiAgICAjICAgICAgICAgICAgICAgJ3BheW1lbnRfZGF0ZSc6IHN0cihkYXRldGltZSgyMDE4LCAxLCAxLCApKSwKICAgICMgICAgICAgICAgICAgICB9LAogICAgIyAgICAgICAgIHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcsCiAgICAjICAgICAgICAgaHR0cF9oZWFkZXJzPXt9LAogICAgIyAgICAgICAgIGRvbWFpbj0nbG9jYWxob3N0OjkwOTAnCiAgICAjICAgICApCiAgICAjICAgICBkYi5zZXNzaW9uLmFkZChpbnZhbGlkX25vdGlmaWNhdGlvbikKICAgICMgICAgIGRiLnNlc3Npb24uY29tbWl0KCkKICAgICMgICAgIGxvZ2dlciA9IE1vY2soKQogICAgIyAgICAgYWRkX2ludmFsaWRfcGF5cGFsX2lwbl9ub3RpZmljYXRpb25fdG9fc2VuZF9vYmplY3QoZGIsIGxvZ2dlcikKICAgICMgICAgIGNvdW50ID0gSW52YWxpZE5vdGlmaWNhdGlvblRvU2VuZC5xdWVyeS5jb3VudCgpCiAgICAjICAgICBzZWxmLmFzc2VydEVxdWFsKGNvdW50LCAxKQogICAgIyAgICAgaW52YWxpZF9ub3RpZmljYXRpb25fdG9fc2VuZCA9IEludmFsaWROb3RpZmljYXRpb25Ub1NlbmQucXVlcnkub25lKCkKICAgICMgICAgIGludmFsaWRfbm90aWZpY2F0aW9uX2FmdGVyX3VwZGF0ZSA9IEludmFsaWROb3RpZmljYXRpb24ucXVlcnkub25lKCkKICAgICMgICAgIHNlbGYuYXNzZXJ0RXF1YWwoaW52YWxpZF9ub3RpZmljYXRpb25fdG9fc2VuZC5leHRlcm5hbF9pZCwgJ2tka2tkbGRkZGRmZGZkZmRmZmRkZicpCiAgICAjICAgICBzZWxmLmFzc2VydEVxdWFsKGludmFsaWRfbm90aWZpY2F0aW9uX2FmdGVyX3VwZGF0ZS5tZXRob2QsICdpcG4nKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>&quot;Notification %s will not be sent to PCB. Reason: %s&quot;,
                                        self.voided_notification,
                                        self.voided_notification.id,
                                        PayPalRESTNotificationProcessor.void_errors)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiaW5zaWRlIG9mIHZvaWQgZXJyb3JzIikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb24uaWQsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb24sCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndm9pZCBlcnJvcnMgZXhjZXB0aW9uIHByb2JsZW0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb24sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
