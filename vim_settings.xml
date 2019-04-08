@@ -111,14 +111,21 @@
         <mark key="." line="54" column="37" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1553869759899" />
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/reports/tests/test_reports.py" timestamp="1554473741838">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/reports/tests/test_reports.py" timestamp="1554727638443">
         <mark key="'" line="34" column="28" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="93" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1553892076822">
         <mark key="'" line="53" column="19" />
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/commands.py" timestamp="1554386004833">
+        <mark key="'" line="268" column="28" />
+        <mark key="[" line="268" column="14" />
+        <mark key="]" line="268" column="75" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554724396858">
         <mark key="'" line="158" column="0" />
@@ -127,11 +134,18 @@
         <mark key="." line="169" column="25" />
         <mark key="^" line="169" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis.py" timestamp="1554727279028">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="24" column="69" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis.py" timestamp="1554727910252">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1554728518241">
+        <mark key="'" line="807" column="0" />
+        <mark key="[" line="817" column="38" />
+        <mark key="]" line="817" column="48" />
+        <mark key="." line="817" column="48" />
+        <mark key="^" line="817" column="48" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/all.yml" timestamp="1554724049409">
         <mark key="[" line="19" column="0" />
@@ -231,6 +245,12 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis_test.py" timestamp="1554727782889">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1554382709828">
         <mark key="'" line="44" column="54" />
         <mark key="[" line="30" column="120" />
@@ -243,7 +263,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554105115805">
+      <file name="/Dummy.txt" timestamp="1554727954904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1554118204471">
@@ -281,19 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="237" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="247" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="248" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="56" column="10" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="47" column="42" filename="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" />
-      <jump line="222" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/base.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="7" column="180" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="28" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="18" column="19" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="24" column="62" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="38" column="12" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="52" column="12" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="209" column="42" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
@@ -381,46 +388,59 @@
       <jump line="56" column="67" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="50" column="58" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="17" column="22" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/auto_operation.py" />
+      <jump line="708" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="712" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="714" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="717" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="719" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="726" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="730" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="786" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="792" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="795" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="799" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="801" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="807" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDRUxFUllfQUxXQVlTX0VBR0VSPVRydWUsIFNFTkRfU01TPVRydWUpCiAgICBAbW9jay5wYXRjaCgnY2xpZW50X3N5c3RlbXMudGFza3MuU01TU2VyaWFsaXplci5zZW5kJywgIGF1dG9zcGVjPVRydWUpCiAgICBAbW9jay5wYXRjaCgnY2xpZW50X3N5c3RlbXMudGFza3MuZ2V0X2VuY3J5cHRlZF9waG9uZV9mcm9tX2JpJywgYXV0b3NwZWM9VHJ1ZSkKICAgIEBtb2NrLnBhdGNoKCdjbGllbnRfc3lzdGVtcy50YXNrcy5tYWtlX3JhbmRvbV9wYXNzd29yZCcsIGF1dG9zcGVjPVRydWUpCiAgICBkZWYgdGVzdF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lKHNlbGYsIG1ha2VfcmFuZG9tX3Bhc3N3b3JkLCBnZXRfZW5jcnlwdGVkX3Bob25lLCBtb2NrX3NlbmQpOgogICAgICAgIHBhc3N3b3JkID0gIk5FV19QQFNTVzBSRCIKCiAgICAgICAgbWFrZV9yYW5kb21fcGFzc3dvcmQucmV0dXJuX3ZhbHVlID0gcGFzc3dvcmQKICAgICAgICBnZXRfZW5jcnlwdGVkX3Bob25lLnJldHVybl92YWx1ZSA9ICdlbmNyeXB0ZWQnCgogICAgICAgIGNsaWVudCA9IENsaWVudEZhY3RvcnkoZGlzY291bnRfY2x1Yj1zZWxmLmRpc2NvdW50X2NsdWIpCiAgICAgICAgZW1haWwgPSBFbWFpbEZhY3RvcnkoY2xpZW50PWNsaWVudCwgZW1haWw9InRlc3RfY2xpZW50QGV4YW1wbGUuY29tIikKICAgICAgICBwaG9uZSA9IFBob25lRmFjdG9yeShjbGllbnQ9Y2xpZW50LCBhcmVhX2NvZGU9JzQ4JywgcGhvbmU9IjEyMzEyMzEyMzEyIiwgZW5jcnlwdGVkX3Bob25lPSdlbmNyeXB0ZWQnKQoKICAgICAgICB1cmwgPSByZXZlcnNlKCdhcGk6ZGlzY291bnQtY2x1YnMtY2xpZW50cy9yZXNldC1wYXNzd29yZCcsIGt3YXJncz17J3BrJzogc2VsZi5kaXNjb3VudF9jbHViLnBrfSkKCiAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgImlkZW50aWZpZXIiOiAiIi5qb2luKFsnKycsIHBob25lLmFyZWFfY29kZSwgcGhvbmUucGhvbmVdKSwKICAgICAgICAgICAgIm1ldGhvZCI6ICJwaG9uZSIKICAgICAgICB9CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmF1dGhlbnRpY2F0ZWRfcmVxdWVzdChzZWxmLmNsaWVudC5wb3N0LCB1cmwsIGRhdGEsIGZvcm1hdD0nanNvbicpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKG1haWwub3V0Ym94KSwgMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCBzdGF0dXMuSFRUUF8yMDJfQUNDRVBURUQpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9ja19zZW5kLmNhbGxfY291bnQsIDEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>API_FAIL</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Awaits Completion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGluY3JlbWVudF9udW1iZXJfdXNhZ2UoYXBpLCBkYik6CiAgICBkYi5pbmNyKCdBUElfRkFJTDonICsgc3RyKGFwaSkpCgpkZWYgcmVzZXRfbnVtYmVyX3VzYWdlKGFwaSwgZGIpOgogICAgZGIuc2V0KCdBUElfRkFJTDonICsgc3RyKGFwaSksIDApCg==</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDRUxFUllfQUxXQVlTX0VBR0VSPVRydWUsIFNFTkRfU01TPVRydWUpCiAgICBAbW9jay5wYXRjaCgnY2xpZW50X3N5c3RlbXMudGFza3MuU01TU2VyaWFsaXplci5zZW5kJywgIGF1dG9zcGVjPVRydWUpCiAgICBAbW9jay5wYXRjaCgnY2xpZW50X3N5c3RlbXMudGFza3MuZ2V0X2VuY3J5cHRlZF9waG9uZV9mcm9tX2JpJywgYXV0b3NwZWM9VHJ1ZSkKICAgIEBtb2NrLnBhdGNoKCdjbGllbnRfc3lzdGVtcy50YXNrcy5tYWtlX3JhbmRvbV9wYXNzd29yZCcsIGF1dG9zcGVjPVRydWUpCiAgICBkZWYgdGVzdF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lKHNlbGYsIG1ha2VfcmFuZG9tX3Bhc3N3b3JkLCBnZXRfZW5jcnlwdGVkX3Bob25lLCBtb2NrX3NlbmQpOgogICAgICAgIHBhc3N3b3JkID0gIk5FV19QQFNTVzBSRCIKCiAgICAgICAgbWFrZV9yYW5kb21fcGFzc3dvcmQucmV0dXJuX3ZhbHVlID0gcGFzc3dvcmQKICAgICAgICBnZXRfZW5jcnlwdGVkX3Bob25lLnJldHVybl92YWx1ZSA9ICdlbmNyeXB0ZWQnCgogICAgICAgIGNsaWVudCA9IENsaWVudEZhY3RvcnkoZGlzY291bnRfY2x1Yj1zZWxmLmRpc2NvdW50X2NsdWIpCiAgICAgICAgZW1haWwgPSBFbWFpbEZhY3RvcnkoY2xpZW50PWNsaWVudCwgZW1haWw9InRlc3RfY2xpZW50QGV4YW1wbGUuY29tIikKICAgICAgICBwaG9uZSA9IFBob25lRmFjdG9yeShjbGllbnQ9Y2xpZW50LCBhcmVhX2NvZGU9JzQ4JywgcGhvbmU9IjEyMzEyMzEyMzEyIiwgZW5jcnlwdGVkX3Bob25lPSdlbmNyeXB0ZWQnKQoKICAgICAgICB1cmwgPSByZXZlcnNlKCdhcGk6ZGlzY291bnQtY2x1YnMtY2xpZW50cy9yZXNldC1wYXNzd29yZCcsIGt3YXJncz17J3BrJzogc2VsZi5kaXNjb3VudF9jbHViLnBrfSkKCiAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgImlkZW50aWZpZXIiOiAiIi5qb2luKFsnKycsIHBob25lLmFyZWFfY29kZSwgcGhvbmUucGhvbmVdKSwKICAgICAgICAgICAgIm1ldGhvZCI6ICJwaG9uZSIKICAgICAgICB9CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmF1dGhlbnRpY2F0ZWRfcmVxdWVzdChzZWxmLmNsaWVudC5wb3N0LCB1cmwsIGRhdGEsIGZvcm1hdD0nanNvbicpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKG1haWwub3V0Ym94KSwgMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCBzdGF0dXMuSFRUUF8yMDJfQUNDRVBURUQpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9ja19zZW5kLmNhbGxfY291bnQsIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHNldF9oYXNoKGtleSwgZGIpOgogICAgcGlwZSA9IGRiLnBpcGVsaW5lKCkKICAgIHBpcGUuaG1zZXQoa2V5LCAnc29tZV92YWx1ZScgKQogICAgcGlwZS5leGVjdXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfYXZlcmFnZV92b3VjaGVyX3ZhbHVlKHNlbGYsbW9udGgsIHllYXIpOgogICAgICAgIHJldHVybiBWb3VjaGVyLm9iamVjdHMuZXhjbHVkZSgKICAgICAgICAgICAgc3RhdHVzPVZvdWNoZXJTdGF0dXMuQ0FOQ0VMRUQpLmZpbHRlcigKICAgICAgICAgICAgZGlzY291bnRfY2x1Yj1zZWxmLmRjLAogICAgICAgICAgICBjcmVhdGlvbl9kYXRlX195ZWFyPXllYXIsCiAgICAgICAgICAgIGNyZWF0aW9uX2RhdGVfX21vbnRoPW1vbnRoCiAgICAgICAgKS5hZ2dyZWdhdGUoCiAgICAgICAgICAgIGF2Zz1Db2FsZXNjZShtb2RlbHMuQXZnKCdpbml0aWFsX3ZhbHVlJyksIDApKVsKICAgICAgICAgICAgJ2F2ZyddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLnNldFVwQ2xhc3MoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbHMucmVwb3J0ID0gRGFzaGJvYXJkUmVwb3J0KGRpc2NvdW50X2NsdWI9Y2xzLmRjLCBkYXRhPXt9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbHMuZGMgPSBEaXNjb3VudENsdWIub2JqZWN0cy5maXJzdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJldHVybl9sZWFndWVfaWQoY291bnRyeV9jb2RlLCBsZWFndWVfbmFtZSwgZGIpOgogICAga2V5MSA9ICJMZWFndWVfaW5kZXhfbmFtZToiICsgbGVhZ3VlX25hbWUKICAgIGtleTIgPSAiTGVhZ3VlX2luZGV4X2NvZGU6IiArIGNvdW50cnlfY29kZQoKICAgIHRyeToKICAgICAgICByZXR1cm4gbGlzdChkYi5zaW50ZXIoa2V5MSwga2V5MikpWzBdLmRlY29kZSgnVXRmLTgnKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbigicmVkaXMgcmV0dXJuX2xlYWd1ZV9pZCAiICsgc3RyKGUpICsgY291bnRyeV9jb2RlICsgIiAgIiArIGxlYWd1ZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
