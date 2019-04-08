@@ -41,6 +41,12 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1552982961490">
+        <mark key="'" line="16" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/processor.py" timestamp="1554367459360" />
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/auto_operation.py" timestamp="1554716713363">
         <mark key="'" line="17" column="22" />
@@ -108,6 +114,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/reports/tests/test_reports.py" timestamp="1554473741838">
         <mark key="'" line="34" column="28" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1553892076822">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554474709095">
         <mark key="'" line="158" column="0" />
         <mark key="[" line="61" column="26" />
@@ -127,6 +139,12 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/paypal/rest/schema.py" timestamp="1554296691786" />
+      <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/notifications/pcb/paypal/webhook/processor.py" timestamp="1553170161559">
+        <mark key="'" line="27" column="6" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/migrate_external_id.py" timestamp="1554452398822">
         <mark key="'" line="47" column="42" />
       </file>
@@ -150,12 +168,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554382446514">
         <mark key="'" line="118" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/stock_override.py" timestamp="1554718421251">
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/stock_override.py" timestamp="1554722732409">
         <mark key="'" line="74" column="28" />
-        <mark key="[" line="204" column="32" />
-        <mark key="]" line="204" column="54" />
-        <mark key="." line="204" column="54" />
-        <mark key="^" line="204" column="54" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/production/vars.yml" timestamp="1553871561218" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/schemas.py" timestamp="1554382601960" />
@@ -172,6 +189,12 @@
         <mark key="]" line="578" column="24" />
         <mark key="." line="578" column="24" />
         <mark key="^" line="578" column="119" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/graph_bfs.py" timestamp="1553454428481">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/run.py" timestamp="1554464383629">
         <mark key="'" line="68" column="14" />
@@ -356,7 +379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZpbmlzaCAgICAgICAgICAgWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0luIGNvbXBsZXRpbmcgWFhYWFhYWFhYWFhYWFhYWFhYWFhYWCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -368,34 +391,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkluIGNvbXBsZXRpbmciKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZpbmlzaCAgICAgICAgICAgWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0luIGNvbXBsZXRpbmcgWFhYWFhYWFhYWFhYWFhYWFhYWFhYWCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkluIGNvbXBsZXRpbmcgWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkZpbmlzaCAgICAgICAgICAgWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkluIGF3YWl0IGNvbXBsZXRpb24gWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkluIGNvbXBsZXRpbmcgWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGluX2NvbXBsZXRpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkluIGF3YWl0IGNvbXBsZXRpb24gWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGluX2NvbXBsZXRpbmcpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBzcHJhd2R6aWMgY3p5IGplc3QgcG90cnplYm55IGxvY2tpbmcgaXRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
+        <text encoding="base64">IyBzcHJhd2R6aWMgY3p5IGplc3QgcG90cnplYm55IGxvY2tpbmcgaXRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -449,8 +472,8 @@
         <entry>we</entry>
         <entry>action Run</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
