@@ -165,6 +165,10 @@
         <mark key="." line="45" column="63" />
         <mark key="^" line="45" column="78" />
       </file>
+      <file name="$USER_HOME$/projects/IT-NAVY/pele-queues/Migration/Util/RedisMigratorUtils.py" timestamp="1554726260900">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="56" column="95" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554382446514">
         <mark key="'" line="118" column="30" />
       </file>
@@ -379,7 +383,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyB0cnplYmEgYmVkemllIHphaW1wb3J0b3dhYyBza2FzIAo=</text>
+        <text encoding="base64">ZGVmIHNldF9oYXNoKGtleSwgdmFsdWU6IGRpY3QsIGRiLCBhZGRpdGlvbmFsX2ZpZWxkcz1Ob25lKToKICAgIGpzb25fb2JqID0ganNvbi5kdW1wcyh2YWx1ZSkKICAgIHBpcGUgPSBkYi5waXBlbGluZSgpCiAgICBwaXBlLmhtc2V0KGtleSwgdmFsdWUpCiAgICBwaXBlLmhtc2V0KGtleSwgeydqc29uJzoganNvbl9vYmp9KQogICAgaWYgYWRkaXRpb25hbF9maWVsZHMgaXMgbm90IE5vbmU6CiAgICAgICAgcGlwZS5obXNldChrZXksIGFkZGl0aW9uYWxfZmllbGRzKQoKICAgIHBpcGUuZXhlY3V0ZSgpCgoKZGVmIHNldF9pbmRleChrZXk6IHN0ciwgdmFsdWUsIGRiOiBSZWRpcyk6CiAgICBkYi5zYWRkKGtleSwgc3RyKHZhbHVlKSkKCgoKZGVmIGFkZF90b19zb3J0ZWRfc2V0KHNldF9uYW1lLCB2YWx1ZSwgcmFua2luZywgZGI6IFJlZGlzKToKICAgIGRiLnphZGQoc2V0X25hbWUsIHZhbHVlLCByYW5raW5nKQoKCmRlZiByZXR1cm5fbGVhZ3VlX2lkKGNvdW50cnlfY29kZSwgbGVhZ3VlX25hbWUsIGRiKToKICAgIGtleTEgPSAiTGVhZ3VlX2luZGV4X25hbWU6IiArIGxlYWd1ZV9uYW1lCiAgICBrZXkyID0gIkxlYWd1ZV9pbmRleF9jb2RlOiIgKyBjb3VudHJ5X2NvZGUKCiAgICB0cnk6CiAgICAgICAgcmV0dXJuIGxpc3QoZGIuc2ludGVyKGtleTEsIGtleTIpKVswXS5kZWNvZGUoJ1V0Zi04JykKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByYWlzZSBFeGNlcHRpb24oInJlZGlzIHJldHVybl9sZWFndWVfaWQgIiArIHN0cihlKSArIGNvdW50cnlfY29kZSArICIgICIgKyBsZWFndWVfbmFtZSkK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -388,7 +392,7 @@
         <text>Awaits Completion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZGlzID0gcmV0dXJuX3JlZGlzX2luc3RhbmNlKCkK</text>
+        <text encoding="base64">ZGVmIHNldF9oYXNoKGtleSwgdmFsdWU6IGRpY3QsIGRiLCBhZGRpdGlvbmFsX2ZpZWxkcz1Ob25lKToKICAgIGpzb25fb2JqID0ganNvbi5kdW1wcyh2YWx1ZSkKICAgIHBpcGUgPSBkYi5waXBlbGluZSgpCiAgICBwaXBlLmhtc2V0KGtleSwgdmFsdWUpCiAgICBwaXBlLmhtc2V0KGtleSwgeydqc29uJzoganNvbl9vYmp9KQogICAgaWYgYWRkaXRpb25hbF9maWVsZHMgaXMgbm90IE5vbmU6CiAgICAgICAgcGlwZS5obXNldChrZXksIGFkZGl0aW9uYWxfZmllbGRzKQoKICAgIHBpcGUuZXhlY3V0ZSgpCgoKZGVmIHNldF9pbmRleChrZXk6IHN0ciwgdmFsdWUsIGRiOiBSZWRpcyk6CiAgICBkYi5zYWRkKGtleSwgc3RyKHZhbHVlKSkKCgoKZGVmIGFkZF90b19zb3J0ZWRfc2V0KHNldF9uYW1lLCB2YWx1ZSwgcmFua2luZywgZGI6IFJlZGlzKToKICAgIGRiLnphZGQoc2V0X25hbWUsIHZhbHVlLCByYW5raW5nKQoKCmRlZiByZXR1cm5fbGVhZ3VlX2lkKGNvdW50cnlfY29kZSwgbGVhZ3VlX25hbWUsIGRiKToKICAgIGtleTEgPSAiTGVhZ3VlX2luZGV4X25hbWU6IiArIGxlYWd1ZV9uYW1lCiAgICBrZXkyID0gIkxlYWd1ZV9pbmRleF9jb2RlOiIgKyBjb3VudHJ5X2NvZGUKCiAgICB0cnk6CiAgICAgICAgcmV0dXJuIGxpc3QoZGIuc2ludGVyKGtleTEsIGtleTIpKVswXS5kZWNvZGUoJ1V0Zi04JykKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByYWlzZSBFeGNlcHRpb24oInJlZGlzIHJldHVybl9sZWFndWVfaWQgIiArIHN0cihlKSArIGNvdW50cnlfY29kZSArICIgICIgKyBsZWFndWVfbmFtZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyB0cnplYmEgYmVkemllIHphaW1wb3J0b3dhYyBza2FzIAo=</text>
