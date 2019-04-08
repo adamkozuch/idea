@@ -78,12 +78,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" timestamp="1554198490900">
-        <mark key="'" line="82" column="18" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1554124169540">
         <mark key="'" line="35" column="8" />
       </file>
@@ -156,20 +150,15 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554382446514">
         <mark key="'" line="118" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/stock_override.py" timestamp="1554716885847">
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/stock_override.py" timestamp="1554718421251">
         <mark key="'" line="74" column="28" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
+        <mark key="[" line="204" column="32" />
+        <mark key="]" line="204" column="54" />
+        <mark key="." line="204" column="54" />
+        <mark key="^" line="204" column="54" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/production/vars.yml" timestamp="1553871561218" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/schemas.py" timestamp="1554382601960" />
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1554200184529">
-        <mark key="'" line="355" column="30" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/samples/ipn_samples/ipn.json" timestamp="1554369612179" />
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/main.yml" timestamp="1554471712950">
         <mark key="[" line="13" column="56" />
@@ -406,7 +395,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -460,8 +449,8 @@
         <entry>we</entry>
         <entry>action Run</entry>
         <entry>e</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
