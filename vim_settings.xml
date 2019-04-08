@@ -41,6 +41,13 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/tasks.py" timestamp="1554730083006">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="48" />
+        <mark key="^" line="24" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1552982961490">
         <mark key="'" line="16" column="16" />
         <mark key="[" line="21" column="0" />
@@ -116,6 +123,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="93" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1554730484473">
+        <mark key="[" line="165" column="51" />
+        <mark key="]" line="165" column="51" />
+        <mark key="^" line="165" column="78" />
+        <mark key="." line="165" column="51" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1553892076822">
         <mark key="'" line="53" column="19" />
         <mark key="[" line="184" column="0" />
@@ -127,25 +140,24 @@
         <mark key="[" line="268" column="14" />
         <mark key="]" line="268" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554724396858">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="169" column="14" />
-        <mark key="]" line="169" column="25" />
-        <mark key="." line="169" column="25" />
-        <mark key="^" line="169" column="25" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554731647052">
+        <mark key="'" line="159" column="19" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="171" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis.py" timestamp="1554727910252">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis.py" timestamp="1554729689301">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1554728518241">
-        <mark key="'" line="807" column="0" />
-        <mark key="[" line="817" column="38" />
-        <mark key="]" line="817" column="48" />
-        <mark key="." line="817" column="48" />
-        <mark key="^" line="817" column="48" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1554731807531">
+        <mark key="'" line="880" column="8" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/all.yml" timestamp="1554724049409">
         <mark key="[" line="19" column="0" />
@@ -186,6 +198,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554382446514">
         <mark key="'" line="118" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/redis.py" timestamp="1554733279279">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="39" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/stock_override.py" timestamp="1554722732409">
         <mark key="'" line="74" column="28" />
         <mark key="[" line="204" column="0" />
@@ -208,7 +227,7 @@
         <mark key="." line="578" column="24" />
         <mark key="^" line="578" column="119" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/pele-queues/Worker/Util/LivescoreUtil.py" timestamp="1554726798901" />
+      <file name="$USER_HOME$/projects/IT-NAVY/pele-queues/Worker/Util/LivescoreUtil.py" timestamp="1554729544150" />
       <file name="$USER_HOME$/PycharmProjects/untitled/graph_bfs.py" timestamp="1553454428481">
         <mark key="'" line="13" column="14" />
         <mark key="[" line="31" column="0" />
@@ -301,26 +320,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="12" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="52" column="12" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="209" column="42" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="282" column="49" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="87" column="42" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" />
-      <jump line="22" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="131" column="54" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_rest.py" />
-      <jump line="58" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
-      <jump line="68" column="14" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
-      <jump line="40" column="1" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="605" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="26" column="72" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="125" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="147" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="122" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="127" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="132" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="140" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="145" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="167" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
@@ -401,64 +406,76 @@
       <jump line="799" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="801" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="807" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="823" column="17" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="796" column="17" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="767" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="764" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="741" column="17" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="927" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="137" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="92" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/tasks.py" />
+      <jump line="159" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="880" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="3" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/redis.py" />
+      <jump line="16" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/redis.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDRUxFUllfQUxXQVlTX0VBR0VSPVRydWUsIFNFTkRfU01TPVRydWUpCiAgICBAbW9jay5wYXRjaCgnY2xpZW50X3N5c3RlbXMudGFza3MuU01TU2VyaWFsaXplci5zZW5kJywgIGF1dG9zcGVjPVRydWUpCiAgICBAbW9jay5wYXRjaCgnY2xpZW50X3N5c3RlbXMudGFza3MuZ2V0X2VuY3J5cHRlZF9waG9uZV9mcm9tX2JpJywgYXV0b3NwZWM9VHJ1ZSkKICAgIEBtb2NrLnBhdGNoKCdjbGllbnRfc3lzdGVtcy50YXNrcy5tYWtlX3JhbmRvbV9wYXNzd29yZCcsIGF1dG9zcGVjPVRydWUpCiAgICBkZWYgdGVzdF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lKHNlbGYsIG1ha2VfcmFuZG9tX3Bhc3N3b3JkLCBnZXRfZW5jcnlwdGVkX3Bob25lLCBtb2NrX3NlbmQpOgogICAgICAgIHBhc3N3b3JkID0gIk5FV19QQFNTVzBSRCIKCiAgICAgICAgbWFrZV9yYW5kb21fcGFzc3dvcmQucmV0dXJuX3ZhbHVlID0gcGFzc3dvcmQKICAgICAgICBnZXRfZW5jcnlwdGVkX3Bob25lLnJldHVybl92YWx1ZSA9ICdlbmNyeXB0ZWQnCgogICAgICAgIGNsaWVudCA9IENsaWVudEZhY3RvcnkoZGlzY291bnRfY2x1Yj1zZWxmLmRpc2NvdW50X2NsdWIpCiAgICAgICAgZW1haWwgPSBFbWFpbEZhY3RvcnkoY2xpZW50PWNsaWVudCwgZW1haWw9InRlc3RfY2xpZW50QGV4YW1wbGUuY29tIikKICAgICAgICBwaG9uZSA9IFBob25lRmFjdG9yeShjbGllbnQ9Y2xpZW50LCBhcmVhX2NvZGU9JzQ4JywgcGhvbmU9IjEyMzEyMzEyMzEyIiwgZW5jcnlwdGVkX3Bob25lPSdlbmNyeXB0ZWQnKQoKICAgICAgICB1cmwgPSByZXZlcnNlKCdhcGk6ZGlzY291bnQtY2x1YnMtY2xpZW50cy9yZXNldC1wYXNzd29yZCcsIGt3YXJncz17J3BrJzogc2VsZi5kaXNjb3VudF9jbHViLnBrfSkKCiAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgImlkZW50aWZpZXIiOiAiIi5qb2luKFsnKycsIHBob25lLmFyZWFfY29kZSwgcGhvbmUucGhvbmVdKSwKICAgICAgICAgICAgIm1ldGhvZCI6ICJwaG9uZSIKICAgICAgICB9CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmF1dGhlbnRpY2F0ZWRfcmVxdWVzdChzZWxmLmNsaWVudC5wb3N0LCB1cmwsIGRhdGEsIGZvcm1hdD0nanNvbicpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKG1haWwub3V0Ym94KSwgMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCBzdGF0dXMuSFRUUF8yMDJfQUNDRVBURUQpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9ja19zZW5kLmNhbGxfY291bnQsIDEpCg==</text>
+        <text encoding="base64">cHJpbnQoJ3N0aCcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>host='localhost', po</text>
       </register>
       <register name="/" type="4">
-        <text>Awaits Completion</text>
+        <text encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDRUxFUllfQUxXQVlTX0VBR0VSPVRydWUsIFNFTkRfU01TPVRydWUpCiAgICBAbW9jay5wYXRjaCgnY2xpZW50X3N5c3RlbXMudGFza3MuU01TU2VyaWFsaXplci5zZW5kJywgIGF1dG9zcGVjPVRydWUpCiAgICBAbW9jay5wYXRjaCgnY2xpZW50X3N5c3RlbXMudGFza3MuZ2V0X2VuY3J5cHRlZF9waG9uZV9mcm9tX2JpJywgYXV0b3NwZWM9VHJ1ZSkKICAgIEBtb2NrLnBhdGNoKCdjbGllbnRfc3lzdGVtcy50YXNrcy5tYWtlX3JhbmRvbV9wYXNzd29yZCcsIGF1dG9zcGVjPVRydWUpCiAgICBkZWYgdGVzdF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lKHNlbGYsIG1ha2VfcmFuZG9tX3Bhc3N3b3JkLCBnZXRfZW5jcnlwdGVkX3Bob25lLCBtb2NrX3NlbmQpOgogICAgICAgIHBhc3N3b3JkID0gIk5FV19QQFNTVzBSRCIKCiAgICAgICAgbWFrZV9yYW5kb21fcGFzc3dvcmQucmV0dXJuX3ZhbHVlID0gcGFzc3dvcmQKICAgICAgICBnZXRfZW5jcnlwdGVkX3Bob25lLnJldHVybl92YWx1ZSA9ICdlbmNyeXB0ZWQnCgogICAgICAgIGNsaWVudCA9IENsaWVudEZhY3RvcnkoZGlzY291bnRfY2x1Yj1zZWxmLmRpc2NvdW50X2NsdWIpCiAgICAgICAgZW1haWwgPSBFbWFpbEZhY3RvcnkoY2xpZW50PWNsaWVudCwgZW1haWw9InRlc3RfY2xpZW50QGV4YW1wbGUuY29tIikKICAgICAgICBwaG9uZSA9IFBob25lRmFjdG9yeShjbGllbnQ9Y2xpZW50LCBhcmVhX2NvZGU9JzQ4JywgcGhvbmU9IjEyMzEyMzEyMzEyIiwgZW5jcnlwdGVkX3Bob25lPSdlbmNyeXB0ZWQnKQoKICAgICAgICB1cmwgPSByZXZlcnNlKCdhcGk6ZGlzY291bnQtY2x1YnMtY2xpZW50cy9yZXNldC1wYXNzd29yZCcsIGt3YXJncz17J3BrJzogc2VsZi5kaXNjb3VudF9jbHViLnBrfSkKCiAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgImlkZW50aWZpZXIiOiAiIi5qb2luKFsnKycsIHBob25lLmFyZWFfY29kZSwgcGhvbmUucGhvbmVdKSwKICAgICAgICAgICAgIm1ldGhvZCI6ICJwaG9uZSIKICAgICAgICB9CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmF1dGhlbnRpY2F0ZWRfcmVxdWVzdChzZWxmLmNsaWVudC5wb3N0LCB1cmwsIGRhdGEsIGZvcm1hdD0nanNvbicpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKG1haWwub3V0Ym94KSwgMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCBzdGF0dXMuSFRUUF8yMDJfQUNDRVBURUQpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9ja19zZW5kLmNhbGxfY291bnQsIDEpCg==</text>
+      <register name="0" type="4">
+        <text>.decode('utf-8')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">cHJpbnQoJ3N0aCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoImFkYW0ga296dWNoIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJFRElTX0RCX0xPQ0tTID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYXZlcmFnZV92b3VjaGVyX3ZhbHVlKHNlbGYsbW9udGgsIHllYXIpOgogICAgICAgIHJldHVybiBWb3VjaGVyLm9iamVjdHMuZXhjbHVkZSgKICAgICAgICAgICAgc3RhdHVzPVZvdWNoZXJTdGF0dXMuQ0FOQ0VMRUQpLmZpbHRlcigKICAgICAgICAgICAgZGlzY291bnRfY2x1Yj1zZWxmLmRjLAogICAgICAgICAgICBjcmVhdGlvbl9kYXRlX195ZWFyPXllYXIsCiAgICAgICAgICAgIGNyZWF0aW9uX2RhdGVfX21vbnRoPW1vbnRoCiAgICAgICAgKS5hZ2dyZWdhdGUoCiAgICAgICAgICAgIGF2Zz1Db2FsZXNjZShtb2RlbHMuQXZnKCdpbml0aWFsX3ZhbHVlJyksIDApKVsKICAgICAgICAgICAgJ2F2ZyddCg==</text>
+        <text encoding="base64">ZnJvbSByZWRpcyBpbXBvcnQgUmVkaXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">cHJpbnQoZGlyKHJlZGlzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLnNldFVwQ2xhc3MoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMucmVwb3J0ID0gRGFzaGJvYXJkUmVwb3J0KGRpc2NvdW50X2NsdWI9Y2xzLmRjLCBkYXRhPXt9KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVudi5zZXQoJ1ZBUicsICd2YWx1ZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMuZGMgPSBEaXNjb3VudENsdWIub2JqZWN0cy5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVudiA9IEVudmlyb25tZW50VmFyR3VhcmQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Awaits Completion</last-search>
+      <last-search encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</last-search>
       <last-offset />
-      <last-pattern>Awaits Completion</last-pattern>
+      <last-pattern encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return_in</entry>
-        <entry>_return</entry>
         <entry encoding="base64">XDx0YXNrX2NsaWVudF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lXD4=</entry>
         <entry>in_com</entry>
         <entry>shoe_i</entry>
@@ -477,6 +494,8 @@
         <entry>button</entry>
         <entry>Reserved</entry>
         <entry>Awaits Completion</entry>
+        <entry encoding="base64">XDxDbGllbnRGYWN0b3J5XD4=</entry>
+        <entry encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s%/paragraph/wwww/</entry>
