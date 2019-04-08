@@ -69,9 +69,6 @@
         <mark key="^" line="51" column="50" />
         <mark key="." line="51" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1554716701010">
-        <mark key="'" line="50" column="58" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" timestamp="1554472414353">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -129,6 +126,12 @@
         <mark key="^" line="165" column="78" />
         <mark key="." line="165" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1554734578542">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="52" />
+        <mark key="^" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1553892076822">
         <mark key="'" line="53" column="19" />
         <mark key="[" line="184" column="0" />
@@ -152,6 +155,12 @@
         <mark key="]" line="28" column="35" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="34" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_mdm_sync/models/models.py" timestamp="1554735047899">
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1554731807531">
         <mark key="'" line="880" column="8" />
@@ -204,12 +213,6 @@
         <mark key="]" line="35" column="39" />
         <mark key="^" line="35" column="39" />
         <mark key="." line="35" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/stock_override.py" timestamp="1554722732409">
-        <mark key="'" line="74" column="28" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/production/vars.yml" timestamp="1553871561218" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/schemas.py" timestamp="1554382601960" />
@@ -320,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="147" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="122" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="127" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
@@ -420,63 +421,64 @@
       <jump line="880" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="3" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/redis.py" />
       <jump line="16" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/redis.py" />
+      <jump line="32" column="66" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_mdm_sync/models/models.py" />
+      <jump line="39" column="22" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_mdm_sync/models/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoJ3N0aCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>host='localhost', po</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</text>
+        <text>productless</text>
       </register>
       <register name="0" type="4">
         <text>.decode('utf-8')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoJ3N0aCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoImFkYW0ga296dWNoIikK</text>
+        <text encoding="base64">cHJpbnQoJ3N0aCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJFRElTX0RCX0xPQ0tTID0gMAo=</text>
+        <text encoding="base64">cHJpbnQoImFkYW0ga296dWNoIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSByZWRpcyBpbXBvcnQgUmVkaXMK</text>
+        <text encoding="base64">ICAgIFJFRElTX0RCX0xPQ0tTID0gMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZGlyKHJlZGlzKSkK</text>
+        <text encoding="base64">ZnJvbSByZWRpcyBpbXBvcnQgUmVkaXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZGlyKHJlZGlzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudi5zZXQoJ1ZBUicsICd2YWx1ZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudiA9IEVudmlyb25tZW50VmFyR3VhcmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVudi5zZXQoJ1ZBUicsICd2YWx1ZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVudiA9IEVudmlyb25tZW50VmFyR3VhcmQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</last-search>
+      <last-search>productless</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</last-pattern>
+      <last-pattern>productless</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrX2NsaWVudF9yZXNldF9wYXNzd29yZF93aXRoX3Bob25lXD4=</entry>
         <entry>in_com</entry>
         <entry>shoe_i</entry>
         <entry>show</entry>
@@ -496,6 +498,7 @@
         <entry>Awaits Completion</entry>
         <entry encoding="base64">XDxDbGllbnRGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</entry>
+        <entry>productless</entry>
       </history-search>
       <history-cmd>
         <entry>s%/paragraph/wwww/</entry>
