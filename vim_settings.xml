@@ -153,10 +153,10 @@
         <mark key="." line="62" column="44" />
         <mark key="^" line="62" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis.py" timestamp="1554474498850">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="96" />
-        <mark key="." line="9" column="96" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis.py" timestamp="1554705004644">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ipl/apps/ipl/migrations/0039_auto_20190318_1024.py" timestamp="1552901462185">
@@ -432,7 +432,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>REDIS_PORT</text>
@@ -444,28 +444,28 @@
         <text encoding="base64">ICAgIC0gbmFtZTogbWFpbiB8IEluc3RhbGwgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb24KICAgICAgcmF3OiBhcHQtZ2V0IC15IGluc3RhbGwgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">amprCg==</text>
+        <text encoding="base64">IyBzcHJhd2R6aWMgY3p5IGplc3QgcG90cnplYm55IGxvY2tpbmcgaXRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQobG9ja3NfY29ubmVjdGlvbl9wb29sKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVkaXNfbG9ja3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">amprCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobG9ja3NfY29ubmVjdGlvbl9wb29sKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZXR0aW5nIGlwIG9mIHRoZSB1c2VyCg==</text>
+        <text encoding="base64">cmVkaXNfbG9ja3MK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
