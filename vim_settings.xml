@@ -95,14 +95,14 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="93" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1554798560246">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="368" column="9" />
-        <mark key="]" line="368" column="38" />
-        <mark key="^" line="368" column="8" />
-        <mark key="." line="368" column="9" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1554800492862">
+        <mark key="'" line="280" column="13" />
+        <mark key="[" line="373" column="49" />
+        <mark key="]" line="373" column="56" />
+        <mark key="^" line="373" column="56" />
+        <mark key="." line="373" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1554734578542">
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1554800699784">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="52" />
         <mark key="^" line="2" column="52" />
@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/production/vars.yml" timestamp="1553871561218" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/schemas.py" timestamp="1554382601960" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/samples/ipn_samples/ipn.json" timestamp="1554369612179" />
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/main.yml" timestamp="1554471712950">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/main.yml" timestamp="1554799785228">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="14" column="5" />
         <mark key="." line="14" column="5" />
@@ -193,6 +193,7 @@
         <mark key="." line="68" column="101" />
         <mark key="^" line="68" column="101" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/tasks/load_test_data.yml" timestamp="1554799820058" />
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" timestamp="1553872269230">
         <mark key="[" line="544" column="0" />
         <mark key="]" line="544" column="0" />
@@ -209,11 +210,11 @@
         <mark key="." line="83" column="53" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-111857053/builtins.py" timestamp="1553861971823" />
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/utils.py" timestamp="1554798478513">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/utils.py" timestamp="1554800359051">
+        <mark key="[" line="30" column="79" />
+        <mark key="]" line="30" column="51" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="51" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -277,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="609" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="595" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="587" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="551" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
@@ -377,63 +377,63 @@
       <jump line="716" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="796" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="38" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="280" column="13" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfcmVkaXNfY29ubmVjdGlvblw+</text>
+        <text>redis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UkVESVNfREI6ICJ7eyByZWRpc19wb3J0IH19Igo=</text>
+      <register name="0" type="4">
+        <text>get_environment('REDIS_PORT')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjbGllbnRzLnJlZGlzIGltcG9ydCBmbHVzaF9yZWRpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbHVzaF9yZWRpcygpCg==</text>
+        <text encoding="base64">ZGVmIGluY3JlbWVudF9lbWFpbF91c2FnZShlbWFpbCwgZGIpOgogICAgdHJ5OgogICAgZXhjZXB0IFJlZGlzRXJyb3IgYXMgZToKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKGYnUHJvYmxlbSB3aXRoIHJlZGlzIHtlfScpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbihmJ1Byb2JsZW0gd2l0aCByZWRpcyB7ZX0nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbHVzaF9yZWRpcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGRqYW5nb19yZWRpcyBpbXBvcnQgZ2V0Xwo=</text>
+        <text encoding="base64">ZGVmIGluY3JlbWVudF9udW1iZXJfdXNhZ2UobnVtYmVyLCBkYik6Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ID0gaW5jcmVtZW50X251bWJlcl91c2FnZShwaG9uZV9udW1iZXIsIGRiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRiLmluY3IoJ05VTUJFUl9VU0FHRTonICsgc3RyKG51bWJlcikpICMgdG8gcG93aW5pZW4gYnljIHBpcGVsaW5lCiAgICByZXR1cm4gaW50KGRiLmdldCgnTlVNQkVSX1VTQUdFOicgKyBzdHIobnVtYmVyKSkuZGVjb2RlKCd1dGYtOCcpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGlzCmZyb20gcmVkaXMgaW1wb3J0IFN0cmljdFJlZGlzLCBSZWRpc0Vycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5pbmNyKCdFTUFJTF9VU0FHRTonICsgc3RyKGVtYWlsKSkKICAgICAgICByZXR1cm4gaW50KGRiLmdldCgnRU1BSUxfVVNBR0U6JyArIHN0cihlbWFpbCkpLmRlY29kZSgndXRmLTgnKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGlzCmZyb20gcmVkaXMgaW1wb3J0IFN0cmljdFJlZGlzLCBSZWRpc0Vycm9yCgoKY2xhc3MgQmxhY2tsaXN0U2V0dGluZ3M6CiAgICBUSU1FU19PRl9FTUFJTCA9IDUwCiAgICBUSU1FU19PRl9QSE9ORSA9IDUKCmNsYXNzIFJlZGlzU2V0dGluZ3M6CiAgICBSRURJU19IT1NUID0gJ2xvY2FsaG9zdCcgI29zLmVudmlyb24uZ2V0KCdSRURJU19IT1NUJykKICAgIFJFRElTX1BPUlQgPSA2Mzc5ICMgaW50KG9zLmVudmlyb24uZ2V0KCdSRURJU19QT1JUJykpCgpjbGFzcyBSZWRpc1NldHRpbmdzOgogICAgUkVESVNfSE9TVCA9ICdsb2NhbGhvc3QnICNvcy5lbnZpcm9uLmdldCgnUkVESVNfSE9TVCcpCiAgICBSRURJU19QT1JUID0gNjM3OSAjIGludChvcy5lbnZpcm9uLmdldCgnUkVESVNfUE9SVCcpKQoKCmRlZiByZXR1cm5fcmVkaXNfaW5zdGFuY2UoKToKICAgIGxvY2tzX2Nvbm5lY3Rpb25fcG9vbCA9IHJlZGlzLkNvbm5lY3Rpb25Qb29sKGhvc3Q9UmVkaXNTZXR0aW5ncy5SRURJU19IT1NULCBwb3J0PVJlZGlzU2V0dGluZ3MuUkVESVNfUE9SVCkKICAgIHJldHVybiBTdHJpY3RSZWRpcygpCgoKZGVmIHBob25lX2lzX2JsYWNrbGlzdGVkKGRiLCBwaG9uZV9udW1iZXIsIGxvZ2dlcik6CiAgICB0cnk6CiAgICAgICAgdCA9IGluY3JlbWVudF9udW1iZXJfdXNhZ2UocGhvbmVfbnVtYmVyLCBkYikKICAgICAgICByZXR1cm4gQmxhY2tsaXN0U2V0dGluZ3MuVElNRVNfT0ZfUEhPTkUgPCB0CiAgICBleGNlcHQgUmVkaXNFcnJvciBhcyBlOgogICAgICAgIGxvZ2dlci5leGNlcHRpb24oZidQcm9ibGVtIHdpdGggcmVkaXMge2V9JykKCgpkZWYgZW1haWxfaXNfYmxhY2tsaXN0ZWQoZGIsIGVtYWlsLCBsb2dnZXIpOgogICAgdHJ5OgogICAgICAgIHJldHVybiBCbGFja2xpc3RTZXR0aW5ncy5USU1FU19PRl9FTUFJTCA8IGluY3JlbWVudF9lbWFpbF91c2FnZShlbWFpbCwgZGIpCiAgICBleGNlcHQgUmVkaXNFcnJvciBhcyBlOgogICAgICAgIGxvZ2dlci5leGNlcHRpb24oZidQcm9ibGVtIHdpdGggcmVkaXMge2V9JykKCgpkZWYgaW5jcmVtZW50X251bWJlcl91c2FnZShudW1iZXIsIGRiKToKICAgIGRiLmluY3IoJ05VTUJFUl9VU0FHRTonICsgc3RyKG51bWJlcikpICMgdG8gcG93aW5pZW4gYnljIHBpcGVsaW5lCiAgICByZXR1cm4gaW50KGRiLmdldCgnTlVNQkVSX1VTQUdFOicgKyBzdHIobnVtYmVyKSkuZGVjb2RlKCd1dGYtOCcpKQoKCmRlZiBpbmNyZW1lbnRfZW1haWxfdXNhZ2UoZW1haWwsIGRiKToKICAgIGRiLmluY3IoJ0VNQUlMX1VTQUdFOicgKyBzdHIoZW1haWwpKQogICAgcmV0dXJuIGludChkYi5nZXQoJ0VNQUlMX1VTQUdFOicgKyBzdHIoZW1haWwpKS5kZWNvZGUoJ3V0Zi04JykpCgpkZWYgZmx1c2hfcmVkaXMoKToKICAgIHJlZGlzID0gcmV0dXJuX3JlZGlzX2luc3RhbmNlKCkKICAgIHJlZGlzLmZsdXNoZGIoMSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfcmVkaXNfY29ubmVjdGlvblw+</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfcmVkaXNfY29ubmVjdGlvblw+</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>In Com</entry>
         <entry>in_comp</entry>
         <entry>awaits_com</entry>
         <entry>Packed</entry>
@@ -453,6 +453,7 @@
         <entry encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</entry>
         <entry>flush_redis</entry>
         <entry encoding="base64">XDxnZXRfcmVkaXNfY29ubmVjdGlvblw+</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -470,9 +471,9 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>we</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>action Switcher</entry>
         <entry>w</entry>
       </history-cmd>
