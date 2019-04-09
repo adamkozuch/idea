@@ -15,6 +15,7 @@
       <mapping pattern="utils" type="Python" />
       <mapping pattern="apifootballRaw" type="Python" />
       <mapping pattern="streamline" type="Python" />
+      <mapping pattern="redis" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
