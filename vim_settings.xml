@@ -88,6 +88,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/scripts/bi/generator.sh" timestamp="1554198490900">
+        <mark key="'" line="82" column="18" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1554124169540">
         <mark key="'" line="35" column="8" />
       </file>
@@ -143,12 +149,11 @@
         <mark key="[" line="268" column="14" />
         <mark key="]" line="268" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554731647052">
-        <mark key="'" line="159" column="19" />
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="5" />
-        <mark key="^" line="171" column="91" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554791080368">
+        <mark key="'" line="158" column="19" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis.py" timestamp="1554729689301">
         <mark key="[" line="28" column="0" />
@@ -207,15 +212,21 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554382446514">
         <mark key="'" line="118" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/redis.py" timestamp="1554733279279">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="39" />
-        <mark key="^" line="35" column="39" />
-        <mark key="." line="35" column="39" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/redis.py" timestamp="1554791111939">
+        <mark key="'" line="13" column="21" />
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="68" />
+        <mark key="^" line="27" column="68" />
+        <mark key="." line="27" column="68" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/ansible/group_vars/production/vars.yml" timestamp="1553871561218" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/schemas.py" timestamp="1554382601960" />
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/generator.sh" timestamp="1554200184529">
+        <mark key="'" line="355" column="30" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/samples/ipn_samples/ipn.json" timestamp="1554369612179" />
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/main.yml" timestamp="1554471712950">
         <mark key="[" line="13" column="56" />
@@ -426,7 +437,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>host='localhost', po</text>
@@ -438,31 +449,31 @@
         <text>.decode('utf-8')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoJ3N0aCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBlbWFpbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoImFkYW0ga296dWNoIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJFRElTX0RCX0xPQ0tTID0gMAo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ZnJvbSByZWRpcyBpbXBvcnQgUmVkaXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZGlyKHJlZGlzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoJ3N0aCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudi5zZXQoJ1ZBUicsICd2YWx1ZScpCg==</text>
+        <text encoding="base64">cHJpbnQoImFkYW0ga296dWNoIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudiA9IEVudmlyb25tZW50VmFyR3VhcmQoKQo=</text>
+        <text encoding="base64">ICAgIFJFRElTX0RCX0xPQ0tTID0gMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
