@@ -71,6 +71,9 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1554884279593">
+        <mark key="'" line="28" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/auto_operation.py" timestamp="1554716713363">
         <mark key="'" line="17" column="22" />
         <mark key="[" line="17" column="13" />
@@ -238,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="844" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="842" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="839" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="832" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
@@ -338,6 +340,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="208" column="77" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="28" column="34" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -347,7 +350,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxweWxpbnRcPg==</text>
+        <text>stock_qu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZXh0ZXJuYWxfaWRzX2RpcmVjdG9yeSwgJ3JlcG9ydC5qc29uJyksICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAocmFwb3J0LCBmKQo=</text>
@@ -384,17 +387,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxweWxpbnRcPg==</last-search>
+      <last-search>stock_qu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxweWxpbnRcPg==</last-pattern>
+      <last-pattern>stock_qu</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>429</entry>
         <entry>blask</entry>
         <entry>logg</entry>
         <entry>cache</entry>
@@ -414,6 +416,7 @@
         <entry encoding="base64">XDxXcm9uZ1Byb2Nlc3NpbmdPcmRlclw+</entry>
         <entry>pylint</entry>
         <entry encoding="base64">XDxweWxpbnRcPg==</entry>
+        <entry>stock_qu</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
