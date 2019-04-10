@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1554472253369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1554464392897">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1554883676274">
         <mark key="'" line="58" column="24" />
-        <mark key="[" line="33" column="78" />
-        <mark key="]" line="33" column="83" />
-        <mark key="." line="33" column="83" />
-        <mark key="^" line="33" column="83" />
+        <mark key="[" line="142" column="28" />
+        <mark key="]" line="142" column="27" />
+        <mark key="." line="142" column="27" />
+        <mark key="^" line="142" column="27" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" timestamp="1554447499863">
         <mark key="'" line="73" column="47" />
@@ -238,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="847" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="844" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="842" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="839" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
@@ -338,58 +337,47 @@
       <jump line="15" column="55" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="208" column="77" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICMgcHlsaW50OiBkaXNhYmxlPW5vLWVsc2UtcmV0dXJu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZXh0ZXJuYWxfaWRzX2RpcmVjdG9yeSwgJ3JlcG9ydC5qc29uJyksICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAocmFwb3J0LCBmKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgcHlsaW50OiBkaXNhYmxlPW5vLWVsc2UtcmV0dXJu</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweWxpbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>#pylint: disable=no-else-return</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZXh0ZXJuYWxfaWRzX2RpcmVjdG9yeSwgJ3JlcG9ydC5qc29uJyksICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAocmFwb3J0LCBmKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZXh0ZXJuYWxfaWRzX2RpcmVjdG9yeSwgJ2V4dGVybmFsX2lkc19maWxlJyksICdyJykgYXMgZjoKICAgICAgICBjb250ZW50ID0gZi5yZWFkbGluZXMoKQogICAgICAgIGludmFsaWRfaXBuX2V4dGVybmFsX2lkcyA9IHNldChbeC5zdHJpcCgpIGZvciB4IGluIGNvbnRlbnRdKQogICAgcmFwb3J0ID0gewogICAgICAgICdlcnJvcnMnOiBbXSwKICAgICAgICAnYWRkZWQnOiBbXSwKICAgICAgICAnc2tpcHBlZCc6IFtdCiAgICB9CgogICAgaW52YWxpZF9ub3RpZmljYXRpb25zID0gSW52YWxpZE5vdGlmaWNhdGlvbi5xdWVyeS5maWx0ZXJfYnkocGF5bWVudF9wcm92aWRlcj0nUGF5UGFsJykKICAgIGNvdW50ZXIgPSAwCiAgICBmb3IgaV9uIGluIGludmFsaWRfbm90aWZpY2F0aW9uczoKICAgICAgICBpZiBub3QgaV9uLm1ldGhvZCBhbmQgKCdwYXltZW50X3N0YXR1cycgaW4gaV9uLmRhdGEgYW5kICd0eG5faWQnIGluIGlfbi5kYXRhKSBhbmQgaV9uLmRhdGFbJ3R4bl9pZCddIGluIGludmFsaWRfaXBuX2V4dGVybmFsX2lkczoKICAgICAgICAgICAgaV9uLmRvbWFpbiA9IGRlZmF1bHRfZG9tYWluCgogICAgICAgICAgICBwcm9jZXNzb3JfY2xzID0gZ2V0X25vdGlmaWNhdGlvbl9wcm9jZXNzb3IoJ1BheVBhbCcsICdpcG4nKQoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uX3Byb2Nlc3NvciA9IHByb2Nlc3Nvcl9jbHMobm90aWZpY2F0aW9uPWlfbikKICAgICAgICAgICAgICAgIGRhdGEgPSBub3RpZmljYXRpb25fcHJvY2Vzc29yLmdldF9kYXRhKCkKICAgICAgICAgICAgICAgIGNvdW50ZXIgKz0gMQogICAgICAgICAgICBleGNlcHQgKEludmFsaWROb3RpZmljYXRpb25EYXRhLCBJbnZhbGlkRGlzcHV0ZURhdGEpOgogICAgICAgICAgICAgICAgcmFwb3J0WydlcnJvcnMnXS5hcHBlbmQoeydpZCc6IGlfbi5pZCwgJ2Vycm9ycyc6IG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzfSkKCiAgICAgICAgICAgIGV4Y2VwdCBWb2lkRXJyb3JzRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgcmFwb3J0WydlcnJvcnMnXS5hcHBlbmQoeydpZCc6IGlfbi5pZCwgJ2Vycm9ycyc6IG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzfSkKICAgICAgICAgICAgZXhjZXB0IFBheVBhbE5vQ2xpZW50Rm9yRG9tYWluOgogICAgICAgICAgICAgICAgcmFwb3J0WydlcnJvcnMnXS5hcHBlbmQoeydpZCc6IGlfbi5pZCwgJ2Vycm9ycyc6IG5vdGlmaWNhdGlvbl9wcm9jZXNzb3IuZXJyb3JzfSkKICAgIHByaW50KGYie2NvdW50ZXJ9IEludmFsaWROb3RpZmljYXRpb25zIHdpbGwgYmUgYWRkZWQgdG8gc2VuZCBmcm9tIHtsZW4oaW52YWxpZF9ub3RpZmljYXRpb25zKX0iKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgZW1haWwgIiwgZW1haWwuZW1haWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgcGhvbmUgIiwgcGhvbmUucGhvbmUpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFJFRElTX0RCID0gZ2V0X2Vudmlyb25tZW50KCdSRURJU19EQicpCiAgICBSRURJU19EQiA9IGdldF9lbnZpcm9ubWVudCgnUkVESVNfREInKQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgZW1haWwgIiwgZW1haWwuZW1haWwpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>repo: git@gitlab.iiit.pl:it-gold/krab.git
-application_package_name: pkg.tar
-
-private_media_dir: &quot;/var/www/krab&quot;
-
-crypto_definitions_db_host: 192.168.33.80
-db_bi_user: cryptoproducer_ro
-db_bi_user_pass: password
-
-sentry_enabled: yes
-sentry_dsn_key: &quot;2f155f66f8134866979ac986ac2ad9d2&quot;
-sentry_dsn_secret: &quot;ff84f2618f104e269c852cb4b7bca7d4&quot;
-sentry_project_number: 12</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgcGhvbmUgIiwgcGhvbmUucGhvbmUpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJFRElTX0RCID0gZ2V0X2Vudmlyb25tZW50KCdSRURJU19EQicpCiAgICBSRURJU19EQiA9IGdldF9lbnZpcm9ubWVudCgnUkVESVNfREInKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
