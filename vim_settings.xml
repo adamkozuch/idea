@@ -383,7 +383,7 @@
         <text encoding="base64">ICAgIFJFRElTX0RCID0gZ2V0X2Vudmlyb25tZW50KCdSRURJU19EQicpCiAgICBSRURJU19EQiA9IGdldF9lbnZpcm9ubWVudCgnUkVESVNfREInKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -437,8 +437,8 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
