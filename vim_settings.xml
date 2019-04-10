@@ -61,12 +61,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" timestamp="1554881113146">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" timestamp="1554882125321">
         <mark key="'" line="208" column="77" />
-        <mark key="[" line="208" column="77" />
-        <mark key="]" line="208" column="77" />
-        <mark key="." line="208" column="77" />
-        <mark key="^" line="208" column="77" />
+        <mark key="[" line="208" column="75" />
+        <mark key="]" line="208" column="75" />
+        <mark key="." line="208" column="75" />
+        <mark key="^" line="210" column="7" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/stage/redis.yml" timestamp="1554813371980">
         <mark key="[" line="2" column="10" />
@@ -342,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#pylint: disable=no-else-return</text>
+        <text encoding="base64">ICMgcHlsaW50OiBkaXNhYmxlPW5vLWVsc2UtcmV0dXJu</text>
       </register>
       <register name="-" type="4">
-        <text>#pylint: disable=no-else-return</text>
+        <text encoding="base64">ICMgcHlsaW50OiBkaXNhYmxlPW5vLWVsc2UtcmV0dXJu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweWxpbnRcPg==</text>
@@ -354,21 +354,27 @@
         <text>#pylint: disable=no-else-return</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgZW1haWwgIiwgZW1haWwuZW1haWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgcGhvbmUgIiwgcGhvbmUucGhvbmUpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgZW1haWwgIiwgZW1haWwuZW1haWwpCg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgcGhvbmUgIiwgcGhvbmUucGhvbmUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFJFRElTX0RCID0gZ2V0X2Vudmlyb25tZW50KCdSRURJU19EQicpCiAgICBSRURJU19EQiA9IGdldF9lbnZpcm9ubWVudCgnUkVESVNfREInKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>repo: git@gitlab.iiit.pl:it-gold/krab.git
 application_package_name: pkg.tar
 
@@ -383,14 +389,8 @@ sentry_dsn_key: &quot;2f155f66f8134866979ac986ac2ad9d2&quot;
 sentry_dsn_secret: &quot;ff84f2618f104e269c852cb4b7bca7d4&quot;
 sentry_project_number: 12</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">UkVESVNfSE9TVDogInt7IHJlZGlzX2hvc3QgfX0iClJFRElTX1BPUlQ6ICJ7eyByZWRpc19wb3J0IH19IgpSRURJU19EQjogInt7IHJlZGlzX2RiIH19Igo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVkaXNfZGI6IDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
