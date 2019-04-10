@@ -20,11 +20,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" timestamp="1554808690316">
-        <mark key="'" line="208" column="38" />
-        <mark key="[" line="189" column="45" />
-        <mark key="]" line="189" column="45" />
-        <mark key="." line="189" column="45" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" timestamp="1554878226224">
+        <mark key="'" line="200" column="19" />
+        <mark key="[" line="196" column="68" />
+        <mark key="]" line="196" column="79" />
+        <mark key="." line="196" column="79" />
+        <mark key="^" line="196" column="79" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/stage/redis.yml" timestamp="1554813371980">
         <mark key="[" line="2" column="10" />
@@ -49,7 +50,7 @@
         <mark key="." line="2" column="11" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tasks.py" timestamp="1554818358481" />
-      <file name="/Python Console" timestamp="1554798460969">
+      <file name="/Python Console" timestamp="1554877949673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Django Console" timestamp="1553078928960">
@@ -79,12 +80,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554816789942">
-        <mark key="'" line="154" column="18" />
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="30" column="13" />
-        <mark key="." line="30" column="13" />
-        <mark key="^" line="30" column="13" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554877723611">
+        <mark key="^" line="165" column="57" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1554814591311">
         <mark key="'" line="877" column="32" />
@@ -106,9 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="558" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="560" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="577" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="583" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="586" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="593" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
@@ -157,7 +151,6 @@
       <jump line="700" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="716" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="796" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
-      <jump line="38" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="280" column="13" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="100" column="13" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" />
       <jump line="110" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" />
@@ -206,27 +199,40 @@
       <jump line="250" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/ansible/main.yml" />
       <jump line="877" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="57" column="60" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" />
+      <jump line="166" column="63" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="38" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="193" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
+      <jump line="200" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>black_list</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>black_list</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>test_reset_password_with_email_check_if_blocked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFRElTX0RCID0gZ2V0X2Vudmlyb25tZW50KCdSRURJU19EQicpCg==</text>
+        <text encoding="base64">ZnJvbSBjbGllbnRfc3lzdGVtcy50YXNrcyBpbXBvcnQgdGFza19jbGllbnRfcmVzZXRfcGFzc3dvcmRfd2l0aF9lbWFpbCwgdGFza19jbGllbnRfcmVzZXRfcGFzc3dvcmRfd2l0aF9waG9uZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgZW1haWwgIiwgZW1haWwuZW1haWwpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgcGhvbmUgIiwgcGhvbmUucGhvbmUpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFJFRElTX0RCID0gZ2V0X2Vudmlyb25tZW50KCdSRURJU19EQicpCiAgICBSRURJU19EQiA9IGdldF9lbnZpcm9ubWVudCgnUkVESVNfREInKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>repo: git@gitlab.iiit.pl:it-gold/krab.git
 application_package_name: pkg.tar
 
@@ -241,26 +247,17 @@ sentry_dsn_key: &quot;2f155f66f8134866979ac986ac2ad9d2&quot;
 sentry_dsn_secret: &quot;ff84f2618f104e269c852cb4b7bca7d4&quot;
 sentry_project_number: 12</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">UkVESVNfSE9TVDogInt7IHJlZGlzX2hvc3QgfX0iClJFRElTX1BPUlQ6ICJ7eyByZWRpc19wb3J0IH19IgpSRURJU19EQjogInt7IHJlZGlzX2RiIH19Igo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVkaXNfZGI6IDUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cmVkaXNfZGI6IDUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVkaXNfZGI6IDUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVkaQo=</text>
+        <text encoding="base64">cmVkaXNfZGI6IDUK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -314,8 +311,8 @@ sentry_project_number: 12</text>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
