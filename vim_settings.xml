@@ -33,6 +33,9 @@
       <file name="/a.dummy" timestamp="1554814824725">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1554894962234">
+        <mark key="'" line="199" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1554462217258">
         <mark key="'" line="66" column="42" />
         <mark key="[" line="56" column="0" />
@@ -59,13 +62,6 @@
         <mark key="]" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" timestamp="1554802555157" />
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" timestamp="1554885749004">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="208" column="75" />
-        <mark key="]" line="208" column="75" />
-        <mark key="." line="208" column="75" />
-        <mark key="^" line="210" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/PPI-148" timestamp="1554885698542">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="16" />
@@ -131,7 +127,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554885854102">
+      <file name="/Python Console" timestamp="1554894867621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/report.json" timestamp="1554888656497" />
@@ -183,8 +179,8 @@
       <file name="/Dummy.txt" timestamp="1554813621341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1554813660289">
-        <mark key="'" line="153" column="4" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1554895417665">
+        <mark key="'" line="67" column="6" />
         <mark key="[" line="358" column="48" />
         <mark key="]" line="358" column="57" />
         <mark key="^" line="358" column="57" />
@@ -210,13 +206,6 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1554814591311">
-        <mark key="'" line="877" column="32" />
-        <mark key="[" line="857" column="39" />
-        <mark key="]" line="857" column="71" />
-        <mark key="." line="857" column="71" />
-        <mark key="^" line="857" column="71" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/all.yml" timestamp="1554813439052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -232,10 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="769" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
-      <jump line="764" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
-      <jump line="755" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
-      <jump line="748" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="746" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="743" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="741" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
@@ -312,7 +297,6 @@
       <jump line="163" column="61" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="201" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="15" column="55" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="208" column="77" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="28" column="34" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
@@ -332,6 +316,11 @@
       <jump line="85" column="19" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
       <jump line="4" column="23" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" />
       <jump line="93" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
+      <jump line="199" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
+      <jump line="186" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="603" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="67" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -341,7 +330,7 @@
         <text>from billiard.exceptions import SoftTimeLimitExceeded</text>
       </register>
       <register name="/" type="4">
-        <text>domain</text>
+        <text>Kafka</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGYie2NvdW50ZXJ9IEludmFsaWROb3RpZmljYXRpb25zIHdpbGwgYmUgYWRkZWQgdG8gc2VuZCBmcm9tIGFsbCBvZiB7aW52YWxpZF9ub3RpZmljYXRpb25zLmNvdW50KCl9IikK</text>
@@ -374,13 +363,13 @@
         <text encoding="base64">ICAgIEBjbGljay5vcHRpb24oJy0tY292ZXJhZ2UvLS1uby1jb3ZlcmFnZScsIGRlZmF1bHQ9RmFsc2UsIGhlbHA9J1J1biB0ZXN0cyB1bmRlciBjb2RlIGNvdmVyYWdlLicpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
-      <last-search>domain</last-search>
+      <last-search>Kafka</last-search>
       <last-offset />
-      <last-pattern>domain</last-pattern>
+      <last-pattern>Kafka</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -388,8 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logg</entry>
-        <entry>cache</entry>
         <entry>black</entry>
         <entry>flush_redis</entry>
         <entry encoding="base64">XDxnZXRfcmVkaXNfY29ubmVjdGlvblw+</entry>
@@ -408,6 +395,8 @@
         <entry encoding="base64">XDxweWxpbnRcPg==</entry>
         <entry>stock_qu</entry>
         <entry>domain</entry>
+        <entry>kafka</entry>
+        <entry>Kafka</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -428,8 +417,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
