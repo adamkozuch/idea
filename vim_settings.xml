@@ -83,6 +83,11 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/redis.py" timestamp="1554798412481">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/utils.py" timestamp="1554880772947">
         <mark key="'" line="55" column="8" />
       </file>
@@ -122,7 +127,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554894867621">
+      <file name="/Python Console" timestamp="1554903641985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/report.json" timestamp="1554888656497" />
@@ -137,6 +142,11 @@
         <mark key="." line="162" column="41" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tests/tests.py" timestamp="1554882504216" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" timestamp="1553872269230">
+        <mark key="[" line="544" column="0" />
+        <mark key="]" line="544" column="0" />
+        <mark key="." line="544" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1554893023411">
         <mark key="'" line="4" column="23" />
       </file>
@@ -156,6 +166,11 @@
         <mark key="]" line="25" column="22" />
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/setup.py" timestamp="1554207710618">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1554899724691">
         <mark key="'" line="27" column="32" />
@@ -182,8 +197,18 @@
         <mark key="^" line="358" column="57" />
         <mark key="." line="358" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1554118204471">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554903729807">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="64" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1554455656658">
         <mark key="'" line="359" column="0" />
@@ -212,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" />
       <jump line="115" column="98" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" />
       <jump line="165" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="692" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
@@ -312,10 +336,11 @@
       <jump line="248" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="159" column="46" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="162" column="22" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
+      <jump line="81" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sand</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhcGkudXRpbHMgaW1wb3J0IHBob25lX2lzX2JsYWNrbGlzdGVkLCBlbWFpbF9pc19ibGFja2xpc3RlZAo=</text>
       </register>
       <register name="-" type="4">
         <text>sand</text>
@@ -327,31 +352,31 @@
         <text>paypalrestsdk.Api(mode=mode, **credentials)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcGkudXRpbHMgaW1wb3J0IHBob25lX2lzX2JsYWNrbGlzdGVkLCBlbWFpbF9pc19ibGFja2xpc3RlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVsndHJhbnNhY3Rpb25zJ11bMF1bJ2l0ZW1fbGlzdCddWydzaGlwcGluZ19waG9uZV9udW1iZXInXSA9IHsKICAgICAgICAgICAgICAgICJyZWNpcGllbnRfbmFtZSI6IGYie3BheW1lbnQuZmlyc3RfbmFtZX0ge3BheW1lbnQubGFzdF9uYW1lfSIsCiAgICAgICAgICAgICAgICAibGluZTEiOiBwYXltZW50LnN0cmVldCwKICAgICAgICAgICAgICAgICJjaXR5IjogcGF5bWVudC5jaXR5LAogICAgICAgICAgICAgICAgImNvdW50cnlfY29kZSI6IHBheW1lbnQuY291bnRyeSwKICAgICAgICAgICAgICAgICJwb3N0YWxfY29kZSI6IHBheW1lbnQucG9zdGNvZGUsCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCmRlZiBjcmVhdGVkYXRhKCk6CiAgICBvbmUgPSBJbnZhbGlkTm90aWZpY2F0aW9uKGRhdGE9eyJ0eG5faWQiOiAiOFNWOTI0NTlBQjU3MTgyNVgiLCAicGF5bWVudF9zdGF0dXMiOiAiQ29tcGxldGVkIiwgIm1jX2dyb3NzIjogIjEyLjM0IiwgIm1jX2N1cnJlbmN5IjogImRmYWRmIiwgInBheW1lbnRfZGF0ZSI6ICIyMDE4LTAxLTAxIDAwOjAwOjAwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwX2hlYWRlcnM9e30sIHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcpCiAgICB0d28gPSBJbnZhbGlkTm90aWZpY2F0aW9uKGRhdGE9eyJ0eG5faWQiOiAiM05INzU2MTQ1SDY4NDQxMEgiLCAicGF5bWVudF9zdGF0dXMiOiAiQ29tcGxldGVkIiwgIm1jX2dyb3NzIjogIjEyLjM0IiwgIm1jX2N1cnJlbmN5IjogImRmYWRmIiwgInBheW1lbnRfZGF0ZSI6ICIyMDE4LTAxLTAxIDAwOjAwOjAwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwX2hlYWRlcnM9e30sIHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcpCiAgICB0aHJlZSA9IEludmFsaWROb3RpZmljYXRpb24oZGF0YT17InR4bl9pZCI6ICIzQVU0Mjg1N1hVNzA3ODMxUCIsICJwYXltZW50X3N0YXR1cyI6ICJDb21wbGV0ZWQiLCAibWNfZ3Jvc3MiOiAiMTIuMzQiLCAibWNfY3VycmVuY3kiOiAiZGZhZGYiLCAicGF5bWVudF9kYXRlIjogIjIwMTgtMDEtMDEgMDA6MDA6MDAifSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0dHBfaGVhZGVycz17fSwgcGF5bWVudF9wcm92aWRlcj0nUGF5UGFsJykKICAgIGZvdXIgPSBJbnZhbGlkTm90aWZpY2F0aW9uKGRhdGE9eyJ0eG5faWQiOiAiNzBIOTYxNDVEUzI1ODM0NFgiLCAicGF5bWVudF9zdGF0dXMiOiAiQ29tcGxldGVkIiwgIm1jX2dyb3NzIjogIjEyLjM0IiwgIm1jX2N1cnJlbmN5IjogImRmYWRmIiwgInBheW1lbnRfZGF0ZSI6ICIyMDE4LTAxLTAxIDAwOjAwOjAwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwX2hlYWRlcnM9e30sIHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcpCgogICAgZGIuc2Vzc2lvbi5hZGQob25lKQogICAgZGIuc2Vzc2lvbi5hZGQodHdvKQogICAgZGIuc2Vzc2lvbi5hZGQodGhyZWUpCiAgICBkYi5zZXNzaW9uLmFkZChmb3VyKQogICAgZGIuc2Vzc2lvbi5jb21taXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVsndHJhbnNhY3Rpb25zJ11bMF1bJ2l0ZW1fbGlzdCddWydzaGlwcGluZ19waG9uZV9udW1iZXInXSA9IHsKICAgICAgICAgICAgICAgICJyZWNpcGllbnRfbmFtZSI6IGYie3BheW1lbnQuZmlyc3RfbmFtZX0ge3BheW1lbnQubGFzdF9uYW1lfSIsCiAgICAgICAgICAgICAgICAibGluZTEiOiBwYXltZW50LnN0cmVldCwKICAgICAgICAgICAgICAgICJjaXR5IjogcGF5bWVudC5jaXR5LAogICAgICAgICAgICAgICAgImNvdW50cnlfY29kZSI6IHBheW1lbnQuY291bnRyeSwKICAgICAgICAgICAgICAgICJwb3N0YWxfY29kZSI6IHBheW1lbnQucG9zdGNvZGUsCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfZG9tYWluID0gImxvY2FsaG9zdDo5MDkwIgo=</text>
+        <text encoding="base64">QGFwcC5jbGkuY29tbWFuZCgpCmRlZiBjcmVhdGVkYXRhKCk6CiAgICBvbmUgPSBJbnZhbGlkTm90aWZpY2F0aW9uKGRhdGE9eyJ0eG5faWQiOiAiOFNWOTI0NTlBQjU3MTgyNVgiLCAicGF5bWVudF9zdGF0dXMiOiAiQ29tcGxldGVkIiwgIm1jX2dyb3NzIjogIjEyLjM0IiwgIm1jX2N1cnJlbmN5IjogImRmYWRmIiwgInBheW1lbnRfZGF0ZSI6ICIyMDE4LTAxLTAxIDAwOjAwOjAwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwX2hlYWRlcnM9e30sIHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcpCiAgICB0d28gPSBJbnZhbGlkTm90aWZpY2F0aW9uKGRhdGE9eyJ0eG5faWQiOiAiM05INzU2MTQ1SDY4NDQxMEgiLCAicGF5bWVudF9zdGF0dXMiOiAiQ29tcGxldGVkIiwgIm1jX2dyb3NzIjogIjEyLjM0IiwgIm1jX2N1cnJlbmN5IjogImRmYWRmIiwgInBheW1lbnRfZGF0ZSI6ICIyMDE4LTAxLTAxIDAwOjAwOjAwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwX2hlYWRlcnM9e30sIHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcpCiAgICB0aHJlZSA9IEludmFsaWROb3RpZmljYXRpb24oZGF0YT17InR4bl9pZCI6ICIzQVU0Mjg1N1hVNzA3ODMxUCIsICJwYXltZW50X3N0YXR1cyI6ICJDb21wbGV0ZWQiLCAibWNfZ3Jvc3MiOiAiMTIuMzQiLCAibWNfY3VycmVuY3kiOiAiZGZhZGYiLCAicGF5bWVudF9kYXRlIjogIjIwMTgtMDEtMDEgMDA6MDA6MDAifSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0dHBfaGVhZGVycz17fSwgcGF5bWVudF9wcm92aWRlcj0nUGF5UGFsJykKICAgIGZvdXIgPSBJbnZhbGlkTm90aWZpY2F0aW9uKGRhdGE9eyJ0eG5faWQiOiAiNzBIOTYxNDVEUzI1ODM0NFgiLCAicGF5bWVudF9zdGF0dXMiOiAiQ29tcGxldGVkIiwgIm1jX2dyb3NzIjogIjEyLjM0IiwgIm1jX2N1cnJlbmN5IjogImRmYWRmIiwgInBheW1lbnRfZGF0ZSI6ICIyMDE4LTAxLTAxIDAwOjAwOjAwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwX2hlYWRlcnM9e30sIHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcpCgogICAgZGIuc2Vzc2lvbi5hZGQob25lKQogICAgZGIuc2Vzc2lvbi5hZGQodHdvKQogICAgZGIuc2Vzc2lvbi5hZGQodGhyZWUpCiAgICBkYi5zZXNzaW9uLmFkZChmb3VyKQogICAgZGIuc2Vzc2lvbi5jb21taXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfZG9tYWluID0gImxvY2FsaG9zdDo5MDkwIgogICAgYWRkX2ludmFsaWRfcGF5cGFsX2lwbl9ub3RpZmljYXRpb25fdG9fc2VuZF9vYmplY3QoZGIsIGludmFsaWRfZXh0ZXJuYWxfaWRzX3BhdGgsIGRvbWFpbikKCkBhcHAuY2xpLmNvbW1hbmQoKQpAY2xpY2sub3B0aW9uKCctLWRvbWFpbicsIGRlZmF1bHQ9Tm9uZSwgaGVscD0nRG9tYWluIGZvciBJbnZhbGlkTm90aWZpY2F0aW9ucycpCmRlZiBhZGRpbnZhbGlkY2hlY2soZG9tYWluKToKICAgIGlmIG5vdCBkb21haW46CiAgICAgICAgcHJpbnQoIlBsZWFzZSBwYXNzIGRvbWFpbiBmb3IgSW52YWxpZE5vdGlmaWNhdGlvbnMiKQogICAgICAgIHJldHVybgoKICAgIGludmFsaWRfZXh0ZXJuYWxfaWRzX3BhdGggPSAiL3Nydi9wcGkiCiAgICBjaGVja19vYmplY3RzX3RoYXRfd2lsbF9iZV9hZGRlZChkYiwgaW52YWxpZF9leHRlcm5hbF9pZHNfcGF0aCwgZG9tYWluKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGRlZmF1bHRfZG9tYWluID0gImxvY2FsaG9zdDo5MDkwIgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRfZG9tYWluID0gImxvY2FsaG9zdDo5MDkwIgogICAgYWRkX2ludmFsaWRfcGF5cGFsX2lwbl9ub3RpZmljYXRpb25fdG9fc2VuZF9vYmplY3QoZGIsIGludmFsaWRfZXh0ZXJuYWxfaWRzX3BhdGgsIGRvbWFpbikKCkBhcHAuY2xpLmNvbW1hbmQoKQpAY2xpY2sub3B0aW9uKCctLWRvbWFpbicsIGRlZmF1bHQ9Tm9uZSwgaGVscD0nRG9tYWluIGZvciBJbnZhbGlkTm90aWZpY2F0aW9ucycpCmRlZiBhZGRpbnZhbGlkY2hlY2soZG9tYWluKToKICAgIGlmIG5vdCBkb21haW46CiAgICAgICAgcHJpbnQoIlBsZWFzZSBwYXNzIGRvbWFpbiBmb3IgSW52YWxpZE5vdGlmaWNhdGlvbnMiKQogICAgICAgIHJldHVybgoKICAgIGludmFsaWRfZXh0ZXJuYWxfaWRzX3BhdGggPSAiL3Nydi9wcGkiCiAgICBjaGVja19vYmplY3RzX3RoYXRfd2lsbF9iZV9hZGRlZChkYiwgaW52YWxpZF9leHRlcm5hbF9pZHNfcGF0aCwgZG9tYWluKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfZG9tYWluID0gZG9tYWluCg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRfZG9tYWluID0gImxvY2FsaG9zdDo5MDkwIgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGRlZmF1bHRfZG9tYWluID0gZG9tYWluCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBjbGljay5vcHRpb24oJy0tZG9tYWluJywgZGVmYXVsdD1Ob25lLCBoZWxwPSdEb21haW4gZm9yIEludmFsaWROb3RpZmljYXRpb25zJykK</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRfZG9tYWluID0gZG9tYWluCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -407,8 +432,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action Switcher</entry>
         <entry>action Run</entry>
+        <entry>action Switcher</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
