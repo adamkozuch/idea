@@ -57,19 +57,16 @@
         <mark key="." line="94" column="17" />
         <mark key="^" line="94" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/development/mdm.yml" timestamp="1554811912813">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" timestamp="1554802555157" />
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/PPI-148" timestamp="1554885698542">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1554884279593">
         <mark key="'" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554978683530" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554991190511">
+        <mark key="[" line="116" column="40" />
+        <mark key="]" line="116" column="40" />
+        <mark key="." line="116" column="40" />
+        <mark key="^" line="116" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/auto_operation.py" timestamp="1554716713363">
         <mark key="'" line="17" column="22" />
         <mark key="[" line="17" column="13" />
@@ -100,6 +97,12 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/moneymatrix/__init__.py" timestamp="1554990826755">
+        <mark key="[" line="64" column="47" />
+        <mark key="]" line="64" column="49" />
+        <mark key="^" line="64" column="49" />
+        <mark key="." line="64" column="49" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/crypto-config-generator/crypto_config_generator/generator.py" timestamp="1554201619519">
         <mark key="'" line="556" column="8" />
         <mark key="[" line="578" column="24" />
@@ -114,6 +117,12 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="113" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/admin.py" timestamp="1553863947474">
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="75" column="50" />
+        <mark key="^" line="75" column="50" />
+        <mark key="." line="75" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" timestamp="1554880340893">
         <mark key="'" line="32" column="19" />
         <mark key="[" line="6" column="21" />
@@ -121,7 +130,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554903641985">
+      <file name="/Python Console" timestamp="1554990999809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/report.json" timestamp="1554888656497" />
@@ -154,6 +163,12 @@
         <mark key="^" line="82" column="63" />
         <mark key="." line="83" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553871567671">
+        <mark key="[" line="51" column="72" />
+        <mark key="]" line="51" column="71" />
+        <mark key="^" line="51" column="71" />
+        <mark key="." line="51" column="71" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
         <mark key="[" line="24" column="0" />
@@ -165,6 +180,12 @@
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis_test.py" timestamp="1554727782889">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1554899724691">
         <mark key="'" line="27" column="32" />
@@ -191,6 +212,12 @@
         <mark key="^" line="358" column="57" />
         <mark key="." line="358" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1554800699784">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="52" />
+        <mark key="^" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1554118204471">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -198,6 +225,12 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_rest.py" timestamp="1554462164668">
+        <mark key="[" line="131" column="61" />
+        <mark key="]" line="131" column="62" />
+        <mark key="." line="131" column="62" />
+        <mark key="^" line="133" column="89" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1554903729807">
         <mark key="[" line="22" column="0" />
@@ -217,6 +250,18 @@
         <mark key="]" line="22" column="38" />
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/redis.py" timestamp="1554729689301">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="34" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_mdm_sync/models/models.py" timestamp="1554735047899">
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
@@ -334,47 +379,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>db.Column(db.String(20))</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Kafka</text>
       </register>
-      <register name="0" type="4">
-        <text>db.Column(db.String(20))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKCdwX2luZm8nLCAnRG90UGF5IFBheW1lbnQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicGhvbmUiOiAiKzQ4NTEwNTgzMDAwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCdwaG9uZScsIHBheW1lbnQucGhvbmVfbnVtYmVyICcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwaG9uZSI6ICIrNDg1MTA1NzgzMDYiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXllcl9pbmZvIjogewogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6IHBheW1lbnQuZW1haWwKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicGhvbmUiOiAiKzQ4NTEwNTgzMDAwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYmlsbGluZ19hZGRyZXNzIjogewogICAgICAgICAgICAgICAgICAgICAgICAiY291bnRyeV9jb2RlIjogcGF5bWVudC5jb3VudHJ5LAogICAgICAgICAgICAgICAgICAgICAgICAibGluZTEiOiBwYXltZW50LnN0cmVldCwKICAgICAgICAgICAgICAgICAgICAgICAgInBob25lIjogIjEyMzQ1NjEyMzQiLAogICAgICAgICAgICAgICAgICAgICAgICAicG9zdGFsX2NvZGUiOiBwYXltZW50LnBvc3Rjb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAiY2l0eSI6ICJXYXJzYXciCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwaG9uZSI6ICIrNDg1MTA1NzgzMDYiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJjb3VudHJ5X2NvZGUiOiBwYXltZW50LmNvdW50cnksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXllcl9pbmZvIjogewogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6IHBheW1lbnQuZW1haWwKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYmlsbGluZ19hZGRyZXNzIjogewogICAgICAgICAgICAgICAgICAgICAgICAiY291bnRyeV9jb2RlIjogcGF5bWVudC5jb3VudHJ5LAogICAgICAgICAgICAgICAgICAgICAgICAibGluZTEiOiBwYXltZW50LnN0cmVldCwKICAgICAgICAgICAgICAgICAgICAgICAgInBob25lIjogIjEyMzQ1NjEyMzQiLAogICAgICAgICAgICAgICAgICAgICAgICAicG9zdGFsX2NvZGUiOiBwYXltZW50LnBvc3Rjb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAiY2l0eSI6ICJXYXJzYXciCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJjb3VudHJ5X2NvZGUiOiBwYXltZW50LmNvdW50cnksCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImNvdW50cnlfY29kZSI6ICJQTCIsCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
                             &quot;country_code&quot;: &quot;PL&quot;,
                             &quot;national_number&quot;: &quot;12312312311&quot;
 
                         }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInBob25lIjogIjAxMTg2MjIxMjM0NTY3OCIK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInNoaXBwaW5nX3Bob25lX251bWJlciI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb3VudHJ5X2NvZGUiOiAiUEwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hdGlvbmFsX251bWJlciI6ICIxMjMxMjMxMjMxMSIKCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
