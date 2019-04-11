@@ -20,12 +20,12 @@
         <mark key="^" line="128" column="112" />
         <mark key="." line="73" column="121" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1554900992647">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1554970911374">
         <mark key="'" line="159" column="46" />
-        <mark key="[" line="147" column="21" />
-        <mark key="]" line="147" column="63" />
-        <mark key="." line="212" column="0" />
-        <mark key="^" line="211" column="69" />
+        <mark key="[" line="210" column="60" />
+        <mark key="]" line="210" column="58" />
+        <mark key="." line="210" column="58" />
+        <mark key="^" line="210" column="58" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" timestamp="1554886966640">
         <mark key="'" line="125" column="51" />
@@ -179,7 +179,7 @@
         <mark key="^" line="30" column="119" />
         <mark key="." line="30" column="119" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/production/vars.yml" timestamp="1554887121036" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/production/vars.yml" timestamp="1554970446861" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" timestamp="1554297035926">
         <mark key="'" line="44" column="25" />
         <mark key="[" line="54" column="19" />
@@ -339,11 +339,11 @@
       <jump line="81" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcGkudXRpbHMgaW1wb3J0IHBob25lX2lzX2JsYWNrbGlzdGVkLCBlbWFpbF9pc19ibGFja2xpc3RlZAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>sand</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Kafka</text>
@@ -499,6 +499,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
