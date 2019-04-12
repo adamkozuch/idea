@@ -27,8 +27,8 @@
         <mark key="." line="206" column="41" />
         <mark key="^" line="206" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" timestamp="1554886966640">
-        <mark key="'" line="125" column="51" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" timestamp="1555059538725">
+        <mark key="'" line="159" column="34" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/base/__init__.py" timestamp="1554449249919">
         <mark key="'" line="223" column="38" />
@@ -67,7 +67,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1554884279593">
         <mark key="'" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1554991190511">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" timestamp="1555059853238">
+        <mark key="'" line="115" column="48" />
         <mark key="[" line="116" column="40" />
         <mark key="]" line="116" column="40" />
         <mark key="." line="116" column="40" />
@@ -101,6 +102,9 @@
         <mark key="]" line="51" column="50" />
         <mark key="^" line="51" column="50" />
         <mark key="." line="51" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
+        <mark key="'" line="21" column="58" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/main.yml" timestamp="1554821806555">
         <mark key="'" line="252" column="0" />
@@ -305,15 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="692" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
-      <jump line="30" column="47" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="186" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="613" column="11" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
-      <jump line="192" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="12" column="5" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="154" column="18" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="711" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="715" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="717" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="720" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
@@ -405,6 +400,15 @@
       <jump line="81" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="95" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
       <jump line="0" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/test.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
+      <jump line="178" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
+      <jump line="179" column="42" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
+      <jump line="210" column="44" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
+      <jump line="216" column="44" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
+      <jump line="230" column="36" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
+      <jump line="130" column="36" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
+      <jump line="159" column="34" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
+      <jump line="115" column="48" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -414,7 +418,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Kafka</text>
+        <text>get_si</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCdwX2luZm8nLCAnRG90UGF5IFBheW1lbnQnKSwK</text>
@@ -451,9 +455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Kafka</last-search>
+      <last-search>get_si</last-search>
       <last-offset />
-      <last-pattern>Kafka</last-pattern>
+      <last-pattern>get_si</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -461,9 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>black</entry>
-        <entry>flush_redis</entry>
-        <entry encoding="base64">XDxnZXRfcmVkaXNfY29ubmVjdGlvblw+</entry>
         <entry>redis</entry>
         <entry>django</entry>
         <entry encoding="base64">XDxlbWFpbF9pc19ibGFja2xpc3RlZFw+</entry>
@@ -481,6 +482,9 @@
         <entry>domain</entry>
         <entry>kafka</entry>
         <entry>Kafka</entry>
+        <entry>secret</entry>
+        <entry>stage</entry>
+        <entry>get_si</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
