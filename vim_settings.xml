@@ -224,12 +224,12 @@
         <mark key="." line="30" column="119" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/production/vars.yml" timestamp="1554970446861" />
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" timestamp="1554297035926">
-        <mark key="'" line="44" column="25" />
-        <mark key="[" line="54" column="19" />
-        <mark key="]" line="54" column="37" />
-        <mark key="^" line="54" column="37" />
-        <mark key="." line="54" column="37" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" timestamp="1555067642103">
+        <mark key="'" line="22" column="30" />
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/development/redis" timestamp="1554811925270">
         <mark key="[" line="0" column="10" />
@@ -316,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="722" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="729" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="733" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="834" column="28" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
@@ -416,6 +415,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="9" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="62" column="26" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
+      <jump line="21" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
