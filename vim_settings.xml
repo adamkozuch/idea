@@ -58,6 +58,12 @@
         <mark key="^" line="94" column="17" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" timestamp="1554802555157" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/stage/redis.yml" timestamp="1554813371980">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1554884279593">
         <mark key="'" line="28" column="34" />
       </file>
@@ -78,6 +84,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/test.py" timestamp="1555055632837">
+        <mark key="[" line="42" column="85" />
+        <mark key="]" line="42" column="85" />
+        <mark key="." line="42" column="85" />
+        <mark key="^" line="42" column="85" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/utils.py" timestamp="1554880772947">
         <mark key="'" line="55" column="8" />
@@ -122,6 +134,12 @@
         <mark key="]" line="75" column="50" />
         <mark key="^" line="75" column="50" />
         <mark key="." line="75" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tasks.py" timestamp="1554880736891">
+        <mark key="[" line="12" column="68" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" timestamp="1554880340893">
         <mark key="'" line="32" column="19" />
@@ -202,15 +220,20 @@
         <mark key="^" line="54" column="37" />
         <mark key="." line="54" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/development/redis" timestamp="1554811925270">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
       <file name="/Dummy.txt" timestamp="1554813621341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1554895417665">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555055950090">
         <mark key="'" line="67" column="6" />
-        <mark key="[" line="358" column="48" />
-        <mark key="]" line="358" column="57" />
-        <mark key="^" line="358" column="57" />
-        <mark key="." line="358" column="57" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1554800699784">
         <mark key="[" line="2" column="39" />
@@ -267,6 +290,12 @@
         <mark key="'" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/__init__.py" timestamp="1554901763473" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/all.yml" timestamp="1554813439052">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1554386019187">
         <mark key="'" line="168" column="15" />
         <mark key="[" line="80" column="39" />
@@ -276,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="692" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="30" column="47" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="186" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
@@ -376,10 +404,11 @@
       <jump line="162" column="22" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
       <jump line="81" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="95" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -391,38 +420,34 @@
         <text encoding="base64">ICAgICAgICAgICAgKCdwX2luZm8nLCAnRG90UGF5IFBheW1lbnQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdwaG9uZScsIHBheW1lbnQucGhvbmVfbnVtYmVyICcnKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLgo=</text>
+        <text encoding="base64">ICAgICAgICBEQVRBQkFTRVMgPSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicGhvbmUiOiAiKzQ4NTEwNTgzMDAwIgo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCmltcG9ydCBvcwppbXBvcnQgc3lzCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJESkFOR09fU0VUVElOR1NfTU9EVUxFIiwgIm1hcmtldHBsYWNlLnNldHRpbmdzIikKCiAgICBmcm9tIGRqYW5nby5jb3JlLm1hbmFnZW1lbnQgaW1wb3J0IGV4ZWN1dGVfZnJvbV9jb21tYW5kX2xpbmUKICAgIGZyb20gZGphbmdvLmNvbmYgaW1wb3J0IHNldHRpbmdzCgogICAgaWYgJ3Rlc3QnIGluIHN5cy5hcmd2OgogICAgICAgIGltcG9ydCBsb2dnaW5nCiAgICAgICAgbG9nZ2luZy5kaXNhYmxlKGxvZ2dpbmcuQ1JJVElDQUwpCiAgICAgICAgc2V0dGluZ3MuREVCVUcgPSBGYWxzZQogICAgICAgIHNldHRpbmdzLlRFTVBMQVRFX0RFQlVHID0gRmFsc2UKICAgICAgICBzZXR0aW5ncy5QQVNTV09SRF9IQVNIRVJTID0gWwogICAgICAgICAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5oYXNoZXJzLk1ENVBhc3N3b3JkSGFzaGVyJywKICAgICAgICBdCiAgICAgICAgc2V0dGluZ3MuREFUQUJBU0VTID0gewogICAgICAgICAgICAnZGVmYXVsdCc6IHsKICAgICAgICAgICAgICAgICdFTkdJTkUnOiAnZGphbmdvLmRiLmJhY2tlbmRzLnNxbGl0ZTMnLAogICAgICAgICAgICAgICAgJ05BTUUnOiAndGVzdF9kYXRhYmFzZScsCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgc2V0dGluZ3MuTUlERExFV0FSRV9DTEFTU0VTID0gWwogICAgICAgICAgICAnZGphbmdvLmNvbnRyaWIuc2Vzc2lvbnMubWlkZGxld2FyZS5TZXNzaW9uTWlkZGxld2FyZScsCiAgICAgICAgICAgICdkamFuZ28ubWlkZGxld2FyZS5jc3JmLkNzcmZWaWV3TWlkZGxld2FyZScsCiAgICAgICAgICAgICdkamFuZ28uY29udHJpYi5hdXRoLm1pZGRsZXdhcmUuQXV0aGVudGljYXRpb25NaWRkbGV3YXJlJywKICAgICAgICAgICAgJ2RqYW5nby5jb250cmliLm1lc3NhZ2VzLm1pZGRsZXdhcmUuTWVzc2FnZU1pZGRsZXdhcmUnLAogICAgICAgIF0KCiAgICBpZiAndGVzdCcgaW4gc3lzLmFyZ3YgYW5kICctLXRpbWUnIGluIHN5cy5hcmd2OgogICAgICAgIHN5cy5hcmd2LnJlbW92ZSgnLS10aW1lJykKICAgICAgICBmcm9tIGRqYW5nbyBpbXBvcnQgdGVzdAogICAgICAgIGltcG9ydCB0aW1lCgogICAgICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICAgICAgc2VsZi5zdGFydFRpbWUgPSB0aW1lLnRpbWUoKQoKICAgICAgICBkZWYgdGVhckRvd24oc2VsZik6CiAgICAgICAgICAgIHRvdGFsID0gdGltZS50aW1lKCkgLSBzZWxmLnN0YXJ0VGltZQogICAgICAgICAgICBpZiB0b3RhbCA+IDAuNToKICAgICAgICAgICAgICAgIHByaW50KCJcblx0XDAzM1s5MW0lLjNmc1x0JXNcMDMzWzBtIiAlICggdG90YWwsIHNlbGYuX3Rlc3RNZXRob2ROYW1lKQogICAgICAgICAgICAgICAgdGVzdC5UZXN0Q2FzZS5zZXRVcCA9IHNldFVwCiAgICAgICAgICAgICAgICB0ZXN0LlRlc3RDYXNlLnRlYXJEb3duID0gdGVhckRvd24KCiAgICAgICAgICAgICAgICBleGVjdXRlX2Zyb21fY29tbWFuZF9saW5lKHN5cy5hcmd2KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwaG9uZSI6ICIrNDg1MTA1NzgzMDYiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCdwaG9uZScsIHBheW1lbnQucGhvbmVfbnVtYmVyICcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXllcl9pbmZvIjogewogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6IHBheW1lbnQuZW1haWwKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYmlsbGluZ19hZGRyZXNzIjogewogICAgICAgICAgICAgICAgICAgICAgICAiY291bnRyeV9jb2RlIjogcGF5bWVudC5jb3VudHJ5LAogICAgICAgICAgICAgICAgICAgICAgICAibGluZTEiOiBwYXltZW50LnN0cmVldCwKICAgICAgICAgICAgICAgICAgICAgICAgInBob25lIjogIjEyMzQ1NjEyMzQiLAogICAgICAgICAgICAgICAgICAgICAgICAicG9zdGFsX2NvZGUiOiBwYXltZW50LnBvc3Rjb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAiY2l0eSI6ICJXYXJzYXciCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicGhvbmUiOiAiKzQ4NTEwNTgzMDAwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJjb3VudHJ5X2NvZGUiOiBwYXltZW50LmNvdW50cnksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwaG9uZSI6ICIrNDg1MTA1NzgzMDYiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImNvdW50cnlfY29kZSI6ICJQTCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXllcl9pbmZvIjogewogICAgICAgICAgICAgICAgICAgICJlbWFpbCI6IHBheW1lbnQuZW1haWwKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                            &quot;country_code&quot;: &quot;PL&quot;,
-                            &quot;national_number&quot;: &quot;12312312311&quot;
-
-                        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYmlsbGluZ19hZGRyZXNzIjogewogICAgICAgICAgICAgICAgICAgICAgICAiY291bnRyeV9jb2RlIjogcGF5bWVudC5jb3VudHJ5LAogICAgICAgICAgICAgICAgICAgICAgICAibGluZTEiOiBwYXltZW50LnN0cmVldCwKICAgICAgICAgICAgICAgICAgICAgICAgInBob25lIjogIjEyMzQ1NjEyMzQiLAogICAgICAgICAgICAgICAgICAgICAgICAicG9zdGFsX2NvZGUiOiBwYXltZW50LnBvc3Rjb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAiY2l0eSI6ICJXYXJzYXciCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -476,8 +501,8 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
