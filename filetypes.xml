@@ -6,7 +6,6 @@
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="input_streamline" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="instrukcja" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
