@@ -43,12 +43,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1554894962234">
         <mark key="'" line="199" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" timestamp="1555061829860">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="73" column="14" />
-        <mark key="]" line="73" column="33" />
-        <mark key="." line="73" column="33" />
-        <mark key="^" line="73" column="33" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" timestamp="1555064337403">
+        <mark key="'" line="62" column="26" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="99" column="83" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1554462217258">
         <mark key="'" line="66" column="42" />
@@ -316,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="720" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="722" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="729" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="733" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
@@ -416,58 +415,59 @@
       <jump line="115" column="48" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
       <jump line="9" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
+      <jump line="62" column="26" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>phone</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHNbJ2NoayddKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>phone</text>
+        <text>432813c16fa7155cf66c9d37235eff633dafa2f35b5835019ad744478e3662fb</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDSEVDS1NVTV9QQVJBTVNfT1JERVJcPg==</text>
+        <text>phone</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdwX2luZm8nLCAnRG90UGF5IFBheW1lbnQnKSwK</text>
+      <register name="0" type="4">
+        <text>555567506</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdwaG9uZScsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHNbJ2NoayddKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZQoKCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHMua2V5cygpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9hcmdzX3NvcnRlZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEQVRBQkFTRVMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpZWxkc1snY2hrJ10sIGV4cGVjdGVkX2ZpZWxkc1snY2hrJ10pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCmltcG9ydCBvcwppbXBvcnQgc3lzCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJESkFOR09fU0VUVElOR1NfTU9EVUxFIiwgIm1hcmtldHBsYWNlLnNldHRpbmdzIikKCiAgICBmcm9tIGRqYW5nby5jb3JlLm1hbmFnZW1lbnQgaW1wb3J0IGV4ZWN1dGVfZnJvbV9jb21tYW5kX2xpbmUKICAgIGZyb20gZGphbmdvLmNvbmYgaW1wb3J0IHNldHRpbmdzCgogICAgaWYgJ3Rlc3QnIGluIHN5cy5hcmd2OgogICAgICAgIGltcG9ydCBsb2dnaW5nCiAgICAgICAgbG9nZ2luZy5kaXNhYmxlKGxvZ2dpbmcuQ1JJVElDQUwpCiAgICAgICAgc2V0dGluZ3MuREVCVUcgPSBGYWxzZQogICAgICAgIHNldHRpbmdzLlRFTVBMQVRFX0RFQlVHID0gRmFsc2UKICAgICAgICBzZXR0aW5ncy5QQVNTV09SRF9IQVNIRVJTID0gWwogICAgICAgICAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5oYXNoZXJzLk1ENVBhc3N3b3JkSGFzaGVyJywKICAgICAgICBdCiAgICAgICAgc2V0dGluZ3MuREFUQUJBU0VTID0gewogICAgICAgICAgICAnZGVmYXVsdCc6IHsKICAgICAgICAgICAgICAgICdFTkdJTkUnOiAnZGphbmdvLmRiLmJhY2tlbmRzLnNxbGl0ZTMnLAogICAgICAgICAgICAgICAgJ05BTUUnOiAndGVzdF9kYXRhYmFzZScsCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgc2V0dGluZ3MuTUlERExFV0FSRV9DTEFTU0VTID0gWwogICAgICAgICAgICAnZGphbmdvLmNvbnRyaWIuc2Vzc2lvbnMubWlkZGxld2FyZS5TZXNzaW9uTWlkZGxld2FyZScsCiAgICAgICAgICAgICdkamFuZ28ubWlkZGxld2FyZS5jc3JmLkNzcmZWaWV3TWlkZGxld2FyZScsCiAgICAgICAgICAgICdkamFuZ28uY29udHJpYi5hdXRoLm1pZGRsZXdhcmUuQXV0aGVudGljYXRpb25NaWRkbGV3YXJlJywKICAgICAgICAgICAgJ2RqYW5nby5jb250cmliLm1lc3NhZ2VzLm1pZGRsZXdhcmUuTWVzc2FnZU1pZGRsZXdhcmUnLAogICAgICAgIF0KCiAgICBpZiAndGVzdCcgaW4gc3lzLmFyZ3YgYW5kICctLXRpbWUnIGluIHN5cy5hcmd2OgogICAgICAgIHN5cy5hcmd2LnJlbW92ZSgnLS10aW1lJykKICAgICAgICBmcm9tIGRqYW5nbyBpbXBvcnQgdGVzdAogICAgICAgIGltcG9ydCB0aW1lCgogICAgICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICAgICAgc2VsZi5zdGFydFRpbWUgPSB0aW1lLnRpbWUoKQoKICAgICAgICBkZWYgdGVhckRvd24oc2VsZik6CiAgICAgICAgICAgIHRvdGFsID0gdGltZS50aW1lKCkgLSBzZWxmLnN0YXJ0VGltZQogICAgICAgICAgICBpZiB0b3RhbCA+IDAuNToKICAgICAgICAgICAgICAgIHByaW50KCJcblx0XDAzM1s5MW0lLjNmc1x0JXNcMDMzWzBtIiAlICggdG90YWwsIHNlbGYuX3Rlc3RNZXRob2ROYW1lKQogICAgICAgICAgICAgICAgdGVzdC5UZXN0Q2FzZS5zZXRVcCA9IHNldFVwCiAgICAgICAgICAgICAgICB0ZXN0LlRlc3RDYXNlLnRlYXJEb3duID0gdGVhckRvd24KCiAgICAgICAgICAgICAgICBleGVjdXRlX2Zyb21fY29tbWFuZF9saW5lKHN5cy5hcmd2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAnY2hrJzogJ2M2OTY3MWI4NzE0YTZkYjAxODE3ZWExMzRjNjAwZmZkZDg2ZGQ2N2Y3YmMwN2U1MGM0M2EyNzYxYTU4OWQ3ODEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdwaG9uZScsIHBheW1lbnQucGhvbmVfbnVtYmVyICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCdwaG9uZScsICcnKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicGhvbmUiOiAiKzQ4NTEwNTgzMDAwIgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwaG9uZSI6ICIrNDg1MTA1NzgzMDYiCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDSEVDS1NVTV9QQVJBTVNfT1JERVJcPg==</last-search>
+      <last-search>phone</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDSEVDS1NVTV9QQVJBTVNfT1JERVJcPg==</last-pattern>
+      <last-pattern>phone</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -490,8 +490,8 @@
         <entry>secret</entry>
         <entry>stage</entry>
         <entry>get_si</entry>
-        <entry>phone</entry>
         <entry encoding="base64">XDxDSEVDS1NVTV9QQVJBTVNfT1JERVJcPg==</entry>
+        <entry>phone</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -511,8 +511,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action Run</entry>
         <entry>action Switcher</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
