@@ -20,9 +20,12 @@
         <mark key="^" line="41" column="15" />
         <mark key="." line="41" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1555072330163">
-        <mark key="'" line="378" column="15" />
-        <mark key="^" line="377" column="48" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1555074725752">
+        <mark key="'" line="378" column="31" />
+        <mark key="[" line="380" column="31" />
+        <mark key="]" line="380" column="62" />
+        <mark key="^" line="380" column="62" />
+        <mark key="." line="380" column="62" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" timestamp="1555059538725">
         <mark key="'" line="159" column="34" />
@@ -152,8 +155,12 @@
       <file name="/Python Console" timestamp="1554990999809">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/run.py" timestamp="1555072592150">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/run.py" timestamp="1555074257972">
         <mark key="'" line="14" column="29" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
@@ -281,12 +288,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1555073228554">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1555074405207">
         <mark key="'" line="113" column="20" />
-        <mark key="[" line="80" column="39" />
-        <mark key="]" line="80" column="51" />
-        <mark key="." line="80" column="51" />
-        <mark key="^" line="80" column="51" />
+        <mark key="[" line="95" column="33" />
+        <mark key="]" line="95" column="36" />
+        <mark key="." line="95" column="36" />
+        <mark key="^" line="95" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -387,16 +394,16 @@
       <jump line="10" column="67" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/.venv/lib/python3.6/site-packages/amqp/channel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
-      <jump line="378" column="15" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="14" column="29" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
       <jump line="113" column="20" filename="$USER_HOME$/projects/IT-GOLD/ppi/config.py" />
+      <jump line="378" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdWZXJpdWZ5IGFuZCBzYXZlICAgT09PT09PT09PT09PT09PT09PT09PT09PT08nKQogICAgcGF5bWVudF9wcm92aWRlciA9IHBwLmdldF9wcm92aWRlcigncGF5cGFsJykKCiAgICBpZiBwYXltZW50X3Byb3ZpZGVyLm1vZGUgPT0gJ3NhbmRib3gnOgogICAgICAgIHByaW50KCdzYW5kYm94IFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFgnKQogICAgICAgIHZlcmlmaWVkID0gVHJ1ZQogICAgZWxzZToKICAgICAgICB2ZXJpZnlfZGF0YSA9ICJjbWQ9X25vdGlmeS12YWxpZGF0ZSYiICsgIiYiLmpvaW4oWyd7fT17fScuZm9ybWF0KGssIHYpIGZvciBrLCB2IGluIG5vdGlmaWNhdGlvbl9kYXRhLml0ZW1zKCldKQoKICAgICAgICByID0gcmVxdWVzdHMucG9zdCgKICAgICAgICAgICAgcGF5bWVudF9wcm92aWRlci5pcG5fdmVyaWZpY2F0aW9uX3VybCwKICAgICAgICAgICAgZGF0YT12ZXJpZnlfZGF0YS5lbmNvZGUoJ3V0Zi04JyksCiAgICAgICAgICAgIHByb3hpZXM9cHJveGllcwogICAgICAgICkKCiAgICAgICAgci5yYWlzZV9mb3Jfc3RhdHVzKCkKICAgICAgICB2ZXJpZmllZCA9IHIudGV4dCA9PSAnVkVSSUZJRUQnCiAgICAgICAgaWYgdmVyaWZpZWQ6CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJTdWNjZXNzZnVsbHkgdmVyaWZpZWQgUGF5UGFsIElQTiBub3RpZmljYXRpb24gZm9yIHRyYW5zYWN0aW9uX2lkOiAlcyIsCiAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbl9kYXRhLmdldCgndHhuX2lkJykpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ0ludmFsaWQgUGF5UGFsIElQTiBub3RpZmljYXRpb24gZm9yIHRyYW5zYWN0aW9uX2lkOiAlcyBgJXNgJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uX2RhdGEuZ2V0KCd0eG5faWQnKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgci50ZXh0KQoKICAgIGZyb20gYXBwLnBheW1lbnRzLnBheXBhbCBpbXBvcnQgTm90aWZpY2F0aW9uTWV0aG9kICAjIHRvZG8KCiAgICBtZXRob2QgPSBOb3RpZmljYXRpb25NZXRob2QuSVBOCiAgICBpZiAnY2FzZV90eXBlJyBpbiBub3RpZmljYXRpb25fZGF0YToKICAgICAgICBtZXRob2QgKz0gJ19kaXNwdXRlJyAgIyBpdCdzIGEgZGlzcHV0ZQoKICAgIGlmIHZlcmlmaWVkOgogICAgICAgIHBheW1lbnRfcHJvdmlkZXIuc2F2ZV9ub3RpZmljYXRpb24oZGF0YT1ub3RpZmljYXRpb25fZGF0YSwgbWV0aG9kPW1ldGhvZCwgZG9tYWluPWRvbWFpbikKICAgIGVsc2U6CiAgICAgICAgcGF5bWVudF9wcm92aWRlci5zYXZlX2ludmFsaWRfbm90aWZpY2F0aW9uKGRhdGE9bm90aWZpY2F0aW9uX2RhdGEsIGhlYWRlcnM9aGVhZGVycywgZG9tYWluPWRvbWFpbikKCg==</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>print(</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJpZnlfYW5kX3NhdmVfcGF5cGFsX2lwbl9ub3RpZmljYXRpb25cPg==</text>
@@ -481,11 +488,11 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
         <entry>action Run</entry>
+        <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
         <entry>w</entry>
       </history-cmd>
