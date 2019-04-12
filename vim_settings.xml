@@ -50,8 +50,8 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="79" column="149" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1554989824652">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1555051809475">
+        <mark key="'" line="95" column="0" />
         <mark key="[" line="94" column="16" />
         <mark key="]" line="94" column="17" />
         <mark key="." line="94" column="17" />
@@ -276,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="98" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" />
       <jump line="165" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="692" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="30" column="47" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
@@ -376,6 +375,7 @@
       <jump line="159" column="46" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="162" column="22" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" />
       <jump line="81" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -422,7 +422,7 @@
                         }</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -476,8 +476,8 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>action Run</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
