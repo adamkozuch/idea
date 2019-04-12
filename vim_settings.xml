@@ -285,12 +285,12 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1555088336379">
-        <mark key="'" line="65" column="27" />
-        <mark key="[" line="44" column="32" />
-        <mark key="]" line="44" column="58" />
-        <mark key="." line="44" column="58" />
-        <mark key="^" line="44" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1555090639549">
+        <mark key="'" line="33" column="29" />
+        <mark key="[" line="39" column="58" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/wsgi.py" timestamp="1554054365363">
         <mark key="[" line="13" column="64" />
@@ -321,7 +321,6 @@
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/requirements.txt" timestamp="1555085945953" />
     </filemarks>
     <jumps>
-      <jump line="125" column="34" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="58" column="77" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="122" column="0" filename="$USER_HOME$/Projects/dbmanager/scripts/get_db.sh" />
       <jump line="93" column="23" filename="$USER_HOME$/Projects/IT-GOLD/ppi/app/tasks.py" />
@@ -421,10 +420,11 @@
       <jump line="63" column="27" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/anki_jisho/util.py" />
       <jump line="24" column="13" filename="$USER_HOME$/PycharmProjects/anki_jisho/Dockerfile" />
+      <jump line="33" column="29" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncG9zdCBmb3JtJykK</text>
       </register>
       <register name="-" type="4">
         <text>gene</text>
@@ -436,31 +436,31 @@
         <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oJ3RlY2huaWNhbC5qc29uJykgYXMgZmlsZToKICAgICAgICAgICAgZWxlbWVudHMgPSBqc29uLmxvYWQoZmlsZSlbJ2RhdGEnXQogICAgICAgICAgICBjYXJkcyA9IFtdCiAgICAgICAgICAgIGZvciBvYmogaW4gZWxlbWVudHM6CiAgICAgICAgICAgICAgICBjYXJkcyA9IGNhcmRzICsgZ2VuZXJhdGVfY2FyZHNfdGVjaG5pY2FsKG9ialsnZnJvbnQnXSwgb2JqWydiYWNrJ10pCiAgICAgICAgICAgIGluc2VydF9jYXJkc190b19kZWNrX3RlY2huaWNhbChjYXJkcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncG9zdCBmb3JtJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01ECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvcm0gaXMgdmFsaWQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnRfY2FyZHNfdG9fZGVja190ZWNobmljYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvcm0gdmFsaWQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSmlzaG8uaW5zZXJ0X3RlY2huaWNhbChvYmoucXVlc3Rpb24sIG9iai5kZWZpbml0aW9uKQo=</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfdGVjaAo=</text>
+        <text encoding="base64">Q01ECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfdGVjaG5pY2FsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnNlcnRfY2FyZHNfdG9fZGVja190ZWNobmljYWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7IGZvcm0gfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgSmlzaG8uaW5zZXJ0X3RlY2huaWNhbChvYmoucXVlc3Rpb24sIG9iai5kZWZpbml0aW9uKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGZvcm0gbWV0aG9kPSJwb3N0Ij4KICAgIHslIGNzcmZfdG9rZW4gJX0KICAgIHt7IGZvcm0gfX0KICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJTdWJtaXQiPgo8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRfdGVjaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRfdGVjaG5pY2FsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
