@@ -272,12 +272,12 @@
         <mark key="^" line="128" column="81" />
         <mark key="." line="128" column="81" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1555083481183">
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/util.py" timestamp="1555098449362">
         <mark key="'" line="53" column="19" />
-        <mark key="[" line="211" column="4" />
-        <mark key="]" line="211" column="34" />
-        <mark key="." line="209" column="25" />
-        <mark key="^" line="209" column="25" />
+        <mark key="[" line="219" column="19" />
+        <mark key="]" line="219" column="27" />
+        <mark key="." line="219" column="27" />
+        <mark key="^" line="219" column="27" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1553871567671">
         <mark key="[" line="51" column="72" />
@@ -422,11 +422,11 @@
       <jump line="33" column="29" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncG9zdCBmb3JtJykK</text>
+      <register name="&quot;" type="4">
+        <text>output</text>
       </register>
       <register name="-" type="4">
-        <text>gene</text>
+        <text>output</text>
       </register>
       <register name="/" type="4">
         <text>generate</text>
