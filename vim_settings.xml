@@ -222,6 +222,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/__init__.py" timestamp="1555153264411">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/urls.py" timestamp="1555082743298">
         <mark key="'" line="24" column="43" />
         <mark key="[" line="22" column="27" />
@@ -249,6 +252,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1554047386647">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/setup.py" timestamp="1555153397808">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/IT-GOLD/ppi/app/models.py" timestamp="1553159321141">
         <mark key="[" line="27" column="4" />
@@ -427,11 +436,11 @@
       <jump line="33" column="29" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgX19zdHJfXyhzZWxmKToKICAgIHJldHVybiBzZWxmLm5hbWUK</text>
+      <register name="&quot;" type="4">
+        <text>https://github.com/pypa/sampleproject</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>https://github.com/pypa/sampleproject</text>
       </register>
       <register name="/" type="4">
         <text>prune</text>
@@ -467,7 +476,7 @@
         <text encoding="base64">ICAgICAgICBpbnNlcnRfY2FyZHNfdG9fZGVja190ZWNobmljYWwoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -507,9 +516,9 @@
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBSZWNlbnRGaWxlczxDUj4=</entry>
+        <entry>action Run</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
-        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
