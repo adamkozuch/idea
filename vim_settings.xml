@@ -13,19 +13,19 @@
         <mark key="." line="190" column="27" />
         <mark key="^" line="190" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" timestamp="1555072493161">
-        <mark key="'" line="75" column="47" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="41" column="15" />
-        <mark key="." line="41" column="15" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" timestamp="1555329279951">
+        <mark key="'" line="76" column="47" />
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+        <mark key="." line="42" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1555310924444">
-        <mark key="'" line="378" column="31" />
-        <mark key="[" line="377" column="51" />
-        <mark key="]" line="377" column="11" />
-        <mark key="^" line="377" column="11" />
-        <mark key="." line="377" column="11" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1555328750805">
+        <mark key="'" line="374" column="31" />
+        <mark key="[" line="376" column="19" />
+        <mark key="]" line="376" column="27" />
+        <mark key="." line="376" column="27" />
+        <mark key="^" line="376" column="27" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" timestamp="1555059538725">
         <mark key="'" line="159" column="34" />
@@ -181,12 +181,12 @@
       <file name="/Python Console" timestamp="1554990999809">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/run.py" timestamp="1555074257972">
-        <mark key="'" line="14" column="29" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="19" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/run.py" timestamp="1555329827483">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
@@ -292,6 +292,9 @@
         <mark key="." line="131" column="62" />
         <mark key="^" line="133" column="89" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" timestamp="1555329311517">
+        <mark key="'" line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1555316591355">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="159" column="0" />
@@ -358,13 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="19" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
-      <jump line="4" column="23" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" />
-      <jump line="93" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="199" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="186" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
-      <jump line="603" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="67" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="256" column="33" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="251" column="33" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
@@ -458,22 +454,29 @@
       <jump line="34" column="58" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
       <jump line="117" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
       <jump line="114" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
+      <jump line="374" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="74" column="16" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
+      <jump line="16" column="14" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
+      <jump line="231" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" />
+      <jump line="96" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" />
+      <jump line="35" column="33" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLnNldFVwKCkK</text>
+      <register name="&quot;" type="4">
+        <text>MyLogHandler()</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>MyLogHandler()</text>
       </register>
       <register name="/" type="4">
-        <text>timeout</text>
+        <text>logg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcigpLnNldFVwKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtqZGQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
@@ -504,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timeout</last-search>
+      <last-search>logg</last-search>
       <last-offset />
-      <last-pattern>timeout</last-pattern>
+      <last-pattern>logg</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -514,7 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>domain</entry>
         <entry>kafka</entry>
         <entry>Kafka</entry>
         <entry>secret</entry>
@@ -534,6 +536,7 @@
         <entry>redis</entry>
         <entry>get_redis</entry>
         <entry>timeout</entry>
+        <entry>logg</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
