@@ -37,7 +37,7 @@
         <mark key="^" line="222" column="115" />
         <mark key="." line="222" column="117" />
       </file>
-      <file name="/a.dummy" timestamp="1554814824725">
+      <file name="/a.dummy" timestamp="1555311447950">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1554894962234">
@@ -63,6 +63,13 @@
         <mark key="]" line="94" column="17" />
         <mark key="." line="94" column="17" />
         <mark key="^" line="94" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" timestamp="1555313309564">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="203" column="4" />
+        <mark key="]" line="203" column="37" />
+        <mark key="^" line="203" column="37" />
+        <mark key="." line="203" column="37" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/stage/redis.yml" timestamp="1554813371980">
         <mark key="[" line="2" column="10" />
@@ -253,6 +260,13 @@
         <mark key="." line="131" column="62" />
         <mark key="^" line="133" column="89" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" timestamp="1555311807366">
+        <mark key="'" line="165" column="34" />
+        <mark key="[" line="178" column="94" />
+        <mark key="]" line="178" column="117" />
+        <mark key="." line="178" column="117" />
+        <mark key="^" line="178" column="117" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_ipn.py" timestamp="1554455656658">
         <mark key="'" line="359" column="0" />
         <mark key="[" line="380" column="106" />
@@ -282,6 +296,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1555313055291">
+        <mark key="'" line="752" column="38" />
+        <mark key="[" line="685" column="0" />
+        <mark key="]" line="685" column="0" />
+        <mark key="." line="685" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/all.yml" timestamp="1554813439052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -297,13 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="22" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="904" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
-      <jump line="162" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
-      <jump line="1" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/ansible/main.yml" />
-      <jump line="38" column="13" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" />
-      <jump line="21" column="58" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" />
-      <jump line="945" column="59" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="773" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="770" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
       <jump line="766" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
@@ -397,64 +410,69 @@
       <jump line="113" column="20" filename="$USER_HOME$/projects/IT-GOLD/ppi/config.py" />
       <jump line="378" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" />
+      <jump line="12" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
+      <jump line="44" column="15" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="505" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="22" column="53" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="165" column="34" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="115" column="62" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="752" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>is_email_blacklisted</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>is_email_blacklisted</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJpZnlfYW5kX3NhdmVfcGF5cGFsX2lwbl9ub3RpZmljYXRpb25cPg==</text>
+        <text>codes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdWZXJpdWZ5IGFuZCBzYXZlICAgT09PT09PT09PT09PT09PT09PT09PT09PT08nKQogICAgcGF5bWVudF9wcm92aWRlciA9IHBwLmdldF9wcm92aWRlcigncGF5cGFsJykKCiAgICBpZiBwYXltZW50X3Byb3ZpZGVyLm1vZGUgPT0gJ3NhbmRib3gnOgogICAgICAgIHByaW50KCdzYW5kYm94IFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFgnKQogICAgICAgIHZlcmlmaWVkID0gVHJ1ZQogICAgZWxzZToKICAgICAgICB2ZXJpZnlfZGF0YSA9ICJjbWQ9X25vdGlmeS12YWxpZGF0ZSYiICsgIiYiLmpvaW4oWyd7fT17fScuZm9ybWF0KGssIHYpIGZvciBrLCB2IGluIG5vdGlmaWNhdGlvbl9kYXRhLml0ZW1zKCldKQoKICAgICAgICByID0gcmVxdWVzdHMucG9zdCgKICAgICAgICAgICAgcGF5bWVudF9wcm92aWRlci5pcG5fdmVyaWZpY2F0aW9uX3VybCwKICAgICAgICAgICAgZGF0YT12ZXJpZnlfZGF0YS5lbmNvZGUoJ3V0Zi04JyksCiAgICAgICAgICAgIHByb3hpZXM9cHJveGllcwogICAgICAgICkKCiAgICAgICAgci5yYWlzZV9mb3Jfc3RhdHVzKCkKICAgICAgICB2ZXJpZmllZCA9IHIudGV4dCA9PSAnVkVSSUZJRUQnCiAgICAgICAgaWYgdmVyaWZpZWQ6CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJTdWNjZXNzZnVsbHkgdmVyaWZpZWQgUGF5UGFsIElQTiBub3RpZmljYXRpb24gZm9yIHRyYW5zYWN0aW9uX2lkOiAlcyIsCiAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbl9kYXRhLmdldCgndHhuX2lkJykpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ0ludmFsaWQgUGF5UGFsIElQTiBub3RpZmljYXRpb24gZm9yIHRyYW5zYWN0aW9uX2lkOiAlcyBgJXNgJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uX2RhdGEuZ2V0KCd0eG5faWQnKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgci50ZXh0KQoKICAgIGZyb20gYXBwLnBheW1lbnRzLnBheXBhbCBpbXBvcnQgTm90aWZpY2F0aW9uTWV0aG9kICAjIHRvZG8KCiAgICBtZXRob2QgPSBOb3RpZmljYXRpb25NZXRob2QuSVBOCiAgICBpZiAnY2FzZV90eXBlJyBpbiBub3RpZmljYXRpb25fZGF0YToKICAgICAgICBtZXRob2QgKz0gJ19kaXNwdXRlJyAgIyBpdCdzIGEgZGlzcHV0ZQoKICAgIGlmIHZlcmlmaWVkOgogICAgICAgIHBheW1lbnRfcHJvdmlkZXIuc2F2ZV9ub3RpZmljYXRpb24oZGF0YT1ub3RpZmljYXRpb25fZGF0YSwgbWV0aG9kPW1ldGhvZCwgZG9tYWluPWRvbWFpbikKICAgIGVsc2U6CiAgICAgICAgcGF5bWVudF9wcm92aWRlci5zYXZlX2ludmFsaWRfbm90aWZpY2F0aW9uKGRhdGE9bm90aWZpY2F0aW9uX2RhdGEsIGhlYWRlcnM9aGVhZGVycywgZG9tYWluPWRvbWFpbikKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHBheW1lbnQucGhvbmVfbnVtYmVyOgogICAgICAgICMgICAgIGZpZWxkc1sncGhvbmUnXSA9IHBheW1lbnQucGhvbmVfbnVtYmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHNbJ2NoayddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHMua2V5cygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHBheW1lbnQucGhvbmVfbnVtYmVyOgogICAgICAgICMgICAgIGZpZWxkc1sncGhvbmUnXSA9IHBheW1lbnQucGhvbmVfbnVtYmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9hcmdzX3NvcnRlZCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHNbJ2NoayddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpZWxkc1snY2hrJ10sIGV4cGVjdGVkX2ZpZWxkc1snY2hrJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHMua2V5cygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnY2hrJzogJ2M2OTY3MWI4NzE0YTZkYjAxODE3ZWExMzRjNjAwZmZkZDg2ZGQ2N2Y3YmMwN2U1MGM0M2EyNzYxYTU4OWQ3ODEnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9hcmdzX3NvcnRlZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpZWxkc1snY2hrJ10sIGV4cGVjdGVkX2ZpZWxkc1snY2hrJ10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdwaG9uZScsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAnY2hrJzogJ2M2OTY3MWI4NzE0YTZkYjAxODE3ZWExMzRjNjAwZmZkZDg2ZGQ2N2Y3YmMwN2U1MGM0M2EyNzYxYTU4OWQ3ODEnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZQoKCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJpZnlfYW5kX3NhdmVfcGF5cGFsX2lwbl9ub3RpZmljYXRpb25cPg==</last-search>
+      <last-search>codes</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJpZnlfYW5kX3NhdmVfcGF5cGFsX2lwbl9ub3RpZmljYXRpb25cPg==</last-pattern>
+      <last-pattern>codes</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CELERY</entry>
-        <entry>test_reset_password_with_phone_black_list</entry>
         <entry>Redis</entry>
         <entry>test_reset_password_with_email_check_if_blocked</entry>
         <entry encoding="base64">XDxXcm9uZ1Byb2Nlc3NpbmdPcmRlclw+</entry>
@@ -473,6 +491,8 @@
         <entry>availi</entry>
         <entry>avail</entry>
         <entry encoding="base64">XDx2ZXJpZnlfYW5kX3NhdmVfcGF5cGFsX2lwbl9ub3RpZmljYXRpb25cPg==</entry>
+        <entry>black</entry>
+        <entry>codes</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -486,13 +506,13 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>we</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
         <entry>action Run</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry>action Switcher</entry>
         <entry>w</entry>
       </history-cmd>
