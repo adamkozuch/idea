@@ -258,14 +258,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/utils/tests.py" timestamp="1555326250974">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="23" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555068692181">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555055950090">
-        <mark key="'" line="67" column="6" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/install_modules.sh" timestamp="1554800699784">
         <mark key="[" line="2" column="39" />
@@ -323,11 +321,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1555313055291">
-        <mark key="'" line="752" column="38" />
-        <mark key="[" line="685" column="0" />
-        <mark key="]" line="685" column="0" />
-        <mark key="." line="685" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" timestamp="1555326255912">
+        <mark key="'" line="679" column="47" />
+        <mark key="[" line="687" column="0" />
+        <mark key="]" line="687" column="23" />
+        <mark key="." line="687" column="0" />
+        <mark key="^" line="686" column="18" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/all.yml" timestamp="1554813439052">
         <mark key="[" line="0" column="0" />
@@ -349,17 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="7" column="44" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" />
-      <jump line="32" column="19" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" />
-      <jump line="28" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/utils.py" />
-      <jump line="55" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/utils.py" />
-      <jump line="163" column="61" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="208" column="77" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
-      <jump line="28" column="34" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
-      <jump line="73" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="69" column="44" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
       <jump line="75" column="25" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
       <jump line="109" column="18" filename="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" />
@@ -449,55 +437,66 @@
       <jump line="31" column="28" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="31" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tasks.py" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tasks.py" />
+      <jump line="692" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="716" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="742" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="772" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="795" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="826" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="853" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="888" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="914" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="21" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
+      <jump line="679" column="47" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/test_discount_clubs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLnNldFVwKCkK</text>
       </register>
       <register name="-" type="4">
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text>get_redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pICAjIHB5bGludDogZGlzYWJsZT1pbnZhbGlkLW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLnNldFVwKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcyA9IGdldF9yZWRpc19jb25uZWN0aW9uKCJkZWZhdWx0IikK</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHBheW1lbnQucGhvbmVfbnVtYmVyOgogICAgICAgICMgICAgIGZpZWxkc1sncGhvbmUnXSA9IHBheW1lbnQucGhvbmVfbnVtYmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHNbJ2NoayddKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHMua2V5cygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9hcmdzX3NvcnRlZCkK</text>
+        <text encoding="base64">ICAgICAgICBnZXRfcmVkaXNfY29ubmVjdGlvbignZGVmYXVsdCcpLmZsdXNoZGIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search>get_redis</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern>get_redis</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxweWxpbnRcPg==</entry>
         <entry>stock_qu</entry>
         <entry>domain</entry>
         <entry>kafka</entry>
@@ -525,6 +523,7 @@
         <entry encoding="base64">XDxpc19wYXNzd29yZF9yZXNldF9ieV9waG9uZV9ibG9ja2VkXD4=</entry>
         <entry>logger</entry>
         <entry>redis</entry>
+        <entry>get_redis</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
