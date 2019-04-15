@@ -190,6 +190,11 @@
         <mark key="^" line="84" column="56" />
         <mark key="." line="84" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tests/tests.py" timestamp="1555319618970">
+        <mark key="[" line="131" column="24" />
+        <mark key="]" line="131" column="24" />
+        <mark key="." line="131" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" timestamp="1553872269230">
         <mark key="[" line="544" column="0" />
         <mark key="]" line="544" column="0" />
@@ -445,11 +450,11 @@
       <jump line="31" column="28" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcyA9IGdldF9yZWRpc19jb25uZWN0aW9uKCJkZWZhdWx0IikK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>logger</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
