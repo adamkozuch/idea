@@ -157,11 +157,12 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tasks.py" timestamp="1554880736891">
-        <mark key="[" line="12" column="68" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tasks.py" timestamp="1555321887086">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" timestamp="1554880340893">
         <mark key="'" line="32" column="19" />
@@ -190,7 +191,7 @@
         <mark key="^" line="84" column="56" />
         <mark key="." line="84" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tests/tests.py" timestamp="1555319618970">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tests/tests.py" timestamp="1555321518220">
         <mark key="[" line="131" column="24" />
         <mark key="]" line="131" column="24" />
         <mark key="." line="131" column="24" />
@@ -348,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
-      <jump line="193" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="200" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="7" column="44" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" />
       <jump line="32" column="19" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" />
@@ -448,10 +447,12 @@
       <jump line="16" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="207" column="45" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
       <jump line="31" column="28" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/utils.py" />
+      <jump line="31" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tasks.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>`</text>
@@ -463,31 +464,31 @@
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pICAjIHB5bGludDogZGlzYWJsZT1pbnZhbGlkLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcyA9IGdldF9yZWRpc19jb25uZWN0aW9uKCJkZWZhdWx0IikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcyA9IGdldF9yZWRpc19jb25uZWN0aW9uKCJkZWZhdWx0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ29fcmVkaXMgaW1wb3J0IGdldF9yZWRpc19jb25uZWN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHBheW1lbnQucGhvbmVfbnVtYmVyOgogICAgICAgICMgICAgIGZpZWxkc1sncGhvbmUnXSA9IHBheW1lbnQucGhvbmVfbnVtYmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHNbJ2NoayddKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHBheW1lbnQucGhvbmVfbnVtYmVyOgogICAgICAgICMgICAgIGZpZWxkc1sncGhvbmUnXSA9IHBheW1lbnQucGhvbmVfbnVtYmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHMua2V5cygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHNbJ2NoayddKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9hcmdzX3NvcnRlZCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9maWVsZHMua2V5cygpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpZWxkc1snY2hrJ10sIGV4cGVjdGVkX2ZpZWxkc1snY2hrJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaGVja291dF9hcmdzX3NvcnRlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
