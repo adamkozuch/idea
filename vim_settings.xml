@@ -496,7 +496,7 @@
         <text encoding="base64">CQkJCQk8YSBjbGFzcz0id2ViaW5hcml1bS1vdi1sb2dvIiBocmVmPSIvIj48aW1nIHNyYz0ieyUgbW9ja3Nob3Bfc3RhdGljIHNob3AgJX0vYXNzZXRzL2ltZy9sb2dvLnBuZyIgYWx0PSIiPjwvYT4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -550,8 +550,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
