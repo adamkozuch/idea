@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1554472253369">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1555397894882">
         <mark key="'" line="99" column="50" />
         <mark key="[" line="180" column="35" />
@@ -36,6 +39,9 @@
         <mark key="]" line="222" column="117" />
         <mark key="^" line="222" column="115" />
         <mark key="." line="222" column="117" />
+      </file>
+      <file name="/a.dummy" timestamp="1555311447950">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1554894962234">
         <mark key="'" line="199" column="16" />
@@ -140,6 +146,16 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1554990999809">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" timestamp="1555407853877">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="83" column="27" />
+        <mark key="]" line="83" column="28" />
+        <mark key="^" line="83" column="28" />
+        <mark key="." line="83" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/run.py" timestamp="1555340650408">
         <mark key="'" line="91" column="5" />
         <mark key="[" line="17" column="68" />
@@ -157,13 +173,11 @@
         <mark key="^" line="84" column="56" />
         <mark key="." line="84" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/tests/tests.py" timestamp="1555321518220">
-        <mark key="[" line="131" column="24" />
-        <mark key="]" line="131" column="24" />
-        <mark key="." line="131" column="24" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555397230306">
         <mark key="'" line="1" column="23" />
+      </file>
+      <file name="/Django Console" timestamp="1553078928960">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1554381543862">
         <mark key="'" line="110" column="41" />
@@ -179,6 +193,9 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1555404279648">
+        <mark key="'" line="161" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1554899724691">
         <mark key="'" line="27" column="32" />
         <mark key="[" line="30" column="120" />
@@ -193,9 +210,14 @@
         <mark key="^" line="47" column="36" />
         <mark key="." line="47" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/utils/tests.py" timestamp="1555326250974">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="23" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1555406440933">
+        <mark key="[" line="339" column="49" />
+        <mark key="]" line="339" column="59" />
+        <mark key="^" line="339" column="59" />
+        <mark key="." line="339" column="59" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555407889769">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555055950090">
         <mark key="'" line="67" column="6" />
@@ -204,11 +226,6 @@
         <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1555401853217" />
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/.gitlab-ci.yml" timestamp="1555071153899">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
       </file>
@@ -250,6 +267,13 @@
         <mark key="^" line="686" column="18" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/report_check.json" timestamp="1555341640868" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1555407087956">
+        <mark key="'" line="64" column="32" />
+        <mark key="[" line="68" column="58" />
+        <mark key="]" line="68" column="58" />
+        <mark key="^" line="68" column="61" />
+        <mark key="." line="68" column="58" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1555335552770">
         <mark key="'" line="95" column="35" />
         <mark key="[" line="95" column="33" />
@@ -259,15 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="48" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="62" column="26" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/dotpay/test_provider.py" />
-      <jump line="21" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" />
-      <jump line="48" column="40" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" />
-      <jump line="13" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" />
-      <jump line="1749" column="39" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
-      <jump line="1688" column="12" filename="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" />
       <jump line="10" column="67" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/.venv/lib/python3.6/site-packages/amqp/channel.py" />
       <jump line="14" column="29" filename="$USER_HOME$/projects/IT-GOLD/ppi/run.py" />
@@ -359,65 +374,71 @@
       <jump line="61" column="27" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="99" column="50" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="204" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
+      <jump line="161" column="45" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="64" column="32" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="10" column="76" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
+      <jump line="42" column="34" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
+      <jump line="65" column="1" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>sandbox</text>
+        <text encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZygiTm8gSW52YWxpZE5vdGlmaWNhdGlvbiB3aXRoIGlkICVzIGZvdW5kLiIsIG5vdGlmaWNhdGlvbl90b19zZW5kLm5vdGlmaWNhdGlvbikK</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnZGlzdHJpYnV0aW9uX3J1bGVzLnJlc2VydmF0aW9uLndtc19hcGlfY2xpZW50LnN0b2NrX3BpY2tpbmdfX2NyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24nKQogICAgZGVmIHRlc3RfcGFja2luZ19saXN0X3Jlc2VydmF0aW9uX19zZWxlY3RlZF9wYWNpbmdfbGlzdF9hc3NpZ25lZF92MihzZWxmLCBtb2NrX3BhY2tpbmdfbGlzdF9yZXNlcnZhdGlvbik6CiAgICAgICAgbW9ja19wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24ucmV0dXJuX3ZhbHVlID0gc2VsZi53bXNfcmVzcG9uc2Vfc3VjY2VzcwoKICAgICAgICByZXNlcnZhdGlvbiA9IGNyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24oc2VsZi5kaXNwYXRjaF9vcmRlciwgWyJSRU1BWF9TSyJdKQogICAgICAgIHByaW50KHJlc2VydmF0aW9uKQogICAgICAgIGZvciBpIGluIHJlc2VydmF0aW9uWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXToKICAgICAgICAgICAgaVsnZm9ybWF0J10gPSAnQTQnCgogICAgICAgIGNyZWF0ZV9wYWNraW5nX2xpc3RfcmVsYXRlZF9vYmplY3RzKHJlc2VydmF0aW9uWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXSwgc2VsZi5kaXNwYXRjaF9vcmRlcikKICAgICAgICAjIGNoZWNrIGlmIGFsbCBwYWNraW5nIGxpc3QgZWxlbWVudCByZXNlcnZlZCBpbiBXTVMgZXhpc3RzIGFyZSBhc3NpZ25lZCB0byBEaXNwYXRjaCBPcmRlcgogICAgICAgIGZvciBwYWNraW5nX2xpc3RfZWxlbWVudCBpbiBzZWxmLndtc19yZXNwb25zZV9zdWNjZXNzWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXToKICAgICAgICAgICAgbG90ID0gcGFja2luZ19saXN0X2VsZW1lbnRbJ3NrdV9oYXNoX2lkJ10gKyAnMDBVNCcKICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKAogICAgICAgICAgICAgICAgUGFja2luZ0xpc3RFbGVtZW50Lm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICAgICAgICAgIGRpc3BhdGNoX29yZGVyPXNlbGYuZGlzcGF0Y2hfb3JkZXIsCiAgICAgICAgICAgICAgICAgICAgY291bnQ9cGFja2luZ19saXN0X2VsZW1lbnRbJ2NvdW50J10sCiAgICAgICAgICAgICAgICAgICAgc2t1X19oYXNoX2lkPXBhY2tpbmdfbGlzdF9lbGVtZW50Wydza3VfaGFzaF9pZCddLAogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfbG90PWxvdAogICAgICAgICAgICAgICAgKS5leGlzdHMoKQogICAgICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZygiTm8gSW52YWxpZE5vdGlmaWNhdGlvblRvU2VudCB3aXRoIGlkICVzIGZvdW5kLiIsIG5vdGlmaWNhdGlvbl90b19zZW5kLm5vdGlmaWNhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFja2luZ19saXN0X2VsZW1lbnRbJ3NrdV9oYXNoX2lkJ10sIGxvdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnTm8gbm90aWZpY2F0aW9uIHRvIHNlbmQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFja2luZ19saXN0X2VsZW1lbnRbJ3NrdV9oYXNoX2lkJ10sIGxvdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpX24ubWV0aG9kID0gJ2lwbicgIyB0aGlzIGhhcyB0byBiZSBjaGFuZ2VkCg==</text>
+        <text encoding="base64">ICAgICAgICBsb3QgPSAnMDFjMzkwNzFiZmVmOGM3NWE4NmI4M2MxMzY4NTY0ZDIwMFU0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiZGlzcHV0ZSIpCg==</text>
+        <text encoding="base64">Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2Nlc3Nvcl9jbHMgPSBnZXRfbm90aWZpY2F0aW9uX3Byb2Nlc3NvcignUGF5UGFsJywgJ2lwbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXIgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRfbm90aWZpY2F0aW9ucyA9IEludmFsaWROb3RpZmljYXRpb24ucXVlcnkuZmlsdGVyX2J5KHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcpCiAgICBmb3IgaV9uIGluIGludmFsaWRfbm90aWZpY2F0aW9uczoKICAgICAgICBpZiBub3QgaV9uLm1ldGhvZCBhbmQgKCdwYXltZW50X3N0YXR1cycgaW4gaV9uLmRhdGEgYW5kICd0eG5faWQnIGluIGlfbi5kYXRhKSBhbmQgaV9uLmRhdGFbJ3R4bl9pZCddIGluIGludmFsaWRfaXBuX2V4dGVybmFsX2lkczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaVsnJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRfbm90aWZpY2F0aW9ucyA9IEludmFsaWROb3RpZmljYXRpb24ucXVlcnkuZmlsdGVyX2J5KHBheW1lbnRfcHJvdmlkZXI9J1BheVBhbCcpCiAgICBmb3IgaV9uIGluIGludmFsaWRfbm90aWZpY2F0aW9uczoKICAgICAgICBpZiBub3QgaV9uLm1ldGhvZCBhbmQgKCdwYXltZW50X3N0YXR1cycgaW4gaV9uLmRhdGEgYW5kICd0eG5faWQnIGluIGlfbi5kYXRhKSBhbmQgaV9uLmRhdGFbJ3R4bl9pZCddIGluIGludmFsaWRfaXBuX2V4dGVybmFsX2lkczoK</text>
+        <text encoding="base64">ICAgICAgICAjIGFyZ3VtZW50IGplc3Qgb3Bjam9uYWxueQogICAgICAgICMKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGF0Y2hfb3JkZXIuZGlzcGF0Y2hfb3JkZXJfaWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sandbox</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</last-search>
       <last-offset />
-      <last-pattern>sandbox</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>secret</entry>
-        <entry>stage</entry>
-        <entry>get_si</entry>
         <entry encoding="base64">XDxDSEVDS1NVTV9QQVJBTVNfT1JERVJcPg==</entry>
         <entry>phone</entry>
         <entry encoding="base64">XDxfZ2V0X2F2YWlsYWJsZVw+</entry>
@@ -435,6 +456,9 @@
         <entry>logo</entry>
         <entry>logger</entry>
         <entry>sandbox</entry>
+        <entry>sku</entry>
+        <entry>SKU</entry>
+        <entry encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -445,17 +469,17 @@
         <entry>set incsearch</entry>
         <entry>action GotoFile</entry>
         <entry>action ToggleDistractionFreeMode</entry>
-        <entry>e</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Switcher</entry>
+        <entry>e</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
