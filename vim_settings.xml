@@ -73,7 +73,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/mockshopvouchers/mockshop/shops/templates/online-vouchers-3/purchase_magic_links/webinarium_manipulation.html" timestamp="1555333678890" />
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" timestamp="1555417652006">
         <mark key="[" line="133" column="43" />
         <mark key="]" line="133" column="44" />
@@ -117,7 +116,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
         <mark key="'" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/mockshopvouchers/mockshop/main/settings.py" timestamp="1555332828078" />
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/main.yml" timestamp="1554821806555">
         <mark key="'" line="252" column="0" />
         <mark key="[" line="17" column="11" />
@@ -245,7 +243,6 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1555401853217" />
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
       </file>
@@ -286,12 +283,11 @@
         <mark key="." line="687" column="0" />
         <mark key="^" line="686" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/report_check.json" timestamp="1555341640868" />
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1555415331140">
-        <mark key="'" line="86" column="34" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1555422801735">
+        <mark key="'" line="3" column="36" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1555335552770">
         <mark key="'" line="95" column="35" />
@@ -302,9 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="38" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
-      <jump line="35" column="18" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
-      <jump line="36" column="10" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
       <jump line="33" column="11" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
       <jump line="34" column="58" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
       <jump line="117" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
@@ -402,63 +395,65 @@
       <jump line="17" column="19" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/auto_operation.py" />
       <jump line="204" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/stock_override.py" />
       <jump line="239" column="11" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
+      <jump line="77" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="26" column="19" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="3" column="36" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>completion()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCAoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>completion()</text>
+        <text>KeyError</text>
       </register>
       <register name="/" type="4">
-        <text>Ready</text>
+        <text encoding="base64">XDxTS1VcPg==</text>
       </register>
       <register name="0" type="4">
         <text>ProductLot.valid_code_length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBza3VfY29kZQo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFja2luZ19saXN0KQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBza3VfY29kZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBwcm9kdWN0X2xvdCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFja2luZ19saXN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcGFja2luZ19saXN0X2VsZW1lbnQuZ2V0KCdwcmludGFibGUnKSBlbHNlIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBwcm9kdWN0X2xvdCA9IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHBhY2tpbmdfbGlzdF9lbGVtZW50LmdldCgncHJpbnRhYmxlJykpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcGFja2luZ19saXN0X2VsZW1lbnQuZ2V0KCdwcmludGFibGUnKSBlbHNlIE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHBhY2tpbmdfbGlzdF9lbGVtZW50LmdldCgncHJpbnRhYmxlJykpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNlcnZhdGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnZGlzdHJpYnV0aW9uX3J1bGVzLnJlc2VydmF0aW9uLndtc19hcGlfY2xpZW50LnN0b2NrX3BpY2tpbmdfX2NyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24nKQogICAgZGVmIHRlc3RfcGFja2luZ19saXN0X3Jlc2VydmF0aW9uX19zZWxlY3RlZF9wYWNpbmdfbGlzdF9hc3NpZ25lZF91bmtub3duX2Zvcm1hdChzZWxmLCBtb2NrX3BhY2tpbmdfbGlzdF9yZXNlcnZhdGlvbik6CiAgICAgICAgbW9ja19wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24ucmV0dXJuX3ZhbHVlID0gc2VsZi53bXNfcmVzcG9uc2Vfc3VjY2VzcwoKICAgICAgICByZXNlcnZhdGlvbiA9IGNyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24oc2VsZi5kaXNwYXRjaF9vcmRlciwgWyJSRU1BWF9TSyJdKQogICAgICAgIHByaW50KHJlc2VydmF0aW9uKQogICAgICAgIGZvciBpIGluIHJlc2VydmF0aW9uWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXToKICAgICAgICAgICAgaVsnZm9ybWF0J10gPSAnWFgnCgogICAgICAgIGNyZWF0ZV9wYWNraW5nX2xpc3RfcmVsYXRlZF9vYmplY3RzKHJlc2VydmF0aW9uWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXSwgc2VsZi5kaXNwYXRjaF9vcmRlcikKICAgICAgICAjIGNoZWNrIGlmIGFsbCBwYWNraW5nIGxpc3QgZWxlbWVudCByZXNlcnZlZCBpbiBXTVMgZXhpc3RzIGFyZSBhc3NpZ25lZCB0byBEaXNwYXRjaCBPcmRlcgogICAgICAgIGZvciBwYWNraW5nX2xpc3RfZWxlbWVudCBpbiBzZWxmLndtc19yZXNwb25zZV9zdWNjZXNzWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXToKICAgICAgICAgICAgbG90ID0gcGFja2luZ19saXN0X2VsZW1lbnRbJ3NrdV9oYXNoX2lkJ10gKyAnMDBVNCcKICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKAogICAgICAgICAgICAgICAgUGFja2luZ0xpc3RFbGVtZW50Lm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICAgICAgICAgIGRpc3BhdGNoX29yZGVyPXNlbGYuZGlzcGF0Y2hfb3JkZXIsCiAgICAgICAgICAgICAgICAgICAgY291bnQ9cGFja2luZ19saXN0X2VsZW1lbnRbJ2NvdW50J10sCiAgICAgICAgICAgICAgICAgICAgc2t1X19oYXNoX2lkPXBhY2tpbmdfbGlzdF9lbGVtZW50Wydza3VfaGFzaF9pZCddLAogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfbG90PWxvdAogICAgICAgICAgICAgICAgKS5leGlzdHMoKQogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNlcnZhdGlvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnZGlzdHJpYnV0aW9uX3J1bGVzLnJlc2VydmF0aW9uLndtc19hcGlfY2xpZW50LnN0b2NrX3BpY2tpbmdfX2NyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24nKQogICAgZGVmIHRlc3RfcGFja2luZ19saXN0X3Jlc2VydmF0aW9uX19zZWxlY3RlZF9wYWNpbmdfbGlzdF9hc3NpZ25lZF91bmtub3duX2Zvcm1hdChzZWxmLCBtb2NrX3BhY2tpbmdfbGlzdF9yZXNlcnZhdGlvbik6CiAgICAgICAgbW9ja19wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24ucmV0dXJuX3ZhbHVlID0gc2VsZi53bXNfcmVzcG9uc2Vfc3VjY2VzcwoKICAgICAgICByZXNlcnZhdGlvbiA9IGNyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24oc2VsZi5kaXNwYXRjaF9vcmRlciwgWyJSRU1BWF9TSyJdKQogICAgICAgIHByaW50KHJlc2VydmF0aW9uKQogICAgICAgIGZvciBpIGluIHJlc2VydmF0aW9uWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXToKICAgICAgICAgICAgaVsnZm9ybWF0J10gPSAnWFgnCgogICAgICAgIGNyZWF0ZV9wYWNraW5nX2xpc3RfcmVsYXRlZF9vYmplY3RzKHJlc2VydmF0aW9uWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXSwgc2VsZi5kaXNwYXRjaF9vcmRlcikKICAgICAgICAjIGNoZWNrIGlmIGFsbCBwYWNraW5nIGxpc3QgZWxlbWVudCByZXNlcnZlZCBpbiBXTVMgZXhpc3RzIGFyZSBhc3NpZ25lZCB0byBEaXNwYXRjaCBPcmRlcgogICAgICAgIGZvciBwYWNraW5nX2xpc3RfZWxlbWVudCBpbiBzZWxmLndtc19yZXNwb25zZV9zdWNjZXNzWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXToKICAgICAgICAgICAgbG90ID0gcGFja2luZ19saXN0X2VsZW1lbnRbJ3NrdV9oYXNoX2lkJ10gKyAnMDBVNCcKICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKAogICAgICAgICAgICAgICAgUGFja2luZ0xpc3RFbGVtZW50Lm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICAgICAgICAgIGRpc3BhdGNoX29yZGVyPXNlbGYuZGlzcGF0Y2hfb3JkZXIsCiAgICAgICAgICAgICAgICAgICAgY291bnQ9cGFja2luZ19saXN0X2VsZW1lbnRbJ2NvdW50J10sCiAgICAgICAgICAgICAgICAgICAgc2t1X19oYXNoX2lkPXBhY2tpbmdfbGlzdF9lbGVtZW50Wydza3VfaGFzaF9pZCddLAogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfbG90PWxvdAogICAgICAgICAgICAgICAgKS5leGlzdHMoKQogICAgICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ready</last-search>
+      <last-search encoding="base64">XDxTS1VcPg==</last-search>
       <last-offset />
-      <last-pattern>Ready</last-pattern>
+      <last-pattern encoding="base64">XDxTS1VcPg==</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>black</entry>
         <entry>codes</entry>
         <entry encoding="base64">XDxpc19wYXNzd29yZF9yZXNldF9ieV9lbWFpbF9ibG9ja2VkXD4=</entry>
         <entry encoding="base64">XDxpc19wYXNzd29yZF9yZXNldF9ieV9waG9uZV9ibG9ja2VkXD4=</entry>
@@ -478,6 +473,7 @@
         <entry>Details</entry>
         <entry>unknow</entry>
         <entry>Ready</entry>
+        <entry encoding="base64">XDxTS1VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -492,12 +488,12 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>action Run</entry>
+        <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
         <entry>w</entry>
       </history-cmd>
