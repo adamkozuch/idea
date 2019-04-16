@@ -73,11 +73,11 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" timestamp="1555417652006">
-        <mark key="[" line="133" column="43" />
-        <mark key="]" line="133" column="44" />
-        <mark key="^" line="133" column="44" />
-        <mark key="." line="133" column="44" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" timestamp="1555423961668">
+        <mark key="[" line="135" column="68" />
+        <mark key="]" line="135" column="68" />
+        <mark key="^" line="136" column="111" />
+        <mark key="." line="135" column="68" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
@@ -400,17 +400,17 @@
       <jump line="3" column="36" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCAoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0gMQ==</text>
       </register>
       <register name="-" type="4">
-        <text>KeyError</text>
+        <text encoding="base64">IC0gMQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTS1VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ProductLot.valid_code_length</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbl92YWxpZF9jb2RlX2xlbmd0aCA9IFByb2R1Y3RMb3QudmFsaWRfY29kZV9sZW5ndGggLSAxCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4Y2VwdCAoKQo=</text>
