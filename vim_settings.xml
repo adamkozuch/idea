@@ -74,6 +74,12 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/mockshopvouchers/mockshop/shops/templates/online-vouchers-3/purchase_magic_links/webinarium_manipulation.html" timestamp="1555333678890" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" timestamp="1555417652006">
+        <mark key="[" line="133" column="43" />
+        <mark key="]" line="133" column="44" />
+        <mark key="^" line="133" column="44" />
+        <mark key="." line="133" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
       </file>
@@ -216,7 +222,7 @@
         <mark key="^" line="47" column="36" />
         <mark key="." line="47" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1555409578227">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1555417416994">
         <mark key="'" line="466" column="24" />
         <mark key="[" line="466" column="50" />
         <mark key="]" line="339" column="59" />
@@ -391,17 +397,17 @@
       <jump line="204" column="38" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/stock_override.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBza3VfY29kZQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>mapped_format_code</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Ready</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFja2luZ19saXN0Wydmb3JtYXQnXSA9ICdBNCcK</text>
+      <register name="0" type="4">
+        <text>ProductLot.valid_code_length</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBza3VfY29kZQo=</text>
@@ -431,7 +437,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -485,8 +491,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
