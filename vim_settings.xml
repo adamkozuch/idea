@@ -61,11 +61,11 @@
         <mark key="^" line="79" column="149" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1555051809475">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="94" column="16" />
-        <mark key="]" line="94" column="17" />
-        <mark key="." line="94" column="17" />
-        <mark key="^" line="94" column="17" />
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="77" column="16" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
+        <mark key="^" line="77" column="17" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555397585644">
         <mark key="'" line="61" column="27" />
@@ -190,8 +190,8 @@
         <mark key="^" line="84" column="56" />
         <mark key="." line="84" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555397230306">
-        <mark key="'" line="1" column="23" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
+        <mark key="'" line="4" column="16" />
       </file>
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
@@ -298,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="11" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
       <jump line="34" column="58" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
       <jump line="117" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
       <jump line="114" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" />
@@ -398,6 +397,7 @@
       <jump line="77" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="26" column="19" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="3" column="36" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="4" column="16" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -440,7 +440,7 @@
         <text encoding="base64">ICAgIEBwYXRjaCgnZGlzdHJpYnV0aW9uX3J1bGVzLnJlc2VydmF0aW9uLndtc19hcGlfY2xpZW50LnN0b2NrX3BpY2tpbmdfX2NyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24nKQogICAgZGVmIHRlc3RfcGFja2luZ19saXN0X3Jlc2VydmF0aW9uX19zZWxlY3RlZF9wYWNpbmdfbGlzdF9hc3NpZ25lZF91bmtub3duX2Zvcm1hdChzZWxmLCBtb2NrX3BhY2tpbmdfbGlzdF9yZXNlcnZhdGlvbik6CiAgICAgICAgbW9ja19wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24ucmV0dXJuX3ZhbHVlID0gc2VsZi53bXNfcmVzcG9uc2Vfc3VjY2VzcwoKICAgICAgICByZXNlcnZhdGlvbiA9IGNyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24oc2VsZi5kaXNwYXRjaF9vcmRlciwgWyJSRU1BWF9TSyJdKQogICAgICAgIHByaW50KHJlc2VydmF0aW9uKQogICAgICAgIGZvciBpIGluIHJlc2VydmF0aW9uWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXToKICAgICAgICAgICAgaVsnZm9ybWF0J10gPSAnWFgnCgogICAgICAgIGNyZWF0ZV9wYWNraW5nX2xpc3RfcmVsYXRlZF9vYmplY3RzKHJlc2VydmF0aW9uWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXSwgc2VsZi5kaXNwYXRjaF9vcmRlcikKICAgICAgICAjIGNoZWNrIGlmIGFsbCBwYWNraW5nIGxpc3QgZWxlbWVudCByZXNlcnZlZCBpbiBXTVMgZXhpc3RzIGFyZSBhc3NpZ25lZCB0byBEaXNwYXRjaCBPcmRlcgogICAgICAgIGZvciBwYWNraW5nX2xpc3RfZWxlbWVudCBpbiBzZWxmLndtc19yZXNwb25zZV9zdWNjZXNzWydzZWxlY3RlZF9wYWNraW5nX2xpc3QnXToKICAgICAgICAgICAgbG90ID0gcGFja2luZ19saXN0X2VsZW1lbnRbJ3NrdV9oYXNoX2lkJ10gKyAnMDBVNCcKICAgICAgICAgICAgc2VsZi5hc3NlcnRUcnVlKAogICAgICAgICAgICAgICAgUGFja2luZ0xpc3RFbGVtZW50Lm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICAgICAgICAgIGRpc3BhdGNoX29yZGVyPXNlbGYuZGlzcGF0Y2hfb3JkZXIsCiAgICAgICAgICAgICAgICAgICAgY291bnQ9cGFja2luZ19saXN0X2VsZW1lbnRbJ2NvdW50J10sCiAgICAgICAgICAgICAgICAgICAgc2t1X19oYXNoX2lkPXBhY2tpbmdfbGlzdF9lbGVtZW50Wydza3VfaGFzaF9pZCddLAogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfbG90PWxvdAogICAgICAgICAgICAgICAgKS5leGlzdHMoKQogICAgICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -494,8 +494,8 @@
         <entry>e</entry>
         <entry>action Run</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
