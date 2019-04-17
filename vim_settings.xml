@@ -58,8 +58,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1555498372088">
-        <mark key="'" line="59" column="52" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" timestamp="1555499924205">
+        <mark key="'" line="42" column="43" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="48" column="99" />
@@ -200,8 +200,8 @@
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555489896878">
-        <mark key="'" line="110" column="41" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555500547693">
+        <mark key="'" line="103" column="8" />
         <mark key="[" line="83" column="52" />
         <mark key="]" line="83" column="53" />
         <mark key="^" line="82" column="63" />
@@ -308,17 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="12" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="467" column="3" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="251" column="59" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="133" column="29" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="466" column="24" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="68" column="25" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="58" column="65" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
-      <jump line="26" column="41" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
-      <jump line="79" column="48" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="30" column="6" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="76" column="11" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
@@ -408,6 +397,17 @@
       <jump line="42" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="94" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
+      <jump line="42" column="43" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="79" column="80" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="73" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="83" column="44" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="87" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="104" column="56" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="91" column="70" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="107" column="76" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="103" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -417,7 +417,7 @@
         <text>, UnsupportedNotificationMethod, UnsupportedProvider</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxjaGFubmVsX2F2YWlsYWJpbGl0aWVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;%s will not be sent to PCB. Reason: %s&quot;,
@@ -455,21 +455,16 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxjaGFubmVsX2F2YWlsYWJpbGl0aWVzXD4=</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFubmVsX2F2YWlsYWJpbGl0aWVzXD4=</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SKU</entry>
-        <entry encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</entry>
-        <entry>details</entry>
-        <entry>lot</entry>
-        <entry>Lot</entry>
         <entry>Details</entry>
         <entry>unknow</entry>
         <entry>Ready</entry>
@@ -485,6 +480,11 @@
         <entry>with id</entry>
         <entry>Void</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxtYW5kYXRvcnlfcHJvZHVjdF9ncm91cF9pZHNcPg==</entry>
+        <entry encoding="base64">XDxhY3RpdmVfYWNjb3VudHNfZm9yX2RvbWFpblw+</entry>
+        <entry encoding="base64">XDxhY2NvdW50c19pZHNcPg==</entry>
+        <entry encoding="base64">XDxhdmFpbGFiaWxpdGllc19pZHNcPg==</entry>
+        <entry encoding="base64">XDxjaGFubmVsX2F2YWlsYWJpbGl0aWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
