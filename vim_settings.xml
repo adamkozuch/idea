@@ -73,7 +73,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" timestamp="1555423961668">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" timestamp="1555483322220">
         <mark key="[" line="135" column="68" />
         <mark key="]" line="135" column="68" />
         <mark key="^" line="136" column="111" />
@@ -563,6 +563,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
