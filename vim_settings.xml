@@ -148,12 +148,18 @@
         <mark key="^" line="49" column="70" />
         <mark key="." line="49" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1555491704747">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1555570123609">
         <mark key="'" line="250" column="2" />
-        <mark key="[" line="509" column="64" />
-        <mark key="]" line="516" column="4" />
-        <mark key="^" line="516" column="4" />
-        <mark key="." line="516" column="4" />
+        <mark key="[" line="252" column="13" />
+        <mark key="]" line="252" column="4" />
+        <mark key="^" line="252" column="4" />
+        <mark key="." line="252" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/staging.py" timestamp="1555570527254">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" timestamp="1554880340893">
         <mark key="'" line="32" column="19" />
@@ -376,8 +382,8 @@
       <jump line="93" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VEVTVF9XSVRIT1VUX01JR1JBVElPTlNfQ09NTUFORCA9ICdkamFuZ29fbm9zZS5tYW5hZ2VtZW50LmNvbW1hbmRzLnRlc3QuQ29tbWFuZCcK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -389,34 +395,34 @@
         <text encoding="base64">ZGVmIGNyZWF0ZV9rZXkoaGFzaF9jb2RlcywgZG9tYWluLCBjb3VudHJ5LCBjdXJyZW5jeSk6CiAgICByZXR1cm4gIiMiLmpvaW4oaGFzaF9jb2RlcyArIFtkb21haW4sIGNvdW50cnksIGN1cnJlbmN5XSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VEVTVF9XSVRIT1VUX01JR1JBVElPTlNfQ09NTUFORCA9ICdkamFuZ29fbm9zZS5tYW5hZ2VtZW50LmNvbW1hbmRzLnRlc3QuQ29tbWFuZCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd0ZXN0X3dpdGhvdXRfbWlncmF0aW9ucycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbG90X3N1ZmZpeDoKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKGYiTm8gc3VmZml4IGZvciBmb2xsb3dpbmcgZm9ybWF0IHtwYXBlcl9mb3JtYXR9IikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvdF9jb2RlID0gc2t1X29iai5jb2RlICsgbG90X3N1ZmZpeAogICAgICAgICAgICAgICAgcHJvZHVjdF9sb3RfY29kZXMgPSBbeydjb2RlJzogbG90X2NvZGUsICdjb3VudCc6IHBhY2tpbmdfbGlzdF9lbGVtZW50LmdldCgnY291bnQnKX1dCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvdF9zdWZmaXggPSBOb25lCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFja2luZ19saXN0Wydmb3JtYXQnXSA9ICdBNCcK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbG90X3N1ZmZpeDoKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKGYiTm8gc3VmZml4IGZvciBmb2xsb3dpbmcgZm9ybWF0IHtwYXBlcl9mb3JtYXR9IikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvdF9jb2RlID0gc2t1X29iai5jb2RlICsgbG90X3N1ZmZpeAogICAgICAgICAgICAgICAgcHJvZHVjdF9sb3RfY29kZXMgPSBbeydjb2RlJzogbG90X2NvZGUsICdjb3VudCc6IHBhY2tpbmdfbGlzdF9lbGVtZW50LmdldCgnY291bnQnKX1dCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvdF9zdWZmaXggPSBOb25lCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFja2luZ19saXN0Wydmb3JtYXQnXSA9ICdBNCcK</text>
+      </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -470,8 +476,8 @@
         <entry>e</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
