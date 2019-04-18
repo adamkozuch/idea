@@ -179,8 +179,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555590375544">
-        <mark key="'" line="344" column="33" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555591487952">
+        <mark key="'" line="20" column="26" />
         <mark key="[" line="243" column="39" />
         <mark key="]" line="243" column="38" />
         <mark key="." line="243" column="38" />
@@ -264,6 +264,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1555588482966">
         <mark key="'" line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555591602195">
+        <mark key="'" line="67" column="6" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="145" column="160" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
       </file>
@@ -326,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="91" column="15" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="107" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
@@ -426,6 +431,7 @@
       <jump line="228" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="164" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="344" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="20" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -435,7 +441,7 @@
         <text>ction_to_pcb_for_vfp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVcPg==</text>
+        <text>update_sok</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
@@ -472,18 +478,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVcPg==</last-search>
+      <last-search>update_sok</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVcPg==</last-pattern>
+      <last-pattern>update_sok</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdmFpbGFiaWxpdGllc19pZHNcPg==</entry>
-        <entry encoding="base64">XDxjaGFubmVsX2F2YWlsYWJpbGl0aWVzXD4=</entry>
         <entry encoding="base64">XDxyZWRpc19jb25uXD4=</entry>
         <entry>get_chopices</entry>
         <entry>get_choice</entry>
@@ -502,6 +506,8 @@
         <entry>timezone</entry>
         <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
+        <entry>update</entry>
+        <entry>update_sok</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
