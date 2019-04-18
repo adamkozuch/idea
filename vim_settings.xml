@@ -271,12 +271,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1555588482966">
         <mark key="'" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555601073435">
-        <mark key="'" line="10" column="5" />
-        <mark key="[" line="134" column="54" />
-        <mark key="]" line="134" column="54" />
-        <mark key="." line="134" column="54" />
-        <mark key="^" line="134" column="54" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555601920800">
+        <mark key="'" line="577" column="4" />
+        <mark key="[" line="134" column="4" />
+        <mark key="]" line="134" column="10" />
+        <mark key="." line="134" column="10" />
+        <mark key="^" line="134" column="10" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
@@ -340,8 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
       <jump line="31" column="34" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
       <jump line="18" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
       <jump line="166" column="13" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
@@ -440,6 +438,8 @@
       <jump line="572" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="10" column="5" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="121" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="577" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -449,7 +449,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>rabbit</text>
+        <text encoding="base64">XDxDZWxlcnlTZXR0aW5nc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
@@ -486,17 +486,16 @@
       </register>
     </registers>
     <search>
-      <last-search>rabbit</last-search>
+      <last-search encoding="base64">XDxDZWxlcnlTZXR0aW5nc1w+</last-search>
       <last-offset />
-      <last-pattern>rabbit</last-pattern>
+      <last-pattern encoding="base64">XDxDZWxlcnlTZXR0aW5nc1w+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IncomingPa</entry>
         <entry encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</entry>
         <entry encoding="base64">XDxWb3VjaGVyXD4=</entry>
         <entry>redis</entry>
@@ -516,6 +515,7 @@
         <entry>force</entry>
         <entry>celery</entry>
         <entry>rabbit</entry>
+        <entry encoding="base64">XDxDZWxlcnlTZXR0aW5nc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
