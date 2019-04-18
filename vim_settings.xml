@@ -184,7 +184,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555583245406">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555583999065">
         <mark key="'" line="26" column="33" />
         <mark key="[" line="238" column="12" />
         <mark key="]" line="238" column="41" />
@@ -325,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="42" column="43" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="71" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
@@ -413,7 +412,6 @@
       <jump line="227" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="25" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/models.py" />
-      <jump line="26" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="135" column="29" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="7" column="29" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/forms.py" />
       <jump line="244" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
@@ -425,6 +423,8 @@
       <jump line="79" column="44" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="78" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="43" column="52" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="51" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="26" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -434,7 +434,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWb3VjaGVyXD4=</text>
+        <text encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeSgKICAgICAgICAgICAgeydtZXNzYWdlJzogJ3t9IHBheW1lbnQgcHJvdmlkZXIgaXMgbm90IHN1cHBvcnRlZC4nLmZvcm1hdChpbmNvbWluZ19wYXltZW50X3JlcXVlc3QucGF5bWVudF9wcm92aWRlcil9KSwgNDAwCg==</text>
@@ -471,9 +471,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWb3VjaGVyXD4=</last-search>
+      <last-search encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWb3VjaGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>-1</last-dir>
@@ -498,9 +498,9 @@
         <entry>validate</entry>
         <entry>ProductLot</entry>
         <entry>IncomingPa</entry>
-        <entry encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</entry>
         <entry encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</entry>
         <entry encoding="base64">XDxWb3VjaGVyXD4=</entry>
+        <entry encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
