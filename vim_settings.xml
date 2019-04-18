@@ -138,8 +138,8 @@
         <mark key="." line="578" column="24" />
         <mark key="^" line="578" column="119" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" timestamp="1554801705444">
-        <mark key="'" line="115" column="98" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" timestamp="1555584777340">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="^" line="23" column="19" />
@@ -325,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="42" column="43" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/test_tasks.py" />
       <jump line="71" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="79" column="80" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
@@ -425,6 +424,7 @@
       <jump line="43" column="52" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="51" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="26" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -434,7 +434,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</text>
+        <text>celery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeSgKICAgICAgICAgICAgeydtZXNzYWdlJzogJ3t9IHBheW1lbnQgcHJvdmlkZXIgaXMgbm90IHN1cHBvcnRlZC4nLmZvcm1hdChpbmNvbWluZ19wYXltZW50X3JlcXVlc3QucGF5bWVudF9wcm92aWRlcil9KSwgNDAwCg==</text>
@@ -471,17 +471,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</last-search>
+      <last-search>celery</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</last-pattern>
+      <last-pattern>celery</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test_task_send_invalid_notification_change_status_to_sent</entry>
         <entry>Invalid</entry>
         <entry>test_task_send_notification_not_send_when_already_sent</entry>
         <entry>with id</entry>
@@ -501,6 +500,7 @@
         <entry encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</entry>
         <entry encoding="base64">XDxWb3VjaGVyXD4=</entry>
         <entry encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</entry>
+        <entry>celery</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
