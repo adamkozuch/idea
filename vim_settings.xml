@@ -76,6 +76,7 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/templates/supervisor/conf.d/celery.conf" timestamp="1555602654048" />
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" timestamp="1555509477074">
         <mark key="'" line="134" column="59" />
         <mark key="[" line="13" column="0" />
@@ -193,12 +194,6 @@
         <mark key="." line="243" column="38" />
         <mark key="^" line="243" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" timestamp="1555568360050">
-        <mark key="'" line="60" column="77" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" timestamp="1555586926642">
         <mark key="'" line="112" column="0" />
       </file>
@@ -271,11 +266,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1555588482966">
         <mark key="'" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555601920800">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555602756886">
         <mark key="'" line="577" column="4" />
         <mark key="[" line="134" column="4" />
-        <mark key="]" line="134" column="10" />
-        <mark key="." line="134" column="10" />
+        <mark key="]" line="134" column="4" />
+        <mark key="." line="134" column="4" />
         <mark key="^" line="134" column="10" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
@@ -287,6 +282,7 @@
         <mark key="." line="132" column="40" />
         <mark key="^" line="135" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1555507548174" />
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" timestamp="1555334032827">
         <mark key="'" line="96" column="8" />
       </file>
@@ -443,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDZWxlcnlTZXR0aW5nc1w+</text>
