@@ -196,11 +196,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1555141313929">
-        <mark key="'" line="44" column="22" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1555534711496">
+        <mark key="'" line="43" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" timestamp="1554052509925">
         <mark key="[" line="13" column="6" />
@@ -436,8 +433,8 @@
       <jump line="33" column="29" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://github.com/pypa/sampleproject</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHcgaW4gd29yZHM6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>https://github.com/pypa/sampleproject</text>
@@ -446,37 +443,37 @@
         <text>prune</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzLmpzb24nLCAndycpIGFzIGZpbGU6CiAgICAgICAgICAgIGpzb24uZHVtcCh7J2RhdGEnOiBbXX0sIGZpbGUpCiAgICAgICAgICAgIGNsZWFuX3VwKCkK</text>
+        <text encoding="base64">Y2xhc3MgSmlzaG86Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgX19zdHJfXyhzZWxmKToKICAgIHJldHVybiBzZWxmLm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHcgaW4gd29yZHM6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzLmpzb24nKSBhcyBmaWxlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzLmpzb24nLCAndycpIGFzIGZpbGU6CiAgICAgICAgICAgIGpzb24uZHVtcCh7J2RhdGEnOiBbXX0sIGZpbGUpCiAgICAgICAgICAgIGNsZWFuX3VwKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBsaXN0KHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncG9zdCBmb3JtJykK</text>
+        <text encoding="base64">ICBkZWYgX19zdHJfXyhzZWxmKToKICAgIHJldHVybiBzZWxmLm5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvcm0gaXMgdmFsaWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvcm0gdmFsaWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oJ3dvcmRzLmpzb24nLCAndycpIGFzIGZpbGU6CiAgICAgICAgICAgIGpzb24uZHVtcCh7J2RhdGEnOiBbXX0sIGZpbGUpCiAgICAgICAgICAgIGNsZWFuX3VwKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncG9zdCBmb3JtJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q01ECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvcm0gaXMgdmFsaWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnRfY2FyZHNfdG9fZGVja190ZWNobmljYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvcm0gdmFsaWQiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>map vv &quot;0p</text>
       </register>
     </registers>
     <search>
@@ -499,7 +496,6 @@
         <entry>prune</entry>
       </history-search>
       <history-cmd>
-        <entry>tabnext</entry>
         <entry>action SwitchViewAction</entry>
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gU3dpdGNoZXI8Q1I+</entry>
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gUnVuPENSPg==</entry>
@@ -519,6 +515,7 @@
         <entry>action Run</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>map vv &quot;0p</entry>
       </history-cmd>
       <history-expr />
       <history-input />
