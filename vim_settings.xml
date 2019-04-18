@@ -57,12 +57,12 @@
         <mark key="^" line="48" column="99" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1555494188881">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="24" column="63" />
-        <mark key="]" line="24" column="64" />
-        <mark key="." line="24" column="64" />
-        <mark key="^" line="24" column="64" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1555571691786">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555498076599">
         <mark key="'" line="4" column="0" />
@@ -203,12 +203,12 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1555511663026">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="45" column="40" />
-        <mark key="]" line="45" column="74" />
-        <mark key="^" line="45" column="74" />
-        <mark key="." line="45" column="74" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1555572581129">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="9" />
+        <mark key="^" line="65" column="9" />
+        <mark key="." line="65" column="9" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" timestamp="1555069027666">
         <mark key="'" line="48" column="40" />
@@ -280,10 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
-      <jump line="185" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="171" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="165" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
       <jump line="154" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" />
@@ -363,10 +359,6 @@
       <jump line="66" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="37" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="44" column="32" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
       <jump line="33" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
@@ -380,55 +372,63 @@
       <jump line="59" column="37" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
       <jump line="50" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
       <jump line="93" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
+      <jump line="37" column="25" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlwID0gZGF0YVsnaXAnXQogICAgY29va2llID0gZGF0YVsnY29va2llJ10K</text>
+        <text encoding="base64">ICAgIGtleSA9IGNyZWF0ZV9rZXkoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ProductLot</text>
+        <text>IncomingPa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9rZXkoaGFzaF9jb2RlcywgZG9tYWluLCBjb3VudHJ5LCBjdXJyZW5jeSk6CiAgICByZXR1cm4gIiMiLmpvaW4oaGFzaF9jb2RlcyArIFtkb21haW4sIGNvdW50cnksIGN1cnJlbmN5XSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeSgKICAgICAgICAgICAgeydtZXNzYWdlJzogJ3t9IHBheW1lbnQgcHJvdmlkZXIgaXMgbm90IHN1cHBvcnRlZC4nLmZvcm1hdChpbmNvbWluZ19wYXltZW50X3JlcXVlc3QucGF5bWVudF9wcm92aWRlcil9KSwgNDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlwID0gZGF0YVsnaXAnXQogICAgY29va2llID0gZGF0YVsnY29va2llJ10K</text>
+        <text encoding="base64">ICAgIGtleSA9IGNyZWF0ZV9rZXkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgW3siaGFzaGNvZGUiOiAiIiwgIm5hbWUiOiAiIiwgInF1YW50aXR5IjogMX1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgYmllcnplbXkgaGFzaCBrb2R5IHByb2R1a3Rvdwo=</text>
+        <text encoding="base64">ICAgIGlwID0gZGF0YVsnaXAnXQogICAgY29va2llID0gZGF0YVsnY29va2llJ10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VEVTVF9XSVRIT1VUX01JR1JBVElPTlNfQ09NTUFORCA9ICdkamFuZ29fbm9zZS5tYW5hZ2VtZW50LmNvbW1hbmRzLnRlc3QuQ29tbWFuZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICd0ZXN0X3dpdGhvdXRfbWlncmF0aW9ucycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgYmllcnplbXkgaGFzaCBrb2R5IHByb2R1a3Rvdwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VEVTVF9XSVRIT1VUX01JR1JBVElPTlNfQ09NTUFORCA9ICdkamFuZ29fbm9zZS5tYW5hZ2VtZW50LmNvbW1hbmRzLnRlc3QuQ29tbWFuZCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbG90X3N1ZmZpeDoKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKGYiTm8gc3VmZml4IGZvciBmb2xsb3dpbmcgZm9ybWF0IHtwYXBlcl9mb3JtYXR9IikK</text>
+        <text encoding="base64">ICAgICd0ZXN0X3dpdGhvdXRfbWlncmF0aW9ucycK</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ProductLot</last-search>
+      <last-search>IncomingPa</last-search>
       <last-offset />
-      <last-pattern>ProductLot</last-pattern>
+      <last-pattern>IncomingPa</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_call_send_data_to_pcb_tasks_task_invalid_notification_to_send_is_eligible_and_not_sent</entry>
         <entry encoding="base64">XDxzZW5kX2ludmFsaWRfbm90aWZpY2F0aW9uX3RvX3BjYlw+</entry>
         <entry>send_in</entry>
         <entry>already</entry>
@@ -456,6 +455,7 @@
         <entry>get_choice</entry>
         <entry>validate</entry>
         <entry>ProductLot</entry>
+        <entry>IncomingPa</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -476,8 +476,8 @@
         <entry>e</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
