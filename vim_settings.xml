@@ -188,13 +188,13 @@
         <mark key="^" line="84" column="56" />
         <mark key="." line="84" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555569365820">
-        <mark key="'" line="241" column="4" />
-        <mark key="[" line="36" column="0" />
-        <mark key="m" line="61" column="26" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555570961641">
+        <mark key="'" line="242" column="4" />
+        <mark key="[" line="60" column="0" />
+        <mark key="m" line="64" column="26" />
+        <mark key="]" line="60" column="12" />
+        <mark key="." line="60" column="12" />
+        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -383,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VEVTVF9XSVRIT1VUX01JR1JBVElPTlNfQ09NTUFORCA9ICdkamFuZ29fbm9zZS5tYW5hZ2VtZW50LmNvbW1hbmRzLnRlc3QuQ29tbWFuZCcK</text>
+        <text encoding="base64">ICAgIGlwID0gZGF0YVsnaXAnXQogICAgY29va2llID0gZGF0YVsnY29va2llJ10K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>ProductLot</text>
@@ -395,34 +395,34 @@
         <text encoding="base64">ZGVmIGNyZWF0ZV9rZXkoaGFzaF9jb2RlcywgZG9tYWluLCBjb3VudHJ5LCBjdXJyZW5jeSk6CiAgICByZXR1cm4gIiMiLmpvaW4oaGFzaF9jb2RlcyArIFtkb21haW4sIGNvdW50cnksIGN1cnJlbmN5XSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VEVTVF9XSVRIT1VUX01JR1JBVElPTlNfQ09NTUFORCA9ICdkamFuZ29fbm9zZS5tYW5hZ2VtZW50LmNvbW1hbmRzLnRlc3QuQ29tbWFuZCcK</text>
+        <text encoding="base64">ICAgIGlwID0gZGF0YVsnaXAnXQogICAgY29va2llID0gZGF0YVsnY29va2llJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICd0ZXN0X3dpdGhvdXRfbWlncmF0aW9ucycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgYmllcnplbXkgaGFzaCBrb2R5IHByb2R1a3Rvdwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbG90X3N1ZmZpeDoKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKGYiTm8gc3VmZml4IGZvciBmb2xsb3dpbmcgZm9ybWF0IHtwYXBlcl9mb3JtYXR9IikK</text>
+        <text encoding="base64">VEVTVF9XSVRIT1VUX01JR1JBVElPTlNfQ09NTUFORCA9ICdkamFuZ29fbm9zZS5tYW5hZ2VtZW50LmNvbW1hbmRzLnRlc3QuQ29tbWFuZCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvdF9jb2RlID0gc2t1X29iai5jb2RlICsgbG90X3N1ZmZpeAogICAgICAgICAgICAgICAgcHJvZHVjdF9sb3RfY29kZXMgPSBbeydjb2RlJzogbG90X2NvZGUsICdjb3VudCc6IHBhY2tpbmdfbGlzdF9lbGVtZW50LmdldCgnY291bnQnKX1dCg==</text>
+        <text encoding="base64">ICAgICd0ZXN0X3dpdGhvdXRfbWlncmF0aW9ucycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvdF9zdWZmaXggPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFja2luZ19saXN0Wydmb3JtYXQnXSA9ICdBNCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbG90X3N1ZmZpeDoKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKGYiTm8gc3VmZml4IGZvciBmb2xsb3dpbmcgZm9ybWF0IHtwYXBlcl9mb3JtYXR9IikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -476,8 +476,8 @@
         <entry>e</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Run</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
