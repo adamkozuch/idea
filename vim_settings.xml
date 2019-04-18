@@ -41,8 +41,8 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1555599176752">
-        <mark key="'" line="132" column="23" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1555603427622">
+        <mark key="'" line="136" column="16" />
         <mark key="[" line="131" column="17" />
         <mark key="]" line="131" column="26" />
         <mark key="^" line="131" column="26" />
@@ -187,7 +187,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555599189966">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555603576763">
         <mark key="'" line="241" column="27" />
         <mark key="[" line="243" column="39" />
         <mark key="]" line="243" column="38" />
@@ -207,7 +207,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" timestamp="1555596914159">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" timestamp="1555603432688">
         <mark key="'" line="6" column="25" />
         <mark key="[" line="41" column="35" />
         <mark key="]" line="41" column="47" />
@@ -425,9 +425,7 @@
       <jump line="299" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="249" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="135" column="29" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
-      <jump line="136" column="49" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="132" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
-      <jump line="241" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" />
       <jump line="573" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="8" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" />
@@ -436,6 +434,8 @@
       <jump line="10" column="5" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="121" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="577" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="136" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="241" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -478,7 +478,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZidDcmVhdGluZyBmb3JjZV9hY3Rpb25fdG9fcGNiIHRhc2sgZm9yIHtwdXJjaGFzZS5pZF9jcm1fcHJpbWFyeX0gYXQge3RpbWV6b25lfScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -532,8 +532,8 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Run</entry>
         <entry>qw</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
