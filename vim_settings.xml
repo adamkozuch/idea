@@ -182,13 +182,13 @@
         <mark key="^" line="84" column="56" />
         <mark key="." line="84" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555511568959">
-        <mark key="'" line="239" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="m" line="59" column="26" />
-        <mark key="]" line="38" column="61" />
-        <mark key="." line="130" column="67" />
-        <mark key="^" line="130" column="67" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555569365820">
+        <mark key="'" line="241" column="4" />
+        <mark key="[" line="36" column="0" />
+        <mark key="m" line="61" column="26" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -258,12 +258,12 @@
         <mark key="." line="687" column="0" />
         <mark key="^" line="686" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1555568817677">
-        <mark key="'" line="78" column="38" />
-        <mark key="[" line="82" column="92" />
-        <mark key="]" line="82" column="95" />
-        <mark key="." line="82" column="95" />
-        <mark key="^" line="82" column="95" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1555569554093">
+        <mark key="'" line="94" column="8" />
+        <mark key="[" line="83" column="122" />
+        <mark key="]" line="83" column="122" />
+        <mark key="." line="83" column="122" />
+        <mark key="^" line="83" column="33" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/config.py" timestamp="1555335552770">
         <mark key="'" line="95" column="35" />
@@ -353,7 +353,6 @@
       <jump line="135" column="59" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" />
       <jump line="60" column="77" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="93" column="12" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="66" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="37" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
@@ -374,6 +373,7 @@
       <jump line="72" column="35" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
       <jump line="59" column="37" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
       <jump line="50" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
+      <jump line="93" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,7 +416,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -469,9 +469,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
-        <entry>action Switcher</entry>
         <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
