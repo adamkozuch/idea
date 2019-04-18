@@ -103,8 +103,8 @@
         <mark key="^" line="22" column="226" />
         <mark key="." line="22" column="226" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" timestamp="1555583305964">
-        <mark key="'" line="43" column="52" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" timestamp="1555596215588">
+        <mark key="'" line="249" column="37" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/views/views.xml" timestamp="1554714487300">
         <mark key="'" line="40" column="107" />
@@ -179,8 +179,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555593533553">
-        <mark key="'" line="197" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555596868614">
+        <mark key="'" line="299" column="12" />
         <mark key="[" line="243" column="39" />
         <mark key="]" line="243" column="38" />
         <mark key="." line="243" column="38" />
@@ -205,7 +205,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" timestamp="1555588381588">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" timestamp="1555596914159">
         <mark key="'" line="6" column="25" />
         <mark key="[" line="41" column="35" />
         <mark key="]" line="41" column="47" />
@@ -332,36 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
-      <jump line="125" column="34" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" />
-      <jump line="366" column="21" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="356" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="262" column="42" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="350" column="6" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="0" column="26" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/utils.py" />
-      <jump line="367" column="11" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="245" column="39" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="135" column="59" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/serializers.py" />
-      <jump line="60" column="77" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="66" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="37" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="44" column="32" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="25" column="7" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="77" column="38" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="3" column="23" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/choices.py" />
-      <jump line="72" column="35" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
-      <jump line="59" column="37" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" />
       <jump line="93" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="66" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" />
       <jump line="37" column="25" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
@@ -372,10 +342,8 @@
       <jump line="52" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
       <jump line="31" column="34" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
-      <jump line="238" column="65" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="18" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
       <jump line="166" column="13" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
-      <jump line="227" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="25" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/models.py" />
       <jump line="7" column="29" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/forms.py" />
@@ -384,10 +352,6 @@
       <jump line="0" column="3" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="276" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="248" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
-      <jump line="120" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
-      <jump line="79" column="44" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
-      <jump line="78" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
-      <jump line="43" column="52" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="51" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
       <jump line="26" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/config/requirements.txt" />
@@ -422,7 +386,6 @@
       <jump line="51" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="348" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="330" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="299" column="61" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="247" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="228" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="164" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -431,7 +394,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
       <jump line="283" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="258" column="1" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="245" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="238" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="179" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="197" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="203" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="205" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="213" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="227" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="33" column="46" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="43" column="52" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="47" column="65" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="63" column="14" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="78" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="79" column="44" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="106" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="120" column="54" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="124" column="22" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="135" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="45" column="58" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="145" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="187" column="56" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="191" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
+      <jump line="167" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="368" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="359" column="41" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="313" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="299" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="249" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -441,7 +441,7 @@
         <text>ction_to_pcb_for_vfp</text>
       </register>
       <register name="/" type="4">
-        <text>force</text>
+        <text encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
@@ -474,23 +474,20 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZidDcmVhdGluZyBmb3JjZV9hY3Rpb25fdG9fcGNiIHRhc2sgZm9yIHtwdXJjaGFzZS5pZF9jcm1fcHJpbWFyeX0gYXQge3RpbWV6b25lfScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
-      <last-search>force</last-search>
+      <last-search encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>force</last-pattern>
+      <last-pattern encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_chopices</entry>
-        <entry>get_choice</entry>
-        <entry>validate</entry>
         <entry>ProductLot</entry>
         <entry>IncomingPa</entry>
         <entry encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</entry>
@@ -508,6 +505,9 @@
         <entry>update</entry>
         <entry>update_sok</entry>
         <entry>force</entry>
+        <entry>Voucher</entry>
+        <entry>VoucherFor</entry>
+        <entry encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -528,8 +528,8 @@
         <entry>e</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Run</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
