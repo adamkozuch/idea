@@ -176,6 +176,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1555583225909">
         <mark key="'" line="25" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/tests/test_purchases.py" timestamp="1555662121274" />
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/staging.py" timestamp="1555570527254">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -191,10 +192,6 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555659806389">
         <mark key="'" line="94" column="25" />
-        <mark key="[" line="167" column="45" />
-        <mark key="]" line="167" column="45" />
-        <mark key="." line="167" column="45" />
-        <mark key="^" line="167" column="47" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" timestamp="1555586926642">
         <mark key="'" line="112" column="0" />
@@ -224,16 +221,15 @@
         <mark key="." line="84" column="56" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/var/log/supervisor/runserver/out.log" timestamp="1555652413047" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" timestamp="1555662360735">
+        <mark key="'" line="536" column="76" />
+        <mark key="[" line="539" column="35" />
+        <mark key="]" line="539" column="35" />
+        <mark key="." line="539" column="35" />
+        <mark key="^" line="539" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555570961641">
-        <mark key="'" line="242" column="4" />
-        <mark key="[" line="60" column="0" />
-        <mark key="m" line="64" column="26" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -338,17 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="243" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" />
-      <jump line="240" column="79" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="214" column="49" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="232" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="239" column="34" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="311" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="334" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="41" column="71" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
       <jump line="6" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
       <jump line="13" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="14" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -438,16 +423,27 @@
       <jump line="6" column="22" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
       <jump line="114" column="5" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
       <jump line="65" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
+      <jump line="273" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="313" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="370" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="389" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="407" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="425" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="442" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="460" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="467" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="479" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
+      <jump line="536" column="76" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/tests/test_vouchers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
+        <text>17</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBzZW5kX2FjdGlvbnMoKToKICAgICAgICB2b3VjaGVyc19mb3JfcHVyY2hhc2VzID0gaW5zdGFuY2Uudm91Y2hlcmZvcnB1cmNoYXNlX3NldC5maWx0ZXIocHVyY2hhc2VfX3N0YXR1cz1QdXJjaGFzZVN0YXR1cy5XQUlUSU5HKQogICAgICAgIGZvciB2ZnAgaW4gdm91Y2hlcnNfZm9yX3B1cmNoYXNlczoKICAgICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCg==</text>
@@ -484,17 +480,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2FjdGlvblw+</last-search>
+      <last-search>17</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2FjdGlvblw+</last-pattern>
+      <last-pattern>17</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
         <entry encoding="base64">XDx0YXNrX2V4ZWN1dGlvbl90aW1lXD4=</entry>
         <entry>timezo</entry>
         <entry>timezoen</entry>
@@ -514,6 +509,7 @@
         <entry>create</entry>
         <entry>auth</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
+        <entry>17</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -533,8 +529,8 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Run</entry>
         <entry>qw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>action Switcher</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -606,6 +602,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
