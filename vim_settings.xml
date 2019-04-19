@@ -37,8 +37,8 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1555651330631">
-        <mark key="'" line="136" column="16" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1555657129638">
+        <mark key="'" line="136" column="36" />
         <mark key="[" line="131" column="52" />
         <mark key="]" line="131" column="75" />
         <mark key="^" line="131" column="75" />
@@ -167,8 +167,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1555418176725">
         <mark key="'" line="239" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" timestamp="1555655971510">
-        <mark key="'" line="261" column="33" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" timestamp="1555657124212">
+        <mark key="'" line="166" column="23" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1555583225909">
         <mark key="'" line="25" column="38" />
@@ -186,7 +186,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555655728012">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555657826877">
         <mark key="'" line="94" column="25" />
         <mark key="[" line="167" column="45" />
         <mark key="]" line="167" column="45" />
@@ -206,7 +206,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" timestamp="1555651547497">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" timestamp="1555657110639">
         <mark key="'" line="6" column="25" />
         <mark key="[" line="41" column="35" />
         <mark key="]" line="41" column="47" />
@@ -249,6 +249,7 @@
         <mark key="^" line="65" column="9" />
         <mark key="." line="65" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1555657595890" />
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" timestamp="1555069027666">
         <mark key="'" line="48" column="40" />
         <mark key="[" line="47" column="15" />
@@ -329,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="398" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="358" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="354" column="94" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -356,7 +356,6 @@
       <jump line="164" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="344" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="20" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
       <jump line="283" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="258" column="1" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -405,7 +404,6 @@
       <jump line="10" column="5" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="121" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="577" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
-      <jump line="136" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="241" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="215" column="15" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -429,6 +427,9 @@
       <jump line="94" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="17" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients_emails.py" />
       <jump line="261" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
+      <jump line="136" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
+      <jump line="166" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -471,7 +472,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZidDcmVhdGluZyBmb3JjZV9hY3Rpb25fdG9fcGNiIHRhc2sgZm9yIHtwdXJjaGFzZS5pZF9jcm1fcHJpbWFyeX0gYXQge3RpbWV6b25lfScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -524,9 +525,9 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Run</entry>
         <entry>qw</entry>
-        <entry>action Switcher</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
