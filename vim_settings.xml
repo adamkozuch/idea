@@ -83,6 +83,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" timestamp="1555658843975">
+        <mark key="'" line="65" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_auto_operation/models/auto_operation.py" timestamp="1555418070644">
         <mark key="'" line="17" column="19" />
         <mark key="[" line="19" column="23" />
@@ -186,7 +189,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555657826877">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555659806389">
         <mark key="'" line="94" column="25" />
         <mark key="[" line="167" column="45" />
         <mark key="]" line="167" column="45" />
@@ -249,7 +252,12 @@
         <mark key="^" line="65" column="9" />
         <mark key="." line="65" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1555658749131" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1555659892869">
+        <mark key="[" line="30" column="64" />
+        <mark key="]" line="30" column="63" />
+        <mark key="^" line="30" column="63" />
+        <mark key="." line="30" column="63" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/views.py" timestamp="1555069027666">
         <mark key="'" line="48" column="40" />
         <mark key="[" line="47" column="15" />
@@ -330,9 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="358" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="354" column="94" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="353" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="243" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="112" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" />
@@ -430,63 +435,65 @@
       <jump line="136" column="36" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
       <jump line="166" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
+      <jump line="6" column="22" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
+      <jump line="114" column="5" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza19leGVjdXRpb25fdGltZSA9IHRpbWV6b25lLm5vdygpICsgdGltZWRlbHRhKG1pbnV0ZXM9NjApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZW5kX2FjdGlvbnMoKToKICAgICAgICB2b3VjaGVyc19mb3JfcHVyY2hhc2VzID0gaW5zdGFuY2Uudm91Y2hlcmZvcnB1cmNoYXNlX3NldC5maWx0ZXIocHVyY2hhc2VfX3N0YXR1cz1QdXJjaGFzZVN0YXR1cy5XQUlUSU5HKQogICAgICAgIGZvciB2ZnAgaW4gdm91Y2hlcnNfZm9yX3B1cmNoYXNlczoKICAgICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza19leGVjdXRpb25fdGltZSA9IHRpbWV6b25lLm5vdygpICsgdGltZWRlbHRhKG1pbnV0ZXM9NjApCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKGYnQ3JlYXRpbmcgZm9yY2VfYWN0aW9uX3RvX3BjYiB0YXNrIGZvciB7cHVyY2hhc2UuaWRfY3JtX3ByaW1hcnl9IGF0IHt0YXNrX2V4ZWN1dGlvbl90aW1lfScpCgogICAgICAgICAgICBmb3JjZV9zZW5kX2FjdGlvbl90b19wY2IuYXBwbHlfYXN5bmMoCiAgICAgICAgICAgICAgICAocHVyY2hhc2UuaWRfY3JtX3ByaW1hcnksIGNsaWVudC5kaXNjb3VudF9jbHViLnNob3J0X25hbWUpLAogICAgICAgICAgICAgICAgZXRhPXRhc2tfZXhlY3V0aW9uX3RpbWUKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZiJUaW1lem9uZSBjcmVhdGVkICIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZiJUaW1lem9uZSBjcmVhdGVkICIpCgogICAgICAgICAgICB0YXNrX2V4ZWN1dGlvbl90aW1lID0gdGltZXpvbmUubm93KCkgKyB0aW1lZGVsdGEobWludXRlcz02MCkKICAgICAgICAgICAgbG9nZ2VyLmluZm8oZidDcmVhdGluZyBmb3JjZV9hY3Rpb25fdG9fcGNiIHRhc2sgZm9yIHtwdXJjaGFzZS5pZF9jcm1fcHJpbWFyeX0gYXQge3Rhc2tfZXhlY3V0aW9uX3RpbWV9JykKCiAgICAgICAgICAgIGZvcmNlX3NlbmRfYWN0aW9uX3RvX3BjYi5hcHBseV9hc3luYygKICAgICAgICAgICAgICAgIChwdXJjaGFzZS5pZF9jcm1fcHJpbWFyeSwgY2xpZW50LmRpc2NvdW50X2NsdWIuc2hvcnRfbmFtZSksCiAgICAgICAgICAgICAgICBldGE9dGFza19leGVjdXRpb25fdGltZQogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2b3VjaGVyc19mb3JfcHVyY2hhc2VzID0gaW5zdGFuY2Uudm91Y2hlcnNfZm9yX3B1cmNoYXNlcy5hbGwoKQogICAgICAgIGZvciB2ZnAgaW4gdm91Y2hlcnNfZm9yX3B1cmNoYXNlczoKICAgICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b3VjaGVyc19mb3JfcHVyY2hhc2VzID0gaW5zdGFuY2Uudm91Y2hlcmZvcnB1cmNoYXNlX3NldC5maWx0ZXIocHVyY2hhc2VfX3N0YXR1cz1QdXJjaGFzZVN0YXR1cy5XQUlUSU5HKQogICAgICAgIGZvciB2ZnAgaW4gdm91Y2hlcnNfZm9yX3B1cmNoYXNlczoKICAgICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b3VjaGVyc19mb3JfcHVyY2hhc2VzID0gaW5zdGFuY2Uudm91Y2hlcnNfZm9yX3B1cmNoYXNlcy5hbGwoKQogICAgICAgIGZvciB2ZnAgaW4gdm91Y2hlcnNfZm9yX3B1cmNoYXNlczoKICAgICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZidDcmVhdGluZyBmb3JjZV9hY3Rpb25fdG9fcGNiIHRhc2sgZm9yIHtwdXJjaGFzZS5pZF9jcm1fcHJpbWFyeX0gYXQge3RpbWV6b25lfScpCg==</text>
+        <text encoding="base64">ICAgIGlmIGluc3RhbmNlLnN0YXR1cyA9PSBQdXJjaGFzZVN0YXR1cy5DQU5DRUxMRUQ6CiAgICAgICAgdm91Y2hlcnNfZm9yX3B1cmNoYXNlcyA9IGluc3RhbmNlLnZvdWNoZXJzX2Zvcl9wdXJjaGFzZXMuYWxsKCkKICAgICAgICBmb3IgdmZwIGluIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXM6CiAgICAgICAgICAgIGNyZWF0ZV9hY3Rpb25faW5fcGNiX2Zvcl92ZnAuZGVsYXkodmZwLmlkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search encoding="base64">XDx0cmFuc2FjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc2FjdGlvblw+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JjZV9zZW5kX2FjdGlvbl90b19wY2JcPg==</entry>
         <entry>send</entry>
         <entry encoding="base64">XDx0YXNrX2V4ZWN1dGlvbl90aW1lXD4=</entry>
         <entry>timezo</entry>
@@ -506,6 +513,7 @@
         <entry>task_exe</entry>
         <entry>create</entry>
         <entry>auth</entry>
+        <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -526,8 +534,8 @@
         <entry>action Run</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
