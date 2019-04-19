@@ -77,6 +77,11 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tests/test_commands.py" timestamp="1555667567831">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/utils.py" timestamp="1555509435277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -193,12 +198,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1555583225909">
         <mark key="'" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/tests/test_purchases.py" timestamp="1555665628067">
-        <mark key="'" line="135" column="59" />
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="327" column="8" />
-        <mark key="." line="327" column="8" />
-        <mark key="^" line="307" column="95" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/tests/test_purchases.py" timestamp="1555667577153">
+        <mark key="'" line="136" column="59" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="41" />
+        <mark key="." line="317" column="0" />
+        <mark key="^" line="308" column="95" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/models.py" timestamp="1555666316451">
         <mark key="'" line="916" column="8" />
@@ -350,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="330" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="247" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="228" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -450,10 +454,11 @@
       <jump line="325" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/tests/test_purchases.py" />
       <jump line="134" column="59" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/tests/test_purchases.py" />
       <jump line="916" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/models.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tests/test_commands.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDb250ZW50VHlwZS5vYmplY3RzLmNsZWFyX2NhY2hlKCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -462,7 +467,7 @@
         <text>17</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgICAgIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXMgPSBpbnN0YW5jZS52b3VjaGVyc19mb3JfcHVyY2hhc2VzLmFsbCgpCiAgICAjICAgICBmb3IgdmZwIGluIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXM6CiAgICAjICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZW50VHlwZS5vYmplY3RzLmNsZWFyX2NhY2hlKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2gub2JqZWN0KHRyYW5zYWN0aW9uLCAnb25fY29tbWl0JywgbW9jay5Nb2NrKCkgKWFzIGNvbW1pdDoK</text>
