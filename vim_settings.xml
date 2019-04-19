@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1555497928742">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1555666575377">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="35" />
         <mark key="^" line="88" column="44" />
-        <mark key="." line="32" column="0" />
+        <mark key="." line="25" column="35" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" timestamp="1555394913520">
         <mark key="'" line="52" column="29" />
@@ -63,12 +63,19 @@
         <mark key="^" line="48" column="99" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1555571691786">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/models.py" timestamp="1555666341882">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/utils.py" timestamp="1555509435277">
         <mark key="[" line="0" column="0" />
@@ -193,6 +200,9 @@
         <mark key="." line="327" column="8" />
         <mark key="^" line="307" column="95" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/models.py" timestamp="1555666316451">
+        <mark key="'" line="916" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" timestamp="1554880340893">
         <mark key="'" line="32" column="19" />
         <mark key="[" line="6" column="21" />
@@ -240,6 +250,9 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555570961641">
+        <mark key="'" line="224" column="4" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -337,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="49" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
       <jump line="348" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="330" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="247" column="40" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -437,13 +449,14 @@
       <jump line="131" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/tests/test_purchases.py" />
       <jump line="325" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/tests/test_purchases.py" />
       <jump line="134" column="59" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/tests/test_purchases.py" />
+      <jump line="916" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2gub2JqZWN0KHRyYW5zYWN0aW9uLCAnb25fY29tbWl0JywgbW9jay5Nb2NrKCkgKWFzIGNvbW1pdDoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>BaseApiTestCase</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>17</text>
@@ -531,9 +544,9 @@
         <entry>e</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>qw</entry>
-        <entry>action Switcher</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action Switcher</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
