@@ -205,8 +205,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555659806389">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555678358485">
         <mark key="'" line="94" column="25" />
+        <mark key="[" line="233" column="11" />
+        <mark key="]" line="233" column="11" />
+        <mark key="." line="233" column="11" />
+        <mark key="^" line="233" column="11" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" timestamp="1555586926642">
         <mark key="'" line="112" column="0" />
@@ -221,7 +225,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" timestamp="1555675923233">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" timestamp="1555678309948">
         <mark key="'" line="51" column="25" />
         <mark key="[" line="41" column="35" />
         <mark key="]" line="41" column="47" />
@@ -449,11 +453,11 @@
       <jump line="51" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZW50VHlwZS5vYmplY3RzLmNsZWFyX2NhY2hlKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICBpZF9jcm1fcHJpbWFyeT1wdXJjaGFzZV9sZWFkX2RhdGFbJ2Nvb2tpZSddLA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICBpZF9jcm1fcHJpbWFyeT1wdXJjaGFzZV9sZWFkX2RhdGFbJ2Nvb2tpZSddLA==</text>
       </register>
       <register name="/" type="4">
         <text>17</text>
@@ -489,7 +493,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgxLCAyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -543,8 +547,8 @@
         <entry>qw</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
