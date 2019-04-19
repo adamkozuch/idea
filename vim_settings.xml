@@ -167,8 +167,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1555418176725">
         <mark key="'" line="239" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" timestamp="1555583073347">
-        <mark key="'" line="18" column="33" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" timestamp="1555655971510">
+        <mark key="'" line="261" column="33" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1555583225909">
         <mark key="'" line="25" column="38" />
@@ -186,7 +186,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555655072264">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1555655728012">
         <mark key="'" line="94" column="25" />
         <mark key="[" line="167" column="45" />
         <mark key="]" line="167" column="45" />
@@ -329,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="393" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="398" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="358" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -429,6 +428,7 @@
       <jump line="88" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="94" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="17" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients_emails.py" />
+      <jump line="261" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
