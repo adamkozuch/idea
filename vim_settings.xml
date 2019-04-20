@@ -243,12 +243,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" timestamp="1555744705034">
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" timestamp="1555786446819">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="77" column="13" />
-        <mark key="]" line="89" column="4" />
-        <mark key="^" line="89" column="4" />
-        <mark key="." line="89" column="4" />
+        <mark key="[" line="118" column="10" />
+        <mark key="]" line="118" column="10" />
+        <mark key="^" line="118" column="10" />
+        <mark key="." line="118" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1554047386647">
         <mark key="[" line="0" column="0" />
@@ -476,7 +476,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvcm0gaXMgdmFsaWQiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -517,8 +517,8 @@
         <entry>action RecentFiles</entry>
         <entry>map vv &quot;0p</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
