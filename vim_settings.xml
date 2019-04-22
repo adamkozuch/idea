@@ -243,7 +243,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" timestamp="1555786446819">
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" timestamp="1555960895636">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="118" column="10" />
         <mark key="]" line="118" column="10" />
@@ -568,6 +568,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
