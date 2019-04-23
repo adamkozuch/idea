@@ -67,10 +67,6 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tests/test_commands.py" timestamp="1555667567831">
         <mark key="'" line="45" column="8" />
@@ -250,8 +246,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1555570961641">
-        <mark key="'" line="224" column="4" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556003133921">
+        <mark key="'" line="225" column="4" />
+        <mark key="[" line="34" column="19" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -454,10 +451,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICBpZF9jcm1fcHJpbWFyeT1wdXJjaGFzZV9sZWFkX2RhdGFbJ2Nvb2tpZSddLA==</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICBpZF9jcm1fcHJpbWFyeT1wdXJjaGFzZV9sZWFkX2RhdGFbJ2Nvb2tpZSddLA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>17</text>
