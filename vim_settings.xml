@@ -205,6 +205,12 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/models.py" timestamp="1555666316451">
         <mark key="'" line="916" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/config/settings/staging.py" timestamp="1555570527254">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/brokers/admin.py" timestamp="1554880340893">
         <mark key="'" line="32" column="19" />
         <mark key="[" line="6" column="21" />
@@ -248,12 +254,11 @@
         <mark key="." line="41" column="47" />
         <mark key="^" line="41" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1556022377175">
-        <mark key="'" line="801" column="0" />
-        <mark key="[" line="103" column="55" />
-        <mark key="]" line="103" column="55" />
-        <mark key="." line="103" column="55" />
-        <mark key="^" line="103" column="55" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1556024713048">
+        <mark key="[" line="116" column="5" />
+        <mark key="]" line="116" column="9" />
+        <mark key="." line="116" column="9" />
+        <mark key="^" line="116" column="9" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" timestamp="1555056970253">
         <mark key="'" line="163" column="22" />
@@ -276,12 +281,12 @@
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556022265238">
-        <mark key="'" line="62" column="16" />
-        <mark key="[" line="63" column="11" />
-        <mark key="]" line="63" column="36" />
-        <mark key="." line="63" column="36" />
-        <mark key="^" line="63" column="36" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556024682376">
+        <mark key="'" line="261" column="4" />
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="62" column="20" />
+        <mark key="." line="63" column="35" />
+        <mark key="^" line="63" column="35" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -293,12 +298,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1555404279648">
         <mark key="'" line="161" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556022343903">
-        <mark key="'" line="41" column="18" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="42" column="28" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556023458452">
+        <mark key="'" line="41" column="20" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="45" column="158" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1555668960831">
         <mark key="'" line="36" column="28" />
@@ -321,7 +326,7 @@
         <mark key="." line="366" column="64" />
         <mark key="^" line="366" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556010322715">
+      <file name="/Dummy.txt" timestamp="1556023955472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555653760484">
@@ -333,6 +338,12 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/notifications/pcb/paypal/test_rest.py" timestamp="1555497569615">
+        <mark key="[" line="132" column="40" />
+        <mark key="]" line="132" column="40" />
+        <mark key="." line="132" column="40" />
+        <mark key="^" line="135" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1555507548174" />
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" timestamp="1555334032827">
@@ -381,18 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="147" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="186" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="203" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="211" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="214" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="218" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="221" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="225" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="228" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="233" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
@@ -479,68 +478,76 @@
       <jump line="803" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="787" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="790" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="42" column="18" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
-      <jump line="41" column="18" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="11" column="22" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="42" column="20" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="158" column="19" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="262" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>test_payment_creation_success</text>
+        <text encoding="base64">XDxpc19jaGFubmVsX3ZhbGlkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnYXBwLnZhbGlkYXRpb25fcnVsZXMudmlld3MuaXNfY2hhbm5lbF92YWxpZCcpCg==</text>
+      <register name="0" type="4">
+        <text>is_channel_valid(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsX3ZhbGlkLnJldHVybl92YWx1ZSA9IFRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGV4cGVjdGVkX2NhY2hlZF92YWx1ZSA9IHsKICAgICAgICAjICAgICAnY2hhbm5lbHMnOiBbCiAgICAgICAgIyAgICAgICAgIHsKICAgICAgICAjICAgICAgICAgICAgICdhcGlfY29kZSc6ICc3MycsCiAgICAgICAgIyAgICAgICAgICAgICAnY29udHJhY3Rvcic6ICdQYXlQYWwnLAogICAgICAgICMgICAgICAgICAgICAgJ2N1cnJlbmN5JzogJ1BMTicsCiAgICAgICAgIyAgICAgICAgICAgICAnaXNfYWN0aXZlJzogVHJ1ZSwKICAgICAgICAjICAgICAgICAgICAgICdpc19jdXJyZW5jeV9jb252ZXJ0ZWQnOiBGYWxzZSwKICAgICAgICAjICAgICAgICAgICAgICduYW1lJzogJ0JMSUsnLAogICAgICAgICMgICAgICAgICAgICAgJ29wZXJhdG9yJzogJ1BheVBhbCcKICAgICAgICAjICAgICAgICAgfQogICAgICAgICMgICAgIF0sCiAgICAgICAgIyAgICAgJ21lc3NhZ2UnOiAnT0snCiAgICAgICAgIyB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY2hhbm5lbHMgPSBnZXRfY2hhbm5lbHNfZm9yX2luY29taW5nX3BheW1lbnRfcmVxdWVzdChpbmNvbWluZ19wYXltZW50X3JlcXVlc3QpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50X2luLnJldHVybl92YWx1ZSA9IFRydWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnYXBwLnZhbGlkYXRpb25fcnVsZXMudmlld3MuZ2V0X2NoYW5uZWxzX2Zvcl9pbmNvbWluZ19wYXltZW50X3JlcXVlc3QnKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>channels,
-                        incoming_payment_request.method,
-                        incoming_payment_request.payment_provider,
-                        incoming_payment_request.currency):</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0aGlzIGFyZSBjaGFubmVsIG9iamVjdHMgIiwgY2hhbm5lbF9vYmplY3RzKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGNoYW5uZWxzKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgY29va2llID0gIiIgICMgZGF0YVsnY29va2llJ10K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgaXAgPSBkYXRhWydpcCddCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>test_payment_creation_success</last-search>
+      <last-search encoding="base64">XDxpc19jaGFubmVsX3ZhbGlkXD4=</last-search>
       <last-offset />
-      <last-pattern>test_payment_creation_success</last-pattern>
+      <last-pattern encoding="base64">XDxpc19jaGFubmVsX3ZhbGlkXD4=</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</entry>
         <entry>force</entry>
         <entry>celery</entry>
         <entry>rabbit</entry>
@@ -560,6 +567,7 @@
         <entry encoding="base64">XDxnZXRfY2hhbm5lbHNcPg==</entry>
         <entry>test_exceed</entry>
         <entry>test_payment_creation_success</entry>
+        <entry encoding="base64">XDxpc19jaGFubmVsX3ZhbGlkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -576,12 +584,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry>e</entry>
         <entry>qw</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>wq</entry>
         <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
