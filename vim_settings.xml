@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1554472253369">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1555666575377">
         <mark key="'" line="48" column="4" />
         <mark key="[" line="25" column="35" />
@@ -30,6 +33,9 @@
         <mark key="]" line="222" column="117" />
         <mark key="^" line="222" column="115" />
         <mark key="." line="222" column="117" />
+      </file>
+      <file name="/a.dummy" timestamp="1556004584487">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
         <mark key="'" line="8" column="38" />
@@ -208,6 +214,9 @@
         <mark key="." line="233" column="11" />
         <mark key="^" line="233" column="11" />
       </file>
+      <file name="/Python Console" timestamp="1554990999809">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" timestamp="1555586926642">
         <mark key="'" line="112" column="0" />
       </file>
@@ -246,12 +255,15 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556003945668">
-        <mark key="'" line="225" column="4" />
-        <mark key="[" line="35" column="3" />
-        <mark key="]" line="42" column="74" />
-        <mark key="^" line="42" column="74" />
-        <mark key="." line="42" column="74" />
+      <file name="/Django Console" timestamp="1553078928960">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556004708688">
+        <mark key="'" line="234" column="4" />
+        <mark key="[" line="126" column="68" />
+        <mark key="]" line="126" column="69" />
+        <mark key="^" line="126" column="69" />
+        <mark key="." line="126" column="69" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -263,8 +275,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1555404279648">
         <mark key="'" line="161" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1555572581129">
-        <mark key="'" line="54" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556004141926">
+        <mark key="'" line="27" column="20" />
         <mark key="[" line="65" column="4" />
         <mark key="]" line="65" column="9" />
         <mark key="^" line="65" column="9" />
@@ -293,6 +305,9 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1555588482966">
         <mark key="'" line="27" column="49" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555407889769">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555653760484">
         <mark key="'" line="577" column="4" />
@@ -351,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="20" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="283" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -451,49 +465,50 @@
       <jump line="135" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="75" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
       <jump line="51" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
+      <jump line="27" column="20" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>cookie</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>cookie</text>
       </register>
       <register name="/" type="4">
         <text>17</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZW50VHlwZS5vYmplY3RzLmNsZWFyX2NhY2hlKCkK</text>
+        <text encoding="base64">ICAgIGNvb2tpZV9kYXRhX2RlY29kZWQgPSByZWRpc19jb25uLmdldChjb29raWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2gub2JqZWN0KHRyYW5zYWN0aW9uLCAnb25fY29tbWl0JywgbW9jay5Nb2NrKCkgKWFzIGNvbW1pdDoK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb21taXQuY2FsbF9jb3VudCwgMSkK</text>
+        <text encoding="base64">ICAgIGNoYW5uZWxzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJzZW5kIGFjdGlvbnMiKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2gub2JqZWN0KHRyYW5zYWN0aW9uLCAnb25fY29tbWl0JywgbW9jay5Nb2NrKCkgKWFzIGNvbW1pdDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXMgPSBpbnN0YW5jZS52b3VjaGVyc19mb3JfcHVyY2hhc2VzLmFsbCgpCiAgICAgICAgIyBmb3IgdmZwIGluIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXM6CiAgICAgICAgIyAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb21taXQuY2FsbF9jb3VudCwgMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDMpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJzZW5kIGFjdGlvbnMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgxLCAyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -547,8 +562,8 @@
         <entry>qw</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
