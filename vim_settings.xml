@@ -43,6 +43,7 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/schemas.py" timestamp="1556005721568" />
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1555671019765">
         <mark key="'" line="135" column="24" />
         <mark key="[" line="131" column="52" />
@@ -258,12 +259,12 @@
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556004708688">
-        <mark key="'" line="234" column="4" />
-        <mark key="[" line="126" column="68" />
-        <mark key="]" line="126" column="69" />
-        <mark key="^" line="126" column="69" />
-        <mark key="." line="126" column="69" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556006072650">
+        <mark key="'" line="121" column="57" />
+        <mark key="[" line="126" column="53" />
+        <mark key="]" line="126" column="47" />
+        <mark key="^" line="126" column="68" />
+        <mark key="." line="126" column="47" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -275,12 +276,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1555404279648">
         <mark key="'" line="161" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556004141926">
-        <mark key="'" line="27" column="20" />
-        <mark key="[" line="65" column="4" />
-        <mark key="]" line="65" column="9" />
-        <mark key="^" line="65" column="9" />
-        <mark key="." line="65" column="9" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556005603692">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1555668960831">
         <mark key="'" line="36" column="28" />
@@ -366,9 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="283" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="258" column="1" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="245" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="238" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -465,17 +463,20 @@
       <jump line="135" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="75" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
       <jump line="51" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/tasks.py" />
-      <jump line="27" column="20" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="27" column="13" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="38" column="37" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="98" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="121" column="57" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cookie</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>cookie</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>17</text>
+        <text>Channel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvb2tpZV9kYXRhX2RlY29kZWQgPSByZWRpc19jb25uLmdldChjb29raWUpCg==</text>
@@ -512,9 +513,9 @@
       </register>
     </registers>
     <search>
-      <last-search>17</last-search>
+      <last-search>Channel</last-search>
       <last-offset />
-      <last-pattern>17</last-pattern>
+      <last-pattern>Channel</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -522,8 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrX2V4ZWN1dGlvbl90aW1lXD4=</entry>
-        <entry>timezo</entry>
         <entry>timezoen</entry>
         <entry>timezone</entry>
         <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
@@ -542,6 +541,8 @@
         <entry>auth</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
         <entry>17</entry>
+        <entry>channel</entry>
+        <entry>Channel</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
