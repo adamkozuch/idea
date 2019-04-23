@@ -13,8 +13,8 @@
         <mark key="^" line="88" column="44" />
         <mark key="." line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" timestamp="1556019292982">
-        <mark key="'" line="115" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" timestamp="1556030375561">
+        <mark key="'" line="240" column="8" />
         <mark key="[" line="136" column="0" />
         <mark key="]" line="144" column="17" />
         <mark key="^" line="148" column="61" />
@@ -47,7 +47,7 @@
         <mark key="^" line="222" column="115" />
         <mark key="." line="222" column="117" />
       </file>
-      <file name="/a.dummy" timestamp="1556004584487">
+      <file name="/a.dummy" timestamp="1556029464350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
@@ -248,12 +248,12 @@
         <mark key="." line="41" column="47" />
         <mark key="^" line="41" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1556026003063">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="113" column="55" />
-        <mark key="]" line="113" column="55" />
-        <mark key="." line="113" column="55" />
-        <mark key="^" line="83" column="31" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" timestamp="1556030548753">
+        <mark key="'" line="451" column="5" />
+        <mark key="[" line="92" column="35" />
+        <mark key="]" line="92" column="50" />
+        <mark key="." line="92" column="50" />
+        <mark key="^" line="92" column="50" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/paypal/test_provider.py" timestamp="1555056970253">
         <mark key="'" line="163" column="22" />
@@ -276,12 +276,12 @@
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556026603198">
-        <mark key="'" line="256" column="65" />
-        <mark key="[" line="50" column="49" />
-        <mark key="]" line="50" column="47" />
-        <mark key="^" line="50" column="47" />
-        <mark key="." line="50" column="47" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556030325978">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="57" column="61" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -293,12 +293,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1555404279648">
         <mark key="'" line="161" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556023458452">
-        <mark key="'" line="41" column="20" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="45" column="158" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556029100250">
+        <mark key="'" line="37" column="20" />
+        <mark key="^" line="41" column="158" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1555668960831">
         <mark key="'" line="36" column="28" />
@@ -381,22 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="438" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="440" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="447" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="458" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="460" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="466" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="476" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="488" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="502" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="505" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="507" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="511" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="514" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="519" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="523" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="526" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="531" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="534" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
@@ -456,9 +437,6 @@
       <jump line="431" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="436" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="456" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="74" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
@@ -469,9 +447,6 @@
       <jump line="64" column="15" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="125" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="83" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="87" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="92" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
@@ -481,55 +456,80 @@
       <jump line="253" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="260" column="65" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="126" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="124" column="36" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="194" column="11" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="219" column="30" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="779" column="24" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="81" column="29" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" />
+      <jump line="240" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" />
+      <jump line="856" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="7" column="5" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
+      <jump line="451" column="5" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsc1w+</text>
+        <text encoding="base64">XDxtb2NrXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc19jb25uLnNldCgnUFJPRCNQTE4jUEwnLCBwaWNrbGUuZHVtcHMoc2VsZi5jaGFubmVscykpCg==</text>
+      <register name="0" type="4">
+        <text>payment_with_valid_cached_payment_channel_return_200(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5jdXJyZW5jeSkK</text>
+      <register name="1" type="4">
+        <text>{'hash_codes': hash_codes,
+             'country': incoming_payment_request.country,
+             'domain': domain,
+             'currency': incoming_payment_request.currency}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdjaGFubmVscyByZXR1cm5lZCAnLCBjaGFubmVscykK</text>
+        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fdXJsKHBheW1lbnQpOgogICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JldHVybmVkX2NoYW5uZWxzX2FyZV9jb3JyZWN0KHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJjYWNoZWQgY2hhbm5lbHMgIiwgY2FjaGVkX2NoYW5uZWxzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5wYXltZW50X3Byb3ZpZGVyKQogICAgcHJpbnQoaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0Lm1ldGhvZCkKICAgIHByaW50KGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5jdXJyZW5jeSkKICAgIHByaW50KGNoYW5uZWxzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29kZScsIG9ialsnb3BlJ10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnYXBwLnZhbGlkYXRpb25fcnVsZXMudmlld3MuaXNfY2hhbm5lbF92YWxpZCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5jdXJyZW5jeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsX3ZhbGlkLnJldHVybl92YWx1ZSA9IFRydWUK</text>
+        <text encoding="base64">ICAgIHByaW50KCdjaGFubmVscyByZXR1cm5lZCAnLCBjaGFubmVscykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNoYW5uZWxzID0gc2VsZi5jaGFubmVscy5jb3B5KClbMF1bJ2N1cnJlbmN5J10gPSAnWFhYJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gc2VsZi5kYXRhLmNvcHkoKQogICAgICAgIGRhdGFbJ2N1cnJlbmN5J10gPSAnWFhYJwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJjYWNoZWQgY2hhbm5lbHMgIiwgY2FjaGVkX2NoYW5uZWxzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsc1w+</last-search>
+      <last-search encoding="base64">XDxtb2NrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxtb2NrXD4=</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>-1</last-dir>
@@ -537,8 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rabbit</entry>
-        <entry encoding="base64">XDxDZWxlcnlTZXR0aW5nc1w+</entry>
         <entry>task_exe</entry>
         <entry>create</entry>
         <entry>auth</entry>
@@ -557,6 +555,8 @@
         <entry encoding="base64">XDxpc19jaGFubmVsX3ZhbGlkXD4=</entry>
         <entry>test_missing</entry>
         <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
+        <entry encoding="base64">XDxnZXRfY2hhbm5lbHNfa2V5XD4=</entry>
+        <entry encoding="base64">XDxtb2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -576,8 +576,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>wq</entry>
-        <entry>action Switcher</entry>
         <entry>action Run</entry>
+        <entry>action Switcher</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
