@@ -13,10 +13,12 @@
         <mark key="^" line="88" column="44" />
         <mark key="." line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" timestamp="1556008924050">
-        <mark key="'" line="128" column="16" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="23" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" timestamp="1556017372841">
+        <mark key="'" line="136" column="16" />
+        <mark key="[" line="148" column="62" />
+        <mark key="]" line="148" column="61" />
+        <mark key="^" line="148" column="61" />
+        <mark key="." line="148" column="61" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/tasks.py" timestamp="1555394913520">
         <mark key="'" line="52" column="29" />
@@ -24,6 +26,12 @@
         <mark key="]" line="70" column="40" />
         <mark key="." line="44" column="12" />
         <mark key="^" line="44" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" timestamp="1556016966919">
+        <mark key="'" line="361" column="21" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="165" column="89" />
+        <mark key="." line="373" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/ansible/group_vars/all.yml" timestamp="1555336317778">
         <mark key="'" line="160" column="34" />
@@ -137,11 +145,6 @@
         <mark key="^" line="51" column="50" />
         <mark key="." line="51" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1555510457089">
-        <mark key="'" line="9" column="32" />
-        <mark key="[" line="294" column="79" />
-        <mark key="]" line="294" column="105" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
         <mark key="'" line="21" column="58" />
       </file>
@@ -219,15 +222,21 @@
       <file name="/Python Console" timestamp="1554990999809">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" timestamp="1555568360050">
+        <mark key="'" line="60" column="77" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" timestamp="1555586926642">
         <mark key="'" line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/run.py" timestamp="1556012363111">
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/run.py" timestamp="1556017087223">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="50" column="56" />
-        <mark key="]" line="50" column="77" />
-        <mark key="." line="50" column="77" />
-        <mark key="^" line="50" column="77" />
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="50" column="33" />
+        <mark key="." line="50" column="33" />
+        <mark key="^" line="50" column="33" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
@@ -267,12 +276,12 @@
       <file name="/Django Console" timestamp="1553078928960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556014313005">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="139" column="49" />
-        <mark key="]" line="139" column="49" />
-        <mark key="^" line="139" column="49" />
-        <mark key="." line="139" column="49" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556017574961">
+        <mark key="'" line="87" column="25" />
+        <mark key="[" line="249" column="83" />
+        <mark key="]" line="249" column="83" />
+        <mark key="^" line="249" column="83" />
+        <mark key="." line="249" column="83" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/ansible/roles/web/templates/generator.j2" timestamp="1554200148165">
         <mark key="'" line="352" column="4" />
@@ -284,12 +293,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1555404279648">
         <mark key="'" line="161" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556014855843">
-        <mark key="'" line="43" column="138" />
-        <mark key="[" line="43" column="114" />
-        <mark key="]" line="43" column="125" />
-        <mark key="^" line="53" column="39" />
-        <mark key="." line="43" column="114" />
+      <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556016999109">
+        <mark key="'" line="71" column="8" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1555668960831">
         <mark key="'" line="36" column="28" />
@@ -372,20 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="631" column="27" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="165" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="174" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="192" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="715" column="19" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="727" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="738" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="716" column="56" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="763" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="149" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="194" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
       <jump line="191" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/payments/test_views.py" />
@@ -472,66 +467,76 @@
       <jump line="67" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="43" column="138" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="164" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="198" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="20" column="11" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="74" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" />
+      <jump line="241" column="56" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="248" column="17" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="361" column="21" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/__init__.py" />
+      <jump line="136" column="16" filename="$USER_HOME$/projects/IT-GOLD/ppi/tests/validation_rules/test_views.py" />
+      <jump line="137" column="35" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="92" column="102" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
+      <jump line="87" column="25" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>hash_codes</text>
+        <text encoding="base64">XDxwcm9kdWN0X2dyb3Vwc19oYXNoX2lkc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>180next.com</text>
+        <text>discover('tests')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHJlZGlzX2Nvbm4K</text>
+        <text encoding="base64">ZnJvbSBtYXJzaG1hbGxvdy5jb21wYXQgaW1wb3J0IHVybHBhcnNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHJlZGlzX2Nvbm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">OgogICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwYXNzCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">OgogICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGVsc2U6CiAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hash_codes</last-search>
+      <last-search encoding="base64">XDxwcm9kdWN0X2dyb3Vwc19oYXNoX2lkc1w+</last-search>
       <last-offset />
-      <last-pattern>hash_codes</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9kdWN0X2dyb3Vwc19oYXNoX2lkc1w+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>timezone</entry>
-        <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
-        <entry>update</entry>
         <entry>update_sok</entry>
         <entry>Voucher</entry>
         <entry>VoucherFor</entry>
@@ -548,6 +553,10 @@
         <entry>channel</entry>
         <entry>Channel</entry>
         <entry>hash_codes</entry>
+        <entry encoding="base64">XDxnZXRfcmV0dXJuX3VybFw+</entry>
+        <entry>urlpar</entry>
+        <entry>test_blocked</entry>
+        <entry encoding="base64">XDxwcm9kdWN0X2dyb3Vwc19oYXNoX2lkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
