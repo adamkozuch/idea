@@ -178,6 +178,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1555404279648">
         <mark key="'" line="161" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556103668975">
+        <mark key="'" line="30" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556097232390">
         <mark key="'" line="37" column="19" />
         <mark key="[" line="28" column="85" />
@@ -213,8 +216,8 @@
         <mark key="'" line="57" column="60" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/requirements/local.txt" timestamp="1556098329951" />
-      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556101836191">
-        <mark key="'" line="47" column="72" />
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556103649780">
+        <mark key="'" line="44" column="53" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1555507548174" />
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" timestamp="1555334032827">
@@ -227,6 +230,9 @@
         <mark key="^" line="326" column="55" />
         <mark key="." line="326" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" timestamp="1556103717871">
+        <mark key="'" line="114" column="4" />
+      </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" timestamp="1555327409926">
         <mark key="'" line="117" column="0" />
       </file>
@@ -235,14 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="152" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="156" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="165" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -335,6 +333,14 @@
       <jump line="575" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="571" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="26" column="25" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/utils/history.py" />
+      <jump line="50" column="72" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" />
+      <jump line="47" column="107" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" />
+      <jump line="18" column="9" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" />
+      <jump line="44" column="53" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" />
+      <jump line="30" column="47" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" />
+      <jump line="60" column="4" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" />
+      <jump line="114" column="4" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -344,7 +350,7 @@
         <text>invalid</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2NrXD4=</text>
+        <text encoding="base64">XDxxdWVyeXNldFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUGF5bWVudCBhdHRlbXB0IGZyb20gJXM6IEludmFsaWQgSW5jb21pbmdQYXltZW50UmVxdWVzdC5cbiVzJywgYXBpX3VzZXIsIGpzb24uZHVtcHMoc2NoZW1hLmVycm9ycykpCgo=</text>
@@ -384,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2NrXD4=</last-search>
+      <last-search encoding="base64">XDxxdWVyeXNldFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2NrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxxdWVyeXNldFw+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>-1</last-dir>
@@ -394,8 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>task_exe</entry>
-        <entry>create</entry>
         <entry>auth</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
         <entry>17</entry>
@@ -414,6 +418,8 @@
         <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
         <entry encoding="base64">XDxnZXRfY2hhbm5lbHNfa2V5XD4=</entry>
         <entry encoding="base64">XDxtb2NrXD4=</entry>
+        <entry>action</entry>
+        <entry encoding="base64">XDxxdWVyeXNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
