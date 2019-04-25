@@ -305,7 +305,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556175002685">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556180862609">
         <mark key="'" line="66" column="28" />
         <mark key="[" line="94" column="44" />
         <mark key="]" line="94" column="50" />
@@ -459,7 +459,7 @@
         <text encoding="base64">ZGVmIGdldF9yZXR1cm5fdXJsKHBheW1lbnQpOgogICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -510,11 +510,11 @@
         <entry>e</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>wq</entry>
         <entry>action Run</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
