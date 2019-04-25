@@ -160,12 +160,12 @@
       <file name="/Python Console" timestamp="1556089524710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" timestamp="1556191129998">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" timestamp="1556193699886">
         <mark key="'" line="12" column="76" />
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="68" column="21" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
         <mark key="^" line="68" column="21" />
-        <mark key="." line="68" column="21" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" timestamp="1555586926642">
         <mark key="'" line="112" column="0" />
@@ -307,19 +307,15 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556191970907">
-        <mark key="'" line="64" column="16" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="83" column="28" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556193923587">
+        <mark key="'" line="68" column="24" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="68" column="38" />
+        <mark key="^" line="81" column="36" />
+        <mark key="." line="68" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="269" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="278" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="285" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="292" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="301" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="306" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -416,13 +412,17 @@
       <jump line="64" column="16" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="401" column="10" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/mdm_dictionaries/models.py" />
       <jump line="20" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/mdm_dictionaries/models.py" />
+      <jump line="80" column="26" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="68" column="24" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdGdW5jdGlvbiBmaW5pc2hlZCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgLm9iamVjdHMuY3JlYXRlKA==</text>
       </register>
       <register name="-" type="4">
-        <text>packing_list_element</text>
+        <text encoding="base64">ICMgLm9iamVjdHMuY3JlYXRlKA==</text>
       </register>
       <register name="/" type="4">
         <text>celery_monitor</text>
@@ -431,31 +431,31 @@
         <text encoding="base64">ICAgICAgICBza3Vfb2JqID0gc2t1X2lkc1twYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ3NrdV9oYXNoX2lkJyldICNTS1Uub2JqZWN0cy5nZXQoaGFzaF9pZD1wYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ3NrdV9oYXNoX2lkJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdGdW5jdGlvbiBmaW5pc2hlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgc2t1ICIsIGNvZGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG90LCBjcmVhdGVkKQo=</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RfbG90X2NvdW50cyA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luIHByb2R1Y3QgbG90JywgcHJvZHVjdF9sb3RfY29kZVsnY29kZSddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYWNraW5nX2xpc3RfZWxlbWVudCwgZWxlbWVudCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJUaGlzIGlzIHNrdSIsIHNrdV9vYmopCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJQcmludGFibGUgZW1lbmVudCBhZGRpbmcgbG90IGNvZGU6ICIsIGxvdF9jb2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGRvZXMgbm90IGV4ZWN1dGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHppcChwYWNraW5nX2xpc3QsIHJlc3VsdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjYW4gSSBvcHRpbWl6ZSB0aGlzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdGdW5jdGlvbiBmaW5pc2hlZCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG90LCBjcmVhdGVkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luIHByb2R1Y3QgbG90JywgcHJvZHVjdF9sb3RfY29kZVsnY29kZSddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
