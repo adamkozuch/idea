@@ -49,6 +49,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
         <mark key="'" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1556186364709" />
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/supervisor_celery_flower.j2" timestamp="1556179757365">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="21" />
@@ -94,11 +95,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients_emails.py" timestamp="1555652284201">
         <mark key="'" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/provision.yml" timestamp="1556179809845">
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/provision.yml" timestamp="1556186682830">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+        <mark key="[" line="111" column="30" />
+        <mark key="]" line="111" column="29" />
+        <mark key="." line="111" column="29" />
+        <mark key="^" line="111" column="29" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1556178756413">
         <mark key="'" line="499" column="0" />
@@ -305,7 +307,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556180862609">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556186352957">
         <mark key="'" line="66" column="28" />
         <mark key="[" line="94" column="44" />
         <mark key="]" line="94" column="50" />
@@ -417,16 +419,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>worker_1</text>
+        <text>worker_4</text>
       </register>
       <register name="-" type="4">
-        <text>worker_1</text>
+        <text>worker_4</text>
       </register>
       <register name="/" type="4">
         <text>celery_monitor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W3Byb2dyYW06Y2VsZXJ5X3dvcmtlcl8xXQpjb21tYW5kPXt7IHZpcnR1YWxlbnZfcGF0aCB9fS9iaW4vY2VsZXJ5X3dvcmtlcl8xLnNoCgphdXRvc3RhcnQ9dHJ1ZQphdXRvcmVzdGFydD10cnVlCgpyZWRpcmVjdF9zdGRlcnIgPSB0cnVlCmtpbGxhc2dyb3VwPXRydWUK</text>
+        <text encoding="base64">ICAgIC0gY2VsZXJ5X3dvcmtlcl80Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -459,7 +461,7 @@
         <text encoding="base64">ZGVmIGdldF9yZXR1cm5fdXJsKHBheW1lbnQpOgogICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Switcher</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -512,9 +514,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
