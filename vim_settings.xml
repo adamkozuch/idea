@@ -160,8 +160,12 @@
       <file name="/Python Console" timestamp="1556089524710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" timestamp="1556188814759">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" timestamp="1556191129998">
         <mark key="'" line="12" column="76" />
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="21" />
+        <mark key="^" line="68" column="21" />
+        <mark key="." line="68" column="21" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" timestamp="1555586926642">
         <mark key="'" line="112" column="0" />
@@ -303,12 +307,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556190173088">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556191970907">
         <mark key="'" line="64" column="16" />
-        <mark key="[" line="82" column="45" />
-        <mark key="]" line="82" column="56" />
-        <mark key="." line="82" column="56" />
-        <mark key="^" line="82" column="56" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="83" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -414,8 +418,8 @@
       <jump line="20" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/mdm_dictionaries/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>packing_list_element</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdGdW5jdGlvbiBmaW5pc2hlZCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>packing_list_element</text>
@@ -424,37 +428,37 @@
         <text>celery_monitor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gY2VsZXJ5X3dvcmtlcl80Cg==</text>
+        <text encoding="base64">ICAgICAgICBza3Vfb2JqID0gc2t1X2lkc1twYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ3NrdV9oYXNoX2lkJyldICNTS1Uub2JqZWN0cy5nZXQoaGFzaF9pZD1wYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ3NrdV9oYXNoX2lkJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdGdW5jdGlvbiBmaW5pc2hlZCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IFBhY2tpbmdMaXN0RWxlbWVudC5vYmplY3RzLmJ1bGtfY3JlYXRlKHBhY2tpbmdfZWxlbWVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG90LCBjcmVhdGVkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luIHByb2R1Y3QgbG90JywgcHJvZHVjdF9sb3RfY29kZVsnY29kZSddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJUaGlzIGlzIHNrdSIsIHNrdV9vYmopCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYWNraW5nX2xpc3RfZWxlbWVudCwgZWxlbWVudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJQcmludGFibGUgZW1lbmVudCBhZGRpbmcgbG90IGNvZGU6ICIsIGxvdF9jb2RlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHppcChwYWNraW5nX2xpc3QsIHJlc3VsdCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IENyZWF0ZSB0aGUgU3VwZXJ2aXNvciBjb25maWcgZmlsZSBmb3IgdGhlIGNlbGVyeSBtb25pdG9yIHNjcmlwdCBmaWxlCiAgICB0ZW1wbGF0ZTogc3JjPXN1cGVydmlzb3JfY2VsZXJ5X21vbml0b3IuY29uZi5qMgogICAgICAgICAgICAgIGRlc3Q9L2V0Yy9zdXBlcnZpc29yL2NvbmYuZC9jZWxlcnlfbW9uaXRvci5jb25mCiAgICAgICAgICAgICAgYmFja3VwPXllcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IENyZWF0ZSB0aGUgY2VsZXJ5IG1vbml0b3Igc2NyaXB0IGZpbGUKICAgIHRlbXBsYXRlOiBzcmM9dGVtcGxhdGVzL2NlbGVyeV9tb25pdG9yLmoyCiAgICAgICAgICAgICAgZGVzdD17eyB2aXJ0dWFsZW52X3BhdGggfX0vYmluL2NlbGVyeV9tb25pdG9yLnNoCiAgICAgICAgICAgICAgbW9kZT0wNzc1CiAgICAgICAgICAgICAgYmFja3VwPXllcwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -508,8 +512,8 @@
         <entry>wq</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
