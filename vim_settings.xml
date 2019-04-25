@@ -49,6 +49,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
         <mark key="'" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/supervisor_celery_flower.j2" timestamp="1556179757365">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/choices.py" timestamp="1555568275347">
         <mark key="'" line="3" column="23" />
         <mark key="[" line="6" column="50" />
@@ -69,17 +75,36 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" timestamp="1555658843975">
         <mark key="'" line="65" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/contractors/fixtures/contractors.json" timestamp="1556178588050" />
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/celery_monitor.j2" timestamp="1556176315493">
         <mark key="[" line="11" column="104" />
         <mark key="]" line="11" column="105" />
         <mark key="." line="11" column="105" />
         <mark key="^" line="11" column="105" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/celery_flower.j2" timestamp="1556179478610">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/utils.py" timestamp="1554880772947">
         <mark key="'" line="55" column="8" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients_emails.py" timestamp="1555652284201">
         <mark key="'" line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/provision.yml" timestamp="1556179809845">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1556178756413">
+        <mark key="'" line="499" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" timestamp="1555596215588">
         <mark key="'" line="249" column="37" />
@@ -177,6 +202,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1556102778676">
         <mark key="'" line="571" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/celery_worker_4.j2" timestamp="1556179380284">
+        <mark key="'" line="10" column="42" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="114" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/management/commands/fix_duplicated_accountings.py" timestamp="1556115092854">
         <mark key="[" line="32" column="81" />
         <mark key="]" line="32" column="81" />
@@ -233,11 +263,21 @@
         <mark key="." line="134" column="57" />
         <mark key="^" line="134" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/supervisor_celery_worker_1.j2" timestamp="1556179725397">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556103649780">
         <mark key="'" line="44" column="53" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/requirements/local.txt" timestamp="1556179661319">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="38" column="12" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/celery/app/base.py" timestamp="1555334032827">
         <mark key="'" line="96" column="8" />
@@ -274,11 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="220" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="223" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="231" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="241" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="246" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="251" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -374,67 +409,70 @@
       <jump line="160" column="50" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" />
       <jump line="66" column="28" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="12" column="76" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
+      <jump line="83" column="39" filename="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" />
+      <jump line="500" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/provision.yml" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/celery_worker_4.j2" />
+      <jump line="10" column="42" filename="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/celery_worker_4.j2" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>worker_1</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>worker_1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</text>
+        <text>celery_monitor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUGF5bWVudCBhdHRlbXB0IGZyb20gJXM6IEludmFsaWQgSW5jb21pbmdQYXltZW50UmVxdWVzdC5cbiVzJywgYXBpX3VzZXIsIGpzb24uZHVtcHMoc2NoZW1hLmVycm9ycykpCgo=</text>
+        <text encoding="base64">W3Byb2dyYW06Y2VsZXJ5X3dvcmtlcl8xXQpjb21tYW5kPXt7IHZpcnR1YWxlbnZfcGF0aCB9fS9iaW4vY2VsZXJ5X3dvcmtlcl8xLnNoCgphdXRvc3RhcnQ9dHJ1ZQphdXRvcmVzdGFydD10cnVlCgpyZWRpcmVjdF9zdGRlcnIgPSB0cnVlCmtpbGxhc2dyb3VwPXRydWUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAtIG5hbWU6IENyZWF0ZSB0aGUgU3VwZXJ2aXNvciBjb25maWcgZmlsZSBmb3IgdGhlIGNlbGVyeSBtb25pdG9yIHNjcmlwdCBmaWxlCiAgICB0ZW1wbGF0ZTogc3JjPXN1cGVydmlzb3JfY2VsZXJ5X21vbml0b3IuY29uZi5qMgogICAgICAgICAgICAgIGRlc3Q9L2V0Yy9zdXBlcnZpc29yL2NvbmYuZC9jZWxlcnlfbW9uaXRvci5jb25mCiAgICAgICAgICAgICAgYmFja3VwPXllcwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAtIG5hbWU6IENyZWF0ZSB0aGUgY2VsZXJ5IG1vbml0b3Igc2NyaXB0IGZpbGUKICAgIHRlbXBsYXRlOiBzcmM9dGVtcGxhdGVzL2NlbGVyeV9tb25pdG9yLmoyCiAgICAgICAgICAgICAgZGVzdD17eyB2aXJ0dWFsZW52X3BhdGggfX0vYmluL2NlbGVyeV9tb25pdG9yLnNoCiAgICAgICAgICAgICAgbW9kZT0wNzc1CiAgICAgICAgICAgICAgYmFja3VwPXllcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICdkamFuZ29fY2VsZXJ5X21vbml0b3InLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICdjZWxlcnlfbW9uaXRvci5Xb3JrZXJTdGF0ZScsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICdjZWxlcnlfbW9uaXRvci5UYXNrU3RhdGUnLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>{'hash_codes': hash_codes,
              'country': incoming_payment_request.country,
              'domain': domain,
              'currency': incoming_payment_request.currency}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fdXJsKHBheW1lbnQpOgogICAgcmV0dXJuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3JldHVybmVkX2NoYW5uZWxzX2FyZV9jb3JyZWN0KHNlbGYpOgogICAgICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5wYXltZW50X3Byb3ZpZGVyKQogICAgcHJpbnQoaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0Lm1ldGhvZCkKICAgIHByaW50KGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5jdXJyZW5jeSkKICAgIHByaW50KGNoYW5uZWxzKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnY29kZScsIG9ialsnb3BlJ10pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5jdXJyZW5jeSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdjaGFubmVscyByZXR1cm5lZCAnLCBjaGFubmVscykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fdXJsKHBheW1lbnQpOgogICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</last-search>
+      <last-search>celery_monitor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</last-pattern>
+      <last-pattern>celery_monitor</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>17</entry>
-        <entry>channel</entry>
         <entry>Channel</entry>
         <entry>hash_codes</entry>
         <entry encoding="base64">XDxnZXRfcmV0dXJuX3VybFw+</entry>
@@ -453,6 +491,8 @@
         <entry encoding="base64">XDxxdWVyeXNldFw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzX2FjdGlvblw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfcGFja2luZ19saXN0X3JlbGF0ZWRfb2JqZWN0c1w+</entry>
+        <entry>celery_moni</entry>
+        <entry>celery_monitor</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
