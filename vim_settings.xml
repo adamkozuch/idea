@@ -334,7 +334,7 @@
         <text encoding="base64">ICAgIHByb2R1Y3RfbG90X2NvdW50cyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
@@ -386,10 +386,10 @@
         <entry>qw</entry>
         <entry>wq</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
-        <entry>action Switcher</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
