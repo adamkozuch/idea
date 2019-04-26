@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" timestamp="1555658843975">
         <mark key="'" line="65" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/contractors/fixtures/contractors.json" timestamp="1556280167040" />
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/contractors/fixtures/contractors.json" timestamp="1556281105725" />
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/celery_monitor.j2" timestamp="1556176315493">
         <mark key="[" line="11" column="104" />
         <mark key="]" line="11" column="105" />
@@ -46,6 +46,9 @@
         <mark key="]" line="10" column="56" />
         <mark key="." line="10" column="56" />
         <mark key="^" line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" timestamp="1556281188514">
+        <mark key="'" line="118" column="35" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/utils.py" timestamp="1554880772947">
         <mark key="'" line="55" column="8" />
@@ -189,9 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="353" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="363" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="371" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="373" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="376" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -289,6 +289,9 @@
       <jump line="6" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="40" column="58" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" />
       <jump line="83" column="29" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
+      <jump line="13" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" />
+      <jump line="131" column="15" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" />
+      <jump line="118" column="35" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -298,7 +301,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>choices</text>
+        <text encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBza3Vfb2JqID0gc2t1X2lkc1twYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ3NrdV9oYXNoX2lkJyldCg==</text>
@@ -335,17 +338,16 @@
       </register>
     </registers>
     <search>
-      <last-search>choices</last-search>
+      <last-search encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</last-search>
       <last-offset />
-      <last-pattern>choices</last-pattern>
+      <last-pattern encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfcmV0dXJuX3VybFw+</entry>
         <entry>urlpar</entry>
         <entry>test_blocked</entry>
         <entry encoding="base64">XDxwcm9kdWN0X2dyb3Vwc19oYXNoX2lkc1w+</entry>
@@ -365,6 +367,7 @@
         <entry>celery_monitor</entry>
         <entry encoding="base64">XDxwYWNraW5nX2xpc3RfZWxlbWVudFw+</entry>
         <entry>choices</entry>
+        <entry encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
