@@ -307,18 +307,15 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556195994653">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="23" />
-        <mark key="^" line="78" column="23" />
-        <mark key="." line="78" column="23" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1556262254275">
+        <mark key="'" line="6" column="17" />
+        <mark key="[" line="86" column="96" />
+        <mark key="]" line="86" column="96" />
+        <mark key="^" line="86" column="96" />
+        <mark key="." line="86" column="96" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="330" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="335" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="340" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="343" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="347" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -416,6 +413,9 @@
       <jump line="105" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="61" column="69" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="82" column="15" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="86" column="46" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
+      <jump line="6" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -425,7 +425,7 @@
         <text>picking_list_objects</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWNraW5nX2xpc3RfZWxlbWVudFw+</text>
+        <text>choices</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBza3Vfb2JqID0gc2t1X2lkc1twYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ3NrdV9oYXNoX2lkJyldCg==</text>
@@ -462,17 +462,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYWNraW5nX2xpc3RfZWxlbWVudFw+</last-search>
+      <last-search>choices</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWNraW5nX2xpc3RfZWxlbWVudFw+</last-pattern>
+      <last-pattern>choices</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hash_codes</entry>
         <entry encoding="base64">XDxnZXRfcmV0dXJuX3VybFw+</entry>
         <entry>urlpar</entry>
         <entry>test_blocked</entry>
@@ -492,6 +491,7 @@
         <entry>celery_moni</entry>
         <entry>celery_monitor</entry>
         <entry encoding="base64">XDxwYWNraW5nX2xpc3RfZWxlbWVudFw+</entry>
+        <entry>choices</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
