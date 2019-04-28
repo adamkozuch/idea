@@ -2,14 +2,34 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" timestamp="1556443735700" />
+      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1556443777037">
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="26" />
+        <mark key="^" line="47" column="26" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>self</text>
+      </register>
+      <register name="-" type="4">
+        <text>self</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
