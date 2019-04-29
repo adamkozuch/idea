@@ -143,8 +143,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1556290350253">
-        <mark key="'" line="359" column="24" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1556519933240">
+        <mark key="'" line="228" column="23" />
         <mark key="[" line="233" column="11" />
         <mark key="]" line="233" column="11" />
         <mark key="." line="233" column="11" />
@@ -223,12 +223,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1556290496545">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/receivers.py" timestamp="1556519953107">
         <mark key="'" line="36" column="28" />
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="36" />
-        <mark key="." line="32" column="36" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
         <mark key="^" line="32" column="38" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/api/views.py" timestamp="1556097232390">
         <mark key="'" line="37" column="19" />
@@ -301,21 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="484" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="490" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="494" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="499" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="503" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="507" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="511" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="515" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="519" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="523" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="527" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="531" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="535" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="539" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="543" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="547" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="551" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -401,65 +386,77 @@
       <jump line="368" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="359" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="98" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" />
+      <jump line="451" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="404" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="398" column="48" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="382" column="15" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="379" column="35" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="165" column="18" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="62" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="43" column="35" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="29" column="29" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="0" column="3" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="458" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="64" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="232" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="330" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="228" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICMg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICMg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</text>
+        <text>Purchase.objects.cre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBza3Vfb2JqID0gc2t1X2lkc1twYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ3NrdV9oYXNoX2lkJyldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBwcmVmZXRjaF9yZWxhdGVkX29iamVjdHMK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ2NvdW50JykpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm9kdWN0X2xvdF9jb2RlcykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByZWZldGNoX3JlbGF0ZWRfb2JqZWN0cyhyZXN1bHQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBza3Vfb2JqID0gZWxlbWVudC5za3UK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBAcmVjZWl2ZXIocG9zdF9zYXZlLCBzZW5kZXI9UHVyY2hhc2UpCiMgZGVmIHNlbmRfYWN0aW9uX3RvX3BjYl9vbl9wdXJjaGFzZV9zYXZlKHNlbmRlciwgaW5zdGFuY2UsICoqa3dhcmdzKTogICMgcHlsaW50OiBkaXNhYmxlPXVudXNlZC1hcmd1bWVudAojICAgICAiIiJTZW5kIGFjdGlvbiB0byBQQ0IgYWZ0ZXIgc2F2aW5nIHJlbGF0ZWQgUHVyY2hhc2UuIiIiCiMgICAgIGRlZiBzZW5kX2FjdGlvbnMoKToKIyAgICAgICAgIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXMgPSBpbnN0YW5jZS52b3VjaGVyc19mb3JfcHVyY2hhc2VzLmFsbCgpCiMgICAgICAgICBmb3IgdmZwIGluIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXM6CiMgICAgICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCiMKIyAgICAgaWYgaW5zdGFuY2Uuc3RhdHVzID09IFB1cmNoYXNlU3RhdHVzLkNBTkNFTExFRDoKIyAgICAgICAgIHRyYW5zYWN0aW9uLm9uX2NvbW1pdChzZW5kX2FjdGlvbnMpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBwcmVmZXRjaF9yZWxhdGVkX29iamVjdHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChwYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ2NvdW50JykpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChwcm9kdWN0X2xvdF9jb2RlcykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChbaS5jb2RlIGZvciBpIGluIFNLVS5vYmplY3RzLmFsbCgpXSkK</text>
+        <text encoding="base64">ICAgIHByZWZldGNoX3JlbGF0ZWRfb2JqZWN0cyhyZXN1bHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlRoaXMgaXMgc2t1ICIsIGNvZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBza3Vfb2JqID0gZWxlbWVudC5za3UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RfbG90X2NvdW50cyA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Switcher</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</last-search>
+      <last-search>Purchase.objects.cre</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</last-pattern>
+      <last-pattern>Purchase.objects.cre</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test_blocked</entry>
-        <entry encoding="base64">XDxwcm9kdWN0X2dyb3Vwc19oYXNoX2lkc1w+</entry>
-        <entry encoding="base64">XDxnZXRfY2hhbm5lbHNcPg==</entry>
         <entry>test_exceed</entry>
         <entry>test_payment_creation_success</entry>
         <entry encoding="base64">XDxpc19jaGFubmVsX3ZhbGlkXD4=</entry>
@@ -477,6 +474,9 @@
         <entry>choices</entry>
         <entry encoding="base64">XDxWb3VjaGVyRm9yUHVyY2hhc2VcPg==</entry>
         <entry encoding="base64">XDx2b3VjaGVyX2Zvcl9hZGRpdGlvbmFsX3BheW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxQdXJjaGFzZVw+</entry>
+        <entry>Purchase.objects</entry>
+        <entry>Purchase.objects.cre</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -497,8 +497,8 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Switcher</entry>
         <entry>w</entry>
+        <entry>action Switcher</entry>
       </history-cmd>
       <history-expr />
       <history-input />
