@@ -98,8 +98,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
         <mark key="'" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" timestamp="1558422127459">
-        <mark key="'" line="3" column="18" />
+      <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" timestamp="1558423004917">
+        <mark key="'" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/rules_manager/signals.py" timestamp="1556280379429">
         <mark key="'" line="3" column="34" />
@@ -129,12 +129,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/urls.py" timestamp="1558421204455">
         <mark key="'" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" timestamp="1558422083105">
-        <mark key="'" line="611" column="37" />
-        <mark key="[" line="597" column="28" />
-        <mark key="]" line="597" column="28" />
-        <mark key="." line="597" column="28" />
-        <mark key="^" line="597" column="28" />
+      <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" timestamp="1558423458670">
+        <mark key="'" line="614" column="0" />
+        <mark key="[" line="612" column="37" />
+        <mark key="]" line="612" column="27" />
+        <mark key="." line="612" column="27" />
+        <mark key="^" line="612" column="27" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
@@ -238,52 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="16" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="401" column="10" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/mdm_dictionaries/models.py" />
-      <jump line="20" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/mdm_dictionaries/models.py" />
-      <jump line="80" column="26" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="68" column="24" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="83" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="75" column="25" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="81" column="26" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="61" column="69" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="82" column="15" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="86" column="46" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="6" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="40" column="58" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" />
-      <jump line="83" column="29" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
-      <jump line="13" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" />
-      <jump line="131" column="15" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" />
-      <jump line="118" column="35" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" />
-      <jump line="45" column="18" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="14" column="37" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="281" column="97" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="280" column="93" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="249" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="142" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="139" column="43" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="119" column="100" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="118" column="96" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="40" column="18" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/clean.py" />
-      <jump line="313" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="299" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="167" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="368" column="16" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="359" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/clients/models.py" />
-      <jump line="451" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="404" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="398" column="48" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="382" column="15" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="379" column="35" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="165" column="18" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="62" column="20" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="43" column="35" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="29" column="29" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
-      <jump line="0" column="3" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="458" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="64" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="232" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
@@ -330,7 +284,6 @@
       <jump line="225" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
       <jump line="111" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
       <jump line="189" column="28" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="8" column="18" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" />
       <jump line="44" column="34" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/admin.py" />
       <jump line="16" column="24" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/urls.py" />
       <jump line="496" column="18" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
@@ -338,13 +291,60 @@
       <jump line="543" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
       <jump line="611" column="37" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
       <jump line="3" column="18" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" />
+      <jump line="9" column="22" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" />
+      <jump line="81" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1150049403/-1484110450/requests/auth.py" />
+      <jump line="8" column="19" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" />
+      <jump line="364" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1150049403/-1484110450/requests/sessions.py" />
+      <jump line="4" column="29" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" />
+      <jump line="17" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1150049403/-1484110450/zeep/transports.py" />
+      <jump line="406" column="67" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="242" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="259" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="282" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="294" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="322" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="341" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="343" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="362" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="409" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="411" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="427" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="445" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="452" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="464" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="470" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="474" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="479" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="485" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="490" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="498" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="502" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="507" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="515" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="519" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="524" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="532" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="536" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="541" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="549" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="565" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="578" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="593" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="600" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="641" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="627" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="614" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TransportOrderPdfView</text>
+        <text>ype</text>
       </register>
       <register name="-" type="4">
-        <text>TransportOrderPdfView</text>
+        <text>ype</text>
       </register>
       <register name="/" type="4">
         <text>DispatchOrderCrea</text>
@@ -353,31 +353,31 @@
         <text encoding="base64">Y2xhc3MgVHJhbnNwb3J0T3JkZXJQZGZWaWV3KExvZ2luUmVxdWlyZWRNaXhpbiwgRGV0YWlsVmlldyk6CiAgICBkZWYgX2dldF9kb2N1bWVudHMoc2VsZik6CiAgICAgICAgY2xpZW50ID0gZ2V0X3dzZGxfY2xpZW50KCkKICAgICAgICByZWZlcmVuY2VfdHlwZSA9ICJEV0IiCiAgICAgICAgZG9jdW1lbnRfdHlwZSA9IHNlbGYua3dhcmdzWydkb2N1bWVudF90eXBlJ10KICAgICAgICByZWZlcmVuY2VfbnVtYmVyID0gc2VsZi5rd2FyZ3NbJ29yZGVyX2lkJ10KCiAgICAgICAgaWYgKHNlbGYua3dhcmdzWydwcm9kdWN0J10gPT0gVHJhbnNwb3J0T3JkZXIuREJTX1BBUkNFTFMgYW5kCiAgICAgICAgICAgICAgICAgICAgc2VsZi5rd2FyZ3NbJ2RvY3VtZW50X3R5cGUnXSA9PSAnTFAnKToKICAgICAgICAgICAgcmVmZXJlbmNlX3R5cGUgPSAiWkROTk8iCiAgICAgICAgICAgIGRvY3VtZW50X3R5cGUgPSAiWkROIgogICAgICAgICAgICB6ZG4gPSBjbGllbnQuc2VydmljZS5jcmVhdGVaRE4oCiAgICAgICAgICAgICAgICB3YXliTm9zPXNlbGYua3dhcmdzWydvcmRlcl9pZCddCiAgICAgICAgICAgICkKICAgICAgICAgICAgaWYgZGljdCh6ZG4uX192YWx1ZXNfXykuZ2V0KCdzdGF0dXNDb2RlJykgPT0gJ09LJzoKICAgICAgICAgICAgICAgIHJlZmVyZW5jZV9udW1iZXIgPSBkaWN0KHpkbi5fX3ZhbHVlc19fKS5nZXQoJ3pkbk5vJykKICAgICAgICBpZiByZWZlcmVuY2VfbnVtYmVyOgogICAgICAgICAgICByZXR1cm4gY2xpZW50LnNlcnZpY2UuZ2V0RG9jdW1lbnRzKAogICAgICAgICAgICAgICAgcmVmZXJlbmNlVHlwZT1yZWZlcmVuY2VfdHlwZSwKICAgICAgICAgICAgICAgIHJlZmVyZW5jZU51bWJlcj1yZWZlcmVuY2VfbnVtYmVyLAogICAgICAgICAgICAgICAgdHlwZT1kb2N1bWVudF90eXBlCiAgICAgICAgICAgICkKCiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgZXJyb3JfcmVkaXJlY3QgPSBIdHRwUmVzcG9uc2VSZWRpcmVjdCgKICAgICAgICAgICAgcmVxdWVzdC5NRVRBLmdldCgKICAgICAgICAgICAgICAgICdIVFRQX1JFRkVSRVInLCAnLycpICsgIj9wZGZfZXJyb3I9dHJ1ZSIpCiAgICAgICAgZmlsZV9uYW1lID0gJ3tmaWxlbmFtZX1fe2RvY3VtZW50X3R5cGV9LnBkZicuZm9ybWF0KAogICAgICAgICAgICBmaWxlbmFtZT1rd2FyZ3NbJ29yZGVyX2lkJ10sCiAgICAgICAgICAgIGRvY3VtZW50X3R5cGU9a3dhcmdzWydkb2N1bWVudF90eXBlJ10ubG93ZXIoKQogICAgICAgICkKICAgICAgICBwZGZfZGlyID0gb3MucGF0aC5qb2luKHNldHRpbmdzLk1FRElBX1JPT1QsICJwZGYiKQogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwZGZfZGlyKToKICAgICAgICAgICAgb3MubWFrZWRpcnMocGRmX2RpcikKICAgICAgICBmaWxlX2RpciA9IG9zLnBhdGguam9pbihwZGZfZGlyLCBmaWxlX25hbWUpCgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShmaWxlX2Rpcik6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGRvY3VtZW50cyA9IHNlbGYuX2dldF9kb2N1bWVudHMoKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJFcnJvciB3aGlsZSBnZXR0aW5nIHBkZiBkb2N1bWVudHMgZm9yICVzICVzIiwgZmlsZV9uYW1lLCBlKQogICAgICAgICAgICAgICAgcmV0dXJuIGVycm9yX3JlZGlyZWN0CiAgICAgICAgICAgIGlmIGRvY3VtZW50czoKICAgICAgICAgICAgICAgIHdpdGggb3BlbihmaWxlX2RpciwgJ3diJykgYXMgZjoKICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGRvY3VtZW50cykKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCJObyBwZGYgZG9jdW1lbnRzIGZvciAlcyIsIGZpbGVfbmFtZSkKICAgICAgICAgICAgICAgIHJldHVybiBlcnJvcl9yZWRpcmVjdAogICAgICAgIHJldHVybiBGaWxlUmVzcG9uc2Uob3BlbihmaWxlX2RpciwgJ3JiJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL3BkZicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZmVyZW5jZU51bWJlcj1yZWZlcmVuY2VfbnVtYmVyLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfcGF5bWVudF9jaGFubmVsc19mb3JfaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0KGluY29taW5nX3BheW1lbnRfcmVxdWVzdCk6CiAgICBoYXNoX2NvZGVzID0gW29ialsnaGFzaGNvZGUnXSBmb3Igb2JqIGluIGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5wcm9kdWN0c10KICAgIGRvbWFpbiA9IHVybHBhcnNlKGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5wYXltZW50X29yaWdpbl91cmwpLm5ldGxvYwoKICAgIGNhY2hlZF9rZXkgPSBnZXRfY2hhbm5lbHNfa2V5KGhhc2hfY29kZXMsIGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5jdXJyZW5jeSwgaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmNvdW50cnksIGRvbWFpbikKICAgIGNhY2hlZF9jaGFubmVscyA9IHJlZGlzX2Nvbm4uZ2V0KGNhY2hlZF9rZXkpCiAgICBpZiBjYWNoZWRfY2hhbm5lbHM6CiAgICAgICAgbG9nZ2VyLmluZm8oZiJDYWNoZWQgcGF5bWVudCBjaGFubmVscyByZXR1cm5lZCBmb3Ige2luY29taW5nX3BheW1lbnRfcmVxdWVzdH0iKQogICAgICAgIHJldHVybiBwaWNrbGUubG9hZHMoY2FjaGVkX2NoYW5uZWxzKQogICAgZWxzZToKICAgICAgICBkYXRhID0geydoYXNoX2NvZGVzJzogaGFzaF9jb2RlcywKICAgICAgICAgICAgICAgICdjb3VudHJ5JzogaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmNvdW50cnksCiAgICAgICAgICAgICAgICAnZG9tYWluJzogZG9tYWluLAogICAgICAgICAgICAgICAgJ2N1cnJlbmN5JzogaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmN1cnJlbmN5fQogICAgICAgIHJldHVybiBnZXRfYXZhaWxhYmxlX2NoYW5uZWxzKGRhdGEsICJObyBjb29raWUiKVsnY2hhbm5lbHMnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU9ZG9jdW1lbnRfdHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfcGF5bWVudF9jaGFubmVsc19mb3JfaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0KGluY29taW5nX3BheW1lbnRfcmVxdWVzdCk6CiAgICBoYXNoX2NvZGVzID0gW29ialsnaGFzaGNvZGUnXSBmb3Igb2JqIGluIGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5wcm9kdWN0c10KICAgIGRvbWFpbiA9IHVybHBhcnNlKGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5wYXltZW50X29yaWdpbl91cmwpLm5ldGxvYwoKICAgIGNhY2hlZF9rZXkgPSBnZXRfY2hhbm5lbHNfa2V5KGhhc2hfY29kZXMsIGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5jdXJyZW5jeSwgaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmNvdW50cnksIGRvbWFpbikKICAgIGNhY2hlZF9jaGFubmVscyA9IHJlZGlzX2Nvbm4uZ2V0KGNhY2hlZF9rZXkpCiAgICBpZiBjYWNoZWRfY2hhbm5lbHM6CiAgICAgICAgbG9nZ2VyLmluZm8oZiJDYWNoZWQgcGF5bWVudCBjaGFubmVscyByZXR1cm5lZCBmb3Ige2luY29taW5nX3BheW1lbnRfcmVxdWVzdH0iKQogICAgICAgIHJldHVybiBwaWNrbGUubG9hZHMoY2FjaGVkX2NoYW5uZWxzKQogICAgZWxzZToKICAgICAgICBkYXRhID0geydoYXNoX2NvZGVzJzogaGFzaF9jb2RlcywKICAgICAgICAgICAgICAgICdjb3VudHJ5JzogaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmNvdW50cnksCiAgICAgICAgICAgICAgICAnZG9tYWluJzogZG9tYWluLAogICAgICAgICAgICAgICAgJ2N1cnJlbmN5JzogaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmN1cnJlbmN5fQogICAgICAgIHJldHVybiBnZXRfYXZhaWxhYmxlX2NoYW5uZWxzKGRhdGEsICJObyBjb29raWUiKVsnY2hhbm5lbHMnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBAcmVjZWl2ZXIocG9zdF9zYXZlLCBzZW5kZXI9UHVyY2hhc2UpCiMgZGVmIHNlbmRfYWN0aW9uX3RvX3BjYl9vbl9wdXJjaGFzZV9zYXZlKHNlbmRlciwgaW5zdGFuY2UsICoqa3dhcmdzKTogICMgcHlsaW50OiBkaXNhYmxlPXVudXNlZC1hcmd1bWVudAojICAgICAiIiJTZW5kIGFjdGlvbiB0byBQQ0IgYWZ0ZXIgc2F2aW5nIHJlbGF0ZWQgUHVyY2hhc2UuIiIiCiMgICAgIGRlZiBzZW5kX2FjdGlvbnMoKToKIyAgICAgICAgIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXMgPSBpbnN0YW5jZS52b3VjaGVyc19mb3JfcHVyY2hhc2VzLmFsbCgpCiMgICAgICAgICBmb3IgdmZwIGluIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXM6CiMgICAgICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCiMKIyAgICAgaWYgaW5zdGFuY2Uuc3RhdHVzID09IFB1cmNoYXNlU3RhdHVzLkNBTkNFTExFRDoKIyAgICAgICAgIHRyYW5zYWN0aW9uLm9uX2NvbW1pdChzZW5kX2FjdGlvbnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBwcmVmZXRjaF9yZWxhdGVkX29iamVjdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ2NvdW50JykpCg==</text>
+        <text encoding="base64">IyBAcmVjZWl2ZXIocG9zdF9zYXZlLCBzZW5kZXI9UHVyY2hhc2UpCiMgZGVmIHNlbmRfYWN0aW9uX3RvX3BjYl9vbl9wdXJjaGFzZV9zYXZlKHNlbmRlciwgaW5zdGFuY2UsICoqa3dhcmdzKTogICMgcHlsaW50OiBkaXNhYmxlPXVudXNlZC1hcmd1bWVudAojICAgICAiIiJTZW5kIGFjdGlvbiB0byBQQ0IgYWZ0ZXIgc2F2aW5nIHJlbGF0ZWQgUHVyY2hhc2UuIiIiCiMgICAgIGRlZiBzZW5kX2FjdGlvbnMoKToKIyAgICAgICAgIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXMgPSBpbnN0YW5jZS52b3VjaGVyc19mb3JfcHVyY2hhc2VzLmFsbCgpCiMgICAgICAgICBmb3IgdmZwIGluIHZvdWNoZXJzX2Zvcl9wdXJjaGFzZXM6CiMgICAgICAgICAgICAgY3JlYXRlX2FjdGlvbl9pbl9wY2JfZm9yX3ZmcC5kZWxheSh2ZnAuaWQpCiMKIyAgICAgaWYgaW5zdGFuY2Uuc3RhdHVzID09IFB1cmNoYXNlU3RhdHVzLkNBTkNFTExFRDoKIyAgICAgICAgIHRyYW5zYWN0aW9uLm9uX2NvbW1pdChzZW5kX2FjdGlvbnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm9kdWN0X2xvdF9jb2RlcykK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBwcmVmZXRjaF9yZWxhdGVkX29iamVjdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByZWZldGNoX3JlbGF0ZWRfb2JqZWN0cyhyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ2NvdW50JykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
