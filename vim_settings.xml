@@ -43,6 +43,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
         <mark key="'" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/admin.py" timestamp="1558420514357">
+        <mark key="'" line="44" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/choices.py" timestamp="1555568275347">
         <mark key="'" line="3" column="23" />
         <mark key="[" line="6" column="50" />
@@ -95,6 +98,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
         <mark key="'" line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" timestamp="1558422127459">
+        <mark key="'" line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/rules_manager/signals.py" timestamp="1556280379429">
         <mark key="'" line="3" column="34" />
       </file>
@@ -119,6 +125,16 @@
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/models.py" timestamp="1555666316451">
         <mark key="'" line="916" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/urls.py" timestamp="1558421204455">
+        <mark key="'" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" timestamp="1558422083105">
+        <mark key="'" line="611" column="37" />
+        <mark key="[" line="597" column="28" />
+        <mark key="]" line="597" column="28" />
+        <mark key="." line="597" column="28" />
+        <mark key="^" line="597" column="28" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
@@ -222,14 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="50" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" />
-      <jump line="66" column="28" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
-      <jump line="12" column="76" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/tests/test_packing_list_reservation.py" />
-      <jump line="83" column="39" filename="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="500" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/provision.yml" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/celery_worker_4.j2" />
-      <jump line="10" column="42" filename="$USER_HOME$/projects/IT-GOLD/paycross21/utility/ansible/templates/celery_worker_4.j2" />
       <jump line="64" column="16" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
       <jump line="401" column="10" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/mdm_dictionaries/models.py" />
       <jump line="20" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/mdm_dictionaries/models.py" />
@@ -322,19 +330,27 @@
       <jump line="225" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
       <jump line="111" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
       <jump line="189" column="28" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="8" column="18" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" />
+      <jump line="44" column="34" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/admin.py" />
+      <jump line="16" column="24" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/urls.py" />
+      <jump line="496" column="18" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="545" column="19" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="543" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="611" column="37" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
+      <jump line="3" column="18" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/utils/wsdl.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UgPQo=</text>
+      <register name="&quot;" type="4">
+        <text>TransportOrderPdfView</text>
       </register>
       <register name="-" type="4">
-        <text>message,</text>
+        <text>TransportOrderPdfView</text>
       </register>
       <register name="/" type="4">
         <text>DispatchOrderCrea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBza3Vfb2JqID0gc2t1X2lkc1twYWNraW5nX2xpc3RfZWxlbWVudC5nZXQoJ3NrdV9oYXNoX2lkJyldCg==</text>
+        <text encoding="base64">Y2xhc3MgVHJhbnNwb3J0T3JkZXJQZGZWaWV3KExvZ2luUmVxdWlyZWRNaXhpbiwgRGV0YWlsVmlldyk6CiAgICBkZWYgX2dldF9kb2N1bWVudHMoc2VsZik6CiAgICAgICAgY2xpZW50ID0gZ2V0X3dzZGxfY2xpZW50KCkKICAgICAgICByZWZlcmVuY2VfdHlwZSA9ICJEV0IiCiAgICAgICAgZG9jdW1lbnRfdHlwZSA9IHNlbGYua3dhcmdzWydkb2N1bWVudF90eXBlJ10KICAgICAgICByZWZlcmVuY2VfbnVtYmVyID0gc2VsZi5rd2FyZ3NbJ29yZGVyX2lkJ10KCiAgICAgICAgaWYgKHNlbGYua3dhcmdzWydwcm9kdWN0J10gPT0gVHJhbnNwb3J0T3JkZXIuREJTX1BBUkNFTFMgYW5kCiAgICAgICAgICAgICAgICAgICAgc2VsZi5rd2FyZ3NbJ2RvY3VtZW50X3R5cGUnXSA9PSAnTFAnKToKICAgICAgICAgICAgcmVmZXJlbmNlX3R5cGUgPSAiWkROTk8iCiAgICAgICAgICAgIGRvY3VtZW50X3R5cGUgPSAiWkROIgogICAgICAgICAgICB6ZG4gPSBjbGllbnQuc2VydmljZS5jcmVhdGVaRE4oCiAgICAgICAgICAgICAgICB3YXliTm9zPXNlbGYua3dhcmdzWydvcmRlcl9pZCddCiAgICAgICAgICAgICkKICAgICAgICAgICAgaWYgZGljdCh6ZG4uX192YWx1ZXNfXykuZ2V0KCdzdGF0dXNDb2RlJykgPT0gJ09LJzoKICAgICAgICAgICAgICAgIHJlZmVyZW5jZV9udW1iZXIgPSBkaWN0KHpkbi5fX3ZhbHVlc19fKS5nZXQoJ3pkbk5vJykKICAgICAgICBpZiByZWZlcmVuY2VfbnVtYmVyOgogICAgICAgICAgICByZXR1cm4gY2xpZW50LnNlcnZpY2UuZ2V0RG9jdW1lbnRzKAogICAgICAgICAgICAgICAgcmVmZXJlbmNlVHlwZT1yZWZlcmVuY2VfdHlwZSwKICAgICAgICAgICAgICAgIHJlZmVyZW5jZU51bWJlcj1yZWZlcmVuY2VfbnVtYmVyLAogICAgICAgICAgICAgICAgdHlwZT1kb2N1bWVudF90eXBlCiAgICAgICAgICAgICkKCiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgZXJyb3JfcmVkaXJlY3QgPSBIdHRwUmVzcG9uc2VSZWRpcmVjdCgKICAgICAgICAgICAgcmVxdWVzdC5NRVRBLmdldCgKICAgICAgICAgICAgICAgICdIVFRQX1JFRkVSRVInLCAnLycpICsgIj9wZGZfZXJyb3I9dHJ1ZSIpCiAgICAgICAgZmlsZV9uYW1lID0gJ3tmaWxlbmFtZX1fe2RvY3VtZW50X3R5cGV9LnBkZicuZm9ybWF0KAogICAgICAgICAgICBmaWxlbmFtZT1rd2FyZ3NbJ29yZGVyX2lkJ10sCiAgICAgICAgICAgIGRvY3VtZW50X3R5cGU9a3dhcmdzWydkb2N1bWVudF90eXBlJ10ubG93ZXIoKQogICAgICAgICkKICAgICAgICBwZGZfZGlyID0gb3MucGF0aC5qb2luKHNldHRpbmdzLk1FRElBX1JPT1QsICJwZGYiKQogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwZGZfZGlyKToKICAgICAgICAgICAgb3MubWFrZWRpcnMocGRmX2RpcikKICAgICAgICBmaWxlX2RpciA9IG9zLnBhdGguam9pbihwZGZfZGlyLCBmaWxlX25hbWUpCgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShmaWxlX2Rpcik6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGRvY3VtZW50cyA9IHNlbGYuX2dldF9kb2N1bWVudHMoKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJFcnJvciB3aGlsZSBnZXR0aW5nIHBkZiBkb2N1bWVudHMgZm9yICVzICVzIiwgZmlsZV9uYW1lLCBlKQogICAgICAgICAgICAgICAgcmV0dXJuIGVycm9yX3JlZGlyZWN0CiAgICAgICAgICAgIGlmIGRvY3VtZW50czoKICAgICAgICAgICAgICAgIHdpdGggb3BlbihmaWxlX2RpciwgJ3diJykgYXMgZjoKICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGRvY3VtZW50cykKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCJObyBwZGYgZG9jdW1lbnRzIGZvciAlcyIsIGZpbGVfbmFtZSkKICAgICAgICAgICAgICAgIHJldHVybiBlcnJvcl9yZWRpcmVjdAogICAgICAgIHJldHVybiBGaWxlUmVzcG9uc2Uob3BlbihmaWxlX2RpciwgJ3JiJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL3BkZicpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UgPQo=</text>
