@@ -30,8 +30,8 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1555671019765">
-        <mark key="'" line="135" column="24" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1558612391127">
+        <mark key="'" line="72" column="38" />
         <mark key="[" line="131" column="52" />
         <mark key="]" line="131" column="75" />
         <mark key="^" line="131" column="75" />
@@ -65,6 +65,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/api/v1/serializers.py" timestamp="1558602056793" />
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/admin.py" timestamp="1558420514357">
         <mark key="'" line="44" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" timestamp="1558612714333">
+        <mark key="'" line="103" column="30" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/attachments/choices.py" timestamp="1555568275347">
         <mark key="'" line="3" column="23" />
@@ -267,12 +270,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/django/db/models/fields/subclassing.py" timestamp="1558531165275">
         <mark key="'" line="48" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1555653760484">
-        <mark key="'" line="577" column="4" />
-        <mark key="[" line="134" column="54" />
-        <mark key="]" line="134" column="57" />
-        <mark key="." line="134" column="57" />
-        <mark key="^" line="134" column="57" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1558612851713">
+        <mark key="'" line="175" column="15" />
+        <mark key="[" line="184" column="55" />
+        <mark key="]" line="184" column="54" />
+        <mark key="." line="184" column="54" />
+        <mark key="^" line="184" column="54" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/test.py" timestamp="1558592724578">
         <mark key="[" line="5" column="27" />
@@ -344,17 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="259" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="282" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="294" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="322" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="341" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="343" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="362" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="409" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="411" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
-      <jump line="427" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
       <jump line="445" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
       <jump line="452" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
       <jump line="464" column="0" filename="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" />
@@ -444,6 +436,17 @@
       <jump line="147" column="21" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" />
       <jump line="145" column="21" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" />
       <jump line="44" column="21" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" />
+      <jump line="124" column="41" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/tasks.py" />
+      <jump line="28" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="175" column="15" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="72" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="127" column="4" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/mysql/connector/__init__.py" />
+      <jump line="122" column="17" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
+      <jump line="91" column="17" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
+      <jump line="606" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
+      <jump line="103" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
+      <jump line="200" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/django/conf/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -453,7 +456,7 @@
         <text>self.data['token']</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">XDxjb25uZWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb3VudHJ5X2NvZGVfbWFwcGluZyA9IHsKICAgICAgICAgICAgJ0FTTV9FU18xJzogewogICAgICAgICAgICAgICAgJ1JlbWl0ZW50ZSc6ICczNCcsCiAgICAgICAgICAgICAgICAnRGVzdGluYXRhcmlvJzogJzM0JwogICAgICAgICAgICB9LAogICAgICAgICAgICAnQVNNX0VTXzInOiB7CiAgICAgICAgICAgICAgICAnUmVtaXRlbnRlJzogJzM0JywKICAgICAgICAgICAgICAgICdEZXN0aW5hdGFyaW8nOiAnMzUxJwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
@@ -490,17 +493,16 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">XDxjb25uZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uZWN0XD4=</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>celery_moni</entry>
         <entry>celery_monitor</entry>
         <entry encoding="base64">XDxwYWNraW5nX2xpc3RfZWxlbWVudFw+</entry>
         <entry>choices</entry>
@@ -520,6 +522,7 @@
         <entry>NextTerra</entry>
         <entry>logout</entry>
         <entry>login</entry>
+        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
