@@ -20,6 +20,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
         <mark key="'" line="8" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/patron/client.py" timestamp="1558595849881">
+        <mark key="[" line="73" column="74" />
+        <mark key="]" line="73" column="93" />
+        <mark key="^" line="73" column="93" />
+        <mark key="." line="73" column="93" />
+      </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
@@ -286,7 +292,7 @@
         <mark key="^" line="112" column="96" />
         <mark key="." line="112" column="96" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/common.py" timestamp="1558595189097">
+      <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/common.py" timestamp="1558595757463">
         <mark key="'" line="23" column="27" />
         <mark key="[" line="384" column="42" />
         <mark key="]" line="384" column="46" />
@@ -398,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>encrypted_login</text>
+        <text>login</text>
       </register>
       <register name="-" type="4">
-        <text>encrypted_login</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTSVRFX1JPT1RcPg==</text>
