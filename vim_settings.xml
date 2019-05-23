@@ -220,12 +220,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1556102778676">
         <mark key="'" line="571" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" timestamp="1558593151835">
-        <mark key="'" line="151" column="27" />
-        <mark key="[" line="114" column="25" />
-        <mark key="]" line="114" column="39" />
-        <mark key="^" line="114" column="39" />
-        <mark key="." line="114" column="39" />
+      <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" timestamp="1558606712516">
+        <mark key="'" line="150" column="27" />
+        <mark key="[" line="113" column="72" />
+        <mark key="]" line="113" column="72" />
+        <mark key="^" line="113" column="40" />
+        <mark key="." line="113" column="72" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" timestamp="1558602015943">
         <mark key="'" line="293" column="49" />
@@ -447,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>auth_token</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>auth_token</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
@@ -459,31 +459,31 @@
         <text encoding="base64">ICAgICAgICBjb3VudHJ5X2NvZGVfbWFwcGluZyA9IHsKICAgICAgICAgICAgJ0FTTV9FU18xJzogewogICAgICAgICAgICAgICAgJ1JlbWl0ZW50ZSc6ICczNCcsCiAgICAgICAgICAgICAgICAnRGVzdGluYXRhcmlvJzogJzM0JwogICAgICAgICAgICB9LAogICAgICAgICAgICAnQVNNX0VTXzInOiB7CiAgICAgICAgICAgICAgICAnUmVtaXRlbnRlJzogJzM0JywKICAgICAgICAgICAgICAgICdEZXN0aW5hdGFyaW8nOiAnMzUxJwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaW50byAicmVzcG9uc2VbJ3Rva2VuJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGVuY3J5cHRlZF9sb2dpbiA9IHNlbGYuY3J5cHQuZW5jcnlwdChsb2dpbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW50byAicmVzcG9uc2VbJ3Rva2VuJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzWydTZXJ2aWNlJ11bJ090aGVyJ10gKz0gW3snQ29kZSc6ICdWQ0hSJ30sIHsnQ29kZSc6ICdJTlYnfV0gIyBub3QgYWx3YXlzIGFzc2lnbmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW4K</text>
+        <text encoding="base64">ICAgICAgICB0YWdzWydTZXJ2aWNlJ11bJ090aGVyJ10gKz0gW3snQ29kZSc6ICdWQ0hSJ30sIHsnQ29kZSc6ICdJTlYnfV0gIyBub3QgYWx3YXlzIGFzc2lnbmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5tYW5hZ2VtZW50IGltcG9ydCBzZXR1cF9lbnZpcm9uCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5tYW5hZ2VtZW50IGltcG9ydCBzZXR1cF9lbnZpcm9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
