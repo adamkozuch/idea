@@ -40,6 +40,12 @@
         <mark key="^" line="48" column="99" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/views.py" timestamp="1558592091130">
+        <mark key="[" line="106" column="83" />
+        <mark key="]" line="106" column="83" />
+        <mark key="^" line="106" column="83" />
+        <mark key="." line="106" column="83" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
         <mark key="'" line="4" column="0" />
       </file>
@@ -69,6 +75,9 @@
         <mark key="]" line="65" column="60" />
         <mark key="^" line="65" column="60" />
         <mark key="." line="65" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
+        <mark key="'" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" timestamp="1556281188514">
         <mark key="'" line="118" column="35" />
@@ -183,6 +192,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1556102778676">
         <mark key="'" line="571" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" timestamp="1558593151835">
+        <mark key="'" line="151" column="27" />
+        <mark key="[" line="114" column="25" />
+        <mark key="]" line="114" column="39" />
+        <mark key="^" line="114" column="39" />
+        <mark key="." line="114" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/dev.py" timestamp="1558528757023">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -221,6 +237,12 @@
         <mark key="]" line="134" column="57" />
         <mark key="." line="134" column="57" />
         <mark key="^" line="134" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/test.py" timestamp="1558592724578">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556279318191">
         <mark key="'" line="40" column="58" />
@@ -273,25 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="31" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="117" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="119" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
       <jump line="124" column="0" filename="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" />
@@ -373,13 +376,32 @@
       <jump line="48" column="39" filename="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/django/db/models/fields/subclassing.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/django/db/models/fields/subclassing.py" />
       <jump line="51" column="36" filename="$USER_HOME$/projects/IT-GOLD/treasury/project/utils/choices.py" />
+      <jump line="17" column="29" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" />
+      <jump line="97" column="29" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="181" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="187" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="190" column="0" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="172" column="24" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
+      <jump line="151" column="27" filename="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>encrypted_login</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>encrypted_login</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTSVRFX1JPT1RcPg==</text>
@@ -388,31 +410,31 @@
         <text encoding="base64">Y2xhc3MgVHJhbnNwb3J0T3JkZXJQZGZWaWV3KExvZ2luUmVxdWlyZWRNaXhpbiwgRGV0YWlsVmlldyk6CiAgICBkZWYgX2dldF9kb2N1bWVudHMoc2VsZik6CiAgICAgICAgY2xpZW50ID0gZ2V0X3dzZGxfY2xpZW50KCkKICAgICAgICByZWZlcmVuY2VfdHlwZSA9ICJEV0IiCiAgICAgICAgZG9jdW1lbnRfdHlwZSA9IHNlbGYua3dhcmdzWydkb2N1bWVudF90eXBlJ10KICAgICAgICByZWZlcmVuY2VfbnVtYmVyID0gc2VsZi5rd2FyZ3NbJ29yZGVyX2lkJ10KCiAgICAgICAgaWYgKHNlbGYua3dhcmdzWydwcm9kdWN0J10gPT0gVHJhbnNwb3J0T3JkZXIuREJTX1BBUkNFTFMgYW5kCiAgICAgICAgICAgICAgICAgICAgc2VsZi5rd2FyZ3NbJ2RvY3VtZW50X3R5cGUnXSA9PSAnTFAnKToKICAgICAgICAgICAgcmVmZXJlbmNlX3R5cGUgPSAiWkROTk8iCiAgICAgICAgICAgIGRvY3VtZW50X3R5cGUgPSAiWkROIgogICAgICAgICAgICB6ZG4gPSBjbGllbnQuc2VydmljZS5jcmVhdGVaRE4oCiAgICAgICAgICAgICAgICB3YXliTm9zPXNlbGYua3dhcmdzWydvcmRlcl9pZCddCiAgICAgICAgICAgICkKICAgICAgICAgICAgaWYgZGljdCh6ZG4uX192YWx1ZXNfXykuZ2V0KCdzdGF0dXNDb2RlJykgPT0gJ09LJzoKICAgICAgICAgICAgICAgIHJlZmVyZW5jZV9udW1iZXIgPSBkaWN0KHpkbi5fX3ZhbHVlc19fKS5nZXQoJ3pkbk5vJykKICAgICAgICBpZiByZWZlcmVuY2VfbnVtYmVyOgogICAgICAgICAgICByZXR1cm4gY2xpZW50LnNlcnZpY2UuZ2V0RG9jdW1lbnRzKAogICAgICAgICAgICAgICAgcmVmZXJlbmNlVHlwZT1yZWZlcmVuY2VfdHlwZSwKICAgICAgICAgICAgICAgIHJlZmVyZW5jZU51bWJlcj1yZWZlcmVuY2VfbnVtYmVyLAogICAgICAgICAgICAgICAgdHlwZT1kb2N1bWVudF90eXBlCiAgICAgICAgICAgICkKCiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgZXJyb3JfcmVkaXJlY3QgPSBIdHRwUmVzcG9uc2VSZWRpcmVjdCgKICAgICAgICAgICAgcmVxdWVzdC5NRVRBLmdldCgKICAgICAgICAgICAgICAgICdIVFRQX1JFRkVSRVInLCAnLycpICsgIj9wZGZfZXJyb3I9dHJ1ZSIpCiAgICAgICAgZmlsZV9uYW1lID0gJ3tmaWxlbmFtZX1fe2RvY3VtZW50X3R5cGV9LnBkZicuZm9ybWF0KAogICAgICAgICAgICBmaWxlbmFtZT1rd2FyZ3NbJ29yZGVyX2lkJ10sCiAgICAgICAgICAgIGRvY3VtZW50X3R5cGU9a3dhcmdzWydkb2N1bWVudF90eXBlJ10ubG93ZXIoKQogICAgICAgICkKICAgICAgICBwZGZfZGlyID0gb3MucGF0aC5qb2luKHNldHRpbmdzLk1FRElBX1JPT1QsICJwZGYiKQogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwZGZfZGlyKToKICAgICAgICAgICAgb3MubWFrZWRpcnMocGRmX2RpcikKICAgICAgICBmaWxlX2RpciA9IG9zLnBhdGguam9pbihwZGZfZGlyLCBmaWxlX25hbWUpCgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShmaWxlX2Rpcik6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGRvY3VtZW50cyA9IHNlbGYuX2dldF9kb2N1bWVudHMoKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJFcnJvciB3aGlsZSBnZXR0aW5nIHBkZiBkb2N1bWVudHMgZm9yICVzICVzIiwgZmlsZV9uYW1lLCBlKQogICAgICAgICAgICAgICAgcmV0dXJuIGVycm9yX3JlZGlyZWN0CiAgICAgICAgICAgIGlmIGRvY3VtZW50czoKICAgICAgICAgICAgICAgIHdpdGggb3BlbihmaWxlX2RpciwgJ3diJykgYXMgZjoKICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGRvY3VtZW50cykKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCJObyBwZGYgZG9jdW1lbnRzIGZvciAlcyIsIGZpbGVfbmFtZSkKICAgICAgICAgICAgICAgIHJldHVybiBlcnJvcl9yZWRpcmVjdAogICAgICAgIHJldHVybiBGaWxlUmVzcG9uc2Uob3BlbihmaWxlX2RpciwgJ3JiJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL3BkZicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5tYW5hZ2VtZW50IGltcG9ydCBzZXR1cF9lbnZpcm9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwaG9uZW51bWJlcl9maWVsZC5tb2RlbGZpZWxkcyBpbXBvcnQgUGhvbmVOdW1iZXJGaWVsZAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwaG9uZW51bWJlcl9maWVsZC5tb2RlbGZpZWxkcyBpbXBvcnQgUGhvbmVOdW1iZXJGaWVsZAoKCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZmVyZW5jZU51bWJlcj1yZWZlcmVuY2VfbnVtYmVyLAo=</text>
+        <text encoding="base64">ZnJvbSBwaG9uZW51bWJlcl9maWVsZC5tb2RlbGZpZWxkcyBpbXBvcnQgUGhvbmVOdW1iZXJGaWVsZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU9ZG9jdW1lbnRfdHlwZQo=</text>
+        <text encoding="base64">ZnJvbSBwaG9uZW51bWJlcl9maWVsZC5tb2RlbGZpZWxkcyBpbXBvcnQgUGhvbmVOdW1iZXJGaWVsZAoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UgPQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS51cmxyZXNvbHZlcnMgaW1wb3J0IHJldmVyc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfcGF5bWVudF9jaGFubmVsc19mb3JfaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0KGluY29taW5nX3BheW1lbnRfcmVxdWVzdCk6CiAgICBoYXNoX2NvZGVzID0gW29ialsnaGFzaGNvZGUnXSBmb3Igb2JqIGluIGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5wcm9kdWN0c10KICAgIGRvbWFpbiA9IHVybHBhcnNlKGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5wYXltZW50X29yaWdpbl91cmwpLm5ldGxvYwoKICAgIGNhY2hlZF9rZXkgPSBnZXRfY2hhbm5lbHNfa2V5KGhhc2hfY29kZXMsIGluY29taW5nX3BheW1lbnRfcmVxdWVzdC5jdXJyZW5jeSwgaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmNvdW50cnksIGRvbWFpbikKICAgIGNhY2hlZF9jaGFubmVscyA9IHJlZGlzX2Nvbm4uZ2V0KGNhY2hlZF9rZXkpCiAgICBpZiBjYWNoZWRfY2hhbm5lbHM6CiAgICAgICAgbG9nZ2VyLmluZm8oZiJDYWNoZWQgcGF5bWVudCBjaGFubmVscyByZXR1cm5lZCBmb3Ige2luY29taW5nX3BheW1lbnRfcmVxdWVzdH0iKQogICAgICAgIHJldHVybiBwaWNrbGUubG9hZHMoY2FjaGVkX2NoYW5uZWxzKQogICAgZWxzZToKICAgICAgICBkYXRhID0geydoYXNoX2NvZGVzJzogaGFzaF9jb2RlcywKICAgICAgICAgICAgICAgICdjb3VudHJ5JzogaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmNvdW50cnksCiAgICAgICAgICAgICAgICAnZG9tYWluJzogZG9tYWluLAogICAgICAgICAgICAgICAgJ2N1cnJlbmN5JzogaW5jb21pbmdfcGF5bWVudF9yZXF1ZXN0LmN1cnJlbmN5fQogICAgICAgIHJldHVybiBnZXRfYXZhaWxhYmxlX2NoYW5uZWxzKGRhdGEsICJObyBjb29raWUiKVsnY2hhbm5lbHMnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZmVyZW5jZU51bWJlcj1yZWZlcmVuY2VfbnVtYmVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -466,10 +488,10 @@
         <entry>qw</entry>
         <entry>wq</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Switcher</entry>
         <entry>e</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
