@@ -280,12 +280,12 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" timestamp="1558606607746">
+      <file name="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" timestamp="1558610509426">
         <mark key="'" line="44" column="21" />
-        <mark key="[" line="115" column="36" />
-        <mark key="]" line="115" column="40" />
-        <mark key="." line="115" column="40" />
-        <mark key="^" line="115" column="40" />
+        <mark key="[" line="115" column="26" />
+        <mark key="]" line="115" column="133" />
+        <mark key="." line="115" column="133" />
+        <mark key="^" line="115" column="133" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556279318191">
         <mark key="'" line="40" column="58" />
@@ -447,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>self.data['token']</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>self.data['token']</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
