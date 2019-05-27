@@ -50,7 +50,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/treasury/tr1/local/lib/python2.7/site-packages/django_patron_v2/client.py" timestamp="1558698030826" />
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/views.py" timestamp="1558700688281">
         <mark key="'" line="175" column="28" />
         <mark key="[" line="173" column="32" />
@@ -163,7 +162,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/urls.py" timestamp="1558421204455">
         <mark key="'" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/user_profile/models.py" timestamp="1558700234915" />
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" timestamp="1558441521734">
         <mark key="'" line="549" column="0" />
         <mark key="[" line="477" column="14" />
@@ -204,7 +202,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/templates/partials/menu.html" timestamp="1558700536182" />
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/forms.py" timestamp="1558700402090">
         <mark key="'" line="93" column="50" />
         <mark key="[" line="93" column="0" />
@@ -343,12 +340,12 @@
         <mark key="^" line="112" column="96" />
         <mark key="." line="112" column="96" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/common.py" timestamp="1558698054949">
+      <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/common.py" timestamp="1558941677630">
         <mark key="'" line="170" column="12" />
-        <mark key="[" line="384" column="42" />
-        <mark key="]" line="384" column="46" />
-        <mark key="^" line="384" column="46" />
-        <mark key="." line="384" column="46" />
+        <mark key="[" line="170" column="51" />
+        <mark key="]" line="170" column="51" />
+        <mark key="^" line="170" column="51" />
+        <mark key="." line="170" column="51" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/views.py" timestamp="1558701215462">
         <mark key="'" line="29" column="54" />
@@ -457,11 +454,11 @@
       <jump line="172" column="22" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>if PATRON_ENABLED else 'project.apps.vault.middlewares.LoginRequiredMiddleware',</text>
       </register>
       <register name="-" type="4">
-        <text>en during logout ', self.auth_token)</text>
+        <text>if PATRON_ENABLED else 'project.apps.vault.middlewares.LoginRequiredMiddleware',</text>
       </register>
       <register name="/" type="4">
         <text>token_e</text>
