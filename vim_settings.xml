@@ -115,6 +115,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1558700570750">
         <mark key="'" line="30" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/custom.py" timestamp="1558965105651">
+        <mark key="[" line="85" column="20" />
+        <mark key="]" line="85" column="20" />
+        <mark key="." line="85" column="20" />
+        <mark key="^" line="85" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1558951843277">
         <mark key="'" line="306" column="22" />
         <mark key="[" line="321" column="22" />
@@ -188,9 +194,6 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/config/urls.py" timestamp="1558950947772">
         <mark key="[" line="8" column="59" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
       </file>
       <file name="/Python Console" timestamp="1558950951963">
         <mark key="[" line="0" column="0" />
@@ -251,11 +254,6 @@
         <mark key="]" line="113" column="72" />
         <mark key="^" line="113" column="40" />
         <mark key="." line="113" column="72" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" timestamp="1558696631282">
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/dev.py" timestamp="1558696966123">
         <mark key="'" line="39" column="23" />
@@ -337,6 +335,13 @@
         <mark key="^" line="326" column="55" />
         <mark key="." line="326" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" timestamp="1558965634375">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="185" column="29" />
+        <mark key="]" line="185" column="29" />
+        <mark key="." line="185" column="29" />
+        <mark key="^" line="512" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" timestamp="1556106987139">
         <mark key="'" line="68" column="24" />
       </file>
@@ -370,21 +375,14 @@
         <mark key="^" line="170" column="51" />
         <mark key="." line="170" column="51" />
       </file>
+      <file name="$USER_HOME$/file.py" timestamp="1558962188515">
+        <mark key="'" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/views.py" timestamp="1558701215462">
         <mark key="'" line="29" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="889" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="886" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="879" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="861" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="874" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="871" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="867" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="878" column="53" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="277" column="45" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="40" column="13" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/statics.py" />
       <jump line="873" column="42" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="864" column="18" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="362" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
@@ -475,66 +473,72 @@
       <jump line="11" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
       <jump line="78" column="50" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
       <jump line="116" column="38" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/client.py" />
+      <jump line="252" column="19" filename="$USER_HOME$/file.py" />
+      <jump line="2" column="23" filename="$USER_HOME$/file.py" />
+      <jump line="412" column="32" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="167" column="25" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="4" column="21" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="187" column="21" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="411" column="28" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="520" column="3" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="185" column="29" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WARNING</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>WARNING</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>kozucj</text>
+        <text encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ1dBUk5JTkcnLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhcmNlbF9pZCcsCiAgICAgICAgICAgICdkZWxpdmVyeV9pZCcsCiAgICAgICAgICAgICd0cmFja2luZ19udW1iZXInLAogICAgICAgICAgICAnc3RhdHVzX3J3X3BhcmNlbCcsCiAgICAgICAgICAgICdzdGF0dXNfY2hlY2tpbmdfZGF0ZScsCiAgICAgICAgICAgICdmaW5hbF9zdGF0dXMnLAogICAgICAgICAgICAnc2VudF9kYXRlJywKICAgICAgICAgICAgJ2xvZ2lzdGljX2NvbXBhbnknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mi52aWV3cyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nb19wYXRyb25fdjIuY2xpZW50JzogewogICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gbG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mi52aWV3cyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nb19wYXRyb25fdjIuY2xpZW50JzogewogICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlCiAgICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoImFkYW0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdhZGFtIEtvenVjaCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBsID0gbG9nZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICcnOiB7CiAgICAgICAgIyAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICMgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgIyAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUKICAgICAgICAjIH0sCg==</text>
+        <text encoding="base64">cHJpbnQoImFkYW0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdhZGFtIEtvenVjaCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kozucj</last-search>
+      <last-search encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>kozucj</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NextTerra</entry>
-        <entry>login</entry>
-        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry encoding="base64">XDxvdGhlcl9cPg==</entry>
         <entry>patron</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -551,6 +555,10 @@
         <entry>kozuchj</entry>
         <entry>in lo</entry>
         <entry>kozucj</entry>
+        <entry>modifi</entry>
+        <entry>sett</entry>
+        <entry encoding="base64">XDx1cGRhdGVkX2F0XD4=</entry>
+        <entry encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
@@ -569,9 +577,9 @@
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
         <entry>action Run</entry>
-        <entry>q</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
