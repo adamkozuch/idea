@@ -115,7 +115,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1558700570750">
         <mark key="'" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/custom.py" timestamp="1558965105651">
+      <file name="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/custom.py" timestamp="1558966233472">
+        <mark key="'" line="68" column="24" />
         <mark key="[" line="85" column="20" />
         <mark key="]" line="85" column="20" />
         <mark key="." line="85" column="20" />
@@ -335,12 +336,12 @@
         <mark key="^" line="326" column="55" />
         <mark key="." line="326" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" timestamp="1558965634375">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="185" column="29" />
-        <mark key="]" line="185" column="29" />
-        <mark key="." line="185" column="29" />
-        <mark key="^" line="512" column="3" />
+      <file name="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" timestamp="1558966259568">
+        <mark key="'" line="186" column="20" />
+        <mark key="[" line="186" column="20" />
+        <mark key="]" line="186" column="20" />
+        <mark key="." line="186" column="20" />
+        <mark key="^" line="511" column="3" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" timestamp="1556106987139">
         <mark key="'" line="68" column="24" />
@@ -383,11 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="873" column="42" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="864" column="18" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
-      <jump line="362" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="293" column="49" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="73" column="39" filename="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/patron/client.py" />
       <jump line="117" column="32" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/views.py" />
       <jump line="133" column="8" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/patron/client.py" />
       <jump line="138" column="12" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/patron/client.py" />
@@ -483,6 +479,11 @@
       <jump line="520" column="3" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
       <jump line="185" column="29" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="68" column="24" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/custom.py" />
+      <jump line="192" column="8" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="512" column="0" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
+      <jump line="186" column="20" filename="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
