@@ -115,12 +115,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1558700570750">
         <mark key="'" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1558950224424">
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1558951843277">
         <mark key="'" line="306" column="22" />
-        <mark key="[" line="321" column="25" />
-        <mark key="]" line="321" column="28" />
-        <mark key="." line="321" column="28" />
-        <mark key="^" line="321" column="28" />
+        <mark key="[" line="321" column="22" />
+        <mark key="]" line="321" column="26" />
+        <mark key="." line="321" column="26" />
+        <mark key="^" line="321" column="26" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/models.py" timestamp="1556290100846">
         <mark key="'" line="249" column="37" />
@@ -176,17 +176,23 @@
         <mark key="." line="477" column="20" />
         <mark key="^" line="477" column="20" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/client.py" timestamp="1558948828205">
-        <mark key="'" line="19" column="16" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="8" />
-        <mark key="." line="174" column="8" />
-        <mark key="^" line="9" column="33" />
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/client.py" timestamp="1558951330046">
+        <mark key="'" line="116" column="38" />
+        <mark key="[" line="173" column="15" />
+        <mark key="]" line="173" column="23" />
+        <mark key="." line="173" column="23" />
+        <mark key="^" line="173" column="23" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1558949515050">
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/config/urls.py" timestamp="1558950947772">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+      </file>
+      <file name="/Python Console" timestamp="1558950951963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1558949507528">
@@ -369,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="894" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="889" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="886" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
       <jump line="879" column="0" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" />
@@ -469,55 +474,56 @@
       <jump line="113" column="41" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
       <jump line="11" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
       <jump line="78" column="50" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
+      <jump line="116" column="38" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OR</text>
+        <text>WARNING</text>
       </register>
       <register name="-" type="4">
-        <text>OR</text>
+        <text>WARNING</text>
       </register>
       <register name="/" type="4">
-        <text>Logout</text>
+        <text>kozucj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ1dBUk5JTkcnLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mi52aWV3cyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nb19wYXRyb25fdjIuY2xpZW50JzogewogICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gbG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mi52aWV3cyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nb19wYXRyb25fdjIuY2xpZW50JzogewogICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlCiAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoImFkYW0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdhZGFtIEtvenVjaCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBsID0gbG9nZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICcnOiB7CiAgICAgICAgIyAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICMgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgIyAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUKICAgICAgICAjIH0sCg==</text>
+        <text encoding="base64">cHJpbnQoImFkYW0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdhZGFtIEtvenVjaCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LVhtczEyOG0KLVhteDc1MG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCi1YWDorVXNlQ29uY01hcmtTd2VlcEdDCi1YWDpTb2Z0UmVmTFJVUG9saWN5TVNQZXJNQj01MAotZWEKLURzdW4uaW8udXNlQ2Fub25DYWNoZXM9ZmFsc2UKLURqYXZhLm5ldC5wcmVmZXJJUHY0U3RhY2s9dHJ1ZQotRGpkay5odHRwLmF1dGgudHVubmVsaW5nLmRpc2FibGVkU2NoZW1lcz0iIgotWFg6K0hlYXBEdW1wT25PdXRPZk1lbW9yeUVycm9yCi1YWDotT21pdFN0YWNrVHJhY2VJbkZhc3RUaHJvdwotRGF3dC51c2VTeXN0ZW1BQUZvbnRTZXR0aW5ncz1sY2QKLURzdW4uamF2YTJkLnJlbmRlcmVyPXN1bi5qYXZhMmQubWFybGluLk1hcmxpblJlbmRlcmluZ0VuZ2luZQo=</text>
+        <text encoding="base64">ICAgICAgICAjICcnOiB7CiAgICAgICAgIyAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICMgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgIyAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUKICAgICAgICAjIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Logout</last-search>
+      <last-search>kozucj</last-search>
       <last-offset />
-      <last-pattern>Logout</last-pattern>
+      <last-pattern>kozucj</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -525,8 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTRUNSRVRfRklMRVw+</entry>
-        <entry encoding="base64">XDxTSVRFX1JPT1RcPg==</entry>
         <entry>NextTerra</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
@@ -542,9 +546,11 @@
         <entry>token_e</entry>
         <entry>logging</entry>
         <entry>log</entry>
-        <entry>in lo</entry>
         <entry>logout</entry>
         <entry>Logout</entry>
+        <entry>kozuchj</entry>
+        <entry>in lo</entry>
+        <entry>kozucj</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
