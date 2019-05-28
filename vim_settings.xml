@@ -276,8 +276,8 @@
         <mark key="'" line="30" column="62" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/mockshopvouchers/mockshop/api_clients/krab.py" timestamp="1559049462551" />
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1559044900836">
-        <mark key="'" line="72" column="26" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1559049748713">
+        <mark key="'" line="29" column="31" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/statics.py" timestamp="1558599053815">
         <mark key="'" line="6" column="0" />
@@ -379,11 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="21" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" />
-      <jump line="44" column="21" filename="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" />
-      <jump line="124" column="41" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/tasks.py" />
-      <jump line="28" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
-      <jump line="175" column="15" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="32" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
       <jump line="72" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="127" column="4" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/mysql/connector/__init__.py" />
@@ -479,6 +474,11 @@
       <jump line="1" column="29" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/urls.py" />
       <jump line="72" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
       <jump line="4" column="18" filename="$USER_HOME$/projects/IT-GOLD/mockshopvouchers/mockshop/api_clients/__init__.py" />
+      <jump line="54" column="64" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="570" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="48" column="64" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="393" column="10" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
+      <jump line="29" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
