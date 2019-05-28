@@ -199,6 +199,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" timestamp="1559051797523">
+        <mark key="'" line="156" column="6" />
+        <mark key="[" line="168" column="17" />
+        <mark key="]" line="169" column="23" />
+        <mark key="^" line="169" column="23" />
+        <mark key="." line="169" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/config/urls.py" timestamp="1558950947772">
         <mark key="[" line="8" column="59" />
       </file>
@@ -276,14 +283,20 @@
         <mark key="'" line="30" column="62" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/mockshopvouchers/mockshop/api_clients/krab.py" timestamp="1559049462551" />
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1559049748713">
-        <mark key="'" line="29" column="31" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1559051922868">
+        <mark key="'" line="26" column="34" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/statics.py" timestamp="1558599053815">
         <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/django/db/models/fields/subclassing.py" timestamp="1558531165275">
         <mark key="'" line="48" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/views.py" timestamp="1559052174894">
+        <mark key="[" line="311" column="16" />
+        <mark key="]" line="311" column="36" />
+        <mark key="." line="311" column="36" />
+        <mark key="^" line="311" column="36" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1558613655518">
         <mark key="'" line="175" column="15" />
@@ -293,9 +306,6 @@
         <mark key="^" line="184" column="54" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/dispatchorders/views.py" timestamp="1559043348947" />
-      <file name="$USER_HOME$/projects/IT-GOLD/treasury/tr1/lib/python2.7/site-packages/django_patron_v2/client.py" timestamp="1558946071971">
-        <mark key="^" line="107" column="22" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556279318191">
         <mark key="'" line="40" column="58" />
       </file>
@@ -379,13 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
-      <jump line="72" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
-      <jump line="127" column="4" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/mysql/connector/__init__.py" />
-      <jump line="122" column="17" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
-      <jump line="91" column="17" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
-      <jump line="606" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" />
-      <jump line="103" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
       <jump line="200" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/django/conf/__init__.py" />
       <jump line="239" column="29" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
       <jump line="236" column="13" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
@@ -474,69 +477,74 @@
       <jump line="1" column="29" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/urls.py" />
       <jump line="72" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
       <jump line="4" column="18" filename="$USER_HOME$/projects/IT-GOLD/mockshopvouchers/mockshop/api_clients/__init__.py" />
-      <jump line="54" column="64" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
       <jump line="570" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="48" column="64" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
       <jump line="393" column="10" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/views.py" />
       <jump line="29" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="35" column="73" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="38" column="101" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="52" column="107" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="54" column="53" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="27" column="54" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
+      <jump line="156" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
+      <jump line="26" column="34" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>body</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</text>
+        <text>Create Purchase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ1dBUk5JTkcnLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BhcmNlbF9pZCcsCiAgICAgICAgICAgICdkZWxpdmVyeV9pZCcsCiAgICAgICAgICAgICd0cmFja2luZ19udW1iZXInLAogICAgICAgICAgICAnc3RhdHVzX3J3X3BhcmNlbCcsCiAgICAgICAgICAgICdzdGF0dXNfY2hlY2tpbmdfZGF0ZScsCiAgICAgICAgICAgICdmaW5hbF9zdGF0dXMnLAogICAgICAgICAgICAnc2VudF9kYXRlJywKICAgICAgICAgICAgJ2xvZ2lzdGljX2NvbXBhbnknCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhcmNlbF9pZCcsCiAgICAgICAgICAgICdkZWxpdmVyeV9pZCcsCiAgICAgICAgICAgICd0cmFja2luZ19udW1iZXInLAogICAgICAgICAgICAnc3RhdHVzX3J3X3BhcmNlbCcsCiAgICAgICAgICAgICdzdGF0dXNfY2hlY2tpbmdfZGF0ZScsCiAgICAgICAgICAgICdmaW5hbF9zdGF0dXMnLAogICAgICAgICAgICAnc2VudF9kYXRlJywKICAgICAgICAgICAgJ2xvZ2lzdGljX2NvbXBhbnknCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mi52aWV3cyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nb19wYXRyb25fdjIuY2xpZW50JzogewogICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mi52aWV3cyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nb19wYXRyb25fdjIuY2xpZW50JzogewogICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlCiAgICAgICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gbG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoImFkYW0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBsID0gbG9nZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdhZGFtIEtvenVjaCcpCg==</text>
+        <text encoding="base64">cHJpbnQoImFkYW0iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</last-search>
+      <last-search>Create Purchase</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</last-pattern>
+      <last-pattern>Create Purchase</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdGhlcl9cPg==</entry>
-        <entry>patron</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>data</entry>
         <entry>patron_user</entry>
@@ -555,6 +563,8 @@
         <entry>sett</entry>
         <entry encoding="base64">XDx1cGRhdGVkX2F0XD4=</entry>
         <entry encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</entry>
+        <entry>purcha</entry>
+        <entry>Create Purchase</entry>
       </history-search>
       <history-cmd>
         <entry>action SwitchViewAction</entry>
@@ -575,8 +585,8 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>e file</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
