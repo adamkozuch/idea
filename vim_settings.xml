@@ -113,12 +113,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1555418176725">
         <mark key="'" line="239" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/views.py" timestamp="1559131393200">
-        <mark key="'" line="27" column="51" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="3" />
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/views.py" timestamp="1559134247884">
+        <mark key="'" line="21" column="43" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1555583225909">
         <mark key="'" line="25" column="38" />
@@ -166,7 +162,7 @@
         <mark key="^" line="113" column="40" />
         <mark key="." line="113" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/lp/config/settings/base.py" timestamp="1559129209175">
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/config/settings/base.py" timestamp="1559132679247">
         <mark key="[" line="286" column="33" />
         <mark key="]" line="286" column="36" />
         <mark key="^" line="286" column="36" />
@@ -187,11 +183,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556279318191">
         <mark key="'" line="40" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1559130853377">
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1559134422785">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="52" />
-        <mark key="." line="159" column="0" />
+        <mark key="[" line="182" column="40" />
+        <mark key="]" line="182" column="59" />
+        <mark key="." line="182" column="59" />
+        <mark key="^" line="182" column="59" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/serializers.py" timestamp="1559130352587">
         <mark key="[" line="3" column="55" />
@@ -359,8 +356,8 @@
         <mark key="." line="163" column="8" />
         <mark key="^" line="163" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/routers.py" timestamp="1559129868329">
-        <mark key="'" line="40" column="60" />
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/routers.py" timestamp="1559133530604">
+        <mark key="'" line="47" column="42" />
         <mark key="[" line="40" column="41" />
         <mark key="]" line="40" column="41" />
         <mark key="." line="40" column="41" />
@@ -404,6 +401,15 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1558944476884">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/rest_framework_jwt/views.py" timestamp="1559133541341">
+        <mark key="'" line="73" column="25" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" timestamp="1558949501579">
         <mark key="'" line="77" column="50" />
@@ -454,11 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="25" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/client.py" />
-      <jump line="174" column="14" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/client.py" />
-      <jump line="175" column="29" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/client.py" />
-      <jump line="19" column="16" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/client.py" />
-      <jump line="15" column="20" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
       <jump line="106" column="38" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
       <jump line="117" column="29" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
       <jump line="105" column="38" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" />
@@ -554,13 +555,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" />
       <jump line="33" column="34" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/views.py" />
       <jump line="27" column="51" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/views.py" />
+      <jump line="47" column="42" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/routers.py" />
+      <jump line="101" column="19" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/rest_framework_jwt/views.py" />
+      <jump line="73" column="25" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/rest_framework_jwt/views.py" />
+      <jump line="41" column="25" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/rest_framework_jwt/views.py" />
+      <jump line="21" column="43" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcmVxdWlyZWRfY29sdW1ucyhzZWxmKToKICAgICAgICByZXR1cm4gWydkZWxpdmVyeV9pZCcsICd0cmFja2luZ19udW1iZXInLCAnc3RhdHVzX2RhdGUnXQoKICAgIGRlZiBnZXRfZGVsaXZlcnlfaWRzKHNlbGYsIGRmKToKICAgICAgICByZXR1cm4gZGZbJ2RlbGl2ZXJ5X2lkJ10KCiAgICBkZWYgZ2V0X3RyYWNraW5nX251bWJlcnMoc2VsZiwgZGYpOgogICAgICAgIHJldHVybiBkZlsndHJhY2tpbmdfbnVtYmVyJ10KCiAgICBkZWYgZ2V0X3N0YXR1c19kYXRlcyhzZWxmLCBkZik6CiAgICAgICAgcmV0dXJuIGRmWydzdGF0dXNfZGF0ZSddCg==</text>
+      <register name="&quot;" type="4">
+        <text>parsed_data</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>parsed_data</text>
       </register>
       <register name="/" type="4">
         <text>dispa</text>
@@ -569,31 +575,31 @@
         <text encoding="base64">ZnJvbSBhcGlfY2xpZW50cyBpbXBvcnQgZGlzcGF0Y2hfcmVnaXN0ZXJfYXBpX2NsaWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcmVxdWlyZWRfY29sdW1ucyhzZWxmKToKICAgICAgICByZXR1cm4gWydkZWxpdmVyeV9pZCcsICd0cmFja2luZ19udW1iZXInLCAnc3RhdHVzX2RhdGUnXQoKICAgIGRlZiBnZXRfZGVsaXZlcnlfaWRzKHNlbGYsIGRmKToKICAgICAgICByZXR1cm4gZGZbJ2RlbGl2ZXJ5X2lkJ10KCiAgICBkZWYgZ2V0X3RyYWNraW5nX251bWJlcnMoc2VsZiwgZGYpOgogICAgICAgIHJldHVybiBkZlsndHJhY2tpbmdfbnVtYmVyJ10KCiAgICBkZWYgZ2V0X3N0YXR1c19kYXRlcyhzZWxmLCBkZik6CiAgICAgICAgcmV0dXJuIGRmWydzdGF0dXNfZGF0ZSddCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludChzZXJpYWxpemVyLmVycm9ycykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5wYXJzZXJzIGltcG9ydCBKU09OUGFyc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsncmVjZWl2ZWQgZGF0YSc6IHJlcXVlc3QuZGF0YX0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay52aWV3cyBpbXBvcnQgQVBJVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKHsnRm9sbG93aW5nIGNvbHVtbnMgYXJlIG1pc3NpbmcnfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgbWl4aW5zCmZyb20gcmVzdF9mcmFtZXdvcmsucGVybWlzc2lvbnMgaW1wb3J0IElzQXV0aGVudGljYXRlZApmcm9tIGFwaS5wZXJtaXNzaW9ucyBpbXBvcnQgSXNMb2dpc3RpY1BhcnRuZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsncmVjZWl2ZWQgZGF0YSc6IHJlcXVlc3QuZGF0YX0pCiAgICAgICAgICAgIHByaW50KHNlcmlhbGl6ZXIuZXJyb3JzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb2dpc3RpY19wYXJ0bmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcmVxdWlyZWRfY29sdW1ucyhzZWxmKToKICAgICAgICByZXR1cm4gWydkZWxpdmVyeV9pZCcsICd0cmFja2luZ19udW1iZXInLCAnc3RhdHVzX2RhdGUnXQoKICAgIGRlZiBnZXRfZGVsaXZlcnlfaWRzKHNlbGYsIGRmKToKICAgICAgICByZXR1cm4gZGZbJ2RlbGl2ZXJ5X2lkJ10KCiAgICBkZWYgZ2V0X3RyYWNraW5nX251bWJlcnMoc2VsZiwgZGYpOgogICAgICAgIHJldHVybiBkZlsndHJhY2tpbmdfbnVtYmVyJ10KCiAgICBkZWYgZ2V0X3N0YXR1c19kYXRlcyhzZWxmLCBkZik6CiAgICAgICAgcmV0dXJuIGRmWydzdGF0dXNfZGF0ZSddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1pc3NpbmcgY29sdW1uCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5wYXJzZXJzIGltcG9ydCBKU09OUGFyc2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VyaWFsaXplci5lcnJvcnMpCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay52aWV3cyBpbXBvcnQgQVBJVmlldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VyaWFsaXplci5lcnJvcnMpCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgbWl4aW5zCmZyb20gcmVzdF9mcmFtZXdvcmsucGVybWlzc2lvbnMgaW1wb3J0IElzQXV0aGVudGljYXRlZApmcm9tIGFwaS5wZXJtaXNzaW9ucyBpbXBvcnQgSXNMb2dpc3RpY1BhcnRuZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
