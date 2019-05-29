@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1559049386785">
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/urls.py" timestamp="1559119887741">
+        <mark key="'" line="9" column="27" />
+      </file>
+      <file name="/start_script.py" timestamp="1559118832050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/utils.py" timestamp="1555666575377">
@@ -89,6 +92,11 @@
         <mark key="]" line="65" column="60" />
         <mark key="^" line="65" column="60" />
         <mark key="." line="65" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/deliveries/tests.py" timestamp="1559119304843">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="54" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -179,6 +187,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/urls.py" timestamp="1558421204455">
         <mark key="'" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/tests.py" timestamp="1559119810956">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/views.py" timestamp="1558441521734">
         <mark key="'" line="549" column="0" />
         <mark key="[" line="477" column="14" />
@@ -253,6 +267,9 @@
         <mark key="." line="539" column="35" />
         <mark key="^" line="539" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/routers.py" timestamp="1559119149028">
+        <mark key="'" line="14" column="83" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
       </file>
@@ -273,13 +290,16 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556543879040">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="/Django Console" timestamp="1558945939081">
+      <file name="/Django Console" timestamp="1559119432411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/mockshopvouchers/mockshop/api_clients/krab.py" timestamp="1559049462551" />
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" timestamp="1559118630699">
+        <mark key="'" line="106" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" timestamp="1559051922868">
         <mark key="'" line="26" column="34" />
       </file>
@@ -309,8 +329,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1559116740528">
-        <mark key="'" line="247" column="36" />
+      <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1559119100674">
+        <mark key="'" line="67" column="8" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-35004713/-432732266/django_patron_v2/views.py" timestamp="1558949501579">
         <mark key="'" line="77" column="50" />
@@ -388,17 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="29" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="236" column="13" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="234" column="35" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="300" column="16" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="291" column="8" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="237" column="34" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="254" column="16" filename="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/partner_order_classes.py" />
-      <jump line="39" column="23" filename="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/dev.py" />
-      <jump line="119" column="4" filename="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/common.py" />
-      <jump line="135" column="51" filename="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/common.py" />
-      <jump line="137" column="22" filename="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/common.py" />
       <jump line="170" column="12" filename="$USER_HOME$/projects/IT-GOLD/treasury/project/settings/common.py" />
       <jump line="172" column="26" filename="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/views.py" />
       <jump line="125" column="20" filename="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/views.py" />
@@ -488,64 +500,73 @@
       <jump line="156" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/purchases/views.py" />
       <jump line="26" column="34" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/urls.py" />
       <jump line="247" column="36" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" />
+      <jump line="79" column="55" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" />
+      <jump line="106" column="39" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" />
+      <jump line="46" column="23" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" />
+      <jump line="235" column="8" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" />
+      <jump line="148" column="8" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" />
+      <jump line="67" column="8" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" />
+      <jump line="14" column="83" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/routers.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/deliveries/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/deliveries/tests.py" />
+      <jump line="386" column="0" filename="$USER_HOME$/projects/IT-GOLD/lp/.venv/lib/python3.7/posixpath.py" />
+      <jump line="9" column="27" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>body</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3bXNfZGF0YSA9IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ2lkJzogMSwKICAgICAgICAgICAgICAgICdvcmlnaW4nOiAnV1ovMTIzJywKICAgICAgICAgICAgICAgICdzdGF0ZSc6ICdhc3NpZ25lZCcsCiAgICAgICAgICAgICAgICAnY2Fycmllcl9uYW1lJzogJ1VQUycsCiAgICAgICAgICAgICAgICAndHJhY2tpbmdfbnVtYmVyJzogJzEyMzEyMzEyMycsCiAgICAgICAgICAgICAgICAncGxhbm5lZF9kYXRlJzogJzIwMTktMDItMDInLAogICAgICAgICAgICAgICAgJ2RhdGUnOiAnMjAxOS0wMi0wMicsCiAgICAgICAgICAgICAgICAnZGF0ZV9kb25lJzogJzIwMTktMDItMDEnCiAgICAgICAgICAgIH0KICAgICAgICBdCiAgICAgICAgIyBzdGF0dXMgYXNzaWduZWQgc2hvdWxkIGJlIG1hcHBlZCB0byB3YWl0aW5nCiAgICAgICAgZGVsaXZlcnlfZGF0YSA9IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ2lkJzogMSwKICAgICAgICAgICAgICAgICduYW1lJzogJ1daLzEyMycsCiAgICAgICAgICAgICAgICAnc3RhdGUnOiAnd2FpdGluZycsCiAgICAgICAgICAgICAgICAnY2Fycmllcic6IHsKICAgICAgICAgICAgICAgICAgICAnbmFtZSc6ICdVUFMnCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgJ3RyYWNraW5nX251bWJlcic6ICcxMjMxMjMxMjMnLAogICAgICAgICAgICAgICAgJ3BsYW5uZWRfZGF0ZSc6ICcyMDE5LTAyLTAyJywKICAgICAgICAgICAgICAgICdjcmVhdGlvbl9kYXRlJzogJzIwMTktMDItMDInLAogICAgICAgICAgICAgICAgJ2NvbmZpcm1hdGlvbl9kYXRlJzogJzIwMTktMDItMDEnCiAgICAgICAgICAgIH0KICAgICAgICBdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
-        <text>Create Purchase</text>
+        <text encoding="base64">XDxSZXR1cm5lZFBhcmNlbHNGaWxlVmlld1NldFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ1dBUk5JTkcnLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgbW9jawpmcm9tIGRqYW5nby51cmxzIGltcG9ydCByZXZlcnNlCgpmcm9tIGFwaS52MS50ZXN0cyBpbXBvcnQgQmFzZUFwaVRlc3RDYXNlCgoKY2xhc3MgRGVsaXZlcnlUZXN0Q2FzZShCYXNlQXBpVGVzdENhc2UpOgoKICAgIEBtb2NrLnBhdGNoKCdhcGlfY2xpZW50cy53bXMuV21zQXBpLmdldF9saXN0X2RlbGl2ZXJ5JywgYXV0b3NwZWM9VHJ1ZSkKICAgIGRlZiB0ZXN0X2dldF9kZWxpdmVyeV9saXN0KHNlbGYsIGdldF9saXN0X2RlbGl2ZXJ5X21vY2spOgogICAgICAgIHdtc19kYXRhID0gWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAnaWQnOiAxLAogICAgICAgICAgICAgICAgJ29yaWdpbic6ICdXWi8xMjMnLAogICAgICAgICAgICAgICAgJ3N0YXRlJzogJ2Fzc2lnbmVkJywKICAgICAgICAgICAgICAgICdjYXJyaWVyX25hbWUnOiAnVVBTJywKICAgICAgICAgICAgICAgICd0cmFja2luZ19udW1iZXInOiAnMTIzMTIzMTIzJywKICAgICAgICAgICAgICAgICdwbGFubmVkX2RhdGUnOiAnMjAxOS0wMi0wMicsCiAgICAgICAgICAgICAgICAnZGF0ZSc6ICcyMDE5LTAyLTAyJywKICAgICAgICAgICAgICAgICdkYXRlX2RvbmUnOiAnMjAxOS0wMi0wMScKICAgICAgICAgICAgfQogICAgICAgIF0KICAgICAgICAjIHN0YXR1cyBhc3NpZ25lZCBzaG91bGQgYmUgbWFwcGVkIHRvIHdhaXRpbmcKICAgICAgICBkZWxpdmVyeV9kYXRhID0gWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAnaWQnOiAxLAogICAgICAgICAgICAgICAgJ25hbWUnOiAnV1ovMTIzJywKICAgICAgICAgICAgICAgICdzdGF0ZSc6ICd3YWl0aW5nJywKICAgICAgICAgICAgICAgICdjYXJyaWVyJzogewogICAgICAgICAgICAgICAgICAgICduYW1lJzogJ1VQUycKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAndHJhY2tpbmdfbnVtYmVyJzogJzEyMzEyMzEyMycsCiAgICAgICAgICAgICAgICAncGxhbm5lZF9kYXRlJzogJzIwMTktMDItMDInLAogICAgICAgICAgICAgICAgJ2NyZWF0aW9uX2RhdGUnOiAnMjAxOS0wMi0wMicsCiAgICAgICAgICAgICAgICAnY29uZmlybWF0aW9uX2RhdGUnOiAnMjAxOS0wMi0wMScKICAgICAgICAgICAgfQogICAgICAgIF0KICAgICAgICB1cmwgPSByZXZlcnNlKCd2MTpkZWxpdmVyeS1saXN0JykKICAgICAgICBnZXRfbGlzdF9kZWxpdmVyeV9tb2NrLnJldHVybl92YWx1ZSA9IHdtc19kYXRhCiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmdldF9hdXRoZW50aWNhdGVkX3JlcXVlc3Qoc2VsZi5jbGllbnQuZ2V0LCB1cmwsIGZvcm1hdD0nanNvbicpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHJlc3BvbnNlLnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5kYXRhLCBkZWxpdmVyeV9kYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3bXNfZGF0YSA9IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ2lkJzogMSwKICAgICAgICAgICAgICAgICdvcmlnaW4nOiAnV1ovMTIzJywKICAgICAgICAgICAgICAgICdzdGF0ZSc6ICdhc3NpZ25lZCcsCiAgICAgICAgICAgICAgICAnY2Fycmllcl9uYW1lJzogJ1VQUycsCiAgICAgICAgICAgICAgICAndHJhY2tpbmdfbnVtYmVyJzogJzEyMzEyMzEyMycsCiAgICAgICAgICAgICAgICAncGxhbm5lZF9kYXRlJzogJzIwMTktMDItMDInLAogICAgICAgICAgICAgICAgJ2RhdGUnOiAnMjAxOS0wMi0wMicsCiAgICAgICAgICAgICAgICAnZGF0ZV9kb25lJzogJzIwMTktMDItMDEnCiAgICAgICAgICAgIH0KICAgICAgICBdCiAgICAgICAgIyBzdGF0dXMgYXNzaWduZWQgc2hvdWxkIGJlIG1hcHBlZCB0byB3YWl0aW5nCiAgICAgICAgZGVsaXZlcnlfZGF0YSA9IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ2lkJzogMSwKICAgICAgICAgICAgICAgICduYW1lJzogJ1daLzEyMycsCiAgICAgICAgICAgICAgICAnc3RhdGUnOiAnd2FpdGluZycsCiAgICAgICAgICAgICAgICAnY2Fycmllcic6IHsKICAgICAgICAgICAgICAgICAgICAnbmFtZSc6ICdVUFMnCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgJ3RyYWNraW5nX251bWJlcic6ICcxMjMxMjMxMjMnLAogICAgICAgICAgICAgICAgJ3BsYW5uZWRfZGF0ZSc6ICcyMDE5LTAyLTAyJywKICAgICAgICAgICAgICAgICdjcmVhdGlvbl9kYXRlJzogJzIwMTktMDItMDInLAogICAgICAgICAgICAgICAgJ2NvbmZpcm1hdGlvbl9kYXRlJzogJzIwMTktMDItMDEnCiAgICAgICAgICAgIH0KICAgICAgICBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfbGlzdF9kZWxpdmVyeV9tb2NrLnJldHVybl92YWx1ZSA9IHdtc19kYXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BhcmNlbF9pZCcsCiAgICAgICAgICAgICdkZWxpdmVyeV9pZCcsCiAgICAgICAgICAgICd0cmFja2luZ19udW1iZXInLAogICAgICAgICAgICAnc3RhdHVzX3J3X3BhcmNlbCcsCiAgICAgICAgICAgICdzdGF0dXNfY2hlY2tpbmdfZGF0ZScsCiAgICAgICAgICAgICdmaW5hbF9zdGF0dXMnLAogICAgICAgICAgICAnc2VudF9kYXRlJywKICAgICAgICAgICAgJ2xvZ2lzdGljX2NvbXBhbnknCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdhcGlfY2xpZW50cy53bXMuV21zQXBpLmdldF9saXN0X2RlbGl2ZXJ5JywgYXV0b3NwZWM9VHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mi52aWV3cyc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCiAgICAgICAgJ2RqYW5nb19wYXRyb25fdjIuY2xpZW50JzogewogICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdncmF5bG9nJ10sCiAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvX3BhdHJvbl92Mic6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnZ3JheWxvZyddLAogICAgICAgICAgICAncHJvcGFnYXRlJzogVHJ1ZQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhcmNlbF9pZCcsCiAgICAgICAgICAgICdkZWxpdmVyeV9pZCcsCiAgICAgICAgICAgICd0cmFja2luZ19udW1iZXInLAogICAgICAgICAgICAnc3RhdHVzX3J3X3BhcmNlbCcsCiAgICAgICAgICAgICdzdGF0dXNfY2hlY2tpbmdfZGF0ZScsCiAgICAgICAgICAgICdmaW5hbF9zdGF0dXMnLAogICAgICAgICAgICAnc2VudF9kYXRlJywKICAgICAgICAgICAgJ2xvZ2lzdGljX2NvbXBhbnknCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gbG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoImFkYW0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gbG9nb3V0IikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>Create Purchase</last-search>
+      <last-search encoding="base64">XDxSZXR1cm5lZFBhcmNlbHNGaWxlVmlld1NldFw+</last-search>
       <last-offset />
-      <last-pattern>Create Purchase</last-pattern>
+      <last-pattern encoding="base64">XDxSZXR1cm5lZFBhcmNlbHNGaWxlVmlld1NldFw+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry>data</entry>
         <entry>patron_user</entry>
         <entry>patron_user.data</entry>
         <entry encoding="base64">XDxwYXRyb25fdXNlcl9kYXRhXD4=</entry>
@@ -564,6 +585,8 @@
         <entry encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</entry>
         <entry>purcha</entry>
         <entry>Create Purchase</entry>
+        <entry encoding="base64">XDxwZXJmb3JtX2NyZWF0ZVw+</entry>
+        <entry encoding="base64">XDxSZXR1cm5lZFBhcmNlbHNGaWxlVmlld1NldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action SwitchViewAction</entry>
@@ -580,12 +603,12 @@
         <entry>wq</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
-        <entry>action Run</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>e file</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
