@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/urls.py" timestamp="1559216637628">
+        <mark key="'" line="22" column="27" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" timestamp="1559215165576">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -14,7 +17,9 @@
         <mark key="." line="10" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="22" column="27" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/urls.py" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">IyBjbGFzcyBDYXJkRm9ybShNb2RlbEZvcm0pOiAjIGJlZHppZSBtdXNpYWwgYnljIGN1c3RvbWl6b3dhbnkuIER5bmFtaWN6bmUgd3lzd2lldGxhbmllIHNsb3duaWtvdy4KIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIG1vZGVsID0gQ2FyZAojICAgICAgICAgZmllbGRzID0gWydmcm9udCcsICdiYWNrJ10K</text>
@@ -44,6 +49,10 @@
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
