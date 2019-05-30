@@ -3,21 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/settings.py" timestamp="1556443735700" />
-      <file name="$USER_HOME$/PycharmProjects/anki_jisho/janki.py" timestamp="1556443777037">
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="26" />
-        <mark key="." line="47" column="26" />
-        <mark key="^" line="47" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" timestamp="1559215165576">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/forms.py" timestamp="1559215244535">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyBjbGFzcyBDYXJkRm9ybShNb2RlbEZvcm0pOiAjIGJlZHppZSBtdXNpYWwgYnljIGN1c3RvbWl6b3dhbnkuIER5bmFtaWN6bmUgd3lzd2lldGxhbmllIHNsb3duaWtvdy4KIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIG1vZGVsID0gQ2FyZAojICAgICAgICAgZmllbGRzID0gWydmcm9udCcsICdiYWNrJ10K</text>
       </register>
-      <register name="-" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBjbGFzcyBDYXJkRm9ybShNb2RlbEZvcm0pOiAjIGJlZHppZSBtdXNpYWwgYnljIGN1c3RvbWl6b3dhbnkuIER5bmFtaWN6bmUgd3lzd2lldGxhbmllIHNsb3duaWtvdy4KIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIG1vZGVsID0gQ2FyZAojICAgICAgICAgZmllbGRzID0gWydmcm9udCcsICdiYWNrJ10K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uZm9ybXMgaW1wb3J0IENoYXJGaWVsZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIHNvbWVfZnVuYyhhbGFuKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -25,10 +40,9 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts />
   </component>
