@@ -9,10 +9,10 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
         <mark key="'" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1559642693338">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="68" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1559729777139">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
@@ -160,12 +160,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1559643572136">
-        <mark key="'" line="64" column="41" />
-        <mark key="[" line="61" column="27" />
-        <mark key="]" line="61" column="26" />
-        <mark key="." line="61" column="26" />
-        <mark key="^" line="61" column="26" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1559730536286">
+        <mark key="'" line="152" column="28" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="36" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="194" column="33" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559643165393">
         <mark key="'" line="66" column="40" />
@@ -188,6 +188,12 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/parcels/serializers.py" timestamp="1559729892090">
+        <mark key="[" line="12" column="125" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" timestamp="1559298009441">
         <mark key="'" line="106" column="27" />
@@ -292,8 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/file_parsers/base.py" />
-      <jump line="3" column="60" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/users/tests/test_forms.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/deliveries/tests.py" />
       <jump line="3" column="37" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/tests.py" />
       <jump line="6" column="26" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/tests.py" />
@@ -392,19 +396,21 @@
       <jump line="3" column="33" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/standard/parsers.py" />
       <jump line="6" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/base.py" />
       <jump line="64" column="41" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="19" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
+      <jump line="150" column="28" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.tracking_number_slice_end</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIGRbJ3RyYWNraW5nX251bWJlciddCg==</text>
       </register>
       <register name="-" type="4">
-        <text>self.tracking_number_slice_end</text>
+        <text>creating</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cih0cmFja2luZ19udW1iZXIpW3NlbGYudHJhY2tpbmdfbnVtYmVyX3NsaWNlX3N0YXJ0OnNlbGYudHJhY2tpbmdfbnVtYmVyX3NsaWNlX2VuZF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIGRbJ3RyYWNraW5nX251bWJlciddCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIHpyb2JpxIcgdHV0YWoK</text>
