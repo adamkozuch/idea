@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/urls.py" timestamp="1559123021393">
         <mark key="'" line="9" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1559734657554">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
         <mark key="'" line="8" column="38" />
       </file>
@@ -95,12 +98,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
         <mark key="'" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" timestamp="1559636014201">
-        <mark key="'" line="65" column="32" />
-        <mark key="[" line="47" column="68" />
-        <mark key="]" line="47" column="68" />
-        <mark key="^" line="47" column="73" />
-        <mark key="." line="47" column="68" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" timestamp="1559738048118">
+        <mark key="'" line="73" column="44" />
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="42" column="47" />
+        <mark key="^" line="45" column="73" />
+        <mark key="." line="42" column="47" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/cod_express/parsers.py" timestamp="1559641794604">
         <mark key="'" line="5" column="38" />
@@ -160,13 +163,20 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1559732748757">
-        <mark key="'" line="118" column="35" />
-        <mark key="[" line="119" column="12" />
-        <mark key="]" line="119" column="12" />
-        <mark key="." line="119" column="12" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1559738182154">
+        <mark key="'" line="13" column="32" />
+        <mark key="[" line="182" column="33" />
+        <mark key="]" line="182" column="65" />
+        <mark key="^" line="87" column="29" />
+        <mark key="." line="182" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1559732548226" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1559737778210">
+        <mark key="'" line="37" column="26" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559643165393">
         <mark key="'" line="66" column="40" />
       </file>
@@ -196,8 +206,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/parcels/serializers.py" timestamp="1559729892090">
-        <mark key="[" line="12" column="125" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/parcels/serializers.py" timestamp="1559736306587">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="29" column="91" />
+        <mark key="." line="29" column="58" />
+        <mark key="^" line="29" column="55" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" timestamp="1559298009441">
         <mark key="'" line="106" column="27" />
@@ -256,12 +270,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" timestamp="1556279614173">
         <mark key="'" line="160" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" timestamp="1559732281337">
-        <mark key="'" line="12" column="27" />
-        <mark key="[" line="14" column="79" />
-        <mark key="]" line="14" column="89" />
-        <mark key="." line="14" column="89" />
-        <mark key="^" line="14" column="89" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" timestamp="1559738121415">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" timestamp="1558966259568">
         <mark key="'" line="186" column="20" />
@@ -272,6 +286,10 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" timestamp="1556106987139">
         <mark key="'" line="68" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/.venv/lib/python3.7/site-packages/pylint/test/functional/inconsistent_returns.py" timestamp="1559738152071">
+        <mark key="[" line="78" column="11" />
+        <mark key="]" line="78" column="42" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" timestamp="1555327409926">
         <mark key="'" line="117" column="0" />
@@ -300,157 +318,164 @@
         <mark key="^" line="6" column="88" />
         <mark key="." line="6" column="86" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" timestamp="1559735985641">
+        <mark key="'" line="848" column="0" />
+        <mark key="[" line="859" column="61" />
+        <mark key="]" line="859" column="3" />
+        <mark key="^" line="859" column="3" />
+        <mark key="." line="859" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="19" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/tests.py" />
-      <jump line="15" column="6" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/file_parsers/delivered_parcels/standard/parsers.py" />
-      <jump line="19" column="45" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="3" column="6" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/permissions.py" />
-      <jump line="73" column="42" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" />
-      <jump line="392" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/django/db/models/base.py" />
-      <jump line="49" column="75" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="70" column="44" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" />
-      <jump line="79" column="47" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="106" column="27" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" />
-      <jump line="21" column="89" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/file_parsers/delivered_parcels/base.py" />
-      <jump line="3" column="41" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/file_parsers/delivered_parcels/standard/parsers.py" />
-      <jump line="36" column="21" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/file_parsers/delivered_parcels/base.py" />
-      <jump line="6" column="6" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/deliveries/tests.py" />
-      <jump line="5" column="6" filename="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/updates/tests.py" />
-      <jump line="25" column="26" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/urls.py" />
-      <jump line="26" column="40" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/deliveries/views.py" />
-      <jump line="33" column="26" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/tests.py" />
-      <jump line="34" column="18" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/tests.py" />
-      <jump line="27" column="40" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/tests.py" />
-      <jump line="46" column="62" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/tests.py" />
-      <jump line="521" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/django/test/client.py" />
-      <jump line="33" column="21" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/config/settings/base.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/config/settings/test.py" />
-      <jump line="30" column="21" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/tests.py" />
-      <jump line="46" column="8" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi" />
-      <jump line="54" column="48" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="79" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="106" column="28" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
-      <jump line="3" column="46" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/delivered_parcels/standard/parsers.py" />
-      <jump line="4455" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/pandas/core/frame.py" />
-      <jump line="65" column="31" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/tests.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/tests.py" />
-      <jump line="64" column="43" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/tests.py" />
-      <jump line="3465" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/pandas/core/series.py" />
-      <jump line="4332" column="17" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/pandas/core/series.py" />
-      <jump line="21" column="73" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/delivered_parcels/base.py" />
-      <jump line="64" column="23" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="5588" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1524132725/builtins.py" />
-      <jump line="61" column="26" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="34" column="40" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/views.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/updates/serializers.py" />
-      <jump line="66" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" />
-      <jump line="10" column="74" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" />
+      <jump line="1305" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1296" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1294" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1287" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1285" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1278" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1276" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1273" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1263" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1261" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1257" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1252" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1245" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1243" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1234" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1230" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1224" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1206" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1201" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1198" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1192" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1190" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1187" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1184" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1177" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1169" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1167" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1155" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1153" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1143" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1129" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1126" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1115" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1108" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1104" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1101" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1092" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1085" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1079" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1073" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1063" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1061" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1059" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1056" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1053" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1048" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1043" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1038" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1032" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1029" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1022" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1018" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1014" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="1010" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="995" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="987" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="985" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="983" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="971" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="967" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="965" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="959" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="937" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="928" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="926" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="920" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="915" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="911" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="909" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="902" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="893" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="856" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="852" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="848" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="860" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="33" column="42" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
+      <jump line="1050" column="42" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
+      <jump line="77" column="44" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
       <jump line="84" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="28" column="60" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/standard/parsers.py" />
-      <jump line="65" column="28" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="5" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/standard/parsers.py" />
-      <jump line="32" column="30" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/base.py" />
-      <jump line="20" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" />
-      <jump line="14" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" />
-      <jump line="46" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="13" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/uploads/serializers.py" />
-      <jump line="34" column="57" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="79" column="54" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
-      <jump line="6" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
-      <jump line="7" column="86" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/__init__.py" />
-      <jump line="103" column="56" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="9" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/urls.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
-      <jump line="65" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
-      <jump line="23" column="58" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v1/routers.py" />
-      <jump line="170" column="44" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="168" column="45" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="8" column="34" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/base.py" />
-      <jump line="107" column="55" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
-      <jump line="3" column="44" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/delivered_parcels/activos_24_pt/parsers.py" />
-      <jump line="7" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/delivered_parcels/base.py" />
-      <jump line="151" column="39" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
-      <jump line="5" column="38" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/cod_express/parsers.py" />
-      <jump line="15" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/base.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/base.py" />
-      <jump line="7" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/base.py" />
-      <jump line="82" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/base.py" />
-      <jump line="86" column="79" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/base.py" />
-      <jump line="27" column="35" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/cod_express_hr/parsers.py" />
-      <jump line="43" column="109" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/base.py" />
-      <jump line="156" column="46" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="21" column="40" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="287" column="16" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="101" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="31" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="66" column="40" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
-      <jump line="3" column="33" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/standard/parsers.py" />
-      <jump line="6" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/base.py" />
-      <jump line="64" column="41" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="19" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="150" column="28" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="241" column="73" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" />
-      <jump line="52" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="119" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
-      <jump line="118" column="35" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" />
+      <jump line="22" column="52" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="92" column="20" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="13" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="36" column="26" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text># pylint: disable=no-else-return</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>test_set_re</text>
+        <text>prin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIGRbJ3RyYWNraW5nX251bWJlciddCg==</text>
+      <register name="0" type="4">
+        <text># pylint: disable=no-else-return</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcGkudjEuc3dhZ2dlcl9kb2NzLnBhcmNlbHMuc2VyaWFsaXplcnMgaW1wb3J0ICgKICAgIFBhcmNlbFVwZGF0ZVJlc3BvbnNlU2VyaWFsaXplckRvY3MsCiAgICBQYXJjZWxVcGRhdGVFcnJvclJlc3BvbnNlU2VyaWFsaXplckRvY3MsCikKZnJvbSBhcGkudjEuc3dhZ2dlcl9kb2NzLnV0aWxzIGltcG9ydCBTVEFOREFSRF9SRVNQT05TRVMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfbWFwX3RyYWNraW5nX251bWJlcl9maWVsZF90b19yYXcoc2VsZiwgZGF0YSk6CiAgICAgICAgZm9yIGQgaW4gZGF0YToKICAgICAgICAgICAgZFsidHJhY2tpbmdfbnVtYmVyX3JhdyJdID0gZFsidHJhY2tpbmdfbnVtYmVyIl0KICAgICAgICAgICAgZGVsIGRbJ3RyYWNraW5nX251bWJlciddCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5leGNlcHRpb25zIGltcG9ydCBWYWxpZGF0aW9uRXJyb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfbWFwX3RyYWNraW5nX251bWJlcl9maWVsZF90b19yYXcoc2VsZiwgZGF0YSk6CiAgICAgICAgZm9yIGQgaW4gZGF0YToKICAgICAgICAgICAgZFsidHJhY2tpbmdfbnVtYmVyX3JhdyJdID0gZFsidHJhY2tpbmdfbnVtYmVyIl0KICAgICAgICAgICAgZGVsIGRbJ3RyYWNraW5nX251bWJlciddCg==</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMgPSBvdXRwdXRfZGZbb3V0cHV0X2RmLmR1cGxpY2F0ZWQoWyJkZWxpdmVyeV9pZCJdKV0KICAgIGlmIG5vdCBkZWxpdmVyeV9pZF9kdXBsaWNhdGVzLmVtcHR5OgogICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgIkR1cGxpY2F0ZWQgZGVsaXZlcnlfaWQgZXhpc3RzOiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgZGVsaXZlcnlfaWRfZHVwbGljYXRlc1siZGVsaXZlcnlfaWQiXQogICAgICAgICAgICApCiAgICAgICAgKQoKICAgIHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzID0gb3V0cHV0X2RmW291dHB1dF9kZi5kdXBsaWNhdGVkKFsidHJhY2tpbmdfbnVtYmVyIl0pXQogICAgaWYgbm90IHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzLmVtcHR5OgogICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgIkR1cGxpY2F0ZWQgdHJhY2tpbmdfbnVtYmVyIGV4aXN0cyB7fSIuZm9ybWF0KHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzKQogICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfbWFwX3RyYWNraW5nX251bWJlcl9maWVsZF90b19yYXcoc2VsZiwgZGF0YSk6CiAgICAgICAgZm9yIGQgaW4gZGF0YToKICAgICAgICAgICAgZFsidHJhY2tpbmdfbnVtYmVyX3JhdyJdID0gZFsidHJhY2tpbmdfbnVtYmVyIl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgNDAwOiBvcGVuYXBpLlJlc3BvbnNlKAogICAgICAgICAgICAgICAgIkRlbGl2ZXJ5IFBhcmNlbCBvYmplY3QuIiwgUGFyY2VsVXBkYXRlUmVzcG9uc2VTZXJpYWxpemVyRG9jcyhtYW55PVRydWUpCiAgICAgICAgICAgICksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHpyb2JpxIcgdHV0YWoK</text>
+        <text encoding="base64">ICAgIE1vZGVsU2VyaWFsaXplciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIFNlcmlhbGl6ZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpc3RpY19jb21wYW55ID0gJ1BBVFJPTl9TRVJWSUNFX1BMXzEnCg==</text>
+        <text encoding="base64">ICAgIGVycm9yX2NvZGUgPSBDaGFyRmllbGQobWF4X2xlbmd0aD0yMDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9ICcvbG9naXN0aWNfY29tcGFuaWVzL1BBVFJPTiUyMFNFUlZJQ0VfUEwvcGFyY2Vscy91cGRhdGVfdHJhY2tpbmdfaW5mby8nCg==</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkID0gSW50ZWdlckZpZWxkKCkKICAgIHVwZGF0ZWQgPSBCb29sZWFuRmllbGQoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gc2VsZi5fcmVxdWVzdChwYXRoPWYnbG9naXN0aWNfY29tcGFuaWVzL3tsb2dpc3RpY19jb21wYW55fS9wYXJjZWxzL3VwZGF0ZV90cmFja2luZ19pbmZvLycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YT1kYXRhLCBtZXRob2Q9IlBBVENIIiwgaGVhZGVycz17IkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0p</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test_set_re</last-search>
+      <last-search>prin</last-search>
       <last-offset />
-      <last-pattern>test_set_re</last-pattern>
+      <last-pattern>prin</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -458,8 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sett</entry>
-        <entry encoding="base64">XDx1cGRhdGVkX2F0XD4=</entry>
         <entry encoding="base64">XDxtb2RpZmljYXRpb25fZGF0ZVw+</entry>
         <entry>purcha</entry>
         <entry>Create Purchase</entry>
@@ -478,6 +501,8 @@
         <entry>drop</entry>
         <entry>post</entry>
         <entry>test_set_re</entry>
+        <entry>print</entry>
+        <entry>prin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIGFhIDphY3Rpb24gUnVuPENSPg==</entry>
@@ -493,12 +518,12 @@
         <entry>action Run</entry>
         <entry>action GotoFile</entry>
         <entry>:w</entry>
-        <entry>action RecentFiles</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>q</entry>
         <entry>e</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
