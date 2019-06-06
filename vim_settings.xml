@@ -92,10 +92,10 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
         <mark key="'" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" timestamp="1559738048118">
-        <mark key="'" line="73" column="44" />
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="47" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" timestamp="1559811198405">
+        <mark key="'" line="22" column="52" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="37" />
         <mark key="^" line="45" column="73" />
         <mark key="." line="42" column="47" />
       </file>
@@ -165,8 +165,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" timestamp="1559804406760">
-        <mark key="'" line="37" column="67" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" timestamp="1559811080918">
+        <mark key="'" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/v1/routers.py" timestamp="1559133530604">
         <mark key="'" line="47" column="42" />
@@ -188,17 +188,18 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556543879040">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" timestamp="1559803552042">
-        <mark key="'" line="68" column="66" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" timestamp="1559811723566">
+        <mark key="[" line="203" column="20" />
+        <mark key="]" line="203" column="23" />
+        <mark key="." line="203" column="23" />
+        <mark key="^" line="203" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1559804446609">
-        <mark key="'" line="85" column="33" />
-        <mark key="[" line="706" column="0" />
-        <mark key="]" line="706" column="43" />
-        <mark key="." line="706" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1559812261528">
+        <mark key="'" line="425" column="43" />
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="78" column="6" />
+        <mark key="." line="78" column="6" />
+        <mark key="^" line="78" column="6" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
@@ -294,49 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1243" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1234" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1230" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1224" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1206" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1201" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1198" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1192" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1190" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1187" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1184" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1177" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1169" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1167" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1155" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1153" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1143" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1129" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1126" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1115" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1108" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1104" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1101" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1092" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1085" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1079" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1073" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1063" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1061" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1059" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1056" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1053" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1048" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1043" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1038" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1032" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1029" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1022" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1018" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1014" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="1010" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="995" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
-      <jump line="987" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
       <jump line="985" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
       <jump line="983" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
       <jump line="971" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
@@ -393,47 +351,90 @@
       <jump line="68" column="66" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="34" column="67" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
       <jump line="85" column="33" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="37" column="67" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
+      <jump line="18" column="40" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="22" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/utils.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="165" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="191" column="22" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="197" column="79" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="202" column="54" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="87" column="26" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="702" column="64" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="664" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="680" column="29" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="685" column="29" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="64" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="65" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="66" column="48" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="278" column="74" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="279" column="62" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="285" column="31" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="287" column="23" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="350" column="41" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="364" column="16" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="373" column="20" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="411" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="412" column="32" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="425" column="43" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="29" column="60" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
+      <jump line="37" column="60" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
+      <jump line="15" column="26" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
+      <jump line="186" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="22" column="52" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
+      <jump line="200" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="201" column="15" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBSZXN1bHRzU2V0UGFnaW5hdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>previous</text>
       </register>
       <register name="-" type="4">
-        <text>tring</text>
+        <text>previous</text>
       </register>
       <register name="/" type="4">
         <text>delivery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBSZXN1bHRzU2V0UGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydwcmV2aW91cyddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiYmVmb3JlIG1vZHlmeWluZyBsaW5rICIsIGRpc3BhdGNoX3JlZ2lzdGVyX3Jlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXNwYXRjaF9yZWdpc3Rlcl9yZXNwb25zZVsncHJldiddKQogICAgICAgIHByaW50KGRpc3BhdGNoX3JlZ2lzdGVyX3Jlc3BvbnNlWyduZXh0J10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gZHMgdmlldyBzZXQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0LnF1ZXJ5X3BhcmFtcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcGkudjEuc3dhZ2dlcl9kb2NzLnBhcmNlbHMuc2VyaWFsaXplcnMgaW1wb3J0ICgKICAgIFBhcmNlbFVwZGF0ZVJlc3BvbnNlU2VyaWFsaXplckRvY3MsCiAgICBQYXJjZWxVcGRhdGVFcnJvclJlc3BvbnNlU2VyaWFsaXplckRvY3MsCikKZnJvbSBhcGkudjEuc3dhZ2dlcl9kb2NzLnV0aWxzIGltcG9ydCBTVEFOREFSRF9SRVNQT05TRVMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5leGNlcHRpb25zIGltcG9ydCBWYWxpZGF0aW9uRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiVGhpcyBpcyBkcyByZXNwb25zZSIsIGRpc3BhdGNoX3JlZ2lzdGVyX3Jlc3BvbnNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMgPSBvdXRwdXRfZGZbb3V0cHV0X2RmLmR1cGxpY2F0ZWQoWyJkZWxpdmVyeV9pZCJdKV0KICAgIGlmIG5vdCBkZWxpdmVyeV9pZF9kdXBsaWNhdGVzLmVtcHR5OgogICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgIkR1cGxpY2F0ZWQgZGVsaXZlcnlfaWQgZXhpc3RzOiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgZGVsaXZlcnlfaWRfZHVwbGljYXRlc1siZGVsaXZlcnlfaWQiXQogICAgICAgICAgICApCiAgICAgICAgKQoKICAgIHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzID0gb3V0cHV0X2RmW291dHB1dF9kZi5kdXBsaWNhdGVkKFsidHJhY2tpbmdfbnVtYmVyIl0pXQogICAgaWYgbm90IHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzLmVtcHR5OgogICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgIkR1cGxpY2F0ZWQgdHJhY2tpbmdfbnVtYmVyIGV4aXN0cyB7fSIuZm9ybWF0KHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiYmVmb3JlIG1vZHlmeWluZyBsaW5rICIsIGRpc3BhdGNoX3JlZ2lzdGVyX3Jlc3BvbnNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNDAwOiBvcGVuYXBpLlJlc3BvbnNlKAogICAgICAgICAgICAgICAgIkRlbGl2ZXJ5IFBhcmNlbCBvYmplY3QuIiwgUGFyY2VsVXBkYXRlUmVzcG9uc2VTZXJpYWxpemVyRG9jcyhtYW55PVRydWUpCiAgICAgICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaW4gZHMgdmlldyBzZXQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1vZGVsU2VyaWFsaXplciwK</text>
+        <text encoding="base64">ZnJvbSBhcGkudjEuc3dhZ2dlcl9kb2NzLnBhcmNlbHMuc2VyaWFsaXplcnMgaW1wb3J0ICgKICAgIFBhcmNlbFVwZGF0ZVJlc3BvbnNlU2VyaWFsaXplckRvY3MsCiAgICBQYXJjZWxVcGRhdGVFcnJvclJlc3BvbnNlU2VyaWFsaXplckRvY3MsCikKZnJvbSBhcGkudjEuc3dhZ2dlcl9kb2NzLnV0aWxzIGltcG9ydCBTVEFOREFSRF9SRVNQT05TRVMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNlcmlhbGl6ZXIsCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5leGNlcHRpb25zIGltcG9ydCBWYWxpZGF0aW9uRXJyb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVycm9yX2NvZGUgPSBDaGFyRmllbGQobWF4X2xlbmd0aD0yMDApCg==</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMgPSBvdXRwdXRfZGZbb3V0cHV0X2RmLmR1cGxpY2F0ZWQoWyJkZWxpdmVyeV9pZCJdKV0KICAgIGlmIG5vdCBkZWxpdmVyeV9pZF9kdXBsaWNhdGVzLmVtcHR5OgogICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgIkR1cGxpY2F0ZWQgZGVsaXZlcnlfaWQgZXhpc3RzOiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgZGVsaXZlcnlfaWRfZHVwbGljYXRlc1siZGVsaXZlcnlfaWQiXQogICAgICAgICAgICApCiAgICAgICAgKQoKICAgIHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzID0gb3V0cHV0X2RmW291dHB1dF9kZi5kdXBsaWNhdGVkKFsidHJhY2tpbmdfbnVtYmVyIl0pXQogICAgaWYgbm90IHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzLmVtcHR5OgogICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgIkR1cGxpY2F0ZWQgdHJhY2tpbmdfbnVtYmVyIGV4aXN0cyB7fSIuZm9ybWF0KHRyYWNraW5nX251bWJlcl9kdXBsaWNhdGVzKQogICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -450,8 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>purcha</entry>
-        <entry>Create Purchase</entry>
         <entry encoding="base64">XDxwZXJmb3JtX2NyZWF0ZVw+</entry>
         <entry encoding="base64">XDxSZXR1cm5lZFBhcmNlbHNGaWxlVmlld1NldFw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9jb2x1bW5zXD4=</entry>
@@ -469,6 +468,8 @@
         <entry>test_set_re</entry>
         <entry>print</entry>
         <entry>prin</entry>
+        <entry>attachments</entry>
+        <entry>delivery_attach</entry>
         <entry>delivery</entry>
       </history-search>
       <history-cmd>
