@@ -138,18 +138,18 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1559829551721">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1559834377538">
         <mark key="'" line="54" column="35" />
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1559833288053">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1559834416435">
         <mark key="'" line="6" column="12" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="43" column="37" />
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559643165393">
         <mark key="'" line="66" column="40" />
@@ -388,44 +388,44 @@
       <jump line="54" column="35" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgU3RyaW5nRmllbGRTZXJpYWxpemVyKExpc3RGaWVsZCk6CiAgICBjaGlsZCA9IENoYXJGaWVsZChtYXhfbGVuZ3RoPTIwMCkK</text>
+      <register name="&quot;" type="4">
+        <text>SerializerMethodField()</text>
       </register>
       <register name="-" type="4">
-        <text>SerializerMethodField('get_products_as_list')</text>
+        <text>SerializerMethodField()</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
       </register>
-      <register name="0" type="4">
-        <text>CharField(max_length=200)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB0b19yZXByZXNlbnRhdGlvbihzZWxmLCBpbnN0YW5jZSk6CiAgICAgICAgcmV0ID0gc3VwZXIoVHJhY2tpbmdOdW1iZXJTZXJpYWxpemVyLCBzZWxmKS50b19yZXByZXNlbnRhdGlvbihpbnN0YW5jZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgU3RyaW5nRmllbGRTZXJpYWxpemVyKExpc3RGaWVsZCk6CiAgICBjaGlsZCA9IENoYXJGaWVsZChtYXhfbGVuZ3RoPTIwMCkK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmRhdGFbJ3Byb2R1Y3RzJ10gPSBbZm9yIGkgaW4gcmVxdWVzdC5kYXRhWydwcm8nXV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfcHJvZHVjdHNfYXNfbGlzdChsaXN0KToKICAgICAgICBwcmludChsaXN0KQogICAgICAgIHJldHVybiBsaXN0Wydwcm9kdWN0cyddCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcHJvZHVjdHMoc2VsZiwgb2JqKToKICAgICAgICBwcmludCgiaGVyZSBzb21lIGluZm8iLCBvYmopCiAgICAgICAgcmV0dXJuIG9iago=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplci5kYXRhWydwcm8nXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Y2xhc3MgU3RyaW5nRmllbGRTZXJpYWxpemVyKExpc3RGaWVsZCk6CiAgICBjaGlsZCA9IENoYXJGaWVsZChtYXhfbGVuZ3RoPTIwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W10K</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfcHJvZHVjdHNfYXNfbGlzdChsaXN0KToKICAgICAgICBwcmludChsaXN0KQogICAgICAgIHJldHVybiBsaXN0Wydwcm9kdWN0cyddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyY2Vsc19yb3V0ZXIgPSByb3V0ZXJzLk5lc3RlZFNpbXBsZVJvdXRlcihyb3V0ZXIsIHIicGFyY2VscyIsIGxvb2t1cD0icGFyY2VscyIpICAjIHB5bGludDogZGlzYWJsZT1pbnZhbGlkLW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydwcmV2aW91cyddKQogICAgICAgIHByaW50KGRhdGFbJ25leHQnXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXNwYXRjaF9yZWdpc3Rlcl9yZXNwb25zZVsncHJldiddKQogICAgICAgIHByaW50KGRpc3BhdGNoX3JlZ2lzdGVyX3Jlc3BvbnNlWyduZXh0J10pCg==</text>
+        <text encoding="base64">W10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0LnF1ZXJ5X3BhcmFtcykK</text>
+        <text encoding="base64">cGFyY2Vsc19yb3V0ZXIgPSByb3V0ZXJzLk5lc3RlZFNpbXBsZVJvdXRlcihyb3V0ZXIsIHIicGFyY2VscyIsIGxvb2t1cD0icGFyY2VscyIpICAjIHB5bGludDogZGlzYWJsZT1pbnZhbGlkLW5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
