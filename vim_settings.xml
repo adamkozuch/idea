@@ -92,6 +92,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
         <mark key="'" line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" timestamp="1559889660140">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="74" column="24" />
+        <mark key="]" line="74" column="24" />
+        <mark key="^" line="74" column="24" />
+        <mark key="." line="74" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/cod_express/parsers.py" timestamp="1559641794604">
         <mark key="'" line="5" column="38" />
       </file>
@@ -138,19 +145,19 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1559887896319">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1559890054068">
         <mark key="'" line="143" column="12" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="147" column="75" />
+        <mark key="[" line="162" column="60" />
+        <mark key="]" line="162" column="60" />
+        <mark key="." line="162" column="60" />
+        <mark key="^" line="162" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1559886772910">
-        <mark key="'" line="42" column="18" />
-        <mark key="[" line="42" column="38" />
-        <mark key="]" line="42" column="38" />
-        <mark key="^" line="42" column="69" />
-        <mark key="." line="42" column="38" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1559889416218">
+        <mark key="'" line="41" column="18" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="41" column="69" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559643165393">
         <mark key="'" line="66" column="40" />
@@ -181,10 +188,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556543879040">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" timestamp="1559814498280">
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" timestamp="1559889673577">
+        <mark key="[" line="254" column="15" />
+        <mark key="]" line="254" column="21" />
+        <mark key="." line="254" column="21" />
+        <mark key="^" line="254" column="21" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1559812261528">
         <mark key="'" line="428" column="43" />
@@ -242,12 +250,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" timestamp="1556279614173">
         <mark key="'" line="160" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" timestamp="1559887972324">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" timestamp="1559889292682">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="105" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/crypto-definitions/cod/generated.py" timestamp="1558966259568">
         <mark key="'" line="186" column="20" />
@@ -287,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="911" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
       <jump line="909" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
       <jump line="902" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
       <jump line="893" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/serializers.py" />
@@ -387,13 +394,14 @@
       <jump line="145" column="19" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
       <jump line="146" column="37" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
       <jump line="143" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
+      <jump line="39" column="29" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICMgcGFyc2VkID0gewogICAgIyAgICAgZFsiZGVsaXZlcnlfaWQiXTogewogICAgIyAgICAgICAgICJ0cmFja2luZ19udW1iZXIiOiBkWyJ0cmFja2luZ19udW1iZXIiXSwKICAgICMgICAgICAgICAicHJvZHVjdHMiOiBbXSwKICAgICMgICAgICAgICAiZGVsaXZlcnlfaWQiOiBkWyJkZWxpdmVyeV9pZCJdLAogICAgIyAgICAgICAgICJyZWFzb25fY29kZSI6IGRbInJlYXNvbl9jb2RlIl0sCiAgICAjICAgICAgICAgInN0YXR1c19kYXRlIjogZFsicmV0dXJuX2RhdGUiXSwKICAgICMgICAgIH0KICAgICMgICAgIGZvciBkIGluIGpzb25fZGF0YQogICAgIyB9CiAgICAjIGZvciBkYXRhIGluIGpzb25fZGF0YToKICAgICMgICAgIHBhcnNlZFtkYXRhWyJkZWxpdmVyeV9pZCJdXVsicHJvZHVjdHMiXS5hcHBlbmQoCiAgICAjICAgICAgICAgewogICAgIyAgICAgICAgICAgICAic3RhdHVzIjogZGF0YVsicHJvZHVjdF9zdGF0dXMiXSwKICAgICMgICAgICAgICAgICAgImxvdF9jb2RlIjogZGF0YVsicHJvZHVjdCJdLAogICAgIyAgICAgICAgICAgICAiY291bnQiOiBOb25lLAogICAgIyAgICAgICAgIH0KICAgICMgICAgICk=</text>
+        <text encoding="base64">IGZyb20gYm9keSBkYXRh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGZyb20gYm9keSBkYXRh</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
@@ -401,32 +409,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBkYXRhIGluIGpzb25fZGF0YToK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICMgcGFyc2VkID0gewogICAgIyAgICAgZFsiZGVsaXZlcnlfaWQiXTogewogICAgIyAgICAgICAgICJ0cmFja2luZ19udW1iZXIiOiBkWyJ0cmFja2luZ19udW1iZXIiXSwKICAgICMgICAgICAgICAicHJvZHVjdHMiOiBbXSwKICAgICMgICAgICAgICAiZGVsaXZlcnlfaWQiOiBkWyJkZWxpdmVyeV9pZCJdLAogICAgIyAgICAgICAgICJyZWFzb25fY29kZSI6IGRbInJlYXNvbl9jb2RlIl0sCiAgICAjICAgICAgICAgInN0YXR1c19kYXRlIjogZFsicmV0dXJuX2RhdGUiXSwKICAgICMgICAgIH0KICAgICMgICAgIGZvciBkIGluIGpzb25fZGF0YQogICAgIyB9CiAgICAjIGZvciBkYXRhIGluIGpzb25fZGF0YToKICAgICMgICAgIHBhcnNlZFtkYXRhWyJkZWxpdmVyeV9pZCJdXVsicHJvZHVjdHMiXS5hcHBlbmQoCiAgICAjICAgICAgICAgewogICAgIyAgICAgICAgICAgICAic3RhdHVzIjogZGF0YVsicHJvZHVjdF9zdGF0dXMiXSwKICAgICMgICAgICAgICAgICAgImxvdF9jb2RlIjogZGF0YVsicHJvZHVjdCJdLAogICAgIyAgICAgICAgICAgICAiY291bnQiOiBOb25lLAogICAgIyAgICAgICAgIH0KICAgICMgICAgICk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIExpc3RGaWVsZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIGxpc3QocGFyc2VkLnZhbHVlcygpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVGhpcyBpcyBkYXRhICIsIGRhdGEpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KGpzb25fZGF0YSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICMgcGFyc2VkID0gewogICAgIyAgICAgZFsiZGVsaXZlcnlfaWQiXTogewogICAgIyAgICAgICAgICJ0cmFja2luZ19udW1iZXIiOiBkWyJ0cmFja2luZ19udW1iZXIiXSwKICAgICMgICAgICAgICAicHJvZHVjdHMiOiBbXSwKICAgICMgICAgICAgICAiZGVsaXZlcnlfaWQiOiBkWyJkZWxpdmVyeV9pZCJdLAogICAgIyAgICAgICAgICJyZWFzb25fY29kZSI6IGRbInJlYXNvbl9jb2RlIl0sCiAgICAjICAgICAgICAgInN0YXR1c19kYXRlIjogZFsicmV0dXJuX2RhdGUiXSwKICAgICMgICAgIH0KICAgICMgICAgIGZvciBkIGluIGpzb25fZGF0YQogICAgIyB9CiAgICAjIGZvciBkYXRhIGluIGpzb25fZGF0YToKICAgICMgICAgIHBhcnNlZFtkYXRhWyJkZWxpdmVyeV9pZCJdXVsicHJvZHVjdHMiXS5hcHBlbmQoCiAgICAjICAgICAgICAgewogICAgIyAgICAgICAgICAgICAic3RhdHVzIjogZGF0YVsicHJvZHVjdF9zdGF0dXMiXSwKICAgICMgICAgICAgICAgICAgImxvdF9jb2RlIjogZGF0YVsicHJvZHVjdCJdLAogICAgIyAgICAgICAgICAgICAiY291bnQiOiBOb25lLAogICAgIyAgICAgICAgIH0KICAgICMgICAgICk=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgcmV0dXJuIGxpc3QocGFyc2VkLnZhbHVlcygpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVGhpcyBpcyBkYXRhICIsIGRhdGEpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyc2VkX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGpzb25fZGF0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uX2RhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
