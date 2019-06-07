@@ -158,8 +158,9 @@
         <mark key="^" line="41" column="69" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559643165393">
-        <mark key="'" line="66" column="40" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559898130432">
+        <mark key="'" line="67" column="40" />
+        <mark key="[" line="56" column="75" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
@@ -431,7 +432,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -484,9 +485,9 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>e</entry>
-        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
