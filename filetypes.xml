@@ -14,6 +14,7 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="s" type="Python" />
       <mapping pattern="utils" type="Python" />
+      <mapping pattern="__init__" type="Python" />
       <mapping pattern="apifootballRaw" type="Python" />
       <mapping pattern="streamline" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
