@@ -2,57 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/urls.py" timestamp="1559216637628">
-        <mark key="'" line="22" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" timestamp="1559215165576">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/forms.py" timestamp="1559215244535">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="22" column="27" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/urls.py" />
-    </jumps>
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">IyBjbGFzcyBDYXJkRm9ybShNb2RlbEZvcm0pOiAjIGJlZHppZSBtdXNpYWwgYnljIGN1c3RvbWl6b3dhbnkuIER5bmFtaWN6bmUgd3lzd2lldGxhbmllIHNsb3duaWtvdy4KIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIG1vZGVsID0gQ2FyZAojICAgICAgICAgZmllbGRzID0gWydmcm9udCcsICdiYWNrJ10K</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBjbGFzcyBDYXJkRm9ybShNb2RlbEZvcm0pOiAjIGJlZHppZSBtdXNpYWwgYnljIGN1c3RvbWl6b3dhbnkuIER5bmFtaWN6bmUgd3lzd2lldGxhbmllIHNsb3duaWtvdy4KIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIG1vZGVsID0gQ2FyZAojICAgICAgICAgZmllbGRzID0gWydmcm9udCcsICdiYWNrJ10K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZm9ybXMgaW1wb3J0IENoYXJGaWVsZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVmIHNvbWVfZnVuYyhhbGFuKQo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
