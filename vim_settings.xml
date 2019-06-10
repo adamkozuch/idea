@@ -242,8 +242,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/django/db/models/fields/subclassing.py" timestamp="1558531165275">
         <mark key="'" line="48" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" timestamp="1559741396075">
-        <mark key="'" line="88" column="12" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" timestamp="1560159665542">
+        <mark key="'" line="99" column="8" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
@@ -318,10 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="191" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="180" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="181" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="184" column="23" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/throttling.py" />
@@ -418,6 +414,10 @@
       <jump line="11" column="28" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" />
       <jump line="72" column="88" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" />
+      <jump line="64" column="22" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
+      <jump line="88" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
+      <jump line="94" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,7 +427,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</text>
+        <text>get_deli</text>
       </register>
       <register name="0" type="4">
         <text>, too-many-branches</text>
@@ -464,17 +464,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</last-search>
+      <last-search>get_deli</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</last-pattern>
+      <last-pattern>get_deli</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>drop</entry>
         <entry>post</entry>
         <entry>test_set_re</entry>
         <entry>print</entry>
@@ -494,6 +493,7 @@
         <entry>ls</entry>
         <entry>description</entry>
         <entry encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</entry>
+        <entry>get_deli</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
