@@ -192,12 +192,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" timestamp="1560148362646">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" timestamp="1560151695639">
         <mark key="'" line="211" column="0" />
-        <mark key="[" line="266" column="26" />
-        <mark key="]" line="266" column="65" />
-        <mark key="." line="266" column="65" />
-        <mark key="^" line="266" column="65" />
+        <mark key="[" line="201" column="12" />
+        <mark key="]" line="201" column="11" />
+        <mark key="." line="201" column="11" />
+        <mark key="^" line="201" column="11" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556543879040">
         <mark key="'" line="2" column="34" />
@@ -461,7 +461,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSAge2Vycm9yc30iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -515,8 +515,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
