@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
         <mark key="'" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1559729777139">
-        <mark key="'" line="19" column="25" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1560155483560">
+        <mark key="'" line="112" column="6" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="56" />
       </file>
@@ -104,8 +104,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients.py" timestamp="1554810395617">
         <mark key="'" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" timestamp="1560154319634">
-        <mark key="'" line="73" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" timestamp="1560155329018">
+        <mark key="'" line="66" column="17" />
         <mark key="[" line="45" column="35" />
         <mark key="]" line="45" column="35" />
         <mark key="." line="45" column="35" />
@@ -163,11 +163,12 @@
         <mark key="^" line="191" column="37" />
         <mark key="." line="165" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1559914981913">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="46" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560155974690">
+        <mark key="'" line="11" column="28" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559900623342">
         <mark key="'" line="66" column="40" />
@@ -314,9 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="276" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="261" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="248" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="236" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="223" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
@@ -361,7 +359,6 @@
       <jump line="65" column="47" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/utils.py" />
       <jump line="18" column="20" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
-      <jump line="11" column="31" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
       <jump line="29" column="17" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
       <jump line="75" column="35" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
       <jump line="82" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
@@ -413,7 +410,11 @@
       <jump line="36" column="52" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
       <jump line="23" column="29" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
       <jump line="34" column="44" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
+      <jump line="65" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
+      <jump line="66" column="17" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
+      <jump line="112" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
+      <jump line="11" column="28" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -423,7 +424,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>d \</text>
+        <text>description</text>
       </register>
       <register name="0" type="4">
         <text>, too-many-branches</text>
@@ -456,13 +457,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSAge2Vycm9yc30iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>d \</last-search>
+      <last-search>description</last-search>
       <last-offset />
-      <last-pattern>d \</last-pattern>
+      <last-pattern>description</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -470,8 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IsLogi</entry>
-        <entry>dispa</entry>
         <entry encoding="base64">XDxJc0xvZ2lzdGljUGFydG5lclw+</entry>
         <entry>drop</entry>
         <entry>post</entry>
@@ -490,6 +489,8 @@
         <entry>return</entry>
         <entry>errors.\a</entry>
         <entry>d \</entry>
+        <entry>ls</entry>
+        <entry>description</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -510,8 +511,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
