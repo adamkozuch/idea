@@ -170,13 +170,13 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560166693594">
-        <mark key="'" line="13" column="36" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560167358436">
+        <mark key="'" line="11" column="36" />
         <mark key="j" line="35" column="0" />
-        <mark key="[" line="84" column="33" />
-        <mark key="]" line="85" column="38" />
-        <mark key="." line="85" column="38" />
-        <mark key="^" line="85" column="38" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="18" column="99" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559900623342">
         <mark key="'" line="66" column="40" />
@@ -416,16 +416,16 @@
       <jump line="80" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" />
       <jump line="304" column="21" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" />
       <jump line="30" column="16" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
-      <jump line="11" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
       <jump line="12" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
       <jump line="13" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
+      <jump line="11" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IntegerField</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5maWVsZHMgaW1wb3J0IENob2ljZUZpZWxkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>IntegerField</text>
+        <text>choices=CHOICES_REASON_CODE,</text>
       </register>
       <register name="/" type="4">
         <text>separate_delive</text>
@@ -434,31 +434,31 @@
         <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9J1RyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgcmVsYXRlZCB3aXRoIGRpc3BhdGNoIG9yZGVyLicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1dST05HX0FERFJFU1MgPSAyCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5maWVsZHMgaW1wb3J0IENob2ljZUZpZWxkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1dST05HX0FERFJFU1MgPSAyCg==</text>
+        <text encoding="base64">ICAgICAgICBjaG9pY2VzPUNIT0lDRVNfUFJPRFVDVF9TVEFUVVMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Q0hPSUNFU19SRUFTT05fQ09ERSA9IFsKKDEsICdSRUFTT05fQ09ERV9TRU5ERVJfUkVRVUVTVCcpLAooMiwgJ1JFQVNPTl9DT0RFX1dST05HX0FERFJFU1MgJyksCigzLCAnUkVBU09OX0NPREVfUkVDSVBJRU5UX1VOS05PV04nKSwKXQoKQ0hPSUNFU19QUk9EVUNUX1NUQVRVUyA9IFsKICAgICgwLCAnT0snKSwKICAgICgxLCAnRGFtYWdlZCcpLAogICAgKDIsICdFeHBpcmVkJykKXQogICAgIyBSRUFTT05fQ09ERV9SRUNJUElFTlRfUkVTSUdORUQgPSA0CiAgICAjIFJFQVNPTl9DT0RFX05PX1JFQ0VJUFQgPSA1CiAgICAjIFJFQVNPTl9DT0RFX1BBUkNFTF9EQU1BR0VEID0gNgogICAgIyBSRUFTT05fQ09ERV9VTktOT1dOID0gNwogICAgIyBSRUFTT05fQ09ERV9PVEhFUiA9IDgKICAgICMgUkVBU09OX0NPREVfQVBQT0lOVE1FTlRfU0NIRURVTEVEID0gOQogICAgIyBSRUFTT05fQ09ERV9ORVdfQUREUkVTUyA9IDEwCiAgICAjIFJFQVNPTl9DT0RFX1BST0JBQkxZX0xPU1QgPSAxMQogICAgIyBSRUFTT05fQ09ERV9DVVNUT01fQ0xFQVJBTkNFID0gMTIKICAgICMgUkVBU09OX0NPREVfREVMQVkgPSAxMwogICAgIyBSRUFTT05fQ09ERV9IQVZFX05PX0NBU0ggPSAxNAogICAgIyBSRUFTT05fQ09ERV9DTE9TRUQgPSAxNQogICAgIyBSRUFTT05fQ09ERV9DT05UQUNUX0JZX0NPVVJJRVJfQ09NUEFOWSA9IDE2CiAgICAjIFJFQVNPTl9DT0RFX0NPTlRBQ1RfUkVRVUlSRUQgPSAxNwogICAgIyBSRUFTT05fQ09ERV9TRU5UX0lORk9STUFUSU9OID0gMTgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UkVBU09OX0NPREVfQ0hPSUNFUyA9ICgK</text>
+        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1dST05HX0FERFJFU1MgPSAyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnYmVmb3JlJykK</text>
+        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1dST05HX0FERFJFU1MgPSAyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIyAiIFBvc3NpYmxlIHZhbHVlcyAwIC0+IE9LICwgMSAtPiBEYW1hZ2VkIGFuZCAyIC0+IEV4cGlyZWQuIgo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1NFTkRFUl9SRVFVRVNUID0gMQogICAgUkVBU09OX0NPREVfV1JPTkdfQUREUkVTUyA9IDIKICAgIFJFQVNPTl9DT0RFX1JFQ0lQSUVOVF9VTktOT1dOID0gMwogICAgUkVBU09OX0NPREVfUkVDSVBJRU5UX1JFU0lHTkVEID0gNAogICAgUkVBU09OX0NPREVfTk9fUkVDRUlQVCA9IDUKICAgIFJFQVNPTl9DT0RFX1BBUkNFTF9EQU1BR0VEID0gNgogICAgUkVBU09OX0NPREVfVU5LTk9XTiA9IDcKICAgIFJFQVNPTl9DT0RFX09USEVSID0gOAogICAgUkVBU09OX0NPREVfQVBQT0lOVE1FTlRfU0NIRURVTEVEID0gOQogICAgUkVBU09OX0NPREVfTkVXX0FERFJFU1MgPSAxMAogICAgUkVBU09OX0NPREVfUFJPQkFCTFlfTE9TVCA9IDExCiAgICBSRUFTT05fQ09ERV9DVVNUT01fQ0xFQVJBTkNFID0gMTIKICAgIFJFQVNPTl9DT0RFX0RFTEFZID0gMTMKICAgIFJFQVNPTl9DT0RFX0hBVkVfTk9fQ0FTSCA9IDE0CiAgICBSRUFTT05fQ09ERV9DTE9TRUQgPSAxNQogICAgUkVBU09OX0NPREVfQ09OVEFDVF9CWV9DT1VSSUVSX0NPTVBBTlkgPSAxNgogICAgUkVBU09OX0NPREVfQ09OVEFDVF9SRVFVSVJFRCA9IDE3CiAgICBSRUFTT05fQ09ERV9TRU5UX0lORk9STUFUSU9OID0gMTgK</text>
+        <text encoding="base64">UkVBU09OX0NPREVfQ0hPSUNFUyA9ICgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYmVmb3JlJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9IlRyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgZm9yIGdpdmVuIGRlbGl2ZXJ5LiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIyAiIFBvc3NpYmxlIHZhbHVlcyAwIC0+IE9LICwgMSAtPiBEYW1hZ2VkIGFuZCAyIC0+IEV4cGlyZWQuIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
