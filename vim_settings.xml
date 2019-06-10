@@ -57,10 +57,10 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" timestamp="1560161880268">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" timestamp="1560163574294">
         <mark key="'" line="80" column="50" />
-        <mark key="[" line="81" column="36" />
-        <mark key="]" line="82" column="105" />
+        <mark key="[" line="83" column="67" />
+        <mark key="]" line="83" column="130" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -171,12 +171,13 @@
         <mark key="^" line="191" column="37" />
         <mark key="." line="165" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560162044450">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560164586887">
         <mark key="'" line="11" column="28" />
-        <mark key="[" line="46" column="75" />
-        <mark key="]" line="46" column="75" />
-        <mark key="." line="46" column="75" />
-        <mark key="^" line="46" column="75" />
+        <mark key="j" line="35" column="0" />
+        <mark key="[" line="36" column="90" />
+        <mark key="]" line="36" column="96" />
+        <mark key="." line="36" column="96" />
+        <mark key="^" line="36" column="96" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559900623342">
         <mark key="'" line="66" column="40" />
@@ -421,45 +422,44 @@
       <jump line="80" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIiAxIG1lYW5zIERhbWFnZWQgYW5kIDIgbWVhbnMgRXhwaXJlZC4iCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, 1, 2 where 0 means OK,&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get_deli</text>
       </register>
-      <register name="0" type="4">
-        <text>max_length=255,
-                                        help_text='Tracking number of parcel related with dispatch order.'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9J1RyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgcmVsYXRlZCB3aXRoIGRpc3BhdGNoIG9yZGVyLicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIiAxIG1lYW5zIERhbWFnZWQgYW5kIDIgbWVhbnMgRXhwaXJlZC4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIyAiIFBvc3NpYmxlIHZhbHVlcyAwIC0+IE9LICwgMSAtPiBEYW1hZ2VkIGFuZCAyIC0+IEV4cGlyZWQuIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKAogICAgciJwYXJjZWxzL3RyYWNraW5nLW51bWJlcnMvdXBkYXRlIiwKICAgIFBhcmNlbFRyYWNraW5nTnVtYmVyVmlldywKICAgIGJhc2VfbmFtZT0icGFyY2Vscy10cmFja2luZy1udW1iZXJzIiwKKQpyb3V0ZXIucmVnaXN0ZXIociJwYXJjZWxzL3JldHVybmVkL3VwZGF0ZSIsIFBhcmNlbFJldHVyblZpZXcsIGJhc2VfbmFtZT0icGFyY2Vscy1yZXR1cm5lZCIpCnJvdXRlci5yZWdpc3RlcihyInBhcmNlbHMvZGVsaXZlcmVkL3VwZGF0ZSIsIFBhcmNlbERlbGl2ZXJlZFZpZXcsIGJhc2VfbmFtZT0icGFyY2Vscy1kZWxpdmVyZWQiKQo=</text>
+        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1NFTkRFUl9SRVFVRVNUID0gMQogICAgUkVBU09OX0NPREVfV1JPTkdfQUREUkVTUyA9IDIKICAgIFJFQVNPTl9DT0RFX1JFQ0lQSUVOVF9VTktOT1dOID0gMwogICAgUkVBU09OX0NPREVfUkVDSVBJRU5UX1JFU0lHTkVEID0gNAogICAgUkVBU09OX0NPREVfTk9fUkVDRUlQVCA9IDUKICAgIFJFQVNPTl9DT0RFX1BBUkNFTF9EQU1BR0VEID0gNgogICAgUkVBU09OX0NPREVfVU5LTk9XTiA9IDcKICAgIFJFQVNPTl9DT0RFX09USEVSID0gOAogICAgUkVBU09OX0NPREVfQVBQT0lOVE1FTlRfU0NIRURVTEVEID0gOQogICAgUkVBU09OX0NPREVfTkVXX0FERFJFU1MgPSAxMAogICAgUkVBU09OX0NPREVfUFJPQkFCTFlfTE9TVCA9IDExCiAgICBSRUFTT05fQ09ERV9DVVNUT01fQ0xFQVJBTkNFID0gMTIKICAgIFJFQVNPTl9DT0RFX0RFTEFZID0gMTMKICAgIFJFQVNPTl9DT0RFX0hBVkVfTk9fQ0FTSCA9IDE0CiAgICBSRUFTT05fQ09ERV9DTE9TRUQgPSAxNQogICAgUkVBU09OX0NPREVfQ09OVEFDVF9CWV9DT1VSSUVSX0NPTVBBTlkgPSAxNgogICAgUkVBU09OX0NPREVfQ09OVEFDVF9SRVFVSVJFRCA9IDE3CiAgICBSRUFTT05fQ09ERV9TRU5UX0lORk9STUFUSU9OID0gMTgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9IlRyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgZm9yIGdpdmVuIGRlbGl2ZXJ5LiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9J1RyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgcmVsYXRlZCB3aXRoIGRpc3BhdGNoIG9yZGVyLicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMuZW1wdHk6CiAgICAgICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAiZXJyb3JfbWVzc2FnZSI6ICJEdXBsaWNhdGVkIGRlbGl2ZXJ5X2lkIGV4aXN0czoge30iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzPTQwMCwKICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgIGlmIG5vdCB0cmFja2luZ19udW1iZXJfZHVwbGljYXRlcy5lbXB0eToKICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSgKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJlcnJvcl9tZXNzYWdlIjogIkR1cGxpY2F0ZWQgdHJhY2tpbmdfbnVtYmVyIGV4aXN0cyB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhY2tpbmdfbnVtYmVyX2R1cGxpY2F0ZXMKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzPTQwMCwKICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9IlRyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgZm9yIGdpdmVuIGRlbGl2ZXJ5LiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSA6ICB7cy5lcnJvcnN9IikK</text>
+        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9IlRyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgZm9yIGdpdmVuIGRlbGl2ZXJ5LiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfToge3MuZXJyb3JzfSIpCg==</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkID0gSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSAge3MuZXJyb3JzfSIpCg==</text>
+        <text encoding="base64">ICAgIHRyYWNraW5nX251bWJlciA9IENoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
