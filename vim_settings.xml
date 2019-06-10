@@ -164,20 +164,19 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1560150456825">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" timestamp="1560166006303">
         <mark key="'" line="52" column="36" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="8" />
-        <mark key="^" line="191" column="37" />
-        <mark key="." line="165" column="8" />
+        <mark key="[" line="146" column="33" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560164586887">
-        <mark key="'" line="11" column="28" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560166693594">
+        <mark key="'" line="13" column="36" />
         <mark key="j" line="35" column="0" />
-        <mark key="[" line="36" column="90" />
-        <mark key="]" line="36" column="96" />
-        <mark key="." line="36" column="96" />
-        <mark key="^" line="36" column="96" />
+        <mark key="[" line="84" column="33" />
+        <mark key="]" line="85" column="38" />
+        <mark key="." line="85" column="38" />
+        <mark key="^" line="85" column="38" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559900623342">
         <mark key="'" line="66" column="40" />
@@ -201,12 +200,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" timestamp="1560151695639">
-        <mark key="'" line="211" column="0" />
-        <mark key="[" line="201" column="12" />
-        <mark key="]" line="201" column="11" />
-        <mark key="." line="201" column="11" />
-        <mark key="^" line="201" column="11" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" timestamp="1560166371038">
+        <mark key="'" line="304" column="21" />
+        <mark key="[" line="208" column="91" />
+        <mark key="]" line="208" column="91" />
+        <mark key="." line="208" column="91" />
+        <mark key="^" line="208" column="91" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556543879040">
         <mark key="'" line="2" column="34" />
@@ -320,10 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="184" column="23" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/throttling.py" />
-      <jump line="72" column="48" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/throttling.py" />
-      <jump line="108" column="36" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/throttling.py" />
       <jump line="157" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="166" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
@@ -412,7 +407,6 @@
       <jump line="65" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
       <jump line="66" column="17" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
       <jump line="112" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
-      <jump line="11" column="28" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" />
       <jump line="72" column="88" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" />
       <jump line="64" column="22" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
@@ -420,55 +414,60 @@
       <jump line="94" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
       <jump line="99" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
       <jump line="80" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" />
+      <jump line="304" column="21" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/tests.py" />
+      <jump line="30" column="16" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
+      <jump line="11" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
+      <jump line="12" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
+      <jump line="13" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IntegerField</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IntegerField</text>
       </register>
       <register name="/" type="4">
-        <text>get_deli</text>
+        <text>separate_delive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9J1RyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgcmVsYXRlZCB3aXRoIGRpc3BhdGNoIG9yZGVyLicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIyAiIFBvc3NpYmxlIHZhbHVlcyAwIC0+IE9LICwgMSAtPiBEYW1hZ2VkIGFuZCAyIC0+IEV4cGlyZWQuIgo=</text>
+        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1dST05HX0FERFJFU1MgPSAyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1NFTkRFUl9SRVFVRVNUID0gMQogICAgUkVBU09OX0NPREVfV1JPTkdfQUREUkVTUyA9IDIKICAgIFJFQVNPTl9DT0RFX1JFQ0lQSUVOVF9VTktOT1dOID0gMwogICAgUkVBU09OX0NPREVfUkVDSVBJRU5UX1JFU0lHTkVEID0gNAogICAgUkVBU09OX0NPREVfTk9fUkVDRUlQVCA9IDUKICAgIFJFQVNPTl9DT0RFX1BBUkNFTF9EQU1BR0VEID0gNgogICAgUkVBU09OX0NPREVfVU5LTk9XTiA9IDcKICAgIFJFQVNPTl9DT0RFX09USEVSID0gOAogICAgUkVBU09OX0NPREVfQVBQT0lOVE1FTlRfU0NIRURVTEVEID0gOQogICAgUkVBU09OX0NPREVfTkVXX0FERFJFU1MgPSAxMAogICAgUkVBU09OX0NPREVfUFJPQkFCTFlfTE9TVCA9IDExCiAgICBSRUFTT05fQ09ERV9DVVNUT01fQ0xFQVJBTkNFID0gMTIKICAgIFJFQVNPTl9DT0RFX0RFTEFZID0gMTMKICAgIFJFQVNPTl9DT0RFX0hBVkVfTk9fQ0FTSCA9IDE0CiAgICBSRUFTT05fQ09ERV9DTE9TRUQgPSAxNQogICAgUkVBU09OX0NPREVfQ09OVEFDVF9CWV9DT1VSSUVSX0NPTVBBTlkgPSAxNgogICAgUkVBU09OX0NPREVfQ09OVEFDVF9SRVFVSVJFRCA9IDE3CiAgICBSRUFTT05fQ09ERV9TRU5UX0lORk9STUFUSU9OID0gMTgK</text>
+        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1dST05HX0FERFJFU1MgPSAyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9IlRyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgZm9yIGdpdmVuIGRlbGl2ZXJ5LiIK</text>
+        <text encoding="base64">UkVBU09OX0NPREVfQ0hPSUNFUyA9ICgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9J1RyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgcmVsYXRlZCB3aXRoIGRpc3BhdGNoIG9yZGVyLicK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYmVmb3JlJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9IlRyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgZm9yIGdpdmVuIGRlbGl2ZXJ5LiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIyAiIFBvc3NpYmxlIHZhbHVlcyAwIC0+IE9LICwgMSAtPiBEYW1hZ2VkIGFuZCAyIC0+IEV4cGlyZWQuIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9IlRyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgZm9yIGdpdmVuIGRlbGl2ZXJ5LiIK</text>
+        <text encoding="base64">ICAgIFJFQVNPTl9DT0RFX1NFTkRFUl9SRVFVRVNUID0gMQogICAgUkVBU09OX0NPREVfV1JPTkdfQUREUkVTUyA9IDIKICAgIFJFQVNPTl9DT0RFX1JFQ0lQSUVOVF9VTktOT1dOID0gMwogICAgUkVBU09OX0NPREVfUkVDSVBJRU5UX1JFU0lHTkVEID0gNAogICAgUkVBU09OX0NPREVfTk9fUkVDRUlQVCA9IDUKICAgIFJFQVNPTl9DT0RFX1BBUkNFTF9EQU1BR0VEID0gNgogICAgUkVBU09OX0NPREVfVU5LTk9XTiA9IDcKICAgIFJFQVNPTl9DT0RFX09USEVSID0gOAogICAgUkVBU09OX0NPREVfQVBQT0lOVE1FTlRfU0NIRURVTEVEID0gOQogICAgUkVBU09OX0NPREVfTkVXX0FERFJFU1MgPSAxMAogICAgUkVBU09OX0NPREVfUFJPQkFCTFlfTE9TVCA9IDExCiAgICBSRUFTT05fQ09ERV9DVVNUT01fQ0xFQVJBTkNFID0gMTIKICAgIFJFQVNPTl9DT0RFX0RFTEFZID0gMTMKICAgIFJFQVNPTl9DT0RFX0hBVkVfTk9fQ0FTSCA9IDE0CiAgICBSRUFTT05fQ09ERV9DTE9TRUQgPSAxNQogICAgUkVBU09OX0NPREVfQ09OVEFDVF9CWV9DT1VSSUVSX0NPTVBBTlkgPSAxNgogICAgUkVBU09OX0NPREVfQ09OVEFDVF9SRVFVSVJFRCA9IDE3CiAgICBSRUFTT05fQ09ERV9TRU5UX0lORk9STUFUSU9OID0gMTgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkID0gSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYWNraW5nX251bWJlciA9IENoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NSkK</text>
+        <text encoding="base64">ICAgICAgICBoZWxwX3RleHQ9IlRyYWNraW5nIG51bWJlciBvZiBwYXJjZWwgZm9yIGdpdmVuIGRlbGl2ZXJ5LiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_deli</last-search>
+      <last-search>separate_delive</last-search>
       <last-offset />
-      <last-pattern>get_deli</last-pattern>
+      <last-pattern>separate_delive</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -476,7 +475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
         <entry>test_set_re</entry>
         <entry>print</entry>
         <entry>prin</entry>
@@ -496,6 +494,7 @@
         <entry>description</entry>
         <entry encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</entry>
         <entry>get_deli</entry>
+        <entry>separate_delive</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -509,7 +508,6 @@
         <entry>action Run</entry>
         <entry>:w</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>action GotoFile</entry>
         <entry>pwd</entry>
@@ -517,6 +515,7 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
