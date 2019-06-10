@@ -43,7 +43,7 @@
         <mark key="." line="299" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" timestamp="1560157122138">
-        <mark key="'" line="72" column="88" />
+        <mark key="'" line="3" column="88" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/admin.py" timestamp="1558420514357">
         <mark key="'" line="44" column="34" />
@@ -56,6 +56,11 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" timestamp="1560161880268">
+        <mark key="'" line="80" column="50" />
+        <mark key="[" line="81" column="36" />
+        <mark key="]" line="82" column="105" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -166,12 +171,12 @@
         <mark key="^" line="191" column="37" />
         <mark key="." line="165" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560155974690">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" timestamp="1560162044450">
         <mark key="'" line="11" column="28" />
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
+        <mark key="[" line="46" column="75" />
+        <mark key="]" line="46" column="75" />
+        <mark key="." line="46" column="75" />
+        <mark key="^" line="46" column="75" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1559900623342">
         <mark key="'" line="66" column="40" />
@@ -205,7 +210,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556543879040">
         <mark key="'" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" timestamp="1559905500880">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" timestamp="1560161018747">
         <mark key="'" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1559812261528">
@@ -287,10 +292,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" timestamp="1556106987139">
         <mark key="'" line="68" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/.venv/lib/python3.7/site-packages/pylint/test/functional/inconsistent_returns.py" timestamp="1559738152071">
-        <mark key="[" line="78" column="11" />
-        <mark key="]" line="78" column="42" />
-      </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-111857053/-1756016830/requests/api.py" timestamp="1555327409926">
         <mark key="'" line="117" column="0" />
       </file>
@@ -318,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="181" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="184" column="23" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/throttling.py" />
       <jump line="72" column="48" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-740285198/-731267360/rest_framework/throttling.py" />
@@ -418,25 +418,27 @@
       <jump line="88" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
       <jump line="94" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
       <jump line="99" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
+      <jump line="80" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIiAxIG1lYW5zIERhbWFnZWQgYW5kIDIgbWVhbnMgRXhwaXJlZC4iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>, 1, 2 where 0 means OK,&quot;</text>
       </register>
       <register name="/" type="4">
         <text>get_deli</text>
       </register>
       <register name="0" type="4">
-        <text>, too-many-branches</text>
+        <text>max_length=255,
+                                        help_text='Tracking number of parcel related with dispatch order.'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKAogICAgciJwYXJjZWxzL3RyYWNraW5nLW51bWJlcnMvdXBkYXRlIiwKICAgIFBhcmNlbFRyYWNraW5nTnVtYmVyVmlldywKICAgIGJhc2VfbmFtZT0icGFyY2Vscy10cmFja2luZy1udW1iZXJzIiwKKQpyb3V0ZXIucmVnaXN0ZXIociJwYXJjZWxzL3JldHVybmVkL3VwZGF0ZSIsIFBhcmNlbFJldHVyblZpZXcsIGJhc2VfbmFtZT0icGFyY2Vscy1yZXR1cm5lZCIpCnJvdXRlci5yZWdpc3RlcihyInBhcmNlbHMvZGVsaXZlcmVkL3VwZGF0ZSIsIFBhcmNlbERlbGl2ZXJlZFZpZXcsIGJhc2VfbmFtZT0icGFyY2Vscy1kZWxpdmVyZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIiAxIG1lYW5zIERhbWFnZWQgYW5kIDIgbWVhbnMgRXhwaXJlZC4iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKAogICAgciJwYXJjZWxzL3RyYWNraW5nLW51bWJlcnMvdXBkYXRlIiwKICAgIFBhcmNlbFRyYWNraW5nTnVtYmVyVmlldywKICAgIGJhc2VfbmFtZT0icGFyY2Vscy10cmFja2luZy1udW1iZXJzIiwKKQpyb3V0ZXIucmVnaXN0ZXIociJwYXJjZWxzL3JldHVybmVkL3VwZGF0ZSIsIFBhcmNlbFJldHVyblZpZXcsIGJhc2VfbmFtZT0icGFyY2Vscy1yZXR1cm5lZCIpCnJvdXRlci5yZWdpc3RlcihyInBhcmNlbHMvZGVsaXZlcmVkL3VwZGF0ZSIsIFBhcmNlbERlbGl2ZXJlZFZpZXcsIGJhc2VfbmFtZT0icGFyY2Vscy1kZWxpdmVyZWQiKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
@@ -445,22 +447,22 @@
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMuZW1wdHk6CiAgICAgICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAiZXJyb3JfbWVzc2FnZSI6ICJEdXBsaWNhdGVkIGRlbGl2ZXJ5X2lkIGV4aXN0czoge30iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzPTQwMCwKICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgIGlmIG5vdCB0cmFja2luZ19udW1iZXJfZHVwbGljYXRlcy5lbXB0eToKICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSgKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJlcnJvcl9tZXNzYWdlIjogIkR1cGxpY2F0ZWQgdHJhY2tpbmdfbnVtYmVyIGV4aXN0cyB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhY2tpbmdfbnVtYmVyX2R1cGxpY2F0ZXMKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzPTQwMCwKICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSA6ICB7cy5lcnJvcnN9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMuZW1wdHk6CiAgICAgICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UoCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAiZXJyb3JfbWVzc2FnZSI6ICJEdXBsaWNhdGVkIGRlbGl2ZXJ5X2lkIGV4aXN0czoge30iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5X2lkX2R1cGxpY2F0ZXMKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzPTQwMCwKICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgIGlmIG5vdCB0cmFja2luZ19udW1iZXJfZHVwbGljYXRlcy5lbXB0eToKICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZSgKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJlcnJvcl9tZXNzYWdlIjogIkR1cGxpY2F0ZWQgdHJhY2tpbmdfbnVtYmVyIGV4aXN0cyB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhY2tpbmdfbnVtYmVyX2R1cGxpY2F0ZXMKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzPTQwMCwKICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfToge3MuZXJyb3JzfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSA6ICB7cy5lcnJvcnN9IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSAge3MuZXJyb3JzfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfToge3MuZXJyb3JzfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSAge2Vycm9yc30iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJFcnJvcnMgaW4gb2JqZWN0IHtkfSAge3MuZXJyb3JzfSIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -514,8 +516,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>qw</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
