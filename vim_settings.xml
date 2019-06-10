@@ -42,6 +42,9 @@
         <mark key="^" line="297" column="18" />
         <mark key="." line="299" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" timestamp="1560157122138">
+        <mark key="'" line="72" column="88" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/admin.py" timestamp="1558420514357">
         <mark key="'" line="44" column="34" />
       </file>
@@ -315,8 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="236" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="223" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="206" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="191" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
@@ -415,6 +416,8 @@
       <jump line="66" column="17" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
       <jump line="112" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
       <jump line="11" column="28" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/serializers.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" />
+      <jump line="72" column="88" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -424,7 +427,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>description</text>
+        <text encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>, too-many-branches</text>
@@ -461,17 +464,16 @@
       </register>
     </registers>
     <search>
-      <last-search>description</last-search>
+      <last-search encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</last-search>
       <last-offset />
-      <last-pattern>description</last-pattern>
+      <last-pattern encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJc0xvZ2lzdGljUGFydG5lclw+</entry>
         <entry>drop</entry>
         <entry>post</entry>
         <entry>test_set_re</entry>
@@ -491,6 +493,7 @@
         <entry>d \</entry>
         <entry>ls</entry>
         <entry>description</entry>
+        <entry encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
