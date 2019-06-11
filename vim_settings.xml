@@ -157,6 +157,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/validation_rules/views.py" timestamp="1556543879040">
         <mark key="'" line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" timestamp="1560241770687">
+        <mark key="'" line="185" column="0" />
+        <mark key="[" line="172" column="41" />
+        <mark key="]" line="172" column="42" />
+        <mark key="." line="172" column="42" />
+        <mark key="^" line="171" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
       </file>
@@ -241,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="170" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="194" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="202" column="37" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
@@ -341,13 +347,14 @@
       <jump line="175" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="177" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="301" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/config/settings/base.py" />
+      <jump line="185" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">REFUQUJBU0VTID0gewogICAgJ2RlZmF1bHQnOiB7CiAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMuc3FsaXRlMycsCiAgICAgICAgJ05BTUUnOiAnbXlkYXRhYmFzZScsCiAgICB9Cn0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;return value&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
