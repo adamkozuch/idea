@@ -118,8 +118,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/engine.py" timestamp="1558600889061">
         <mark key="'" line="864" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/standard/parsers.py" timestamp="1559643167669">
-        <mark key="'" line="3" column="33" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/standard/parsers.py" timestamp="1560330385958">
+        <mark key="'" line="3" column="43" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1555418176725">
         <mark key="'" line="239" column="11" />
@@ -275,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="16" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
       <jump line="108" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
       <jump line="110" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
       <jump line="169" column="26" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/parcels/views.py" />
@@ -375,6 +374,7 @@
       <jump line="70" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="74" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="114" column="31" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="3" column="43" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/standard/parsers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
