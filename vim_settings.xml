@@ -55,11 +55,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" timestamp="1560344483635">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="39" column="63" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" timestamp="1560345128851">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="38" column="63" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -90,7 +90,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1558700570750">
         <mark key="'" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" timestamp="1560343420459">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" timestamp="1560345407026">
         <mark key="'" line="56" column="38" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="58" column="25" />
@@ -376,11 +376,11 @@
       <jump line="24" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIHNob3VsZCBJIHB1dCB0aGlzIHJlcGxhY2UgaGVyZQ==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>phone</text>
