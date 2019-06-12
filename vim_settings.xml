@@ -29,6 +29,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
         <mark key="'" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" timestamp="1560321344496">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" timestamp="1560157122138">
         <mark key="'" line="3" column="88" />
       </file>
@@ -43,6 +48,11 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" timestamp="1560321360038">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" timestamp="1560163574294">
         <mark key="'" line="80" column="50" />
@@ -244,13 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="194" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="202" column="37" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="148" column="15" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="129" column="20" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="97" column="37" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="67" column="37" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="189" column="64" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="17" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
@@ -344,10 +347,17 @@
       <jump line="177" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="301" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/config/settings/base.py" />
       <jump line="185" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
+      <jump line="3" column="18" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>`</text>
@@ -356,37 +366,37 @@
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRfZGVsaXZlcnlfYXR0YWNobWVudC5yZXR1cm5fdmFsdWUgPSB7J2NvdW50JzoxMCwgJ25leHQnOiBOb25lLCAncHJldmlvdXMnOiBOb25lLCAncmVzdWx0JzpbXX0K</text>
+        <text encoding="base64">Y2xhc3MgSWRlYWxvZ2lzdGljc0ZpRGVsaXZlcnlMaXN0R2VuZXJhdG9yKERlbGl2ZXJ5TGlzdEdlbmVyYXRvcik6CgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGdldF9jb2x1bW5zKCk6CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ25vJywKICAgICAgICAgICAgJ25hbWUnLAogICAgICAgICAgICAnc3VybmFtZScsCiAgICAgICAgICAgICdhZGRyZXNzJywKICAgICAgICAgICAgJ3ppcCcsCiAgICAgICAgICAgICdjaXR5JywKICAgICAgICAgICAgJ2NvdW50cnknLAogICAgICAgICAgICAncGhvbmUnLAogICAgICAgICAgICAnZW1haWwnLAogICAgICAgICAgICAncXVhbnRpdHknLAogICAgICAgICAgICAnaXRlbWNvZGUnLAogICAgICAgICAgICAncHJpY2UnLAogICAgICAgICAgICAncHN0YXR1cycsCiAgICAgICAgICAgICdjb2QnLAogICAgICAgICAgICAnbm90ZScsCiAgICAgICAgICAgICdkZWxpdmVyeSBub3RlJywKICAgICAgICAgICAgJ2lkJywKICAgICAgICBdCgogICAgZGVmIGdldF9yb3dzKHNlbGYpOgogICAgICAgIHJvd3MgPSBbXQogICAgICAgIGZvciBpLCBkaXNwYXRjaF9vcmRlciBpbiBlbnVtZXJhdGUoc2VsZi5kYXRhKToKICAgICAgICAgICAgcm93ID0gewogICAgICAgICAgICAgICAgJ25vJzogaSArIDEsCiAgICAgICAgICAgICAgICAnbmFtZSc6IHNlbGYuX2dldF9uYW1lKGRpc3BhdGNoX29yZGVyKSwKICAgICAgICAgICAgICAgICdzdXJuYW1lJzogc2VsZi5fZ2V0X3N1cm5hbWUoZGlzcGF0Y2hfb3JkZXIpLAogICAgICAgICAgICAgICAgJ2FkZHJlc3MnOiBkaXNwYXRjaF9vcmRlci5nZXQoJ2RlbGl2ZXJ5X3N0cmVldCcpLAogICAgICAgICAgICAgICAgJ3ppcCc6IGRpc3BhdGNoX29yZGVyLmdldCgnZGVsaXZlcnlfemlwX2NvZGUnKSwKICAgICAgICAgICAgICAgICdjaXR5JzogZGlzcGF0Y2hfb3JkZXIuZ2V0KCdkZWxpdmVyeV9jaXR5JyksCiAgICAgICAgICAgICAgICAnY291bnRyeSc6IGRpc3BhdGNoX29yZGVyLmdldCgnZGVsaXZlcnlfY291bnRyeScpLAogICAgICAgICAgICAgICAgJ3Bob25lJzogc2VsZi5fZ2V0X3Bob25lKGRpc3BhdGNoX29yZGVyKSwKICAgICAgICAgICAgICAgICdlbWFpbCc6IGRpc3BhdGNoX29yZGVyLmdldCgnZGVmYXVsdF9lbWFpbCcpLAogICAgICAgICAgICAgICAgJ3ByaWNlJzogc3RyKGRpc3BhdGNoX29yZGVyLmdldCgnb3JkZXJfdmFsdWUnLCAnJykpLnJlcGxhY2UoJy4nLCAnLCcpLAogICAgICAgICAgICAgICAgJ3BzdGF0dXMnOiBkaXNwYXRjaF9vcmRlci5nZXQoJ3BheW1lbnRfbWV0aG9kJyksCiAgICAgICAgICAgICAgICAnY29kJzogc3RyKGRpc3BhdGNoX29yZGVyLmdldCgnY29kX3ZhbHVlJywgJycpKS5yZXBsYWNlKCcuJywgJywnKSwKICAgICAgICAgICAgICAgICdub3RlJzogZGlzcGF0Y2hfb3JkZXIuZ2V0KCdkZWxpdmVyeV9ub3RlJyksCiAgICAgICAgICAgICAgICAnZGVsaXZlcnkgbm90ZSc6IE5vbmUsCiAgICAgICAgICAgICAgICAnaWQnOiBkaXNwYXRjaF9vcmRlci5nZXQoJ2RlbGl2ZXJ5X2lkJyksCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcm93cy5hcHBlbmQocm93KQogICAgICAgICAgICBmb3IgaiwgcGFja2luZ19saXN0IGluIGVudW1lcmF0ZShkaXNwYXRjaF9vcmRlci5nZXQoJ3NlbGVjdGVkX3BhY2tpbmdfbGlzdCcsIFtdKSk6CiAgICAgICAgICAgICAgICBmb3IgaywgcHJvZHVjdF9sb3RfY29kZSBpbiBlbnVtZXJhdGUocGFja2luZ19saXN0LmdldCgncHJvZHVjdF9sb3RfY29kZXMnLCBbXSkpOgogICAgICAgICAgICAgICAgICAgIHJvdyA9IHJvdy5jb3B5KCkKICAgICAgICAgICAgICAgICAgICByb3cudXBkYXRlKHsKICAgICAgICAgICAgICAgICAgICAgICAgJ3F1YW50aXR5JzogcHJvZHVjdF9sb3RfY29kZS5nZXQoJ2NvdW50JyksCiAgICAgICAgICAgICAgICAgICAgICAgICdpdGVtY29kZSc6IHByb2R1Y3RfbG90X2NvZGUuZ2V0KCdsb3QnKSwKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIGlmIGogPT0gMCBhbmQgayA9PSAwOgogICAgICAgICAgICAgICAgICAgICAgICByb3dzWy0xXS51cGRhdGUocm93KQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHJvdy51cGRhdGUoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaWNlJzogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb2QnOiAwLAogICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgICAgICByb3dzLmFwcGVuZChyb3cpCiAgICAgICAgcmV0dXJuIHJvd3MKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9yZGVyIHRvIGdlbmVyYXRlIGRlbGl2ZXJ5IGZpbGVzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZvciBleGFtcGxlIHlvdSBjYW4gdXNlIHRoaXMgZW5kcG9pbnQgdG8gZmV0Y2ggb3JkZXJzIHdpdGggdGhlIOKAnE5ld+KAnSBzdGF0dXMgYW5kIGNyZWF0ZWQgYWZ0ZXIgYSBzcGVjaWZpYyBkYXRlIGluCiAgICBvcmRlciB0byBnZW5lcmF0ZSBkZWxpdmVyeSBmaWxlcy4KICAgIFF1ZXJ5IHBhcmFtZXRlcnMgY2FuIGJlIHByb3ZpZGVkIGluIHRoZSBmb2xsb3dpbmcgZm9ybWF0czogP2Zvbz1iYXIsYmF6LCA/Zm9vW109YmFyJmZvb1tdPWJheiwgP2Zvbz1iYXImZm9vPWJhego=</text>
+        <text encoding="base64">ICAgIG9yZGVyIHRvIGdlbmVyYXRlIGRlbGl2ZXJ5IGZpbGVzLgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIEZvciBleGFtcGxlIHlvdSBjYW4gdXNlIHRoaXMgZW5kcG9pbnQgdG8gZmV0Y2ggb3JkZXJzIHdpdGggdGhlIOKAnE5ld+KAnSBzdGF0dXMgYW5kIGNyZWF0ZWQgYWZ0ZXIgYSBzcGVjaWZpYyBkYXRlIGluCiAgICBvcmRlciB0byBnZW5lcmF0ZSBkZWxpdmVyeSBmaWxlcy4KICAgIFF1ZXJ5IHBhcmFtZXRlcnMgY2FuIGJlIHByb3ZpZGVkIGluIHRoZSBmb2xsb3dpbmcgZm9ybWF0czogP2Zvbz1iYXIsYmF6LCA/Zm9vW109YmFyJmZvb1tdPWJheiwgP2Zvbz1iYXImZm9vPWJhego=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REFUQUJBU0VTID0gewogICAgJ2RlZmF1bHQnOiB7CiAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMuc3FsaXRlMycsCiAgICAgICAgJ05BTUUnOiAnbXlkYXRhYmFzZScsCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIEZvciBleGFtcGxlIHlvdSBjYW4gdXNlIHRoaXMgZW5kcG9pbnQgdG8gZmV0Y2ggb3JkZXJzIHdpdGggdGhlIOKAnE5ld+KAnSBzdGF0dXMgYW5kIGNyZWF0ZWQgYWZ0ZXIgYSBzcGVjaWZpYyBkYXRlIGluCiAgICBvcmRlciB0byBnZW5lcmF0ZSBkZWxpdmVyeSBmaWxlcy4KICAgIFF1ZXJ5IHBhcmFtZXRlcnMgY2FuIGJlIHByb3ZpZGVkIGluIHRoZSBmb2xsb3dpbmcgZm9ybWF0czogP2Zvbz1iYXIsYmF6LCA/Zm9vW109YmFyJmZvb1tdPWJheiwgP2Zvbz1iYXImZm9vPWJhego=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRfZGVsaXZlcnlfYXR0YWNobWVudC5yZXR1cm5fdmFsdWUgPSAicmV0dXJuIHZhbHVlIgo=</text>
+        <text encoding="base64">REFUQUJBU0VTID0gewogICAgJ2RlZmF1bHQnOiB7CiAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMuc3FsaXRlMycsCiAgICAgICAgJ05BTUUnOiAnbXlkYXRhYmFzZScsCiAgICB9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfZGVsaXZlcnlfYXR0YWNobWVudC5yZXR1cm5fdmFsdWUgPSAicmV0dXJuIHZhbHVlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRfZGVsaXZlcnlfYXR0YWNobWVudC5yZXR1cm5fdmFsdWUgPSBnZXRfZGVsaXZlcnlfYXR0YWNobWVudC5yZXR1cm5fdmFsdWUgPSB7J2NvdW50JzoxMCwgJ25leHQnOiBOb25lLCAncHJldmlvdXMnOiBOb25lLCAncmVzdWx0JzpbXX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5maWVsZHMgaW1wb3J0IENob2ljZUZpZWxkCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfZGVsaXZlcnlfYXR0YWNobWVudC5yZXR1cm5fdmFsdWUgPSBnZXRfZGVsaXZlcnlfYXR0YWNobWVudC5yZXR1cm5fdmFsdWUgPSB7J2NvdW50JzoxMCwgJ25leHQnOiBOb25lLCAncHJldmlvdXMnOiBOb25lLCAncmVzdWx0JzpbXX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaG9pY2VzPUNIT0lDRVNfUFJPRFVDVF9TVEFUVVMsCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5maWVsZHMgaW1wb3J0IENob2ljZUZpZWxkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -438,10 +448,10 @@
         <entry>pwd</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>qw</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
