@@ -34,12 +34,8 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" timestamp="1560336124195">
-        <mark key="'" line="96" column="29" />
-        <mark key="[" line="53" column="49" />
-        <mark key="]" line="53" column="49" />
-        <mark key="." line="53" column="49" />
-        <mark key="^" line="53" column="49" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" timestamp="1560338343342">
+        <mark key="'" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" timestamp="1560157122138">
         <mark key="'" line="3" column="88" />
@@ -56,12 +52,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" timestamp="1560336144507">
-        <mark key="'" line="33" column="58" />
-        <mark key="[" line="57" column="53" />
-        <mark key="]" line="57" column="53" />
-        <mark key="." line="57" column="53" />
-        <mark key="^" line="89" column="3" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" timestamp="1560338633608">
+        <mark key="'" line="58" column="12" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="59" column="50" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/serializers.py" timestamp="1560163574294">
         <mark key="'" line="80" column="50" />
@@ -73,6 +69,11 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/vouchers/views.py" timestamp="1556281188514">
         <mark key="'" line="118" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" timestamp="1560337671559">
+        <mark key="'" line="77" column="58" />
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="78" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/discount_clubs/tests/utils.py" timestamp="1554880772947">
         <mark key="'" line="55" column="8" />
@@ -92,10 +93,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1558700570750">
         <mark key="'" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" timestamp="1560335735242">
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" timestamp="1560337607534">
         <mark key="'" line="56" column="38" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="77" column="92" />
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1558081258478">
         <mark key="'" line="225" column="8" />
@@ -199,8 +202,8 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1560336507844">
-        <mark key="'" line="114" column="46" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1560336581931">
+        <mark key="'" line="114" column="50" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/statics.py" timestamp="1558599053815">
         <mark key="'" line="6" column="0" />
@@ -278,9 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
-      <jump line="66" column="17" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/routers.py" />
-      <jump line="112" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" />
       <jump line="72" column="88" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" />
       <jump line="64" column="22" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/dispatch_register.py" />
@@ -335,7 +335,6 @@
       <jump line="95" column="38" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="10" column="23" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="65" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
@@ -361,7 +360,6 @@
       <jump line="54" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="58" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="71" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="48" column="33" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="77" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
@@ -371,62 +369,67 @@
       <jump line="44" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="29" column="22" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="56" column="38" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" />
-      <jump line="96" column="29" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="3" column="6" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="9" column="25" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="33" column="58" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="50" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="114" column="46" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="51" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="114" column="50" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="65" column="38" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" />
+      <jump line="77" column="58" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="96" column="35" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="69" column="43" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluZGV4IGZvciByb3cgIiwgaSwgZGlzcGF0Y2hfb3JkZXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Extra</text>
+        <text>extra</text>
       </register>
       <register name="0" type="4">
-        <text>Delivery after 17</text>
+        <text>', '.join(dispatch_order.get('extra_services', []))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluZGV4IGZvciByb3cgIiwgaSwgZGlzcGF0Y2hfb3JkZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkaXNwYXRjaF9vcmRlci5nZXQoJ25vdGUnKS5jb250YWlucygpCg==</text>
+        <text encoding="base64">ICAgICMgZGVmIHNldFVwKHNlbGYpOgogICAgIyAgICAgcG9zdF9zYXZlLmNvbm5lY3QoY3JlYXRlX2Rpc3BhdGNoX29yZGVyX3RvX3NlbmQsIHNlbmRlcj1EaXNwYXRjaE9yZGVyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4dHJhX3NlcnZpY2VzJzogW10sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT3JkZXJlZERpY3QoWyAgICgnbmFtZScsICcnKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICggICAnZGlzcGxheV9uYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJyldKSldKV0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkaXNwYXRjaF9vcmRlci5nZXQoJ25vdGUnKS5jb250YWlucygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnc3VybmFtZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgTmFkcGlzYcSHIG1ldG9kxJkgdyBub3d5bSBnZW5lcmF0b3J6ZQogICAgZGVmIF93cml0ZShzZWxmLCBkZik6CiAgICAgICAgIiIiV3JpdGUgZGYgKHBhbmRhcy5EYXRhRnJhbWUpIHRvIGlvLkJ5dGVzSU8oKSIiIgogICAgICAgIGltcG9ydCBvcwogICAgICAgIHBhdGggPSBmJ3tvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSl9L3Rlc3R7c2VsZi5maWxlX2V4dGVuc2lvbn0nCiAgICAgICAgaWYgc2VsZi5maWxlX2V4dGVuc2lvbiA9PSAnLnhscyc6CiAgICAgICAgICAgIGRmLnRvX2V4Y2VsKHBhdGgsIGVuZ2luZT1zZWxmLkRFRkFVTFRfRU5HSU5FLCBpbmRleD1GYWxzZSkKICAgICAgICBlbGlmIHNlbGYuZmlsZV9leHRlbnNpb24gPT0gJy54bHN4JzoKICAgICAgICAgICAgZGYudG9fZXhjZWwocGF0aCwgZW5naW5lPXNlbGYuREVGQVVMVF9FTkdJTkUsIGluZGV4PUZhbHNlKQoKCiMjIyBEb2tsZWnEhyBuYSBkb2xlIHBsaWt1IG5vd2VnbyBnZW5lcmF0b3JhIERMIChnZW5lcmF0b3JzLnB5KQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBPcmRlcmVkRGljdAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgendlcnlmaWtvd2FjIGN6eSBuaWUgbWEgdWplbW55Y2ggY29kCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>Extra</last-search>
+      <last-search>extra</last-search>
       <last-offset />
-      <last-pattern>Extra</last-pattern>
+      <last-pattern>extra</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -434,7 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>d \</entry>
         <entry>ls</entry>
         <entry>description</entry>
         <entry encoding="base64">XDxESVNQQVRDSF9PUkRFUlNfTElTVF9GSUxURVJTRVRTX0FSUkFZX1BBUkFNRVRFUlNcPg==</entry>
@@ -454,6 +456,7 @@
         <entry>first</entry>
         <entry>name</entry>
         <entry>Extra</entry>
+        <entry>extra</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -473,9 +476,9 @@
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
         <entry>action Run</entry>
-        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
