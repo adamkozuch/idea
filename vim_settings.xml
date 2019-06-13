@@ -19,6 +19,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
         <mark key="'" line="8" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/uploads/views.py" timestamp="1560430151904">
+        <mark key="'" line="112" column="6" />
+        <mark key="[" line="265" column="14" />
+        <mark key="]" line="265" column="31" />
+        <mark key="^" line="265" column="31" />
+        <mark key="." line="265" column="31" />
+      </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
@@ -172,6 +179,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1560431036900">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="35" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="124" column="17" />
+      </file>
       <file name="/Python Console" timestamp="1560424615306">
         <mark key="[" line="0" column="0" />
       </file>
@@ -299,13 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="451" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="452" column="6" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="455" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="16" column="22" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="81" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
@@ -399,31 +406,38 @@
       <jump line="718" column="33" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="720" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="0" column="14" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/__init__.py" />
+      <jump line="91" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
+      <jump line="106" column="10" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
+      <jump line="13" column="89" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
+      <jump line="133" column="38" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
+      <jump line="125" column="17" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHsnbG90X2NvZGUnOiAsICdjb3VudCc6ICwgJ3N0YXR1cycsIH06</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAoSU5fVElNRV9IUiwgJ0lOIFRJTUUgSFInKSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHsnbG90X2NvZGUnOiAsICdjb3VudCc6ICwgJ3N0YXR1cycsIH06</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxjdWxhdGVfcHJvZHVjdHNfc3RhdHVzXD4=</text>
+        <text>CodExpres</text>
       </register>
-      <register name="0" type="4">
-        <text>parser.parsed_data[0]['status_date']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBmaWxlX3BhcnNlcnMucmV0dXJuZWRfcGFyY2Vscy5yZW1heF9zay5wYXJzZXJzIGltcG9ydCBSZW1heFNrUmV0dXJuZWRQYXJjZWxzUGFyc2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9kdWN0cyA9IHJvdy5nZXQoJ3Byb2R1Y3RzJywgJycpCiAgICAgICAgICAgICMgaWYgcHJvZHVjdHM6CiAgICAgICAgICAgICMgICAgIHJvd1sncHJvZHVjdHMnXSA9IFsKICAgICAgICAgICAgIyAgICAgICAgIHsKICAgICAgICAgICAgIyAgICAgICAgICAgICAnbG90X2NvZGUnOiBwcm9kdWN0LnN0cmlwKCkuc3BsaXQoJ1gnKVsxXSwKICAgICAgICAgICAgIyAgICAgICAgICAgICAnY291bnQnOiBwcm9kdWN0LnN0cmlwKCkuc3BsaXQoJ1gnKVswXSwKICAgICAgICAgICAgIyAgICAgICAgICAgICAnc3RhdHVzJzogcm93Wydwcm9kdWN0X3N0YXR1cyddCiAgICAgICAgICAgICMgICAgICAgICB9IGZvciBwcm9kdWN0IGluIHByb2R1Y3RzLnNwbGl0KCcsJykKICAgICAgICAgICAgIyAgICAgXQogICAgICAgICAgICAjIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAoSU5fVElNRV9IUiwgJ0lOIFRJTUUgSFInKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIElOX1RJTUVfSFIgPSA1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5JTl9USU1FX0hSOiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9kdWN0cyA9IHJvdy5nZXQoJ3Byb2R1Y3RzJywgJycpCiAgICAgICAgICAgICMgaWYgcHJvZHVjdHM6CiAgICAgICAgICAgICMgICAgIHJvd1sncHJvZHVjdHMnXSA9IFsKICAgICAgICAgICAgIyAgICAgICAgIHsKICAgICAgICAgICAgIyAgICAgICAgICAgICAnbG90X2NvZGUnOiBwcm9kdWN0LnN0cmlwKCkuc3BsaXQoJ1gnKVsxXSwKICAgICAgICAgICAgIyAgICAgICAgICAgICAnY291bnQnOiBwcm9kdWN0LnN0cmlwKCkuc3BsaXQoJ1gnKVswXSwKICAgICAgICAgICAgIyAgICAgICAgICAgICAnc3RhdHVzJzogcm93Wydwcm9kdWN0X3N0YXR1cyddCiAgICAgICAgICAgICMgICAgICAgICB9IGZvciBwcm9kdWN0IGluIHByb2R1Y3RzLnNwbGl0KCcsJykKICAgICAgICAgICAgIyAgICAgXQogICAgICAgICAgICAjIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -432,30 +446,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZWFzb25fY29kZSBpbiBjb2RlX21hcHBpbmc6CiAgICAgICAgICAgIHJldHVybiBjb2RlX21hcHBpbmdbcmVhc29uX2NvZGVdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxjdWxhdGVfcHJvZHVjdHNfc3RhdHVzXD4=</last-search>
+      <last-search>CodExpres</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxjdWxhdGVfcHJvZHVjdHNfc3RhdHVzXD4=</last-pattern>
+      <last-pattern>CodExpres</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>last</entry>
         <entry>DispatchO</entry>
         <entry encoding="base64">XDxfZ2V0X2l0ZW1jb2RlXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2l0ZW1zX3dpdGhfcXVhbnRpdHlcPg==</entry>
@@ -475,6 +488,7 @@
         <entry>delivery</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVfcHJvZHVjdHNfc3RhdHVzXD4=</entry>
+        <entry>CodExpres</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -493,8 +507,8 @@
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry>wq</entry>
+        <entry>action RecentFiles</entry>
         <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
