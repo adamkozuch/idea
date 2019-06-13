@@ -58,7 +58,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" timestamp="1560345128851">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="17" />
-        <mark key="^" line="38" column="63" />
         <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
@@ -90,8 +89,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1558700570750">
         <mark key="'" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" timestamp="1560345407026">
-        <mark key="'" line="56" column="38" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" timestamp="1560368550754">
+        <mark key="'" line="39" column="57" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="58" column="25" />
         <mark key="." line="28" column="11" />
@@ -274,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="172" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="186" column="22" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
       <jump line="188" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
@@ -374,6 +372,7 @@
       <jump line="39" column="17" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="17" column="23" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="24" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="39" column="57" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
