@@ -28,19 +28,19 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1555666868286">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" timestamp="1560408324910">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="67" column="24" />
-        <mark key="." line="67" column="24" />
-        <mark key="^" line="67" column="24" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" timestamp="1560408626872">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="70" column="44" />
+        <mark key="." line="70" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" timestamp="1560406409189">
-        <mark key="'" line="24" column="27" />
-        <mark key="[" line="67" column="42" />
-        <mark key="]" line="67" column="53" />
-        <mark key="." line="67" column="53" />
-        <mark key="^" line="67" column="53" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" timestamp="1560409499817">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="56" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" timestamp="1560157122138">
         <mark key="'" line="3" column="88" />
@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/scripts/bi/crypto/generated.py" timestamp="1555071176139">
         <mark key="'" line="1688" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" timestamp="1560407487725">
-        <mark key="'" line="110" column="12" />
-        <mark key="[" line="56" column="48" />
-        <mark key="]" line="56" column="66" />
-        <mark key="." line="56" column="48" />
-        <mark key="^" line="56" column="47" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" timestamp="1560409438537">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -277,26 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="22" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="188" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="237" column="11" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="175" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="177" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="301" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/config/settings/base.py" />
-      <jump line="185" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/dispatchorders/views.py" />
-      <jump line="3" column="18" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" />
-      <jump line="32" column="18" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="40" column="36" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="175" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="192" column="56" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
-      <jump line="176" column="20" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
-      <jump line="140" column="33" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
       <jump line="37" column="39" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="38" column="39" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="19" column="19" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" />
@@ -308,16 +288,10 @@
       <jump line="3" column="43" filename="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/tracking_numbers/standard/parsers.py" />
       <jump line="20" column="6" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="97" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="95" column="38" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="10" column="23" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="65" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="125" column="18" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="358" column="18" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
@@ -329,24 +303,16 @@
       <jump line="16" column="22" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="81" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="71" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="48" column="33" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="77" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="62" column="50" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="83" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="49" column="38" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="44" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
-      <jump line="29" column="22" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="56" column="38" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" />
-      <jump line="3" column="6" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="9" column="25" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="33" column="58" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="50" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="51" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="114" column="50" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
@@ -355,7 +321,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="96" column="35" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="69" column="43" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
-      <jump line="59" column="12" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="50" column="38" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="104" column="8" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="51" column="31" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
@@ -375,57 +340,92 @@
       <jump line="17" column="23" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="24" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
       <jump line="39" column="57" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/cod_express/generators.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
       <jump line="109" column="12" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="41" column="33" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="40" column="43" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="32" column="45" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="121" column="24" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/in_time_hr/generators.py" />
+      <jump line="43" column="28" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="4" column="5" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="10" column="27" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="26" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="27" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="28" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>phone</text>
+        <text>delivery</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X3BheW1lbnRfc3RhdHVzKGRpc3BhdGNoX29yZGVyKToKICAgICAgICByZXR1cm4gJ0NPRCcgaWYgZGlzcGF0Y2hfb3JkZXIuZ2V0KCdwYXltZW50X21ldGhvZCcpID4gMCBlbHNlICdQQUlEJwo=</text>
+      <register name="0" type="4">
+        <text>str(value).split('.')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRpdGlvbmFsX2FkZHJlc3MgPSBkaXNwYXRjaF9vcmRlci5nZXQoJ2FkZGl0aW9uYWxfYWRkcmVzcycsICcnKQogICAgICAgIGZpcnN0X25hbWUsIGxhc3RfbmFtZSA9IGRpc3BhdGNoX29yZGVyLmdldCgnZmlyc3RfbmFtZScsICcnKSwgZGlzcGF0Y2hfb3JkZXIuZ2V0KCdsYXN0X25hbWUnLCAnJykKICAgICAgICBpZiBsZW4oYWRkaXRpb25hbF9hZGRyZXNzKSA+IDI6CiAgICAgICAgICAgIHJldHVybiAnICcuam9pbihbZmlyc3RfbmFtZSwgbGFzdF9uYW1lXSkKICAgICAgICByZXR1cm4gZmlyc3RfbmFtZQo=</text>
+        <text encoding="base64">ZGVmIF9mb3JtYXRfdmFsdWUodmFsdWUpOgogICAgaWYgbGVuKHN0cih2YWx1ZSkuc3BsaXQoJy4nKSkgPiAxIGFuZCBzdHIodmFsdWUpLnNwbGl0KCcuJylbMV0gPT0gJzAnOgogICAgICAgIHJldHVybiBzdHIodmFsdWUpLnNwbGl0KCcuJylbMF0KICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIHN0cih2YWx1ZSkucmVwbGFjZSgnLicsICcsJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2NvZChzZWxmLCBkaXNwYXRjaF9vcmRlcik6CiAgICAgICAgcmV0dXJuICJPdGt1cG5pbmE6IHt9IHt9IHt9ICIuZm9ybWF0KCAgIyB0byB6cm9iaWMgam9pbmVtCiAgICAgICAgICAgIGRpc3BhdGNoX29yZGVyLmdldCgiY29kX3ZhbHVlIiksCiAgICAgICAgICAgIGRpc3BhdGNoX29yZGVyLmdldCgiY29kX2N1cnJlbmN5IiksCiAgICAgICAgICAgIHNlbGYuX2dldF9pdGVtc193aXRoX3F1YW50aXR5KGRpc3BhdGNoX29yZGVyKSwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfd3JpdGUoc2VsZiwgZGYpOgogICAgICAgICIiIldyaXRlIGRmIChwYW5kYXMuRGF0YUZyYW1lKSB0byBpby5CeXRlc0lPKCkiIiIKICAgICAgICBpbXBvcnQgb3MKICAgICAgICBwYXRoID0gZid7b3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpfS90ZXN0e3NlbGYuZmlsZV9leHRlbnNpb259JwogICAgICAgIGlmIHNlbGYuZmlsZV9leHRlbnNpb24gPT0gJy54bHMnOgogICAgICAgICAgICBkZi50b19leGNlbChwYXRoLCBlbmdpbmU9c2VsZi5ERUZBVUxUX0VOR0lORSwgaW5kZXg9RmFsc2UpCiAgICAgICAgZWxpZiBzZWxmLmZpbGVfZXh0ZW5zaW9uID09ICcueGxzeCc6CiAgICAgICAgICAgIGRmLnRvX2V4Y2VsKHBhdGgsIGVuZ2luZT1zZWxmLkRFRkFVTFRfRU5HSU5FLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfd3JpdGUoc2VsZiwgZGYpOgogICAgICAgICIiIldyaXRlIGRmIChwYW5kYXMuRGF0YUZyYW1lKSB0byBpby5CeXRlc0lPKCkiIiIKICAgICAgICBpbXBvcnQgb3MKCiAgICAgICAgcGF0aCA9IGYie29zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKX0vdGVzdHtzZWxmLmZpbGVfZXh0ZW5zaW9ufSIKICAgICAgICBpZiBzZWxmLmZpbGVfZXh0ZW5zaW9uID09ICIueGxzIjoKICAgICAgICAgICAgZGYudG9fZXhjZWwocGF0aCwgZW5naW5lPXNlbGYuREVGQVVMVF9FTkdJTkUsIGluZGV4PUZhbHNlKQogICAgICAgIGVsaWYgc2VsZi5maWxlX2V4dGVuc2lvbiA9PSAiLnhsc3giOgogICAgICAgICAgICBkZi50b19leGNlbChwYXRoLCBlbmdpbmU9c2VsZi5ERUZBVUxUX0VOR0lORSwgaW5kZXg9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdDT0QnIGlmIGRpc3BhdGNoX29yZGVyLmdldCgncGF5bWVudF9tZXRob2QnKSA+IDAgZWxzZSAnUEFJRCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlyc3RfbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRpdGlvbmFsX2FkZHJlc3MgPSBkaXNwYXRjaF9vcmRlci5nZXQoJ2FkZGl0aW9uYWxfYWRkcmVzcycsICcnKQogICAgICAgIGZpcnN0X25hbWUsIGxhc3RfbmFtZSA9IGRpc3BhdGNoX29yZGVyLmdldCgnZmlyc3RfbmFtZScsICcnKSwgZGlzcGF0Y2hfb3JkZXIuZ2V0KCdsYXN0X25hbWUnLCAnJykKICAgICAgICBpZiBsZW4oYWRkaXRpb25hbF9hZGRyZXNzKSA+IDI6CiAgICAgICAgICAgIHJldHVybiAnICcuam9pbihbZmlyc3RfbmFtZSwgbGFzdF9uYW1lXSkKICAgICAgICByZXR1cm4gZmlyc3RfbmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRpdGlvbmFsX2FkZHJlc3MgPQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2NvZChzZWxmLCBkaXNwYXRjaF9vcmRlcik6CiAgICAgICAgcmV0dXJuICJPdGt1cG5pbmE6IHt9IHt9IHt9ICIuZm9ybWF0KCAgIyB0byB6cm9iaWMgam9pbmVtCiAgICAgICAgICAgIGRpc3BhdGNoX29yZGVyLmdldCgiY29kX3ZhbHVlIiksCiAgICAgICAgICAgIGRpc3BhdGNoX29yZGVyLmdldCgiY29kX2N1cnJlbmN5IiksCiAgICAgICAgICAgIHNlbGYuX2dldF9pdGVtc193aXRoX3F1YW50aXR5KGRpc3BhdGNoX29yZGVyKSwKICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X25hbWVfYW5kX3N1cm5hbWVfYW5kX2NvbXBhbnkoZGlzcGF0Y2hfb3JkZXIpOgogICAgICAgIHJldHVybiAiICIuam9pbigKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgZGlzcGF0Y2hfb3JkZXIuZ2V0KCJmaXJzdF9uYW1lIiksCiAgICAgICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5nZXQoImxhc3RfbmFtZSIpLAogICAgICAgICAgICAgICAgZGlzcGF0Y2hfb3JkZXIuZ2V0KCJsb2dpc3RpY19jb21wYW55IiksCiAgICAgICAgICAgIF0KICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oYWRkaXRpb25hbF9hZGRyZXNzKSA+IDM6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfd3JpdGUoc2VsZiwgZGYpOgogICAgICAgICIiIldyaXRlIGRmIChwYW5kYXMuRGF0YUZyYW1lKSB0byBpby5CeXRlc0lPKCkiIiIKICAgICAgICBpbXBvcnQgb3MKCiAgICAgICAgcGF0aCA9IGYie29zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKX0vdGVzdHtzZWxmLmZpbGVfZXh0ZW5zaW9ufSIKICAgICAgICBpZiBzZWxmLmZpbGVfZXh0ZW5zaW9uID09ICIueGxzIjoKICAgICAgICAgICAgZGYudG9fZXhjZWwocGF0aCwgZW5naW5lPXNlbGYuREVGQVVMVF9FTkdJTkUsIGluZGV4PUZhbHNlKQogICAgICAgIGVsaWYgc2VsZi5maWxlX2V4dGVuc2lvbiA9PSAiLnhsc3giOgogICAgICAgICAgICBkZi50b19leGNlbChwYXRoLCBlbmdpbmU9c2VsZi5ERUZBVUxUX0VOR0lORSwgaW5kZXg9RmFsc2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiLiIsICIsIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlyc3RfbmFtZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search>phone</last-search>
+      <last-search>delivery</last-search>
       <last-offset />
-      <last-pattern>phone</last-pattern>
+      <last-pattern>delivery</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -433,8 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>thro</entry>
-        <entry>data</entry>
         <entry>currency</entry>
         <entry>get_ex</entry>
         <entry>last</entry>
@@ -453,6 +451,8 @@
         <entry>additional_</entry>
         <entry>addit</entry>
         <entry>phone</entry>
+        <entry>payment</entry>
+        <entry>delivery</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -473,8 +473,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Run</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
