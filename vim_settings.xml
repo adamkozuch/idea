@@ -218,8 +218,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" timestamp="1559298009441">
         <mark key="'" line="106" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1560507458989">
-        <mark key="'" line="494" column="21" />
+      <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1561452683256">
+        <mark key="'" line="361" column="0" />
+        <mark key="[" line="356" column="37" />
+        <mark key="]" line="356" column="67" />
+        <mark key="." line="356" column="67" />
+        <mark key="^" line="356" column="67" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/in_time_hr/tests/test_parsers.py" timestamp="1560504341180">
         <mark key="'" line="14" column="74" />
@@ -299,52 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="233" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="236" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="241" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="244" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="249" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="252" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="260" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="289" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="710" column="12" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="708" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="643" column="31" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="640" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="632" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="614" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="607" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="591" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="589" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="587" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="581" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="579" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="576" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="574" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="569" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="566" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="557" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="551" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="537" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="535" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="528" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="503" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="489" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="482" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="476" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="474" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="470" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="466" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="462" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="459" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="451" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="449" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="432" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="430" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="425" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="420" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="414" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="407" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="405" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="396" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
@@ -399,55 +357,101 @@
       <jump line="21" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/pagination.py" />
       <jump line="7" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/pagination.py" />
       <jump line="175" column="29" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/rest_framework/pagination.py" />
+      <jump line="507" column="4" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="602" column="4" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="609" column="4" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="214" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="220" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="223" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="225" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="232" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="235" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="238" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="240" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="244" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="253" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="255" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="257" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="260" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="263" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="267" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="270" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="273" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="276" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="280" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="285" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="289" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="294" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="299" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="301" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="306" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="308" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="319" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="322" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="326" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="330" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="334" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="344" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="353" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="355" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="380" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="377" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="364" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="357" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="154" column="13" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c2hvd19kaXNwYXRjaF9vcmRlcnNfc3RhcnRfZGF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c2hvd19kaXNwYXRjaF9vcmRlcnNfc3RhcnRfZGF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>@property</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKAogICAgICAgIHNvdXJjZT0nZGlzcGF0Y2hfb3JkZXIuZGVsaXZlcnlfaWQnLAogICAgICAgIHJlYWRfb25seT1UcnVlLAogICAgICAgIHJlcXVpcmVkPUZhbHNlLAogICAgICAgIGFsbG93X251bGw9RmFsc2UsCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGhpcyBpcyBzZXJpYWxpemVyICIsIHNlbGYuc2VyaWFsaXplcl9jbGFzc19tb2RlbCkK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX3BhcnRuZXJfYWN0aXZlKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmxvZ2lzdGljX2NvbXBhbnkuc2hvd19kaXNwYXRjaF9vcmRlcnNfc3RhcnRfZGF0ZSA8IGRhdGV0aW1lLm5vdygpICAjIHRoaW5rIGFib3V0IHBlcmZvcm1hbmNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKAogICAgICAgIHNvdXJjZT0nZGlzcGF0Y2hfb3JkZXIuZGVsaXZlcnlfaWQnLAogICAgICAgIHJlYWRfb25seT1UcnVlLAogICAgICAgIHJlcXVpcmVkPUZhbHNlLAogICAgICAgIGFsbG93X251bGw9RmFsc2UsCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGhpcyBpcyBzZXJpYWxpemVyICIsIHNlbGYuc2VyaWFsaXplcl9jbGFzc19tb2RlbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyJjb3VudCI6ICIxIiwgImxvdF9jb2RlIjogIktBTkRVTyIsICJzdGF0dXMiOiAiMCJ9LAogICAgICAgICAgICAgICAgICAgICAgICB7ImNvdW50IjogIjEiLCAibG90X2NvZGUiOiAiQ0FTSDA0IiwgInN0YXR1cyI6ICIwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsiY291bnQiOiAiMSIsICJsb3RfY29kZSI6ICJWT1UiLCAic3RhdHVzIjogIjAifSwK</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2lkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKAogICAgICAgIHNvdXJjZT0nZGlzcGF0Y2hfb3JkZXIuZGVsaXZlcnlfaWQnLAogICAgICAgIHJlYWRfb25seT1UcnVlLAogICAgICAgIHJlcXVpcmVkPUZhbHNlLAogICAgICAgIGFsbG93X251bGw9RmFsc2UsCiAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAjICAgICBrd2FyZ3NbJ2hlYWRlciddID0gMQogICAgIyAgICAgc3VwZXIoKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyJjb3VudCI6ICIxIiwgImxvdF9jb2RlIjogIktBTkRVTyIsICJzdGF0dXMiOiAiMCJ9LAogICAgICAgICAgICAgICAgICAgICAgICB7ImNvdW50IjogIjEiLCAibG90X2NvZGUiOiAiQ0FTSDA0IiwgInN0YXR1cyI6ICIwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsiY291bnQiOiAiMSIsICJsb3RfY29kZSI6ICJWT1UiLCAic3RhdHVzIjogIjAifSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
+        <text encoding="base64">ICAgICMgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAjICAgICBrd2FyZ3NbJ2hlYWRlciddID0gMQogICAgIyAgICAgc3VwZXIoKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0LmRhdGEpCiAgICAgICAgcHJpbnQoc2VyaWFsaXplci52YWxpZGF0ZWRfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRoaXMgaXMgImRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXF1ZXN0LmRhdGEpCiAgICAgICAgcHJpbnQoc2VyaWFsaXplci52YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRoaXMgaXMgImRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFuZGFzLmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>@property</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>@property</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>first</entry>
         <entry>name</entry>
         <entry>Extra</entry>
         <entry encoding="base64">XDxfZ2V0X2V4dHJhX3NlcnZpY2VcPg==</entry>
@@ -475,6 +478,7 @@
         <entry>product_status</entry>
         <entry>products_status</entry>
         <entry>print</entry>
+        <entry>@property</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -494,9 +498,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
