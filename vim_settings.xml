@@ -43,6 +43,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/delivery_list_generators/idealogistics_fi/generators.py" timestamp="1560408626872">
         <mark key="'" line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1561537728235">
+        <mark key="'" line="66" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/returned_parcels/__init__.py" timestamp="1560429276589">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="1" column="71" />
@@ -215,6 +218,13 @@
         <mark key="." line="208" column="91" />
         <mark key="^" line="208" column="91" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1561537513236">
+        <mark key="'" line="3" column="5" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="135" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
       </file>
@@ -316,15 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="220" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="223" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="225" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="232" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="238" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="240" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="244" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="247" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="253" column="0" filename="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
@@ -416,55 +417,64 @@
       <jump line="73" column="54" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/factories.py" />
       <jump line="27" column="59" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_companies/factories.py" />
       <jump line="40" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/signal_handlers.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="92" column="50" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="115" column="47" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="135" column="69" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="321" column="86" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="6" column="5" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="3" column="5" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="66" column="19" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>datetime</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="-" type="4">
         <text>datetime</text>
       </register>
       <register name="/" type="4">
-        <text>@property</text>
+        <text>datetime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgRGlzcGF0Y2hPcmRlckZhY3RvcnkoZmFjdG9yeS5EamFuZ29Nb2RlbEZhY3RvcnkpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bm93ID0gdGltZXpvbmUubm93KCkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+        <text encoding="base64">bm93ID0gdGltZXpvbmUubm93KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKS3cK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X2RhdGUgPSBpbnN0YW5jZS5kaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55LnNob3dfZGlzcGF0Y2hfb3JkZXJzX3N0YXJ0X2RhdGUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHN0YXJ0X2RhdGUgPCBkYXRldGltZS5ub3coKToK</text>
+        <text encoding="base64">ICAgICAgICBKS3cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEltcG8K</text>
+        <text encoding="base64">ICAgIHN0YXJ0X2RhdGUgPSBpbnN0YW5jZS5kaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55LnNob3dfZGlzcGF0Y2hfb3JkZXJzX3N0YXJ0X2RhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHN0YXJ0X2RhdGUgPCBkYXRldGltZS5ub3coKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBjbGFzcyBQYShmYWN0b3J5LkRqYW5nb01vZGVsRmFjdG9yeSk6CiMgICAgIHBhc3MKIwojICAgICBjbGFzcyBNZXRhOgojICAgICAgICAgbW9kZWwgPSBQYXJ0bmVya2oK</text>
+        <text encoding="base64">ICAgIEltcG8K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>@property</last-search>
+      <last-search>datetime</last-search>
       <last-offset />
-      <last-pattern>@property</last-pattern>
+      <last-pattern>datetime</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>1</last-dir>
@@ -472,9 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
-        <entry>Extra</entry>
-        <entry encoding="base64">XDxfZ2V0X2V4dHJhX3NlcnZpY2VcPg==</entry>
         <entry>extra</entry>
         <entry>Delivery</entry>
         <entry>firma</entry>
@@ -492,6 +499,9 @@
         <entry>products_status</entry>
         <entry>print</entry>
         <entry>@property</entry>
+        <entry>lp</entry>
+        <entry>Gate</entry>
+        <entry>datetime</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -512,8 +522,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
