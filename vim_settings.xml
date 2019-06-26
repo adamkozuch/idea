@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/importer/signal_handlers.py" timestamp="1561533014410">
         <mark key="'" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/signal_handlers.py" timestamp="1561545367810">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/signal_handlers.py" timestamp="1561546875655">
         <mark key="'" line="27" column="85" />
         <mark key="[" line="43" column="43" />
-        <mark key="]" line="43" column="65" />
-        <mark key="." line="43" column="65" />
-        <mark key="^" line="43" column="65" />
+        <mark key="]" line="43" column="43" />
+        <mark key="." line="43" column="56" />
+        <mark key="^" line="27" column="83" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" timestamp="1560157122138">
         <mark key="'" line="3" column="88" />
@@ -167,7 +167,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1561544947208">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1561546913406">
         <mark key="'" line="91" column="71" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -179,7 +179,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" timestamp="1559298009441">
         <mark key="'" line="106" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1561545647756">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1561547183110">
         <mark key="'" line="67" column="37" />
         <mark key="[" line="95" column="19" />
         <mark key="]" line="95" column="77" />
@@ -380,10 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZSB0aGF0IGRhdGUg</text>
+        <text>product_returns_for_wms</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZSB0aGF0IGRhdGUg</text>
+        <text>product_returns_for_wms</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
