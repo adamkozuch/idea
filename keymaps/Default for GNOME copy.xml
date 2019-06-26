@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="altGraph t" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
@@ -211,10 +214,6 @@
   </action>
   <action id="Terminal.RenameSession">
     <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="f11" />
-    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
