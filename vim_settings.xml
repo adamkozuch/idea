@@ -15,8 +15,8 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562055103726">
-        <mark key="'" line="15" column="44" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562063402452">
+        <mark key="'" line="7" column="30" />
         <mark key="[" line="65" column="27" />
         <mark key="]" line="65" column="26" />
         <mark key="^" line="65" column="26" />
@@ -291,11 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="58" column="30" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="100" column="30" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="108" column="23" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="136" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="137" column="30" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="327" column="11" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="441" column="40" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
@@ -391,6 +386,11 @@
       <jump line="1338" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/201545291/logging/__init__.py" />
       <jump line="15" column="44" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="71" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
+      <jump line="131" column="28" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="76" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="7" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/kafka/errors.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -400,7 +400,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text encoding="base64">XDxESVNDT1VOVF9DTFVCX1RPX0JJX1FVRVJZXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXJ0bmVyIGlzIGFjdGl2YXRlZCBkaXNwbGF5aW5nIGRpc3BsYXkgb25seSB0ZXN0IGRpc3BhdGNoCiAgICAgICAgIyBvcmRlcnMgd2hpY2ggaGFwcGVuZWQgYmVmb3JlIHByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlLgogICAgICAgICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgb25seSBwcm9kdWN0aW9uIHRoYXQgaGFwcGVuZWQgYWZ0ZXIgdGhhdCBkYXRlLgo=</text>
@@ -437,17 +437,16 @@
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search encoding="base64">XDxESVNDT1VOVF9DTFVCX1RPX0JJX1FVRVJZXD4=</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern encoding="base64">XDxESVNDT1VOVF9DTFVCX1RPX0JJX1FVRVJZXD4=</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>product_status</entry>
         <entry>products_status</entry>
         <entry>print</entry>
         <entry>@property</entry>
@@ -467,6 +466,7 @@
         <entry>timezone</entry>
         <entry>update_</entry>
         <entry>update</entry>
+        <entry encoding="base64">XDxESVNDT1VOVF9DTFVCX1RPX0JJX1FVRVJZXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleDistractionFreeMode</entry>
