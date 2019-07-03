@@ -15,12 +15,12 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562149957823">
-        <mark key="'" line="104" column="21" />
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="16" />
-        <mark key="^" line="65" column="26" />
-        <mark key="." line="34" column="16" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562152442890">
+        <mark key="'" line="131" column="4" />
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="23" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="37" column="23" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/utils/history.py" timestamp="1556102836496">
         <mark key="'" line="26" column="25" />
@@ -125,8 +125,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/ansible/group_vars/stage/application.yml" timestamp="1561285193608">
         <mark key="'" line="22" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" timestamp="1562051180593">
-        <mark key="'" line="166" column="15" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" timestamp="1562152319751">
+        <mark key="'" line="261" column="31" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1555583225909">
         <mark key="'" line="25" column="38" />
@@ -291,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="13" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="18" column="5" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="19" column="5" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="20" column="5" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
@@ -380,7 +379,6 @@
       <jump line="1338" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/201545291/logging/__init__.py" />
       <jump line="15" column="44" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="71" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
-      <jump line="131" column="28" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="76" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="7" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
@@ -391,20 +389,15 @@
       <jump line="65" column="9" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="104" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="289" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/models.py" />
+      <jump line="261" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
+      <jump line="131" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(
-    name='client_systems.update_or_create_sok_order',
-    autoretry_for=(RequestException, ValidationError, OperationalError),
-    retry_backoff=300,
-    retry_backoff_max=60 * 60 * 24 * 5,
-    rate_limit='300/m',
-    max_retries=4,
-)</text>
+        <text encoding="base64">ICAjIDE4MDAgMzYwMCA3MjAwICAxNDQwMCAyODgwMA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">ICAjIDE4MDAgMzYwMCA3MjAwICAxNDQwMCAyODgwMA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxESVNDT1VOVF9DTFVCX1RPX0JJX1FVRVJZXD4=</text>
