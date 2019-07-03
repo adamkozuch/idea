@@ -15,8 +15,8 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562152442890">
-        <mark key="'" line="131" column="4" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562153868127">
+        <mark key="'" line="45" column="30" />
         <mark key="[" line="37" column="23" />
         <mark key="]" line="37" column="23" />
         <mark key="^" line="37" column="21" />
@@ -65,8 +65,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/routers.py" timestamp="1561540631223">
         <mark key="'" line="21" column="55" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562050486327">
-        <mark key="'" line="239" column="16" />
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562153960806">
+        <mark key="'" line="223" column="25" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -211,8 +211,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/django/db/models/fields/subclassing.py" timestamp="1558531165275">
         <mark key="'" line="48" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1562149592152">
-        <mark key="'" line="146" column="63" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/configuration.py" timestamp="1562154141725">
+        <mark key="'" line="145" column="63" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556279318191">
         <mark key="'" line="40" column="58" />
@@ -291,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="5" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="19" column="5" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="20" column="5" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="29" column="9" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
@@ -360,12 +362,9 @@
       <jump line="337" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="6" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="45" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
-      <jump line="240" column="20" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="226" column="31" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="227" column="28" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="171" column="77" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
-      <jump line="223" column="28" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="143" column="17" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="239" column="16" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="1149" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/furl/furl.py" />
@@ -391,10 +390,14 @@
       <jump line="289" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/models.py" />
       <jump line="261" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
       <jump line="131" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="45" column="30" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="240" column="23" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="223" column="25" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="148" column="44" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAjIDE4MDAgMzYwMCA3MjAwICAxNDQwMCAyODgwMA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAjIDE4MDAgMzYwMCA3MjAwICAxNDQwMCAyODgwMA==</text>
@@ -405,7 +408,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXJ0bmVyIGlzIGFjdGl2YXRlZCBkaXNwbGF5aW5nIGRpc3BsYXkgb25seSB0ZXN0IGRpc3BhdGNoCiAgICAgICAgIyBvcmRlcnMgd2hpY2ggaGFwcGVuZWQgYmVmb3JlIHByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlLgogICAgICAgICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgb25seSBwcm9kdWN0aW9uIHRoYXQgaGFwcGVuZWQgYWZ0ZXIgdGhhdCBkYXRlLgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>(
     name='client_systems.update_or_create_sok_order',
     autoretry_for=(RequestException, ValidationError, OperationalError),
@@ -415,29 +421,26 @@
     max_retries=4,
 )</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXNzaW5nIGFjdGl2YXRpbmcgcGFydG5lciBpbnRvIHByb2R1Y3Rpb24gd2UgZGlzcGxheSB0ZXN0IGRpc3BhdGNoIG9yZGVycwogICAgICAgICMgYWN0aXZhdGluZyBwYXJ0bmVyIHdlIGhpZGUgdGVzdGluZyBkaXNwYXRjaCBvcmRlcnMgYW5kIGRpc3BsYXkgb25seSBwcm9kdWN0aW9uIG9uZXMK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXJ0bmVyIGlzIGFjdGl2YXRlZCBkaXNwbGF5aW5nIGRpc3BsYXkgb25seSB0ZXN0IGRpc3BhdGNoCiAgICAgICAgIyBvcmRlcnMgd2hpY2ggaGFwcGVuZWQgYmVmb3JlIHByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlLgogICAgICAgICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgb25seSBwcm9kdWN0aW9uIHRoYXQgaGFwcGVuZWQgYWZ0ZXIgdGhhdCBkYXRlLgo=</text>
+        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXNzaW5nIGFjdGl2YXRpbmcgcGFydG5lciBpbnRvIHByb2R1Y3Rpb24gd2UgZGlzcGxheSB0ZXN0IGRpc3BhdGNoIG9yZGVycwogICAgICAgICMgYWN0aXZhdGluZyBwYXJ0bmVyIHdlIGhpZGUgdGVzdGluZyBkaXNwYXRjaCBvcmRlcnMgYW5kIGRpc3BsYXkgb25seSBwcm9kdWN0aW9uIG9uZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFkZEZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdwYXJ0bmVyJywKICAgICAgICAgICAgbmFtZT0ncHJvZHVjdGlvbl9kZXBsb3ltZW50X2RhdGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRGF0ZVRpbWVGaWVsZChkZWZhdWx0PWRqYW5nby51dGlscy50aW1lem9uZS5ub3csIGhlbHBfdGV4dD0nRGVmaW5lIHN0YXJ0IGRhdGUgb2YgYWN0aXZhdGlvbiBwYXJ0bmVyLiBBbGwgb3JkZXJzIGRpc3BhdGNoIG9yZGVycyBvZiBwYXJ0bmVyIGNyZWF0ZWQgYmVmb3JlIHRoYXQgZGF0ZSBhcmUgdHJlYXRlZGFzIHRlc3Rpbmcgb25lcyBhbmQgc2hvdWxkIGJlIGlnbm9yZWQgYnkgcGVyaXBoZXJhbCBzeXN0ZW1zICcpLAogICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXJ0bmVyIGlzIGFjdGl2YXRlZCBkaXNwbGF5aW5nIGRpc3BsYXkgb25seSB0ZXN0IGRpc3BhdGNoCiAgICAgICAgIyBvcmRlcnMgd2hpY2ggaGFwcGVuZWQgYmVmb3JlIHByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlLgogICAgICAgICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgb25seSBwcm9kdWN0aW9uIHRoYXQgaGFwcGVuZWQgYWZ0ZXIgdGhhdCBkYXRlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFkZEZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdwYXJ0bmVyJywKICAgICAgICAgICAgbmFtZT0ncHJvZHVjdGlvbl9kZXBsb3ltZW50X2RhdGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRGF0ZVRpbWVGaWVsZChkZWZhdWx0PWRqYW5nby51dGlscy50aW1lem9uZS5ub3csIGhlbHBfdGV4dD0nRGVmaW5lIHN0YXJ0IGRhdGUgb2YgYWN0aXZhdGlvbiBwYXJ0bmVyLiBBbGwgb3JkZXJzIGRpc3BhdGNoIG9yZGVycyBvZiBwYXJ0bmVyIGNyZWF0ZWQgYmVmb3JlIHRoYXQgZGF0ZSBhcmUgdHJlYXRlZGFzIHRlc3Rpbmcgb25lcyBhbmQgc2hvdWxkIGJlIGlnbm9yZWQgYnkgcGVyaXBoZXJhbCBzeXN0ZW1zICcpLAogICAgICAgICksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgIyB3aGVuIHdlIHN3aXRjaCB0byBwcm9kdWN0aW9uIHVzZSB3ZSBkaXNwbGF5IHByb2R1Y3Rpb24gb25seQogICAgICAgICMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
