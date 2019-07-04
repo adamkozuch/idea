@@ -15,8 +15,8 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562241416216">
-        <mark key="'" line="45" column="24" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562243340643">
+        <mark key="'" line="52" column="32" />
         <mark key="[" line="73" column="34" />
         <mark key="]" line="73" column="35" />
         <mark key="^" line="73" column="35" />
@@ -68,8 +68,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/routers.py" timestamp="1561540631223">
         <mark key="'" line="21" column="55" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562156321105">
-        <mark key="'" line="240" column="25" />
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562244284702">
+        <mark key="'" line="223" column="27" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -301,13 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="53" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="328" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="75" column="43" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="83" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="95" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="107" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="183" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="197" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="217" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
@@ -364,7 +357,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="6" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="226" column="31" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
-      <jump line="227" column="28" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="171" column="77" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="143" column="17" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="239" column="16" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
@@ -390,8 +382,6 @@
       <jump line="289" column="6" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/models.py" />
       <jump line="261" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/management/commands/listen_for_sok_order_changes.py" />
       <jump line="131" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
-      <jump line="223" column="25" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
-      <jump line="148" column="44" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="28" column="3" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" />
       <jump line="240" column="25" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
       <jump line="231" column="29" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
@@ -401,6 +391,16 @@
       <jump line="260" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/management/commands/create_synthetic_data.py" />
       <jump line="44" column="23" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="45" column="24" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="52" column="32" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
+      <jump line="227" column="30" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="186" column="18" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="137" column="72" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="136" column="16" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="166" column="36" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="148" column="50" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="131" column="24" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="155" column="13" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
+      <jump line="223" column="27" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -410,7 +410,7 @@
         <text>is_order_updated</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNjb3VudF9jbHViX3Nob3J0X25hbWVcPg==</text>
+        <text encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvcmRlcl90b191cGRhdGUuaXNfb3JkZXJfdXBkYXRlZCA9IEZhbHNlCiAgICAgICAgb3JkZXJfdG9fdXBkYXRlLnNhdmUoKQo=</text>
@@ -454,9 +454,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNjb3VudF9jbHViX3Nob3J0X25hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNjb3VudF9jbHViX3Nob3J0X25hbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>-1</last-dir>
@@ -464,8 +464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>@property</entry>
         <entry>lp</entry>
         <entry>Gate</entry>
         <entry>datetime</entry>
@@ -484,6 +482,8 @@
         <entry>update</entry>
         <entry encoding="base64">XDxESVNDT1VOVF9DTFVCX1RPX0JJX1FVRVJZXD4=</entry>
         <entry encoding="base64">XDxkaXNjb3VudF9jbHViX3Nob3J0X25hbWVcPg==</entry>
+        <entry>wait</entry>
+        <entry encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleDistractionFreeMode</entry>
