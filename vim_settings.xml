@@ -15,12 +15,12 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562231506853">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" timestamp="1562232783807">
         <mark key="'" line="53" column="27" />
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="23" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="23" />
+        <mark key="[" line="45" column="75" />
+        <mark key="]" line="45" column="75" />
+        <mark key="^" line="45" column="80" />
+        <mark key="." line="45" column="75" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/utils/history.py" timestamp="1556102836496">
         <mark key="'" line="26" column="25" />
@@ -110,8 +110,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/rules_manager/signals.py" timestamp="1556280379429">
         <mark key="'" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/models.py" timestamp="1562149961378">
-        <mark key="'" line="289" column="6" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/models.py" timestamp="1562233474761">
+        <mark key="'" line="290" column="6" />
+        <mark key="[" line="65" column="106" />
+        <mark key="]" line="65" column="119" />
+        <mark key="^" line="65" column="119" />
+        <mark key="." line="65" column="119" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/vouchers/forms.py" timestamp="1555583266705">
         <mark key="'" line="7" column="29" />
@@ -297,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="9" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="329" column="15" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="59" column="53" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="328" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
@@ -397,13 +400,14 @@
       <jump line="42" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="53" column="27" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="112" column="19" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/serializers.py" />
+      <jump line="260" column="21" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/management/commands/create_synthetic_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>updating</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIDE4MDAgMzYwMCA3MjAwICAxNDQwMCAyODgwMA==</text>
+        <text>updating</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNjb3VudF9jbHViX3Nob3J0X25hbWVcPg==</text>
@@ -412,9 +416,12 @@
         <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXJ0bmVyIGlzIGFjdGl2YXRlZCBkaXNwbGF5aW5nIGRpc3BsYXkgb25seSB0ZXN0IGRpc3BhdGNoCiAgICAgICAgIyBvcmRlcnMgd2hpY2ggaGFwcGVuZWQgYmVmb3JlIHByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlLgogICAgICAgICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgb25seSBwcm9kdWN0aW9uIHRoYXQgaGFwcGVuZWQgYWZ0ZXIgdGhhdCBkYXRlLgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>(
     name='client_systems.update_or_create_sok_order',
     autoretry_for=(RequestException, ValidationError, OperationalError),
@@ -424,26 +431,23 @@
     max_retries=4,
 )</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXNzaW5nIGFjdGl2YXRpbmcgcGFydG5lciBpbnRvIHByb2R1Y3Rpb24gd2UgZGlzcGxheSB0ZXN0IGRpc3BhdGNoIG9yZGVycwogICAgICAgICMgYWN0aXZhdGluZyBwYXJ0bmVyIHdlIGhpZGUgdGVzdGluZyBkaXNwYXRjaCBvcmRlcnMgYW5kIGRpc3BsYXkgb25seSBwcm9kdWN0aW9uIG9uZXMK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXJ0bmVyIGlzIGFjdGl2YXRlZCBkaXNwbGF5aW5nIGRpc3BsYXkgb25seSB0ZXN0IGRpc3BhdGNoCiAgICAgICAgIyBvcmRlcnMgd2hpY2ggaGFwcGVuZWQgYmVmb3JlIHByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlLgogICAgICAgICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgb25seSBwcm9kdWN0aW9uIHRoYXQgaGFwcGVuZWQgYWZ0ZXIgdGhhdCBkYXRlLgo=</text>
+        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXNzaW5nIGFjdGl2YXRpbmcgcGFydG5lciBpbnRvIHByb2R1Y3Rpb24gd2UgZGlzcGxheSB0ZXN0IGRpc3BhdGNoIG9yZGVycwogICAgICAgICMgYWN0aXZhdGluZyBwYXJ0bmVyIHdlIGhpZGUgdGVzdGluZyBkaXNwYXRjaCBvcmRlcnMgYW5kIGRpc3BsYXkgb25seSBwcm9kdWN0aW9uIG9uZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFkZEZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdwYXJ0bmVyJywKICAgICAgICAgICAgbmFtZT0ncHJvZHVjdGlvbl9kZXBsb3ltZW50X2RhdGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRGF0ZVRpbWVGaWVsZChkZWZhdWx0PWRqYW5nby51dGlscy50aW1lem9uZS5ub3csIGhlbHBfdGV4dD0nRGVmaW5lIHN0YXJ0IGRhdGUgb2YgYWN0aXZhdGlvbiBwYXJ0bmVyLiBBbGwgb3JkZXJzIGRpc3BhdGNoIG9yZGVycyBvZiBwYXJ0bmVyIGNyZWF0ZWQgYmVmb3JlIHRoYXQgZGF0ZSBhcmUgdHJlYXRlZGFzIHRlc3Rpbmcgb25lcyBhbmQgc2hvdWxkIGJlIGlnbm9yZWQgYnkgcGVyaXBoZXJhbCBzeXN0ZW1zICcpLAogICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXJ0bmVyIGlzIGFjdGl2YXRlZCBkaXNwbGF5aW5nIGRpc3BsYXkgb25seSB0ZXN0IGRpc3BhdGNoCiAgICAgICAgIyBvcmRlcnMgd2hpY2ggaGFwcGVuZWQgYmVmb3JlIHByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlLgogICAgICAgICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgb25seSBwcm9kdWN0aW9uIHRoYXQgaGFwcGVuZWQgYWZ0ZXIgdGhhdCBkYXRlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFkZEZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdwYXJ0bmVyJywKICAgICAgICAgICAgbmFtZT0ncHJvZHVjdGlvbl9kZXBsb3ltZW50X2RhdGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRGF0ZVRpbWVGaWVsZChkZWZhdWx0PWRqYW5nby51dGlscy50aW1lem9uZS5ub3csIGhlbHBfdGV4dD0nRGVmaW5lIHN0YXJ0IGRhdGUgb2YgYWN0aXZhdGlvbiBwYXJ0bmVyLiBBbGwgb3JkZXJzIGRpc3BhdGNoIG9yZGVycyBvZiBwYXJ0bmVyIGNyZWF0ZWQgYmVmb3JlIHRoYXQgZGF0ZSBhcmUgdHJlYXRlZGFzIHRlc3Rpbmcgb25lcyBhbmQgc2hvdWxkIGJlIGlnbm9yZWQgYnkgcGVyaXBoZXJhbCBzeXN0ZW1zICcpLAogICAgICAgICksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
