@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562331476392">
         <mark key="'" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562667185002">
-        <mark key="'" line="146" column="24" />
-        <mark key="[" line="115" column="28" />
-        <mark key="]" line="115" column="30" />
-        <mark key="^" line="115" column="30" />
-        <mark key="." line="115" column="30" />
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562671378914">
+        <mark key="'" line="136" column="42" />
+        <mark key="[" line="151" column="58" />
+        <mark key="]" line="152" column="31" />
+        <mark key="^" line="152" column="31" />
+        <mark key="." line="152" column="31" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
@@ -307,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="784" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="773" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="771" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="768" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -407,46 +406,47 @@
       <jump line="143" column="20" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="142" column="34" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="137" column="24" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="136" column="42" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'Quant id ', quant_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHF1YW50IGluIG1haW5fcXVhbnRzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'Quant id ', quant_id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWFudF9vYmpcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQsIHF1YW50X2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQsIG1haW5fcXVhbnRzWzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlRoaXMgYXJlIG1haW4gcXVhbnRzICIsIG1haW5fcXVhbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHF1YW50IGluIG1haW5fcXVhbnRzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBlbHNlOgogICAgICAgICAgICAjICAgICBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQpICAjIHVzdXdhbmllIHdzenlzdGtpY2ggaW5zZXJ0b3cK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY2hlY2sgaWYgY2FuIGJlIHVubGlua2VkIikKICAgICAgICBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQsIFttYWluX3F1YW50c1swXV0pCiAgICAgICAgcXVhbnRfb2JqLnVubGluayhjciwgbG9jYWxfdWlkLCBtYWluX3F1YW50c1swXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnVW5saW5raW5nIHF1YW50KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiB3YXJlaG91c2VfbmFtZSA9PSAiV0FSRUhPVVNFX1BMIjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdG8gbW96ZSBieWMgd2FyZWhvdXNlIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlRoaXMgYXJlIG1haW4gcXVhbnRzICIsIG1haW5fcXVhbnRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBlbHNlOgogICAgICAgICAgICAjICAgICBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQpICAjIHVzdXdhbmllIHdzenlzdGtpY2ggaW5zZXJ0b3cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZGlzX2RiLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb2tfb3JkZXIgPSBTT0tPcmRlci5vYmplY3RzLmdldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdG8gbW96ZSBieWMgd2FyZWhvdXNlIG5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
