@@ -183,8 +183,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562331476392">
         <mark key="'" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562660804777">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562662873713">
+        <mark key="'" line="108" column="44" />
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="31" />
         <mark key="^" line="54" column="31" />
@@ -307,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="848" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="845" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="841" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="833" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -407,6 +406,7 @@
       <jump line="119" column="27" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="115" column="16" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="108" column="44" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,7 +416,7 @@
         <text>http://192.168.33.103:8069</text>
       </register>
       <register name="/" type="4">
-        <text>exists</text>
+        <text encoding="base64">XDxtYWluX3F1YW50c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6Cg==</text>
@@ -460,17 +460,16 @@
       </register>
     </registers>
     <search>
-      <last-search>exists</last-search>
+      <last-search encoding="base64">XDxtYWluX3F1YW50c1w+</last-search>
       <last-offset />
-      <last-pattern>exists</last-pattern>
+      <last-pattern encoding="base64">XDxtYWluX3F1YW50c1w+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logistic</entry>
         <entry>logistic_com</entry>
         <entry encoding="base64">XDxsb2dpc3RpY19jb21wYW55XD4=</entry>
         <entry>dispatch-oreder</entry>
@@ -490,6 +489,7 @@
         <entry>stock</entry>
         <entry encoding="base64">XDxmaWx0ZXJfY29uZGl0aW9uc1w+</entry>
         <entry>exists</entry>
+        <entry encoding="base64">XDxtYWluX3F1YW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
