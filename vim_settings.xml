@@ -183,6 +183,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562331476392">
         <mark key="'" line="98" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562652959099">
+        <mark key="'" line="117" column="60" />
+        <mark key="[" line="113" column="20" />
+        <mark key="]" line="113" column="19" />
+        <mark key="^" line="113" column="19" />
+        <mark key="." line="113" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
       </file>
@@ -300,8 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="269" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="284" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="299" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="314" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
@@ -400,6 +405,8 @@
       <jump line="64" column="8" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/tasks.py" />
       <jump line="54" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/managers.py" />
       <jump line="98" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="77" column="15" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="117" column="60" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -409,7 +416,7 @@
         <text>is_order_updated</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</text>
+        <text>insert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6Cg==</text>
@@ -453,17 +460,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</last-search>
+      <last-search>insert</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</last-pattern>
+      <last-pattern>insert</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lp</entry>
         <entry>Gate</entry>
         <entry>datetime</entry>
         <entry>test_proces</entry>
@@ -483,6 +489,7 @@
         <entry encoding="base64">XDxkaXNjb3VudF9jbHViX3Nob3J0X25hbWVcPg==</entry>
         <entry>wait</entry>
         <entry encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</entry>
+        <entry>insert</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
