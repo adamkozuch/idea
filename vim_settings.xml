@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562331476392">
         <mark key="'" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562662873713">
-        <mark key="'" line="108" column="44" />
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="54" column="31" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="54" column="31" />
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562666121743">
+        <mark key="'" line="144" column="24" />
+        <mark key="[" line="113" column="39" />
+        <mark key="]" line="113" column="48" />
+        <mark key="^" line="113" column="48" />
+        <mark key="." line="113" column="48" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
@@ -307,11 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="845" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="841" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="833" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="822" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="788" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="784" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="773" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="771" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -394,7 +389,6 @@
       <jump line="117" column="60" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="106" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="103" column="50" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
-      <jump line="107" column="50" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="162" column="56" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="166" column="14" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="168" column="13" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
@@ -406,63 +400,62 @@
       <jump line="119" column="27" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="115" column="16" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
-      <jump line="108" column="44" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="108" column="24" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="107" column="29" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="150" column="20" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="143" column="20" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="142" column="34" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="137" column="24" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://192.168.33.103:8069</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlRoaXMgYXJlIG1haW4gcXVhbnRzICIsIG1haW5fcXVhbnRzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>http://192.168.33.103:8069</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWluX3F1YW50c1w+</text>
+        <text encoding="base64">XDxxdWFudF9vYmpcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQsIHF1YW50X2lkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdG8gbW96ZSBieWMgd2FyZWhvdXNlIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlRoaXMgYXJlIG1haW4gcXVhbnRzICIsIG1haW5fcXVhbnRzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBlbHNlOgogICAgICAgICAgICAjICAgICBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQpICAjIHVzdXdhbmllIHdzenlzdGtpY2ggaW5zZXJ0b3cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlZGlzX2RiLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb2tfb3JkZXIgPSBTT0tPcmRlci5vYmplY3RzLmdldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdG8gbW96ZSBieWMgd2FyZWhvdXNlIG5hbWUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(
-    name='client_systems.update_or_create_sok_order',
-    autoretry_for=(RequestException, ValidationError, OperationalError),
-    retry_backoff=300,
-    retry_backoff_max=60 * 60 * 24 * 5,
-    rate_limit='300/m',
-    max_retries=4,
-)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlZGlzX2RiLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
+        <text encoding="base64">ICAgICAgICBzb2tfb3JkZXIgPSBTT0tPcmRlci5vYmplY3RzLmdldCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWluX3F1YW50c1w+</last-search>
+      <last-search encoding="base64">XDxxdWFudF9vYmpcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWluX3F1YW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxxdWFudF9vYmpcPg==</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>-1</last-dir>
@@ -470,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logistic_com</entry>
         <entry encoding="base64">XDxsb2dpc3RpY19jb21wYW55XD4=</entry>
         <entry>dispatch-oreder</entry>
         <entry>dispatch-order</entry>
@@ -490,6 +482,7 @@
         <entry encoding="base64">XDxmaWx0ZXJfY29uZGl0aW9uc1w+</entry>
         <entry>exists</entry>
         <entry encoding="base64">XDxtYWluX3F1YW50c1w+</entry>
+        <entry encoding="base64">XDxxdWFudF9vYmpcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
