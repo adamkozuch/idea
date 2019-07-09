@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562331476392">
         <mark key="'" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562652959099">
-        <mark key="'" line="117" column="60" />
-        <mark key="[" line="113" column="20" />
-        <mark key="]" line="113" column="19" />
-        <mark key="^" line="113" column="19" />
-        <mark key="." line="113" column="19" />
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562655463812">
+        <mark key="'" line="119" column="16" />
+        <mark key="[" line="49" column="58" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
@@ -307,19 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="299" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="314" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="334" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="336" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="367" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="360" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="21" column="45" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="899" column="8" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="873" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="856" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="783" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="821" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="851" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="848" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="845" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -407,36 +394,52 @@
       <jump line="98" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="77" column="15" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="117" column="60" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="106" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="103" column="50" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="107" column="50" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="162" column="56" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="166" column="14" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="168" column="13" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="170" column="18" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="173" column="14" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="174" column="94" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="176" column="14" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="180" column="13" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="119" column="27" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="115" column="16" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdG8gbW96ZSBieWMgd2FyZWhvdXNlIG5hbWUK</text>
       </register>
       <register name="-" type="4">
-        <text>is_order_updated</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text encoding="base64">XDxmaWx0ZXJfY29uZGl0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdG8gbW96ZSBieWMgd2FyZWhvdXNlIG5hbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlZGlzX2RiLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb2tfb3JkZXIgPSBTT0tPcmRlci5vYmplY3RzLmdldCgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlZGlzX2RiLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzb2tfb3JkZXIgPSBTT0tPcmRlci5vYmplY3RzLmdldCgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>(
     name='client_systems.update_or_create_sok_order',
     autoretry_for=(RequestException, ValidationError, OperationalError),
@@ -446,32 +449,27 @@
     max_retries=4,
 )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIEJlZm9yZSBwYXNzaW5nIGFjdGl2YXRpbmcgcGFydG5lciBpbnRvIHByb2R1Y3Rpb24gd2UgZGlzcGxheSB0ZXN0IGRpc3BhdGNoIG9yZGVycwogICAgICAgICMgYWN0aXZhdGluZyBwYXJ0bmVyIHdlIGhpZGUgdGVzdGluZyBkaXNwYXRjaCBvcmRlcnMgYW5kIGRpc3BsYXkgb25seSBwcm9kdWN0aW9uIG9uZXMK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search encoding="base64">XDxmaWx0ZXJfY29uZGl0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
+      <last-pattern encoding="base64">XDxmaWx0ZXJfY29uZGl0aW9uc1w+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Gate</entry>
-        <entry>datetime</entry>
         <entry>test_proces</entry>
         <entry>logistic</entry>
         <entry>logistic_com</entry>
@@ -490,6 +488,8 @@
         <entry>wait</entry>
         <entry encoding="base64">XDxuZXh0X3Jlc2V0X2luXD4=</entry>
         <entry>insert</entry>
+        <entry>stock</entry>
+        <entry encoding="base64">XDxmaWx0ZXJfY29uZGl0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
