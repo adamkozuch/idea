@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562331476392">
         <mark key="'" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562666121743">
-        <mark key="'" line="144" column="24" />
-        <mark key="[" line="113" column="39" />
-        <mark key="]" line="113" column="48" />
-        <mark key="^" line="113" column="48" />
-        <mark key="." line="113" column="48" />
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562667185002">
+        <mark key="'" line="146" column="24" />
+        <mark key="[" line="115" column="28" />
+        <mark key="]" line="115" column="30" />
+        <mark key="^" line="115" column="30" />
+        <mark key="." line="115" column="30" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
@@ -409,11 +409,11 @@
       <jump line="137" column="24" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlRoaXMgYXJlIG1haW4gcXVhbnRzICIsIG1haW5fcXVhbnRzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'Quant id ', quant_id</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>'Quant id ', quant_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWFudF9vYmpcPg==</text>
@@ -500,10 +500,10 @@
         <entry>wq</entry>
         <entry>action Run</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>.action RecentFiles</entry>
         <entry>action RecentFiles</entry>
         <entry>Annotate</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
