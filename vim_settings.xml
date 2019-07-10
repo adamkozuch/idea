@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
         <mark key="'" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/managers.py" timestamp="1562752106573">
-        <mark key="'" line="61" column="4" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/managers.py" timestamp="1562756011016">
+        <mark key="'" line="52" column="0" />
         <mark key="[" line="61" column="96" />
         <mark key="]" line="61" column="122" />
         <mark key="." line="61" column="122" />
@@ -291,8 +291,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1561533252960">
-        <mark key="'" line="477" column="42" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1562755131380">
+        <mark key="'" line="478" column="42" />
+        <mark key="[" line="180" column="41" />
+        <mark key="]" line="181" column="28" />
+        <mark key="^" line="181" column="28" />
+        <mark key="." line="181" column="28" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1560323647865">
         <mark key="'" line="140" column="33" />
@@ -309,7 +313,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_product_custom_tree/models.py" timestamp="1562675689564" />
     </filemarks>
     <jumps>
-      <jump line="740" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="737" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="720" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="713" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -409,6 +412,7 @@
       <jump line="104" column="56" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="106" column="37" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="133" column="36" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/managers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
