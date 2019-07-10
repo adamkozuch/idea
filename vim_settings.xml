@@ -183,13 +183,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562331476392">
         <mark key="'" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562739204281">
-        <mark key="'" line="39" column="55" />
-        <mark key="k" line="145" column="20" />
-        <mark key="[" line="134" column="57" />
-        <mark key="]" line="134" column="113" />
-        <mark key="^" line="134" column="113" />
-        <mark key="." line="134" column="113" />
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562743538864">
+        <mark key="'" line="104" column="56" />
+        <mark key="k" line="155" column="20" />
+        <mark key="[" line="110" column="62" />
+        <mark key="]" line="110" column="62" />
+        <mark key="." line="110" column="62" />
+        <mark key="^" line="110" column="62" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
@@ -309,8 +309,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_product_custom_tree/models.py" timestamp="1562675689564" />
     </filemarks>
     <jumps>
-      <jump line="754" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="749" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="747" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="740" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="737" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -393,7 +391,6 @@
       <jump line="174" column="94" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="176" column="14" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="180" column="13" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
-      <jump line="119" column="27" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="115" column="16" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="108" column="24" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
@@ -409,55 +406,58 @@
       <jump line="127" column="43" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="64" column="8" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="39" column="55" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="119" column="84" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="114" column="59" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="104" column="56" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWFudF9sb2NhbCA9IHF1YW50X29iai5icm93c2UoY3IsIGxvY2FsX3VpZCwgcXVhbnRbMF0pWzBdCg==</text>
+      <register name="&quot;" type="4">
+        <text>query_main_area + [</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>query_main_area + [</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9kdWN0c1w+</text>
+        <text encoding="base64">XDxhc3NfbmFtZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQsIHF1YW50KQo=</text>
+      <register name="0" type="4">
+        <text>('location_id', 'in', main_area)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWFudF9sb2NhbCA9IHF1YW50X29iai5icm93c2UoY3IsIGxvY2FsX3VpZCwgcXVhbnRbMF0pWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ2JlZm9yZSBxdWFudHMnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zZXJ0X3F1ZXJ5ID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGluc2VydCBpbiBpbnNlcnRzOgogICAgICAgICAgICAgICAgcXVhbnRfb2JqLndyaXRlKGNyLCBsb2NhbF91aWQsIHF1YW50LCB7CiAgICAgICAgICAgICAgICAgICAgJ3RvdGFsX3F0eSc6IHJlY29yZC5nZXQoJ2F2YWlsYWJsZScpLAogICAgICAgICAgICAgICAgICAgICdxdHknOiByZWNvcmQuZ2V0KCdhdmFpbGFibGUnKQogICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVhbnRfb2JqLnVubGluayhjciwgbG9jYWxfdWlkLCApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZW1vdmUgYWxsIHF1YW50cyByZXNpZGluZyBvbiB3YXJlaG91c2Ugc3RyZWZhIGdsb3duYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbl9xdWFudHMgPSBxdWFudF9vYmouc2VhcmNoKGNyLCBsb2NhbF91aWQsIFsoJ2xvY2F0aW9uX2lkJywgJ2luJywgbWFpbl9hcmVhKV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9ICJRdWFudCBpZCBzcHJleGl0OiAiICsgc3RyKHF1YW50KQogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8obXNnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIk1haW4gIiArIHN0cihtYWluX3F1YW50cykKICAgICAgICAgICAgbG9nZ2VyLmluZm8obXNnKQoKICAgICAgICAgICAgIyBxdWFudF9vYmoudW5saW5rKGNyLCBsb2NhbF91aWQsIG1haW5fcXVhbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWFudF9sb2NhbCA9IHF1YW50X29iai5icm93c2UoY3IsIGxvY2FsX3VpZCwgcXVhbnRbMF0pWzBdCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIk1haW4gIiArIHN0cihtYWluX3F1YW50cykKICAgICAgICAgICAgbG9nZ2VyLmluZm8obXNnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9kdWN0c1w+</last-search>
+      <last-search encoding="base64">XDxhc3NfbmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9kdWN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NfbmFtZVw+</last-pattern>
       <last-replace />
       <last-substitute>/paragraph/wwww/</last-substitute>
       <last-dir>-1</last-dir>
@@ -465,7 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dispatch-order</entry>
         <entry>logis</entry>
         <entry>#</entry>
         <entry>Gateway</entry>
@@ -485,6 +484,7 @@
         <entry encoding="base64">XDxxdWFudF9vYmpcPg==</entry>
         <entry encoding="base64">XDxzcHJleGl0X3dhcmVob3VzZV9sb2NhdGlvblw+</entry>
         <entry encoding="base64">XDxwcm9kdWN0c1w+</entry>
+        <entry encoding="base64">XDxhc3NfbmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -505,8 +505,8 @@
         <entry>.action RecentFiles</entry>
         <entry>Annotate</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
