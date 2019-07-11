@@ -158,29 +158,29 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" timestamp="1560150671956">
         <mark key="'" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_parcels.py" timestamp="1562845200425">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_parcels.py" timestamp="1562846036001">
         <mark key="'" line="65" column="32" />
-        <mark key="[" line="79" column="40" />
-        <mark key="]" line="79" column="46" />
-        <mark key="^" line="79" column="46" />
-        <mark key="." line="79" column="46" />
+        <mark key="[" line="67" column="59" />
+        <mark key="]" line="67" column="60" />
+        <mark key="^" line="67" column="42" />
+        <mark key="." line="67" column="60" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/views.py" timestamp="1562842010255">
-        <mark key="'" line="253" column="51" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/views.py" timestamp="1562847047815">
+        <mark key="'" line="242" column="6" />
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="37" />
         <mark key="^" line="253" column="72" />
-        <mark key="." line="283" column="0" />
+        <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562844101201">
-        <mark key="'" line="307" column="34" />
-        <mark key="[" line="310" column="33" />
-        <mark key="]" line="310" column="34" />
-        <mark key="." line="310" column="34" />
-        <mark key="^" line="310" column="34" />
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562847037989">
+        <mark key="'" line="330" column="54" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="306" column="14" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562751379884">
         <mark key="'" line="106" column="37" />
@@ -280,11 +280,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1562845244615">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1562846055506">
         <mark key="'" line="231" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="12" />
-        <mark key="." line="104" column="12" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
         <mark key="^" line="101" column="28" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1560323647865">
@@ -302,8 +302,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_product_custom_tree/models.py" timestamp="1562675689564" />
     </filemarks>
     <jumps>
-      <jump line="763" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="800" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="768" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="764" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="753" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -402,13 +400,15 @@
       <jump line="207" column="15" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/tests/test_views.py" />
       <jump line="67" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_parcels.py" />
       <jump line="65" column="32" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_parcels.py" />
+      <jump line="330" column="54" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="242" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluIHNlY29uZCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>, F</text>
       </register>
       <register name="-" type="4">
-        <text>timezone.now() + timedelta(hours=2)</text>
+        <text>, F</text>
       </register>
       <register name="/" type="4">
         <text>dispatch_order__di</text>
@@ -417,33 +417,31 @@
         <text>timezone.now() + timedelta(hours=2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluIHNlY29uZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaW4gc2Vjb25kJykK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBQYXJjZWwub2JqZWN0cy5maWx0ZXIoZGlzcGF0Y2hfb3JkZXJfX2xvZ2lzdGljX2NvbXBhbnlfX25hbWU9c2VsZi5rd2FyZ3NbJ2xvZ2lzdGljX2NvbXBhbnlfbmFtZSddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUGFydG5lciBpcyAnLCBsb2dpc3RpY19jb21wYW55Lm5hbWUpCiAgICAgICAgcHJpbnQoJ2RlcGxveW1lbnQgZGF0ZSAnLCBsb2dpc3RpY19jb21wYW55LnByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlKQogICAgICAgIHByaW50KGxvZ2lzdGljX2NvbXBhbnkucHJvZHVjdGlvbl9kZXBsb3ltZW50X2RhdGUgPCB0aW1lem9uZS5ub3coKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGhpcyBpcyBxdWVyeXNldCAiLCBxdWVyeXNldCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3JldHVybm5pbmcgcXVlcnlzZXQgMicpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb2dpc3RpY19jb21wYW55LnByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlKQogICAgICAgIHByaW50KHRpbWV6b25lLm5vdygpKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>Parcel.objects.return_dispatch_orders_base_on_production_deployment_date(
-                self.kwargs['logistic_company_name']
-            )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluIHNlY29uZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaW4gc2Vjb25kJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3JldHVybm5pbmcgcXVlcnlzZXQgMScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3JldHVybm5pbmcgcXVlcnlzZXQgMicpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnUGFydG5lciBpcyAnLCBsb2dpc3RpY19jb21wYW55Lm5hbWUpCiAgICAgICAgcHJpbnQoJ2RlcGxveW1lbnQgZGF0ZSAnLCBsb2dpc3RpY19jb21wYW55LnByb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlKQogICAgICAgIHByaW50KGxvZ2lzdGljX2NvbXBhbnkucHJvZHVjdGlvbl9kZXBsb3ltZW50X2RhdGUgPCB0aW1lem9uZS5ub3coKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
