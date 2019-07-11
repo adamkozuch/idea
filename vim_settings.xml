@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/urls.py" timestamp="1559123021393">
         <mark key="'" line="9" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1562766039671">
+      <file name="/a.dummy" timestamp="1562822120383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
@@ -176,12 +176,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/notifications/__init__.py" timestamp="1555483885865">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562767789590">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" timestamp="1562822024708">
         <mark key="'" line="101" column="27" />
-        <mark key="[" line="106" column="37" />
-        <mark key="]" line="107" column="7" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
         <mark key="^" line="107" column="7" />
-        <mark key="." line="107" column="7" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562751379884">
         <mark key="'" line="106" column="37" />
@@ -286,11 +286,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1562768383332">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1562822036526">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="69" column="23" />
-        <mark key="]" line="69" column="23" />
-        <mark key="." line="69" column="23" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="4" />
         <mark key="^" line="65" column="23" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1560323647865">
@@ -411,46 +411,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVGVzdCBpcyBydW5uaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAjICMgQmVmb3JlIHBhcnRuZXIgaXMgYWN0aXZhdGVkIGRpc3BsYXlpbmcgZGlzcGxheSBvbmx5IHRlc3QgZGlzcGF0Y2gKICAgICAgICAjICMgb3JkZXJzIHdoaWNoIGhhcHBlbmVkIGJlZm9yZSBwcm9kdWN0aW9uX2RlcGxveW1lbnRfZGF0ZS4KICAgICAgICAjICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgIyBvbmx5IHByb2R1Y3Rpb24gdGhhdCBoYXBwZW5lZCBhZnRlciB0aGF0IGRhdGUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgIC5zZWxlY3RfcmVsYXRlZCgncGFyY2VsJyk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lem9uZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>return_base_on_deployment_date_for_lp(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRGlzcGF0Y2hPcmRlci5vYmplY3RzXAogICAgICAgICAgICAucmV0dXJuX2Jhc2Vfb25fZGVwbG95bWVudF9kYXRlX2Zvcl9scChzZWxmLmt3YXJnc1snbG9naXN0aWNfY29tcGFueV9uYW1lJ10pXAogICAgICAgICAgICAuc2VsZWN0X3JlbGF0ZWQoJ3BhcmNlbCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVGVzdCBpcyBydW5uaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAjICMgQmVmb3JlIHBhcnRuZXIgaXMgYWN0aXZhdGVkIGRpc3BsYXlpbmcgZGlzcGxheSBvbmx5IHRlc3QgZGlzcGF0Y2gKICAgICAgICAjICMgb3JkZXJzIHdoaWNoIGhhcHBlbmVkIGJlZm9yZSBwcm9kdWN0aW9uX2RlcGxveW1lbnRfZGF0ZS4KICAgICAgICAjICMgQWZ0ZXIgcGFydG5lciBpcyBhY3RpdmF0ZWQgd2UgaGlkZSB0ZXN0aW5nIGRpc3BhdGNoIG9yZGVycyBhbmQgZGlzcGxheQogICAgICAgICMgIyBvbmx5IHByb2R1Y3Rpb24gdGhhdCBoYXBwZW5lZCBhZnRlciB0aGF0IGRhdGUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYub2JqZWN0cy5maWx0ZXIoCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnk9bG9naXN0aWNfY29tcGFueSwKICAgICAgICAgICAgICAgIGNyZWF0ZWRfX2x0PWxvZ2lzdGljX2NvbXBhbnkucHJvZHVjdGlvbl9kZXBsb3ltZW50X2RhdGUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgICAgICBsb2dpc3RpY19jb21wYW55PWxvZ2lzdGljX2NvbXBhbnksCiAgICAgICAgICAgICAgICBjcmVhdGVkX19ndGU9bG9naXN0aWNfY29tcGFueS5wcm9kdWN0aW9uX2RlcGxveW1lbnRfZGF0ZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpc3RpY19jb21wYW55ID0gZ2V0X29iamVjdF9vcl80MDQoUGFydG5lciwgbmFtZT1sb2dpc3RpY19jb21wYW55X25hbWUpCiAgICAgICAgcG9zc2libGVfY2hvaWNlcyA9IFsKICAgICAgICAgICAgRGlzcGF0Y2hPcmRlclN0YXR1c0Nob2ljZXMuTkVXLAogICAgICAgICAgICBEaXNwYXRjaE9yZGVyU3RhdHVzQ2hvaWNlcy5SRUNFSVZFRCwKICAgICAgICAgICAgRGlzcGF0Y2hPcmRlclN0YXR1c0Nob2ljZXMuUkVKRUNURUQKICAgICAgICBdCgogICAgICAgIHJldHVybiBzZWxmLm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICBsb2dpc3RpY19jb21wYW55PWxvZ2lzdGljX2NvbXBhbnksCiAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnlfX3Byb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlX19sdGU9RignZGlzcGF0Y2hfb3JkZXJfX2NyZWF0ZWQnKSwKICAgICAgICAgICAgZGlzcGF0Y2hfb3JkZXJfc3RhdHVzX19pbj1wb3NzaWJsZV9jaG9pY2VzKQoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVGVzdCBpcyBydW5uaW5nIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBkamEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYub2JqZWN0cy5maWx0ZXIoCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnk9bG9naXN0aWNfY29tcGFueSwKICAgICAgICAgICAgICAgIGNyZWF0ZWRfX2x0PWxvZ2lzdGljX2NvbXBhbnkucHJvZHVjdGlvbl9kZXBsb3ltZW50X2RhdGUpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgICAgICBsb2dpc3RpY19jb21wYW55PWxvZ2lzdGljX2NvbXBhbnksCiAgICAgICAgICAgICAgICBjcmVhdGVkX19ndGU9bG9naXN0aWNfY29tcGFueS5wcm9kdWN0aW9uX2RlcGxveW1lbnRfZGF0ZSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dpc3RpY19jb21wYW55ID0gZ2V0X29iamVjdF9vcl80MDQoUGFydG5lciwgbmFtZT1sb2dpc3RpY19jb21wYW55X25hbWUpCiAgICAgICAgcG9zc2libGVfY2hvaWNlcyA9IFsKICAgICAgICAgICAgRGlzcGF0Y2hPcmRlclN0YXR1c0Nob2ljZXMuTkVXLAogICAgICAgICAgICBEaXNwYXRjaE9yZGVyU3RhdHVzQ2hvaWNlcy5SRUNFSVZFRCwKICAgICAgICAgICAgRGlzcGF0Y2hPcmRlclN0YXR1c0Nob2ljZXMuUkVKRUNURUQKICAgICAgICBdCgogICAgICAgIHJldHVybiBzZWxmLm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICBsb2dpc3RpY19jb21wYW55PWxvZ2lzdGljX2NvbXBhbnksCiAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnlfX3Byb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlX19sdGU9RignZGlzcGF0Y2hfb3JkZXJfX2NyZWF0ZWQnKSwKICAgICAgICAgICAgZGlzcGF0Y2hfb3JkZXJfc3RhdHVzX19pbj1wb3NzaWJsZV9jaG9pY2VzKQoK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -504,8 +504,8 @@
         <entry>Annotate</entry>
         <entry>e</entry>
         <entry>action RecentFiles</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
