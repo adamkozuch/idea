@@ -273,11 +273,11 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1562846055506">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1562849777928">
         <mark key="'" line="231" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="62" column="65" />
+        <mark key="]" line="62" column="65" />
+        <mark key="." line="62" column="65" />
         <mark key="^" line="101" column="28" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1560323647865">
@@ -398,10 +398,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, F</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>, F</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>dispatch_order__di</text>
@@ -490,8 +490,8 @@
         <entry>.action RecentFiles</entry>
         <entry>Annotate</entry>
         <entry>e</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
