@@ -47,6 +47,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/importer/signal_handlers.py" timestamp="1561533014410">
         <mark key="'" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/signal_handlers.py" timestamp="1562936298628">
+        <mark key="[" line="51" column="69" />
+        <mark key="]" line="51" column="70" />
+        <mark key="." line="51" column="70" />
+        <mark key="^" line="51" column="93" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/serializers.py" timestamp="1562231523541">
         <mark key="'" line="112" column="19" />
       </file>
@@ -413,8 +419,8 @@
       <jump line="5243" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-34899022/builtins.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYWZ0ZXJfZGVwbG95bWVudF9mb3JfbG9naXNpdGNfY29tcGFueShzZWxmLCBsb2dpc3RpY19jb21wYW55X25hbWUpOgogICAgICAgIGxvZ2lzdGljX2NvbXBhbnkgPSBnZXRfb2JqZWN0X29yXzQwNChQYXJ0bmVyLCBuYW1lPWxvZ2lzdGljX2NvbXBhbnlfbmFtZSkKICAgICAgICBwb3NzaWJsZV9jaG9pY2VzID0gWwogICAgICAgICAgICBEaXNwYXRjaE9yZGVyU3RhdHVzQ2hvaWNlcy5ORVcsCiAgICAgICAgICAgIERpc3BhdGNoT3JkZXJTdGF0dXNDaG9pY2VzLlJFQ0VJVkVELAogICAgICAgICAgICBEaXNwYXRjaE9yZGVyU3RhdHVzQ2hvaWNlcy5SRUpFQ1RFRAogICAgICAgIF0KCiAgICAgICAgcmV0dXJuIHNlbGYuZmlsdGVyKAogICAgICAgICAgICBsb2dpc3RpY19jb21wYW55PWxvZ2lzdGljX2NvbXBhbnksCiAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnlfX3Byb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlX19sdGU9RignY3JlYXRlZCcpLAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlcl9zdGF0dXNfX2luPXBvc3NpYmxlX2Nob2ljZXMpCgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
