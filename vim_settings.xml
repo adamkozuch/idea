@@ -3,30 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1560191573770">
-        <mark key="'" line="61" column="21" />
-        <mark key="[" line="67" column="47" />
-        <mark key="]" line="67" column="47" />
-        <mark key="." line="67" column="47" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" timestamp="1560191576134">
-        <mark key="'" line="7" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" timestamp="1563737919692">
+        <mark key="'" line="9" column="71" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="72" />
+        <mark key="m" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="9" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="13" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
-      <jump line="61" column="21" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
-      <jump line="7" column="6" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" />
+      <jump line="9" column="71" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/models.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCd0ZWNobmljYWwuanNvbicpIGFzIGZpbGU6CiAgICAgICAgICAgICAgICBlbGVtZW50cyA9IGpzb24ubG9hZChmaWxlKVsnZGF0YSddCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>()</text>
       </register>
     </registers>
     <search>
@@ -36,10 +30,7 @@
     <history />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
