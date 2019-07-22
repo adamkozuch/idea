@@ -187,13 +187,12 @@
         <mark key="." line="98" column="22" />
         <mark key="^" line="98" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1562929690461">
-        <mark key="'" line="106" column="37" />
+      <file name="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" timestamp="1563796893552">
+        <mark key="'" line="164" column="34" />
         <mark key="k" line="147" column="20" />
-        <mark key="[" line="111" column="18" />
-        <mark key="]" line="111" column="17" />
-        <mark key="." line="111" column="17" />
-        <mark key="^" line="111" column="17" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/attachments/factories.py" timestamp="1562837289591">
         <mark key="[" line="31" column="36" />
@@ -315,11 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="490" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="488" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="471" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="469" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="464" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="459" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="453" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="446" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -415,10 +409,15 @@
       <jump line="49" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="194" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="88" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="86" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="163" column="48" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="165" column="34" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBSZXN1bHRzU2V0UGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -430,31 +429,31 @@
         <text encoding="base64">IyBtZXRob2QgaXRlcmF0ZXMgdGhyb3VnaCBwb3N0Z3JlcyBkYXRhYmFzZXMgb24gZ2l2ZW4gcG9ydCBhbmQgYXBwZW5kIGl0IHRvIHJlc3VsdCBmaWxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBSZXN1bHRzU2V0UGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNvbQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGp3dF90b2tlbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbG9nZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKG9zLnBhdGguZGlybmFtZShmaWxlbmFtZSkpOgogICAgICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldF93bXNfbG9jYXRpb25faWRzX2Zvcl9tYWluX3dhcmVob3VzZShzb21lLCApCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZSgpCg==</text>
+        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBSZXN1bHRzU2V0UGFnaW5hdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBtZXRob2QgZXh0cmFjdHMgc2NoZW1hIG9mIHBhc3NlZCBwb3N0Z3JlcyBkYXRhYmFzZSBhbmQKIyBzYW1wbGUgZGF0YSBmcm9tIHRhYmxlcyBhbmQgYXBwZW5kIGl0IHRvIHJlc3VsdCBmaWxlCg==</text>
+        <text encoding="base64">ICAgIHNvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OiAnCm9uZSB0aGluZwphbm90aGVyCgonCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc3ByYXdkemljIGN6eSB0ZWdvIG1vZ2Ugc2llIHBvemJ5YwogICAgI2VjaG8gJ2RhdGE9JyB8IGNhdCAtICRwYXRoID4gdGVtcCAmJiBtdiB0ZW1wICRwYXRoCg==</text>
+        <text encoding="base64">ICAgIGp3dF90b2tlbi4K</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
