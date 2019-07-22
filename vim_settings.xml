@@ -76,13 +76,13 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562245366006">
         <mark key="'" line="223" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563794457143">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="221" column="104" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
-        <mark key="^" line="222" column="0" />
-        <mark key="n" line="219" column="26" />
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563798317308">
+        <mark key="'" line="137" column="81" />
+        <mark key="[" line="279" column="1" />
+        <mark key="]" line="279" column="1" />
+        <mark key="." line="279" column="1" />
+        <mark key="^" line="279" column="1" />
+        <mark key="n" line="257" column="1" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -231,10 +231,10 @@
         <mark key="'" line="48" column="39" />
       </file>
       <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" timestamp="1563793833464">
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1556279318191">
         <mark key="'" line="40" column="58" />
@@ -314,10 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="453" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="446" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="444" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="435" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="431" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="429" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -414,63 +410,66 @@
       <jump line="86" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="163" column="48" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="165" column="34" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="208" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="84" column="98" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="46" column="9" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="137" column="81" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kZXJfbmFtZVw+</text>
+        <text encoding="base64">XDxfd3JhcF9pbnRvX3NpbmdsZV9xdW90ZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBtZXRob2QgaXRlcmF0ZXMgdGhyb3VnaCBwb3N0Z3JlcyBkYXRhYmFzZXMgb24gZ2l2ZW4gcG9ydCBhbmQgYXBwZW5kIGl0IHRvIHJlc3VsdCBmaWxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0Cg==</text>
+        <text encoding="base64">ZWxzZQogICAgZWNobyAiZmlsZSBkZWxldGVkIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbG9nZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldF93bXNfbG9jYXRpb25faWRzX2Zvcl9tYWluX3dhcmVob3VzZShzb21lLCApCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBSZXN1bHRzU2V0UGFnaW5hdGlvbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNvbQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbG9nZXIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldF93bXNfbG9jYXRpb25faWRzX2Zvcl9tYWluX3dhcmVob3VzZShzb21lLCApCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBSZXN1bHRzU2V0UGFnaW5hdGlvbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNvbQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGp3dF90b2tlbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action ToggleBookmark</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kZXJfbmFtZVw+</last-search>
+      <last-search encoding="base64">XDxfd3JhcF9pbnRvX3NpbmdsZV9xdW90ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kZXJfbmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfd3JhcF9pbnRvX3NpbmdsZV9xdW90ZXNcPg==</last-pattern>
       <last-replace>mmmm</last-replace>
       <last-substitute>message</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>RWMana</entry>
         <entry encoding="base64">XDxEaXNwYXRjaE9yZGVyUldNYW5hZ2VyXD4=</entry>
         <entry>ParcelLP</entry>
         <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
@@ -490,6 +489,7 @@
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDxkZWNvZGVfYXV0aF90b2tlblw+</entry>
         <entry encoding="base64">XDxzZW5kZXJfbmFtZVw+</entry>
+        <entry encoding="base64">XDxfd3JhcF9pbnRvX3NpbmdsZV9xdW90ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e file</entry>
@@ -509,9 +509,9 @@
         <entry>action Run</entry>
         <entry>set multiple-cursors</entry>
         <entry>actionlist comment</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
         <entry>action ToggleBookmark</entry>
-        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
