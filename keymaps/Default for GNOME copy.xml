@@ -66,6 +66,9 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EditorIndentSelection" />
+  <action id="EditorToggleShowGutterIcons">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
