@@ -80,8 +80,8 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562245366006">
         <mark key="'" line="223" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563789056793">
-        <mark key="'" line="58" column="26" />
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563789982489">
+        <mark key="'" line="286" column="41" />
         <mark key="[" line="93" column="151" />
         <mark key="]" line="93" column="151" />
         <mark key="." line="93" column="151" />
@@ -333,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="675" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="670" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="664" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="656" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -433,6 +432,7 @@
       <jump line="57" column="26" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="10" column="34" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
       <jump line="3" column="20" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/config.py" />
+      <jump line="286" column="41" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -442,7 +442,7 @@
         <text>| _trim_last_comma</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch_order__di</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBtZXRob2QgaXRlcmF0ZXMgdGhyb3VnaCBwb3N0Z3JlcyBkYXRhYmFzZXMgb24gZ2l2ZW4gcG9ydCBhbmQgYXBwZW5kIGl0IHRvIHJlc3VsdCBmaWxlCg==</text>
@@ -475,21 +475,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>dispatch_order__di</last-search>
+      <last-search>message</last-search>
       <last-offset />
-      <last-pattern>dispatch_order__di</last-pattern>
-      <last-replace />
-      <last-substitute>/paragraph/wwww/</last-substitute>
+      <last-pattern>message</last-pattern>
+      <last-replace>mmmm</last-replace>
+      <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>partner</entry>
         <entry encoding="base64">XDxwb3NzaWJsZV9jaG9pY2VzXD4=</entry>
         <entry>Extra</entry>
         <entry encoding="base64">XDxEaXNwYXRjaE9yZGVyTFBNYW5hZ2VyXD4=</entry>
@@ -509,9 +508,9 @@
         <entry>TestDispatchOrder</entry>
         <entry encoding="base64">XDxnZXRfcXVlcnlzZXRcPg==</entry>
         <entry>dispatch_order__di</entry>
+        <entry>message</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU3dpdGNoZXI=</entry>
         <entry encoding="base64">bWFwIDxUYWI+PFRhYj4gOmFjdGlvbiBTd2l0Y2hlcjxDUj4=</entry>
         <entry>action Switcher</entry>
         <entry>e file</entry>
@@ -527,10 +526,11 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>actionlist Bookmark</entry>
-        <entry>action GotoFile</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>s/message/mmmm/gc</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
