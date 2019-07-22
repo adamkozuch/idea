@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/urls.py" timestamp="1559123021393">
         <mark key="'" line="9" column="27" />
       </file>
+      <file name="/start_script.py" timestamp="1563783097382">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/urls.py" timestamp="1562841164353">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="18" column="67" />
@@ -76,6 +79,13 @@
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562245366006">
         <mark key="'" line="223" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563783073730">
+        <mark key="'" line="276" column="160" />
+        <mark key="[" line="276" column="18" />
+        <mark key="]" line="276" column="158" />
+        <mark key="^" line="276" column="17" />
+        <mark key="." line="276" column="159" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -316,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="729" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="727" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="720" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="714" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -416,6 +425,7 @@
       <jump line="59" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="136" column="17" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="5243" column="8" filename="$USER_HOME$/.PyCharm2018.3/system/python_stubs/-34899022/builtins.py" />
+      <jump line="276" column="160" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -501,7 +511,6 @@
         <entry>action Switcher</entry>
         <entry>e file</entry>
         <entry>:w</entry>
-        <entry>action GotoFile</entry>
         <entry>pwd</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>qw</entry>
@@ -513,6 +522,7 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
