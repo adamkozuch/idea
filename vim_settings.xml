@@ -80,12 +80,13 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562245366006">
         <mark key="'" line="223" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563789982489">
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563791664711">
         <mark key="'" line="286" column="41" />
         <mark key="[" line="93" column="151" />
         <mark key="]" line="93" column="151" />
         <mark key="." line="93" column="151" />
         <mark key="^" line="1" column="0" />
+        <mark key="n" line="219" column="26" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
@@ -156,15 +157,10 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paleciak/paleciak/transport_order/urls.py" timestamp="1558421204455">
         <mark key="'" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" timestamp="1562829898146">
-        <mark key="'" line="169" column="33" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="189" column="9" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1556101885729">
         <mark key="'" line="633" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1562739257112">
+      <file name="/Python Console" timestamp="1563790839835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/requirements.txt" timestamp="1563788418497" />
@@ -223,10 +219,6 @@
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1561452683256">
         <mark key="'" line="357" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/tests/test_parcel.py" timestamp="1562826729051">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="55" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/ipl/apps/ipl/statics.py" timestamp="1558599053815">
         <mark key="'" line="6" column="0" />
       </file>
@@ -245,8 +237,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/treasury/treasury/lib/python3.6/site-packages/django/db/models/fields/subclassing.py" timestamp="1558531165275">
         <mark key="'" line="48" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" timestamp="1563788208046">
-        <mark key="'" line="10" column="34" />
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" timestamp="1563791857235">
+        <mark key="'" line="35" column="30" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -281,6 +273,9 @@
         <mark key="]" line="29" column="54" />
         <mark key="^" line="29" column="54" />
         <mark key="." line="29" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/venv/lib/python3.6/site-packages/flask/globals.py" timestamp="1563791217123">
+        <mark key="'" line="59" column="10" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/brokers/tests/tests.py" timestamp="1561534023075">
         <mark key="[" line="24" column="0" />
@@ -333,11 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="670" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="664" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="656" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="644" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="628" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="626" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="624" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="617" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
@@ -433,10 +423,15 @@
       <jump line="10" column="34" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
       <jump line="3" column="20" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/config.py" />
       <jump line="286" column="41" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="28" column="29" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
+      <jump line="30" column="19" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
+      <jump line="26" column="19" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
+      <jump line="59" column="10" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/venv/lib/python3.6/site-packages/flask/globals.py" />
+      <jump line="35" column="30" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>| _trim_last_comma</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>| _trim_last_comma</text>
@@ -448,34 +443,34 @@
         <text encoding="base64">IyBtZXRob2QgaXRlcmF0ZXMgdGhyb3VnaCBwb3N0Z3JlcyBkYXRhYmFzZXMgb24gZ2l2ZW4gcG9ydCBhbmQgYXBwZW5kIGl0IHRvIHJlc3VsdCBmaWxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBtZXRob2QgZXh0cmFjdHMgc2NoZW1hIG9mIHBhc3NlZCBwb3N0Z3JlcyBkYXRhYmFzZSBhbmQKIyBzYW1wbGUgZGF0YSBmcm9tIHRhYmxlcyBhbmQgYXBwZW5kIGl0IHRvIHJlc3VsdCBmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OiAnCm9uZSB0aGluZwphbm90aGVyCgonCg==</text>
+        <text encoding="base64">IyBtZXRob2QgZXh0cmFjdHMgc2NoZW1hIG9mIHBhc3NlZCBwb3N0Z3JlcyBkYXRhYmFzZSBhbmQKIyBzYW1wbGUgZGF0YSBmcm9tIHRhYmxlcyBhbmQgYXBwZW5kIGl0IHRvIHJlc3VsdCBmaWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgc3ByYXdkemljIGN6eSB0ZWdvIG1vZ2Ugc2llIHBvemJ5YwogICAgI2VjaG8gJ2RhdGE9JyB8IGNhdCAtICRwYXRoID4gdGVtcCAmJiBtdiB0ZW1wICRwYXRoCg==</text>
+        <text encoding="base64">OiAnCm9uZSB0aGluZwphbm90aGVyCgonCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVkLgo=</text>
+        <text encoding="base64">ICAgICMgc3ByYXdkemljIGN6eSB0ZWdvIG1vZ2Ugc2llIHBvemJ5YwogICAgI2VjaG8gJ2RhdGE9JyB8IGNhdCAtICRwYXRoID4gdGVtcCAmJiBtdiB0ZW1wICRwYXRoCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkZWNvZGVkLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVkLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2FsIGNvbW1hbmRfZGVzY3JpcHRpb25zPSIkQ09NTUFORCAtZCAkZGIgLWMgIFwiU0VMRUNUIGNvbHVtbl9uYW1lIEZST00gaW5mb3JtYXRpb25fc2NoZW1hLmNvbHVtbnMgV0hFUkUgdGFibGVfc2NoZW1hID0gJyRzY2hlbWEnIGFuZCB0YWJsZV9uYW1lID0gJyR0YWJsZSdcIiB8IGhlYWQgLW4gLTIgfCBzZWQgJzEsMmQnfCB0ciAnXHJcbicgJyAnIHwgdHIgJywsJyAnICciCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUQUJMRV9ERVNDUklQVElPTlM9JChldmFsICRjb21tYW5kX2Rlc2NyaXB0aW9ucykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIiRIT1NUX05BTUUsIiAiUE9TVEdSRVMsIiAiJGRiLCIgIiREQVRBQkFTRV9QT1JULCIgIiRzY2hlbWEsIiAiJHRhYmxlIiAiJHtUQUJMRV9ERVNDUklQVElPTlMvLyAvLH0iID4+ICR7UkVTVUxUX1BBVEh9XyR7REFUQUJBU0VfSE9TVH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9IiQoZGF0ZSkgUE9TVEdSRVMgJERBVEFCQVNFX1BPUlQgY2Fubm90IGFjY2VzIHRhYmxlICR0YWJsZSIgPj4gJEVSUk9SX0ZJTEUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleGl0IDEyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYWZ0ZXJfZGVwbG95bWVudF9mb3JfbG9naXNpdGNfY29tcGFueShzZWxmLCBsb2dpc3RpY19jb21wYW55X25hbWUpOgogICAgICAgIGxvZ2lzdGljX2NvbXBhbnkgPSBnZXRfb2JqZWN0X29yXzQwNChQYXJ0bmVyLCBuYW1lPWxvZ2lzdGljX2NvbXBhbnlfbmFtZSkKICAgICAgICBwb3NzaWJsZV9jaG9pY2VzID0gWwogICAgICAgICAgICBEaXNwYXRjaE9yZGVyU3RhdHVzQ2hvaWNlcy5ORVcsCiAgICAgICAgICAgIERpc3BhdGNoT3JkZXJTdGF0dXNDaG9pY2VzLlJFQ0VJVkVELAogICAgICAgICAgICBEaXNwYXRjaE9yZGVyU3RhdHVzQ2hvaWNlcy5SRUpFQ1RFRAogICAgICAgIF0KCiAgICAgICAgcmV0dXJuIHNlbGYuZmlsdGVyKAogICAgICAgICAgICBsb2dpc3RpY19jb21wYW55PWxvZ2lzdGljX2NvbXBhbnksCiAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnlfX3Byb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlX19sdGU9RignY3JlYXRlZCcpLAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlcl9zdGF0dXNfX2luPXBvc3NpYmxlX2Nob2ljZXMpCgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2FsIGNvbW1hbmRfZGVzY3JpcHRpb25zPSIkQ09NTUFORCAtZCAkZGIgLWMgIFwiU0VMRUNUIGNvbHVtbl9uYW1lIEZST00gaW5mb3JtYXRpb25fc2NoZW1hLmNvbHVtbnMgV0hFUkUgdGFibGVfc2NoZW1hID0gJyRzY2hlbWEnIGFuZCB0YWJsZV9uYW1lID0gJyR0YWJsZSdcIiB8IGhlYWQgLW4gLTIgfCBzZWQgJzEsMmQnfCB0ciAnXHJcbicgJyAnIHwgdHIgJywsJyAnICciCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUQUJMRV9ERVNDUklQVElPTlM9JChldmFsICRjb21tYW5kX2Rlc2NyaXB0aW9ucykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIFsgJD8gLWVxIDAgXTsgdGhlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIiRIT1NUX05BTUUsIiAiUE9TVEdSRVMsIiAiJGRiLCIgIiREQVRBQkFTRV9QT1JULCIgIiRzY2hlbWEsIiAiJHRhYmxlIiAiJHtUQUJMRV9ERVNDUklQVElPTlMvLyAvLH0iID4+ICR7UkVTVUxUX1BBVEh9XyR7REFUQUJBU0VfSE9TVH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9IiQoZGF0ZSkgUE9TVEdSRVMgJERBVEFCQVNFX1BPUlQgY2Fubm90IGFjY2VzIHRhYmxlICR0YWJsZSIgPj4gJEVSUk9SX0ZJTEUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleGl0IDEyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfYWZ0ZXJfZGVwbG95bWVudF9mb3JfbG9naXNpdGNfY29tcGFueShzZWxmLCBsb2dpc3RpY19jb21wYW55X25hbWUpOgogICAgICAgIGxvZ2lzdGljX2NvbXBhbnkgPSBnZXRfb2JqZWN0X29yXzQwNChQYXJ0bmVyLCBuYW1lPWxvZ2lzdGljX2NvbXBhbnlfbmFtZSkKICAgICAgICBwb3NzaWJsZV9jaG9pY2VzID0gWwogICAgICAgICAgICBEaXNwYXRjaE9yZGVyU3RhdHVzQ2hvaWNlcy5ORVcsCiAgICAgICAgICAgIERpc3BhdGNoT3JkZXJTdGF0dXNDaG9pY2VzLlJFQ0VJVkVELAogICAgICAgICAgICBEaXNwYXRjaE9yZGVyU3RhdHVzQ2hvaWNlcy5SRUpFQ1RFRAogICAgICAgIF0KCiAgICAgICAgcmV0dXJuIHNlbGYuZmlsdGVyKAogICAgICAgICAgICBsb2dpc3RpY19jb21wYW55PWxvZ2lzdGljX2NvbXBhbnksCiAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnlfX3Byb2R1Y3Rpb25fZGVwbG95bWVudF9kYXRlX19sdGU9RignY3JlYXRlZCcpLAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlcl9zdGF0dXNfX2luPXBvc3NpYmxlX2Nob2ljZXMpCgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -525,12 +520,12 @@
         <entry>Annotate</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>actionlist Bookmark</entry>
-        <entry>action ToggleBookmark</entry>
-        <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>s/message/mmmm/gc</entry>
         <entry>action GotoFile</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>actionlist Bookmark</entry>
+        <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
