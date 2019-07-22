@@ -457,7 +457,7 @@
         <text encoding="base64">ICAgICMgc3ByYXdkemljIGN6eSB0ZWdvIG1vZ2Ugc2llIHBvemJ5YwogICAgI2VjaG8gJ2RhdGE9JyB8IGNhdCAtICRwYXRoID4gdGVtcCAmJiBtdiB0ZW1wICRwYXRoCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleBookmark</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -507,12 +507,12 @@
         <entry>s/message/mmmm/gc</entry>
         <entry>action GotoFile</entry>
         <entry>actionlist Bookmark</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Run</entry>
         <entry>set multiple-cursors</entry>
         <entry>actionlist comment</entry>
         <entry>w</entry>
         <entry>action ToggleBookmark</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
