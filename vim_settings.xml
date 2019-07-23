@@ -207,13 +207,13 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562245366006">
         <mark key="'" line="223" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563866812057">
-        <mark key="'" line="273" column="35" />
-        <mark key="[" line="97" column="137" />
-        <mark key="]" line="97" column="156" />
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563871688727">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
         <mark key="n" line="274" column="27" />
-        <mark key="." line="97" column="156" />
-        <mark key="^" line="97" column="156" />
+        <mark key="." line="264" column="0" />
+        <mark key="^" line="264" column="20" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients_emails.py" timestamp="1555652284201">
         <mark key="'" line="17" column="33" />
@@ -349,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
-      <jump line="88" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="86" column="41" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="163" column="48" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
       <jump line="165" column="34" filename="$USER_HOME$/projects/IT-GOLD/Sprexit/addons/bpo_production_sync/models.py" />
@@ -396,7 +394,6 @@
       <jump line="282" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="275" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="263" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="260" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="258" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="256" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="244" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
@@ -413,7 +410,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="49" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="57" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
@@ -445,14 +441,18 @@
       <jump line="141" column="90" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="88" column="98" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="288" column="60" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="273" column="35" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="188" column="14" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="270" column="80" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="260" column="15" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="44" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIlRoaXMgaXMgbWVzc2FnZSAgJGN1cmxfbWVzc2FnZSAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -464,31 +464,31 @@
         <text encoding="base64">ICAgIHF1aWNrc29ydChhcnIsIGxvLCBxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIlRoaXMgaXMgbWVzc2FnZSAgJGN1cmxfbWVzc2FnZSAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJpdCBpcyBmaW5lIgo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJG15c3FsX3BvcnRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgW1sgJD8gLW5lIDAgXV07IHRoZW4KICAgIG1zZz0iQ0FOTk9UIFJFTU9WRSAkUkVTVUxUX0ZJTEVfTkFNRSIKICAgIGVjaG8gInsgXCJsaW5lc1wiOiBcIlhcIiwgXCJtZXNzYWdlXCI6IHtcIm1lc3NhZ2VcIjpcIiRtc2dcIiwgXCJsaW5lc1wiOlwiWFwifSwgXCJleGl0Y29kZVwiOiAxNCB9IgogICAgZXhpdCAxMgplbHNlCiAgICBlY2hvICJpdCBpcyBmaW5lIgpmaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiRGSUxFIGV4aXN0Igo=</text>
+        <text encoding="base64">ZWNobyAkbXlzcWxfcHJvYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cm0gJFJFU1VMVF9GSUxFX05BTUUK</text>
+        <text encoding="base64">ICAgIGVjaG8gIlRoaXMgaXMgbWVzc2FnZSAgJGN1cmxfbWVzc2FnZSAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAkPwo=</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJpdCBpcyBmaW5lIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgW1sgJD8gLW5lIDAgXV07IHRoZW4KICAgIG1zZz0iQ0FOTk9UIFJFTU9WRSAkUkVTVUxUX0ZJTEVfTkFNRSIKICAgIGVjaG8gInsgXCJsaW5lc1wiOiBcIlhcIiwgXCJtZXNzYWdlXCI6IHtcIm1lc3NhZ2VcIjpcIiRtc2dcIiwgXCJsaW5lc1wiOlwiWFwifSwgXCJleGl0Y29kZVwiOiAxNCB9IgogICAgZXhpdCAxMgplbHNlCiAgICBlY2hvICJpdCBpcyBmaW5lIgpmaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIiRGSUxFIGV4aXN0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm0gJFJFU1VMVF9GSUxFX05BTUUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
