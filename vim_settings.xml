@@ -210,13 +210,13 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562245366006">
         <mark key="'" line="223" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563875910037">
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563879697209">
         <mark key="b" line="44" column="12" />
-        <mark key="'" line="280" column="0" />
-        <mark key="[" line="141" column="154" />
-        <mark key="]" line="141" column="153" />
+        <mark key="'" line="149" column="78" />
+        <mark key="[" line="148" column="39" />
+        <mark key="]" line="149" column="79" />
         <mark key="n" line="274" column="27" />
-        <mark key="." line="141" column="153" />
+        <mark key="." line="148" column="39" />
         <mark key="^" line="141" column="153" />
       </file>
       <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/venv/lib/python3.6/site-packages/flask/wrappers.py" timestamp="1563874041064" />
@@ -354,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="26" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/models.py" />
       <jump line="580" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/venv/lib/python3.6/site-packages/django/db/models/base.py" />
       <jump line="30" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/bpostats/sender.py" />
       <jump line="18" column="63" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/bpostats/sender.py" />
@@ -454,13 +453,14 @@
       <jump line="38" column="9" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
       <jump line="42" column="15" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/venv/lib/python3.6/site-packages/flask/wrappers.py" />
+      <jump line="149" column="78" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">ICAgIGlzaW5zdGFuY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>_join</text>
@@ -468,32 +468,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHF1aWNrc29ydChhcnIsIGxvLCBxKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlzaW5zdGFuY2UoKQo=</text>
+      <register name="1" type="4">
+        <text>$COMMAND -d $DB -t -A -F&quot;','&quot; -c \
+                        &quot;SELECT * FROM $table limit 10;&quot;| _parse_to_json_array</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRwb3J0Cg==</text>
+      <register name="q" type="4">
+        <text>jjjjk</text>
+      </register>
+      <register name="2" type="4">
+        <text>$COMMAND -d $DB -t -A -F&quot;','&quot; -c \
+                        &quot;SELECT * FROM $table limit 10;&quot;| _parse_to_json_array</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGZpbGUocykK</text>
+        <text encoding="base64">ICAgIGlzaW5zdGFuY2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRwb3J0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJG15c3FsX3BvcnRzCg==</text>
+        <text encoding="base64">ZGVmIGZpbGUocykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAkbXlzcWxfcHJvYwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJG15c3FsX3BvcnRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIlRoaXMgaXMgbWVzc2FnZSAgJGN1cmxfbWVzc2FnZSAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBlY2hvICJpdCBpcyBmaW5lIgo=</text>
+        <text encoding="base64">ZWNobyAkbXlzcWxfcHJvYwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleBookmark</text>
