@@ -210,13 +210,13 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562245366006">
         <mark key="'" line="223" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563891002624">
+      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563891736164">
         <mark key="b" line="44" column="12" />
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="58" column="30" />
-        <mark key="]" line="58" column="31" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
         <mark key="n" line="274" column="27" />
-        <mark key="." line="58" column="31" />
+        <mark key="." line="106" column="0" />
         <mark key="^" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/venv/lib/python3.6/site-packages/flask/wrappers.py" timestamp="1563874041064" />
@@ -456,8 +456,8 @@
       <jump line="53" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s/'/\\\'/g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkVEFCTEVfU0FNUExFX0RBVEEK</text>
       </register>
       <register name="-" type="4">
         <text>\</text>
@@ -469,36 +469,36 @@
         <text>s/'/\\\'/g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkVEFCTEVfU0FNUExFX0RBVEEK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X2VzY2FwZV9zZXF1ZW5jZSgpIHsKICAgIHRyICInIiAiXFxcJyIKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3ayAtdiBxPSInIiAne3ByaW50IHEgJDEgcX0nCg==</text>
+        <text encoding="base64">X2VzY2FwZV9zZXF1ZW5jZSgpIHsKICAgIHRyICInIiAiXFxcJyIKfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>$COMMAND -d $DB -t -A -F&quot;','&quot; -c \
-                        &quot;SELECT * FROM $table limit 10;&quot;| _parse_to_json_array</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGF3ayAtdiBxPSInIiAne3ByaW50IHEgJDEgcX0nCg==</text>
       </register>
       <register name="5" type="4">
         <text>$COMMAND -d $DB -t -A -F&quot;','&quot; -c \
                         &quot;SELECT * FROM $table limit 10;&quot;| _parse_to_json_array</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzaW5zdGFuY2UoKQo=</text>
+      <register name="6" type="4">
+        <text>$COMMAND -d $DB -t -A -F&quot;','&quot; -c \
+                        &quot;SELECT * FROM $table limit 10;&quot;| _parse_to_json_array</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRwb3J0Cg==</text>
+        <text encoding="base64">ICAgIGlzaW5zdGFuY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGZpbGUocykK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRwb3J0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGZpbGUocykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
