@@ -64,6 +64,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/routers.py" timestamp="1562843490342">
         <mark key="'" line="12" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" timestamp="1563959860438">
+        <mark key="[" line="69" column="65" />
+        <mark key="]" line="69" column="79" />
+        <mark key="." line="69" column="79" />
+        <mark key="^" line="69" column="79" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/django_patron_v2/django_patron_v2/urls.py" timestamp="1558592301452">
         <mark key="'" line="17" column="29" />
       </file>
@@ -120,12 +126,6 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/attachments/factories.py" timestamp="1562837289591">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="38" />
-        <mark key="^" line="31" column="38" />
-      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/logisticpartners/models.py" timestamp="1559298009441">
         <mark key="'" line="106" column="27" />
       </file>
@@ -134,12 +134,6 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1561452683256">
         <mark key="'" line="357" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_companies/migrations/0019_auto_20190626_1332.py" timestamp="1561548884935">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/models.py" timestamp="1563798793799">
         <mark key="'" line="5" column="26" />
@@ -155,12 +149,6 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/attachments/choices.py" timestamp="1563799185066">
         <mark key="'" line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/brokers/tests/tests.py" timestamp="1561534023075">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="8" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="8" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/factories.py" timestamp="1562837702778">
         <mark key="'" line="102" column="25" />
@@ -200,12 +188,6 @@
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/python_stubs/1608504547/errno.py" timestamp="1563801725110">
         <mark key="'" line="389" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1563792482704">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/swagger_docs/dispatchorders/filtersets.py" timestamp="1560157122138">
         <mark key="'" line="3" column="88" />
@@ -309,18 +291,6 @@
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/tests.py" timestamp="1554816864304">
         <mark key="'" line="57" column="60" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1562913738298">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1563792444924">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1524132725/-731267360/rest_framework_jwt/views.py" timestamp="1559133541341">
         <mark key="'" line="73" column="25" />
@@ -466,11 +436,11 @@
       <jump line="70" column="60" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_current_state_api/controllers/controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkVEFCTEVfU0FNUExFX0RBVEEK</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>trigger</text>
