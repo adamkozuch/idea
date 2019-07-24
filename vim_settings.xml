@@ -278,7 +278,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
         <mark key="'" line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_bi_deletions/models/models.py" timestamp="1563955495743">
+      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_bi_deletions/models/models.py" timestamp="1563956116405">
+        <mark key="'" line="45" column="26" />
         <mark key="[" line="43" column="32" />
         <mark key="]" line="43" column="31" />
         <mark key="^" line="43" column="31" />
@@ -360,9 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="27" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/bpostats/sender.py" />
-      <jump line="18" column="63" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/bpostats/sender.py" />
-      <jump line="265" column="6" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/venv/lib/python3.6/site-packages/pika/adapters/blocking_connection.py" />
       <jump line="4" column="12" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/attachments/choices.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/validation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/__init__.py" />
@@ -460,6 +458,9 @@
       <jump line="97" column="127" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="63" column="69" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
+      <jump line="35" column="59" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_bi_deletions/models/models.py" />
+      <jump line="48" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_bi_deletions/models/models.py" />
+      <jump line="45" column="26" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_bi_deletions/models/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -469,7 +470,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>_join</text>
+        <text>trigger</text>
       </register>
       <register name="0" type="4">
         <text>s/'/\\\'/g</text>
@@ -511,9 +512,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_join</last-search>
+      <last-search>trigger</last-search>
       <last-offset />
-      <last-pattern>_join</last-pattern>
+      <last-pattern>trigger</last-pattern>
       <last-replace>mmmm</last-replace>
       <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
@@ -521,7 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parcel</entry>
         <entry>class Parcel</entry>
         <entry>DeliveryAttach</entry>
         <entry encoding="base64">XDxEZWxpdmVyeUF0dGFjaG1lbnRGYWN0b3J5XD4=</entry>
@@ -541,6 +541,7 @@
         <entry encoding="base64">XDxfd3JhcF9pbnRvX3NpbmdsZV9xdW90ZXNcPg==</entry>
         <entry encoding="base64">XDxfam9pblw+</entry>
         <entry>_join</entry>
+        <entry>trigger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
