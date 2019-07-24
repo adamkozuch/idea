@@ -215,15 +215,6 @@
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/sok_api_client/sok_api_client.py" timestamp="1562245366006">
         <mark key="'" line="223" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" timestamp="1563891736164">
-        <mark key="b" line="44" column="12" />
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="n" line="274" column="27" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="58" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/venv/lib/python3.6/site-packages/flask/wrappers.py" timestamp="1563874041064" />
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients_emails.py" timestamp="1555652284201">
         <mark key="'" line="17" column="33" />
@@ -288,8 +279,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1556106879522">
-        <mark key="'" line="30" column="62" />
+      <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1563979544228">
+        <mark key="'" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_bi_deletions/models/models.py" timestamp="1563956116405">
         <mark key="'" line="45" column="26" />
@@ -357,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="68" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="134" column="20" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="257" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
@@ -457,6 +447,7 @@
       <jump line="822" column="21" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="17" column="16" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" />
       <jump line="4" column="34" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/dispatch_register_api.py" />
+      <jump line="22" column="31" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -504,7 +495,7 @@
         <text encoding="base64">ICAgICAgICBlY2hvICRwb3J0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -558,8 +549,8 @@
         <entry>set commentary</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
