@@ -64,7 +64,8 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/routers.py" timestamp="1562843490342">
         <mark key="'" line="12" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" timestamp="1563959860438">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" timestamp="1563961102062">
+        <mark key="'" line="42" column="30" />
         <mark key="[" line="69" column="65" />
         <mark key="]" line="69" column="79" />
         <mark key="." line="69" column="79" />
@@ -334,11 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/validation.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/__init__.py" />
-      <jump line="63" column="26" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="66" column="14" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/validation.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/validation.py" />
       <jump line="169" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/validation.py" />
       <jump line="159" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/validation.py" />
       <jump line="152" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/validation.py" />
@@ -434,6 +430,11 @@
       <jump line="48" column="52" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_bi_deletions/models/models.py" />
       <jump line="45" column="26" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_bi_deletions/models/models.py" />
       <jump line="70" column="60" filename="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_current_state_api/controllers/controllers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/tests/test_validation_rules.py" />
+      <jump line="69" column="49" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" />
+      <jump line="14" column="43" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/delivery_list_generators/base.py" />
+      <jump line="42" column="30" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/delivery_list_generators/standard/generators.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -481,7 +482,7 @@
         <text encoding="base64">ZGVmIGZpbGUocykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -530,13 +531,13 @@
         <entry>set multiple-cursors</entry>
         <entry>actionlist comment</entry>
         <entry>action Run</entry>
-        <entry>action RecentFiles</entry>
         <entry>jumplist</entry>
         <entry>actionlist Breakpoint</entry>
         <entry>action GotoNextBookmark</entry>
         <entry>action GotoFile</entry>
         <entry>action ToggleBookmark</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
