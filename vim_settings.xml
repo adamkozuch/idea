@@ -58,6 +58,9 @@
         <mark key="." line="62" column="12" />
         <mark key="^" line="62" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" timestamp="1564052830090">
+        <mark key="'" line="3" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" timestamp="1562156286193">
         <mark key="'" line="28" column="25" />
       </file>
@@ -226,6 +229,9 @@
         <mark key="'" line="223" column="30" />
       </file>
       <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/venv/lib/python3.6/site-packages/flask/wrappers.py" timestamp="1563874041064" />
+      <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/django/core/mail/message.py" timestamp="1564052352928">
+        <mark key="'" line="347" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api/clients/tests/test_clients_emails.py" timestamp="1555652284201">
         <mark key="'" line="17" column="33" />
       </file>
@@ -363,18 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="57" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="67" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="71" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="75" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="190" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="185" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="175" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="170" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="154" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="147" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="142" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="138" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="135" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
@@ -463,6 +457,18 @@
       <jump line="0" column="15" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_update.py" />
       <jump line="12" column="20" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/tasks.py" />
       <jump line="217" column="25" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/updater.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="19" column="38" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="21" column="26" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="22" column="34" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="23" column="34" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="24" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="25" column="33" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="347" column="60" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/django/core/mail/message.py" />
+      <jump line="80" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/django/core/mail/message.py" />
+      <jump line="94" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="3" column="45" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -472,7 +478,7 @@
         <text>append</text>
       </register>
       <register name="/" type="4">
-        <text>payment_me</text>
+        <text encoding="base64">XDxFbWFpbE1lc3NhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5jb250ZW50dHlwZXMubW9kZWxzIGltcG9ydCBDb250ZW50VHlwZQpmcm9tIGNvZF91cGxvYWRlci5tb2RlbHMgaW1wb3J0IFVwZGF0ZUluQ09ECmZyb20gZGphbmdvLmRiLm1vZGVscyBpbXBvcnQgRgpmcm9tIGRpc3BhdGNoX29yZGVycy5tb2RlbHMgaW1wb3J0IFBhcmNlbAppbXBvcnQgY3N2CmZyb20gZGphbmdvLmRiIGltcG9ydCB0cmFuc2FjdGlvbgoKCkB0cmFuc2FjdGlvbi5hdG9taWMKZGVmIHNlbmRfb3ZlcmR1ZV9wYXJjZWxfZmllbGRzKCk6CiAgICB3aXRoIG9wZW4oJ1JXLTM1M19udWxsc19pZF9jb2RfZGIuY3N2JykgYXMgcGFyY2VsczoKICAgICAgICBjc3ZfcmVhZGVyID0gY3N2LkRpY3RSZWFkZXIocGFyY2VscywgZGVsaW1pdGVyPScsJykKICAgICAgICBkaXNwYXRjaF9vcmRlcl9pZHMgPSBbXQogICAgICAgIGZvciByb3cgaW4gY3N2X3JlYWRlcjoKICAgICAgICAgICAgZGlzcGF0Y2hfb3JkZXJfaWRzLmFwcGVuZChyb3dbJ2Rpc3BhdGNoX29yZGVyJ10pCgogICAgICAgIHVwZGF0ZXMgPSAwCiAgICAgICAgZm9yIHBhcmNlbCBpbiBQYXJjZWwub2JqZWN0cy5maWx0ZXIoZGlzcGF0Y2hfb3JkZXJfX2Rpc3BhdGNoX29yZGVyX2lkX19pbj1kaXNwYXRjaF9vcmRlcl9pZHMpOgogICAgICAgICAgICBjb250ZW50X3R5cGUgPSBDb250ZW50VHlwZS5vYmplY3RzLmdldF9mb3JfbW9kZWwoUGFyY2VsKQogICAgICAgICAgICBwYXJjZWxfdG9fdXBkYXRlLCBfID0gVXBkYXRlSW5DT0Qub2JqZWN0cy5nZXRfb3JfY3JlYXRlKGNvbnRlbnRfdHlwZT1jb250ZW50X3R5cGUsIG9iamVjdF9pZD1wYXJjZWwuaWQpCiAgICAgICAgICAgIHBhcmNlbF90b191cGRhdGUudmVyc2lvbiA9IEYoJ3ZlcnNpb24nKSArIDEKICAgICAgICAgICAgcGFyY2VsX3RvX3VwZGF0ZS5zdGF0dXMgPSBVcGRhdGVJbkNPRC5XQUlUSU5HCiAgICAgICAgICAgIHBhcmNlbF90b191cGRhdGUuc2F2ZSgpCiAgICAgICAgICAgIHVwZGF0ZXMgKz0gMQoKICAgICAgICBwcmludCgne30gcGFyY2VscyB1cGRhdGVkICcuZm9ybWF0KHVwZGF0ZXMpKQo=</text>
@@ -508,23 +514,20 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZmlyc3Rfcm93OgogICAgICAgICAgICAgICAgZmlyc3Rfcm93ID0gRmFsc2UKICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>payment_me</last-search>
+      <last-search encoding="base64">XDxFbWFpbE1lc3NhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>payment_me</last-pattern>
+      <last-pattern encoding="base64">XDxFbWFpbE1lc3NhZ2VcPg==</last-pattern>
       <last-replace>mmmm</last-replace>
       <last-substitute>message</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>objects_po</entry>
-        <entry>Parcel</entry>
-        <entry>objects_lp</entry>
         <entry>TestDispatchOrder</entry>
         <entry encoding="base64">XDxnZXRfcXVlcnlzZXRcPg==</entry>
         <entry>dispatch_order__di</entry>
@@ -542,6 +545,9 @@
         <entry>DeliveryAtt</entry>
         <entry>cod_v</entry>
         <entry>payment_me</entry>
+        <entry>email</entry>
+        <entry>email.se</entry>
+        <entry encoding="base64">XDxFbWFpbE1lc3NhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -559,11 +565,11 @@
         <entry>action GotoNextBookmark</entry>
         <entry>action ToggleBookmark</entry>
         <entry>set commentary</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
