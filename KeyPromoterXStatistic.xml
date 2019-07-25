@@ -6,7 +6,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>11</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -17,12 +17,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'run'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'run'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'scratch_1'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'scratch_1'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test: purchases.test...'">
@@ -49,6 +65,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Into My Code">
+        <Item>
+          <IdeaActionID>StepIntoMyCode</IdeaActionID>
+          <ShortCut>'Alt+Shift+F7'</ShortCut>
+          <Description>Step Into My Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
@@ -62,7 +86,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
     </option>
