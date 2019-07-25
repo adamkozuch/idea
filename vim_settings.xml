@@ -44,7 +44,7 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/serializers.py" timestamp="1562231523541">
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/serializers.py" timestamp="1564053365792">
         <mark key="'" line="112" column="19" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/config/settings/base.py" timestamp="1563965917199" />
@@ -58,8 +58,8 @@
         <mark key="." line="62" column="12" />
         <mark key="^" line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" timestamp="1564052830090">
-        <mark key="'" line="3" column="45" />
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" timestamp="1564053447155">
+        <mark key="'" line="78" column="4" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/api_clients/__init__.py" timestamp="1562156286193">
         <mark key="'" line="28" column="25" />
@@ -160,6 +160,7 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/lp/logistics_portal/file_parsers/delivered_parcels/base.py" timestamp="1563963215243">
         <mark key="'" line="69" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/purchases/tasks.py" timestamp="1564053345006" />
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_update.py" timestamp="1564052115917">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="18" column="0" />
@@ -193,11 +194,6 @@
       </file>
       <file name="$USER_HOME$/file.py" timestamp="1558962188515">
         <mark key="'" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1563968172223">
-        <mark key="'" line="189" column="21" />
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="39" column="56" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/main/settings.py" timestamp="1555600553397">
         <mark key="'" line="8" column="38" />
@@ -369,8 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="135" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="125" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="117" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
@@ -469,6 +463,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2018.3/system/remote_sources/130300071/149332735/django/core/mail/message.py" />
       <jump line="94" column="12" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
       <jump line="3" column="45" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="86" column="31" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/projects/IT-GOLD/krab/versions/current/discount_clubs/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
