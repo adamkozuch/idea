@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1564027256092">
         <mark key="'" line="44" column="55" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/tests.py" timestamp="1564028428235">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1563738844266">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,14 +19,26 @@
     <jumps>
       <jump line="44" column="55" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>,</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -33,6 +51,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
