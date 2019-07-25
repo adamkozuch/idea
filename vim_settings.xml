@@ -6,11 +6,15 @@
       <file name="$USER_HOME$/projects/IT-GOLD/lp/logistics_portal/api/urls.py" timestamp="1559123021393">
         <mark key="'" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/urls.py" timestamp="1562841164353">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="18" column="67" />
+        <mark key="]" line="18" column="67" />
+        <mark key="^" line="18" column="89" />
+        <mark key="." line="18" column="67" />
+      </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/remote_sources/71921107/1516882773/elegant_choices/choices.py" timestamp="1555568291201">
         <mark key="'" line="59" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_current_state_api/controllers/controllers.py" timestamp="1563958581773">
-        <mark key="'" line="70" column="60" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/utils/history.py" timestamp="1556102836496">
         <mark key="'" line="26" column="25" />
@@ -30,8 +34,12 @@
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/tests/test_views.py" timestamp="1562844358051">
         <mark key="'" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/importer/signal_handlers.py" timestamp="1561533014410">
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/importer/signal_handlers.py" timestamp="1564039213322">
         <mark key="'" line="3" column="32" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/projects/IT-GOLD/krab/versions/current/client_systems/serializers.py" timestamp="1562231523541">
         <mark key="'" line="112" column="19" />
@@ -176,6 +184,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/ppi/app/payments/paypal/views.py" timestamp="1554898539409">
         <mark key="'" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1564039554884">
+        <mark key="'" line="186" column="4" />
+        <mark key="[" line="574" column="55" />
+        <mark key="]" line="574" column="54" />
+        <mark key="^" line="574" column="54" />
+        <mark key="." line="574" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/logistic_validation/validation.py" timestamp="1563800600587">
         <mark key="'" line="173" column="4" />
       </file>
@@ -199,6 +214,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/cod_uploader/signal_handlers.py" timestamp="1564039256747">
+        <mark key="'" line="37" column="43" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.3/system/python_stubs/1608504547/errno.py" timestamp="1563801725110">
         <mark key="'" line="389" column="0" />
@@ -279,6 +301,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/wms/wms/addons_wms/wms_product_custom_tree/models/models.py" timestamp="1555070854095">
         <mark key="'" line="13" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/tests/test_parcels.py" timestamp="1562846036001">
+        <mark key="'" line="65" column="32" />
+        <mark key="[" line="67" column="59" />
+        <mark key="]" line="67" column="60" />
+        <mark key="^" line="67" column="42" />
+        <mark key="." line="67" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" timestamp="1563979544228">
         <mark key="'" line="22" column="31" />
       </file>
@@ -319,6 +348,13 @@
       <file name="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" timestamp="1556279614173">
         <mark key="'" line="160" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/api/v2/managers_some.py" timestamp="1562761874606">
+        <mark key="'" line="1" column="38" />
+        <mark key="[" line="29" column="55" />
+        <mark key="]" line="29" column="54" />
+        <mark key="^" line="29" column="54" />
+        <mark key="." line="29" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/IT-NAVY/dbmanager/venv/lib/python3.6/site-packages/flask/globals.py" timestamp="1563791217123">
         <mark key="'" line="59" column="10" />
       </file>
@@ -348,12 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="134" column="20" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="257" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/service.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
-      <jump line="285" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="282" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="275" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
       <jump line="263" column="0" filename="$USER_HOME$/projects/IT-NAVY/dbmanager/scripts/get_db.sh" />
@@ -448,6 +478,12 @@
       <jump line="17" column="16" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/views.py" />
       <jump line="4" column="34" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/dispatch_register_api.py" />
       <jump line="22" column="31" filename="$USER_HOME$/projects/IT-GOLD/paycross21/paycross21/api/urls.py" />
+      <jump line="157" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="218" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="570" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="574" column="54" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="571" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="186" column="4" filename="$USER_HOME$/projects/IT-GOLD/sample/dispatch-register-2/registry/dispatch_orders/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -457,7 +493,7 @@
         <text>07e13974a71d24bb463e51e1b850449cc3d757ce</text>
       </register>
       <register name="/" type="4">
-        <text>DeliveryAtt</text>
+        <text>payment_me</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnZ2V0IHBhcmNlbHMnKQogICAgICAgIHByaW50KHBhcmFtcykK</text>
@@ -499,9 +535,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DeliveryAtt</last-search>
+      <last-search>payment_me</last-search>
       <last-offset />
-      <last-pattern>DeliveryAtt</last-pattern>
+      <last-pattern>payment_me</last-pattern>
       <last-replace>mmmm</last-replace>
       <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
@@ -509,8 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWxpdmVyeUF0dGFjaG1lbnRTdGF0dXNDaG9pY2VzXD4=</entry>
-        <entry>objects_rw</entry>
         <entry>objects_po</entry>
         <entry>Parcel</entry>
         <entry>objects_lp</entry>
@@ -529,6 +563,8 @@
         <entry>api-token-auth</entry>
         <entry>kpl</entry>
         <entry>DeliveryAtt</entry>
+        <entry>cod_v</entry>
+        <entry>payment_me</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
