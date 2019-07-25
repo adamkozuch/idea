@@ -3,14 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/django_anki/venv/Lib/site-packages/django/urls/conf.py" timestamp="1564029483550">
+        <mark key="'" line="75" column="30" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" timestamp="1564027256092">
         <mark key="'" line="44" column="55" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/tests.py" timestamp="1564028428235">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="9" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/urls.py" timestamp="1564029506992">
+        <mark key="'" line="22" column="6" />
+        <mark key="[" line="22" column="64" />
+        <mark key="]" line="22" column="64" />
+        <mark key="^" line="22" column="62" />
+        <mark key="." line="22" column="64" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/django_anki/anki/anki/tests.py" timestamp="1564029562385">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="/Clipboard.txt" timestamp="1563738844266">
         <mark key="[" line="0" column="0" />
@@ -18,16 +28,22 @@
     </filemarks>
     <jumps>
       <jump line="44" column="55" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/views.py" />
+      <jump line="22" column="6" filename="$USER_HOME$/PycharmProjects/django_anki/anki/anki/urls.py" />
+      <jump line="75" column="30" filename="$USER_HOME$/PycharmProjects/django_anki/venv/Lib/site-packages/django/urls/conf.py" />
+      <jump line="234" column="6" filename="$USER_HOME$/PycharmProjects/django_anki/venv/Lib/site-packages/django/urls/resolvers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -37,7 +53,9 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -54,6 +72,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
