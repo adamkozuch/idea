@@ -572,7 +572,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -625,9 +625,9 @@
         <entry>action GotoFile</entry>
         <entry>action GotoNextBookmark</entry>
         <entry>action Run</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ToggleBookmark</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
