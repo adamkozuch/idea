@@ -37,11 +37,10 @@
       <file name="/Clipboard.txt" timestamp="1563738844266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/djikstra.py" timestamp="1564858691224">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/djikstra.py" timestamp="1564861583199">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -55,10 +54,13 @@
         <text encoding="base64">cHJpbnQoY2FsY3VsYXRlX3JldmVudWUoNSwgMTgsIDgsIDUwMDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsaQo=</text>
+        <text encoding="base64">Z3JhcGggPSB7J2EnOiBbWydiJywgM11dfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z3JhcGggPSB7J2EnOiBbWydiJywgM11dfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
