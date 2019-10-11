@@ -35,10 +35,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -163,7 +159,9 @@
     <keyboard-shortcut first-keystroke="alt w" />
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
-  <action id="NextTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
