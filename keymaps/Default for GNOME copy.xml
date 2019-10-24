@@ -2,9 +2,6 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
-  <action id="ActivatePythonConsoleToolWindow">
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
   <action id="ActivateQuickNotesToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
@@ -25,6 +22,10 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="BraceOrQuoteOut" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="ChooseNextSubsequentPropertyValueEditorAction" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ChooseRunConfiguration">
@@ -248,9 +249,6 @@
   </action>
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
-  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
   <action id="context.load">
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="alt 9" />
