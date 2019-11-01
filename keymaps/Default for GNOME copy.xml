@@ -231,6 +231,10 @@
   <action id="Terminal.RenameSession">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Unsplit">
