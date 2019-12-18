@@ -4,23 +4,25 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
+      <mapping pattern="tests-runner" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
-      <mapping pattern="instrukcja_zmiany_hasla" type="PLAIN_TEXT" />
-      <mapping pattern="input_streamline" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="run-test" type="PLAIN_TEXT" />
       <mapping pattern="instrukcja" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping pattern="input_streamline" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="instrukcja_zmiany_hasla" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="streamline" type="Python" />
-      <mapping pattern="__init__" type="Python" />
       <mapping pattern="utils" type="Python" />
-      <mapping pattern="s" type="Python" />
       <mapping pattern="apifootballRaw" type="Python" />
+      <mapping pattern="s" type="Python" />
+      <mapping pattern="__init__" type="Python" />
+      <mapping pattern="streamline" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
