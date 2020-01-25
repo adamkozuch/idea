@@ -2,6 +2,7 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="$SelectAll" />
   <action id="ActivateQuickNotesToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
@@ -16,7 +17,7 @@
   </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="Annotate">
-    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
