@@ -14,6 +14,7 @@
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="instrukcja_zmiany_hasla" type="PLAIN_TEXT" />
+      <mapping pattern="dev" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
