@@ -203,6 +203,9 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="SaveAll" />
+  <action id="Scratch.NewScratch" />
+  <action id="Scratch.OpenDefaultScratch" />
+  <action id="Scratch.OpenScratchList" />
   <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NextTab" />
