@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="$SelectAll" />
+  <action id="ActivateNotesToolWindow">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="ActivateQuickNotesToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
