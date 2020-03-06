@@ -9,6 +9,7 @@
       <mapping pattern="tests-runner" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="run-test" type="PLAIN_TEXT" />
+      <mapping pattern="celerybeat-healthcheck" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat_healthcheck" type="PLAIN_TEXT" />
       <mapping pattern="instrukcja" type="PLAIN_TEXT" />
       <mapping pattern="DockerfileMysql" type="PLAIN_TEXT" />
