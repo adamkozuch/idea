@@ -14,9 +14,7 @@
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
-    <keyboard-shortcut first-keystroke="altGraph t" />
   </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="Annotate">
