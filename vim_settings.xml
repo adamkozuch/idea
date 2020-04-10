@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>tracke</entry>
-        <entry>trace</entry>
         <entry>exc_inf</entry>
         <entry encoding="base64">XDxfcGlja2luZ192YWxpZF9mb3JfcmV0dXJuXD4=</entry>
         <entry>create_return</entry>
@@ -25,6 +23,8 @@
         <entry>watchdog_tim</entry>
         <entry>cod</entry>
         <entry>mysql</entry>
+        <entry encoding="base64">XDxTRU5UUllfRFNOX0tFWVw+</entry>
+        <entry>mdm</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
@@ -180,9 +180,6 @@
         <mark key="." line="329" column="32" />
         <mark key="^" line="692" column="26" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/dispatch_register.py" timestamp="1586364394749">
-        <mark key="'" line="59" column="54" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/customdataimport/models.py" timestamp="1586446840093">
         <mark key="'" line="80" column="10" />
       </file>
@@ -196,6 +193,8 @@
         <mark key="^" line="129" column="19" />
         <mark key="." line="125" column="92" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1586514186315" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1586514714195" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" timestamp="1586439897384">
         <mark key="'" line="554" column="28" />
         <mark key="[" line="551" column="37" />
@@ -203,8 +202,8 @@
         <mark key="." line="527" column="8" />
         <mark key="^" line="527" column="8" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1586442533117">
-        <mark key="'" line="309" column="77" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1586514923964">
+        <mark key="'" line="177" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1586430315976">
         <mark key="'" line="46" column="4" />
@@ -216,6 +215,7 @@
         <mark key="^" line="217" column="50" />
         <mark key="." line="217" column="50" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/dev/settings.yml" timestamp="1586514449860" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/mysql_config/cod_schemas.sql" timestamp="1586443415035">
         <mark key="'" line="31" column="20" />
       </file>
@@ -225,11 +225,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="57" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1586514186316" />
     </filemarks>
     <jumps>
-      <jump line="722" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
-      <jump line="455" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
-      <jump line="655" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="731" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="681" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="732" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
@@ -327,6 +325,9 @@
       <jump line="176" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/docker-compose.yml.j2" />
       <jump line="80" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/customdataimport/models.py" />
       <jump line="18" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/bpo_production_sync/models.py" />
+      <jump line="218" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
+      <jump line="390" column="2" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
+      <jump line="177" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +339,7 @@
         <text encoding="base64">ICMgc3RhdGUgaW4gV01TIGNoYW5nZWQuIFF1YW50IGRpc3NhcGVhbmluZy4=</text>
       </register>
       <register name="/" type="4">
-        <text>mysql</text>
+        <text>mdm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyB1cGRhdGUgd29ya2VyIHdhdGNoZG9ncwo=</text>
@@ -380,9 +381,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mysql</last-search>
+      <last-search>mdm</last-search>
       <last-offset />
-      <last-pattern>mysql</last-pattern>
+      <last-pattern>mdm</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>1</last-dir>
