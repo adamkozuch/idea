@@ -168,8 +168,8 @@
         <mark key="." line="63" column="29" />
         <mark key="^" line="63" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586444998743">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1586518143415">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -183,9 +183,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/customdataimport/models.py" timestamp="1586446840093">
         <mark key="'" line="80" column="10" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1586415488512">
-        <mark key="'" line="451" column="50" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/bpo_production_sync/models.py" timestamp="1586513055325">
         <mark key="'" line="18" column="31" />
         <mark key="[" line="125" column="92" />
@@ -194,7 +191,18 @@
         <mark key="." line="125" column="92" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1586514186315" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1586515960408" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/production/vars.yml" timestamp="1586517818889">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="25" />
+        <mark key="^" line="48" column="26" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1586518210011">
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="26" />
+        <mark key="^" line="59" column="27" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" timestamp="1586439897384">
         <mark key="'" line="554" column="28" />
         <mark key="[" line="551" column="37" />
@@ -202,18 +210,11 @@
         <mark key="." line="527" column="8" />
         <mark key="^" line="527" column="8" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1586515974398">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1586518347913">
         <mark key="'" line="177" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1586430315976">
         <mark key="'" line="46" column="4" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1586414657860">
-        <mark key="'" line="217" column="36" />
-        <mark key="[" line="217" column="13" />
-        <mark key="]" line="217" column="50" />
-        <mark key="^" line="217" column="50" />
-        <mark key="." line="217" column="50" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/dev/settings.yml" timestamp="1586514449860" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/mysql_config/cod_schemas.sql" timestamp="1586443415035">
@@ -333,10 +334,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMgc3RhdGUgaW4gV01TIGNoYW5nZWQuIFF1YW50IGRpc3NhcGVhbmluZy4=</text>
+        <text>system_odoo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgc3RhdGUgaW4gV01TIGNoYW5nZWQuIFF1YW50IGRpc3NhcGVhbmluZy4=</text>
+        <text>system_odoo</text>
       </register>
       <register name="/" type="4">
         <text>mdm</text>
