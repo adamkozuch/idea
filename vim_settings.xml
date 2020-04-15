@@ -102,6 +102,30 @@
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1586948935337">
+        <mark key="[" line="86" column="31" />
+        <mark key="]" line="87" column="17" />
+        <mark key="^" line="87" column="17" />
+        <mark key="." line="87" column="16" />
+      </file>
+      <file name="/" timestamp="1586948658678">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
