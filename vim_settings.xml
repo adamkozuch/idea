@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>exc_inf</entry>
         <entry encoding="base64">XDxfcGlja2luZ192YWxpZF9mb3JfcmV0dXJuXD4=</entry>
         <entry>create_return</entry>
         <entry encoding="base64">XDxjcmVhdGVfcHJvZHVjdHNfcmV0dXJuXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>mysql</entry>
         <entry encoding="base64">XDxTRU5UUllfRFNOX0tFWVw+</entry>
         <entry>mdm</entry>
+        <entry encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
@@ -45,8 +45,8 @@
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -173,6 +173,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" timestamp="1587030985845">
+        <mark key="'" line="90" column="14" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1587030497247">
+        <mark key="'" line="742" column="37" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/customdataimport/models.py" timestamp="1586446840093">
         <mark key="'" line="80" column="10" />
       </file>
@@ -189,6 +195,9 @@
         <mark key="]" line="48" column="48" />
         <mark key="." line="48" column="47" />
         <mark key="^" line="48" column="48" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587030976872">
+        <mark key="'" line="393" column="30" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1586525692273">
         <mark key="[" line="58" column="0" />
@@ -210,32 +219,31 @@
         <mark key="." line="184" column="50" />
         <mark key="^" line="184" column="51" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" timestamp="1587031000161">
+        <mark key="'" line="145" column="27" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/mysql_config/cod_schemas.sql" timestamp="1586443415035">
         <mark key="'" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/tasks.py" timestamp="1586525678065">
         <mark key="'" line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1587030511896" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" timestamp="1587030555053">
+        <mark key="'" line="21" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="732" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
-      <jump line="683" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
-      <jump line="611" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="215" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="39" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="216" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_detailed_operations_extend/models/models.py" />
-      <jump line="145" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
       <jump line="19" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
-      <jump line="348" column="49" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
       <jump line="29" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" />
       <jump line="341" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="0" column="0" filename="/usr/lib/python3.6/xmlrpc/__init__.py" />
-      <jump line="134" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
-      <jump line="90" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
       <jump line="561" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="393" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="14" column="67" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="124" column="65" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
@@ -275,7 +283,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/choices.py" />
       <jump line="451" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
       <jump line="806" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="334" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="138" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
       <jump line="46" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
       <jump line="1304" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
@@ -318,6 +325,15 @@
       <jump line="177" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
       <jump line="1" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/tasks.py" />
       <jump line="18" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/production/vars.yml" />
+      <jump line="742" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
+      <jump line="348" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="21" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/errors.py" />
+      <jump line="334" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="145" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
+      <jump line="393" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="134" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
+      <jump line="90" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,7 +345,7 @@
         <text>7ADpZmKojp</text>
       </register>
       <register name="/" type="4">
-        <text>mdm</text>
+        <text encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TURNX0FQSV9VUkw6ICJodHRwczovL21kbS1zdGFnZS5rdWJlLWRldi5pbmZyLmNvL2FwaS8iCk1ETV9BUElfVVNFUk5BTUU6ICJyd19zdGFnZSIKTURNX0FQSV9QQVNTV09SRDogIlc5ZGJTcTRQZjIiCg==</text>
@@ -365,18 +381,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mdm</last-search>
+      <last-search encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</last-search>
       <last-offset />
-      <last-pattern>mdm</last-pattern>
+      <last-pattern encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
