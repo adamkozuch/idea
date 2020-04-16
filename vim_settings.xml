@@ -220,15 +220,15 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/tasks.py" timestamp="1586525678065">
         <mark key="'" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587040362815" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587042004890">
+        <mark key="'" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1587030511896" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" timestamp="1587030555053">
         <mark key="'" line="21" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
-      <jump line="39" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="216" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_detailed_operations_extend/models/models.py" />
       <jump line="19" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
@@ -327,6 +327,8 @@
       <jump line="393" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="134" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
       <jump line="90" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
+      <jump line="18" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
