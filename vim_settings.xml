@@ -163,7 +163,7 @@
     <filemarks>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/production/vars.yml" timestamp="1587028805714">
         <mark key="'" line="18" column="21" />
-        <mark key="[" line="49" column="19" />
+        <mark key="[" line="48" column="19" />
         <mark key="]" line="48" column="48" />
         <mark key="." line="48" column="47" />
         <mark key="^" line="48" column="48" />
@@ -175,6 +175,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587104942262">
         <mark key="'" line="27" column="31" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1587112193855" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/config.py" timestamp="1587039403495" />
       <file name="/Dummy.txt" timestamp="1587028852280">
         <mark key="[" line="0" column="0" />
@@ -188,31 +189,29 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1587030497247">
         <mark key="'" line="742" column="37" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/bpo_production_sync/models.py" timestamp="1586513055325">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="125" column="92" />
-        <mark key="]" line="125" column="92" />
-        <mark key="^" line="129" column="19" />
-        <mark key="." line="125" column="92" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587030976872">
-        <mark key="'" line="393" column="30" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1586525692273">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587111743927" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1587112207355">
         <mark key="[" line="58" column="0" />
-        <mark key="]" line="60" column="30" />
+        <mark key="]" line="59" column="30" />
         <mark key="." line="59" column="26" />
         <mark key="^" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" timestamp="1587107579581">
         <mark key="'" line="132" column="6" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1587028849935">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1587112176759">
         <mark key="'" line="177" column="0" />
-        <mark key="[" line="184" column="50" />
-        <mark key="]" line="184" column="51" />
+        <mark key="[" line="189" column="43" />
+        <mark key="]" line="189" column="57" />
         <mark key="." line="184" column="50" />
         <mark key="^" line="184" column="51" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" timestamp="1587112664617">
+        <mark key="'" line="100" column="58" />
+        <mark key="[" line="97" column="76" />
+        <mark key="]" line="97" column="94" />
+        <mark key="^" line="97" column="94" />
+        <mark key="." line="97" column="93" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/tasks.py" timestamp="1586525678065">
         <mark key="'" line="1" column="38" />
@@ -220,14 +219,11 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1587106943063">
         <mark key="'" line="13" column="61" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1587030511896" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" timestamp="1587030555053">
         <mark key="'" line="21" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" />
       <jump line="341" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="0" column="0" filename="/usr/lib/python3.6/xmlrpc/__init__.py" />
       <jump line="561" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
@@ -326,12 +322,14 @@
       <jump line="27" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
       <jump line="13" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
       <jump line="132" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" />
+      <jump line="63" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
+      <jump line="100" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>7ADpZmKojp</text>
+        <text>nexive-username</text>
       </register>
       <register name="-" type="4">
         <text>7ADpZmKojp</text>
@@ -339,8 +337,8 @@
       <register name="/" type="4">
         <text>Notifica</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TURNX0FQSV9VUkw6ICJodHRwczovL21kbS1zdGFnZS5rdWJlLWRldi5pbmZyLmNvL2FwaS8iCk1ETV9BUElfVVNFUk5BTUU6ICJyd19zdGFnZSIKTURNX0FQSV9QQVNTV09SRDogIlc5ZGJTcTRQZjIiCg==</text>
+      <register name="0" type="4">
+        <text>nexive-username</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TURNX0FQSV9QQVNTV09SRDogJ2RmZ2Rmb2trcjM0JwpNRE1fQVBJX1VSTDogJ2h0dHBzOi8vbWRtLWRldi5rdWJlLWRldi5pbmZyLmNvL2FwaScKTURNX0FQSV9VU0VSTkFNRTogJ3J3X2RldicK</text>
