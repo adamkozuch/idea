@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcGlja2luZ192YWxpZF9mb3JfcmV0dXJuXD4=</entry>
         <entry>create_return</entry>
         <entry encoding="base64">XDxjcmVhdGVfcHJvZHVjdHNfcmV0dXJuXD4=</entry>
         <entry encoding="base64">XDxEaXNwYXRjaE9yZGVyVG9SZXR1cm5cPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxTRU5UUllfRFNOX0tFWVw+</entry>
         <entry>mdm</entry>
         <entry encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</entry>
+        <entry encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
@@ -161,6 +161,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/production/vars.yml" timestamp="1587028805714">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="48" column="48" />
+        <mark key="." line="48" column="47" />
+        <mark key="^" line="48" column="48" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" timestamp="1587031614897">
+        <mark key="'" line="145" column="27" />
+        <mark key="[" line="144" column="11" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587104942262">
+        <mark key="'" line="27" column="31" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/config.py" timestamp="1587039403495" />
       <file name="/Dummy.txt" timestamp="1587028852280">
         <mark key="[" line="0" column="0" />
@@ -174,22 +188,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1587030497247">
         <mark key="'" line="742" column="37" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/customdataimport/models.py" timestamp="1586446840093">
-        <mark key="'" line="80" column="10" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/Sprexit/addons/bpo_production_sync/models.py" timestamp="1586513055325">
         <mark key="'" line="18" column="31" />
         <mark key="[" line="125" column="92" />
         <mark key="]" line="125" column="92" />
         <mark key="^" line="129" column="19" />
         <mark key="." line="125" column="92" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/production/vars.yml" timestamp="1587028805714">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="48" column="48" />
-        <mark key="." line="48" column="47" />
-        <mark key="^" line="48" column="48" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587030976872">
         <mark key="'" line="393" column="30" />
@@ -200,6 +204,7 @@
         <mark key="." line="59" column="26" />
         <mark key="^" line="59" column="27" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" timestamp="1587107478671" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1587028849935">
         <mark key="'" line="177" column="0" />
         <mark key="[" line="184" column="50" />
@@ -207,15 +212,11 @@
         <mark key="." line="184" column="50" />
         <mark key="^" line="184" column="51" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" timestamp="1587031614897">
-        <mark key="'" line="145" column="27" />
-        <mark key="[" line="144" column="11" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/tasks.py" timestamp="1586525678065">
         <mark key="'" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587104942262">
-        <mark key="'" line="27" column="31" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1587106943063">
+        <mark key="'" line="13" column="61" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1587030511896" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" timestamp="1587030555053">
@@ -223,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_detailed_operations_extend/models/models.py" />
       <jump line="19" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
       <jump line="29" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" />
@@ -323,6 +323,7 @@
       <jump line="18" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
       <jump line="24" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
       <jump line="27" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
+      <jump line="13" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +335,7 @@
         <text>7ADpZmKojp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</text>
+        <text encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TURNX0FQSV9VUkw6ICJodHRwczovL21kbS1zdGFnZS5rdWJlLWRldi5pbmZyLmNvL2FwaS8iCk1ETV9BUElfVVNFUk5BTUU6ICJyd19zdGFnZSIKTURNX0FQSV9QQVNTV09SRDogIlc5ZGJTcTRQZjIiCg==</text>
@@ -376,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</last-search>
+      <last-search encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>-1</last-dir>
