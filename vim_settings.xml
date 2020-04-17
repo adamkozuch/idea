@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>create_return</entry>
         <entry encoding="base64">XDxjcmVhdGVfcHJvZHVjdHNfcmV0dXJuXD4=</entry>
         <entry encoding="base64">XDxEaXNwYXRjaE9yZGVyVG9SZXR1cm5cPg==</entry>
         <entry encoding="base64">XDxfY2hhbmdlX3N0YXRlX3RvX2RvbmVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>mdm</entry>
         <entry encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</entry>
         <entry encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</entry>
+        <entry>Notifica</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
@@ -204,7 +204,9 @@
         <mark key="." line="59" column="26" />
         <mark key="^" line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" timestamp="1587107478671" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" timestamp="1587107579581">
+        <mark key="'" line="132" column="6" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1587028849935">
         <mark key="'" line="177" column="0" />
         <mark key="[" line="184" column="50" />
@@ -224,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
       <jump line="29" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" />
       <jump line="341" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
@@ -324,6 +325,7 @@
       <jump line="24" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
       <jump line="27" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
       <jump line="13" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" />
+      <jump line="132" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +337,7 @@
         <text>7ADpZmKojp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</text>
+        <text>Notifica</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TURNX0FQSV9VUkw6ICJodHRwczovL21kbS1zdGFnZS5rdWJlLWRldi5pbmZyLmNvL2FwaS8iCk1ETV9BUElfVVNFUk5BTUU6ICJyd19zdGFnZSIKTURNX0FQSV9QQVNTV09SRDogIlc5ZGJTcTRQZjIiCg==</text>
@@ -377,12 +379,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</last-search>
+      <last-search>Notifica</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</last-pattern>
+      <last-pattern>Notifica</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
