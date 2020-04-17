@@ -161,13 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/docker-compose.yml.j2" timestamp="1586444131156">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="63" column="23" />
-        <mark key="]" line="63" column="29" />
-        <mark key="." line="63" column="29" />
-        <mark key="^" line="63" column="29" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/config.py" timestamp="1587039403495" />
       <file name="/Dummy.txt" timestamp="1587028852280">
         <mark key="[" line="0" column="0" />
@@ -177,6 +170,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" timestamp="1587030985845">
         <mark key="'" line="90" column="14" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/api_clients/pcb.py" timestamp="1587105518491" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1587030497247">
         <mark key="'" line="742" column="37" />
       </file>
@@ -220,8 +214,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/tasks.py" timestamp="1586525678065">
         <mark key="'" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587042004890">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587104942262">
+        <mark key="'" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1587030511896" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/exceptions.py" timestamp="1587030555053">
@@ -229,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_detailed_operations_extend/models/models.py" />
       <jump line="19" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
@@ -329,6 +322,7 @@
       <jump line="90" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
       <jump line="18" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
       <jump line="24" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
+      <jump line="27" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
