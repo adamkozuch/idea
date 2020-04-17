@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfcHJvZHVjdHNfcmV0dXJuXD4=</entry>
-        <entry encoding="base64">XDxEaXNwYXRjaE9yZGVyVG9SZXR1cm5cPg==</entry>
-        <entry encoding="base64">XDxfY2hhbmdlX3N0YXRlX3RvX2RvbmVcPg==</entry>
         <entry encoding="base64">XDxfY2hhbmdlX3BpY2tpbmdfc3RhdGVfdG9fZG9uZVw+</entry>
         <entry encoding="base64">XDxUaW1lb3V0RXJyb3JcPg==</entry>
         <entry encoding="base64">XDx3bXNfYXBpX2NsaWVudFw+</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxyZXR1cm5fdmFsaWRfbW92ZV9saW5lX2Zvcl9sb3RcPg==</entry>
         <entry encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</entry>
         <entry>Notifica</entry>
+        <entry>find_e</entry>
+        <entry encoding="base64">XDxzZWxlbml1bVw+</entry>
+        <entry encoding="base64">XDxBY3Rpb25DaGFpbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
@@ -171,18 +171,20 @@
         <mark key="'" line="145" column="27" />
         <mark key="[" line="144" column="11" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/script_selenium.py" timestamp="1587124765009">
-        <mark key="[" line="5" column="75" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="22" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/script_selenium.py" timestamp="1587127432091">
+        <mark key="[" line="5" column="83" />
+        <mark key="]" line="5" column="103" />
+        <mark key="^" line="5" column="103" />
+        <mark key="." line="5" column="102" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587104942262">
         <mark key="'" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1587112193855" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/config.py" timestamp="1587039403495" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587117703169" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587126103427">
+        <mark key="'" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" timestamp="1587030985845">
         <mark key="'" line="90" column="14" />
       </file>
@@ -207,12 +209,12 @@
         <mark key="." line="184" column="50" />
         <mark key="^" line="184" column="51" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" timestamp="1587117867842">
-        <mark key="'" line="61" column="50" />
-        <mark key="[" line="96" column="15" />
-        <mark key="]" line="96" column="26" />
-        <mark key="^" line="96" column="26" />
-        <mark key="." line="96" column="25" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" timestamp="1587127976166">
+        <mark key="'" line="103" column="35" />
+        <mark key="[" line="103" column="89" />
+        <mark key="]" line="103" column="90" />
+        <mark key="^" line="103" column="90" />
+        <mark key="." line="103" column="89" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1587106943063">
         <mark key="'" line="13" column="61" />
@@ -222,14 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/utility/ansible/provision.yml" />
-      <jump line="132" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/requirements/requirements.txt" />
-      <jump line="150" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/requirements/requirements.txt" />
-      <jump line="165" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/requirements/requirements.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/requirements/requirements.txt" />
-      <jump line="43" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
-      <jump line="62" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
-      <jump line="48" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
       <jump line="321" column="2" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
       <jump line="320" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
       <jump line="37" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
@@ -322,21 +316,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
       <jump line="5" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/mixins.py" />
       <jump line="61" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
+      <jump line="76" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
+      <jump line="198" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
+      <jump line="151" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
+      <jump line="103" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
+      <jump line="9" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
+      <jump line="85" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
+      <jump line="84" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
+      <jump line="7" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>navigate_page</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>navigate_page</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>Notifica</text>
+        <text encoding="base64">XDxBY3Rpb25DaGFpbnNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>nexive-username</text>
+        <text>self.selenium.find_element_by_xpath(&quot;//a[@class='PodIcon']&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TURNX0FQSV9QQVNTV09SRDogJ2RmZ2Rmb2trcjM0JwpNRE1fQVBJX1VSTDogJ2h0dHBzOi8vbWRtLWRldi5rdWJlLWRldi5pbmZyLmNvL2FwaScKTURNX0FQSV9VU0VSTkFNRTogJ3J3X2RldicK</text>
@@ -375,12 +377,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Notifica</last-search>
+      <last-search encoding="base64">XDxBY3Rpb25DaGFpbnNcPg==</last-search>
       <last-offset />
-      <last-pattern>Notifica</last-pattern>
+      <last-pattern encoding="base64">XDxBY3Rpb25DaGFpbnNcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
