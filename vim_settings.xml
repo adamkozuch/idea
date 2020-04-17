@@ -43,10 +43,10 @@
         <entry>e</entry>
         <entry>action Run</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,35 +161,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/production/vars.yml" timestamp="1587028805714">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="48" column="48" />
-        <mark key="." line="48" column="47" />
-        <mark key="^" line="48" column="48" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587115984312">
+        <mark key="'" line="77" column="59" />
+      </file>
+      <file name="/Django Console" timestamp="1587115439727">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" timestamp="1587031614897">
         <mark key="'" line="145" column="27" />
         <mark key="[" line="144" column="11" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/script_selenium.py" timestamp="1587117908817">
+        <mark key="[" line="5" column="75" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587104942262">
         <mark key="'" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1587112193855" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/config.py" timestamp="1587039403495" />
-      <file name="/Dummy.txt" timestamp="1587028852280">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587117703169" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" timestamp="1587030985845">
         <mark key="'" line="90" column="14" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/api_clients/pcb.py" timestamp="1587105518491" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1587030497247">
-        <mark key="'" line="742" column="37" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587111743927" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/__init__.py" timestamp="1587115727389">
+        <mark key="'" line="51" column="26" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1587112207355">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="30" />
@@ -206,15 +207,12 @@
         <mark key="." line="184" column="50" />
         <mark key="^" line="184" column="51" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" timestamp="1587112664617">
-        <mark key="'" line="100" column="58" />
-        <mark key="[" line="97" column="76" />
-        <mark key="]" line="97" column="94" />
-        <mark key="^" line="97" column="94" />
-        <mark key="." line="97" column="93" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/tasks.py" timestamp="1586525678065">
-        <mark key="'" line="1" column="38" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" timestamp="1587117867842">
+        <mark key="'" line="61" column="50" />
+        <mark key="[" line="96" column="15" />
+        <mark key="]" line="96" column="26" />
+        <mark key="^" line="96" column="26" />
+        <mark key="." line="96" column="25" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1587106943063">
         <mark key="'" line="13" column="61" />
@@ -224,14 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="0" column="0" filename="/usr/lib/python3.6/xmlrpc/__init__.py" />
-      <jump line="561" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="14" column="67" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="124" column="65" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
-      <jump line="973" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="30" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/utility/ansible/provision.yml" />
       <jump line="132" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/requirements/requirements.txt" />
       <jump line="150" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/requirements/requirements.txt" />
@@ -324,15 +314,23 @@
       <jump line="132" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" />
       <jump line="63" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
       <jump line="100" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
+      <jump line="51" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/choices.py" />
+      <jump line="154" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="77" column="59" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="69" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
+      <jump line="5" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/mixins.py" />
+      <jump line="61" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>nexive-username</text>
+        <text>navigate_page</text>
       </register>
       <register name="-" type="4">
-        <text>7ADpZmKojp</text>
+        <text>navigate_page</text>
       </register>
       <register name="/" type="4">
         <text>Notifica</text>
@@ -371,7 +369,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
