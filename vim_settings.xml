@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587193006353">
+      <file name="/Dummy.txt" timestamp="1587209410195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" timestamp="1586966870382">
@@ -128,7 +128,15 @@
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/lambda/hello_world/app.py" timestamp="1587193299644" />
-      <file name="$USER_HOME$/PycharmProjects/lambda/README.md" timestamp="1587193605360" />
+      <file name="$USER_HOME$/PycharmProjects/lambda/README.md" timestamp="1587209408173">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="/Dummy.json" timestamp="1587209410205">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/" timestamp="1586965941263">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +191,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
