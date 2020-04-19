@@ -127,18 +127,22 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/lambda/hello_world/app.py" timestamp="1587193299644" />
+      <file name="$USER_HOME$/PycharmProjects/lambda/hello_world/app.py" timestamp="1587319330699">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="35" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/lambda/README.md" timestamp="1587317037171">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/.aws/config" timestamp="1587315798259">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="14" />
-        <mark key="^" line="24" column="15" />
+      <file name="$USER_HOME$/.aws/config" timestamp="1587318885169">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/Dummy.json" timestamp="1587209410205">
         <mark key="[" line="0" column="0" />
@@ -152,6 +156,9 @@
         <mark key="]" line="104" column="24" />
         <mark key="." line="104" column="24" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/lambda/hello_world/requirements.txt" timestamp="1587319540079">
+        <mark key="[" line="0" column="8" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="83" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" />
@@ -162,10 +169,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBbcHJvZmlsZSBhZGFtXQojIGF3c19hY2Nlc3Nfa2V5X2lkID0gW0FLSUFUUk5LUUw1NkFHSjVSVVdGXQojIGF3c19zZWNyZXRfYWNjZXNzX2tleSA9IFtNbStPTi84ZUdwa0Z0b04wM0RBNFJHU0dnRGw3a21Wa1JkQVEwZTdqXQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>AKIATRNKQL56AGJ5RUWF</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBbcHJvZmlsZSBhZGFtXQojIGF3c19hY2Nlc3Nfa2V5X2lkID0gW0FLSUFUUk5LUUw1NkFHSjVSVVdGXQojIGF3c19zZWNyZXRfYWNjZXNzX2tleSA9IFtNbStPTi84ZUdwa0Z0b04wM0RBNFJHU0dnRGw3a21Wa1JkQVEwZTdqXQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -174,6 +181,9 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Q291bnRlci4K</text>
       </register>
       <register name=":" type="4">
