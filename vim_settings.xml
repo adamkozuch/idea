@@ -134,6 +134,12 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/.aws/config" timestamp="1587315756652">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="15" />
+      </file>
       <file name="/Dummy.json" timestamp="1587209410205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,7 +165,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>AKIATRNKQL56AGJ5RUWF</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -174,7 +180,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>AKIATRNKQL56AGJ5RUWF</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3YWl0X2Z1dHVyZWZmamtcPg==</text>
@@ -191,7 +197,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
