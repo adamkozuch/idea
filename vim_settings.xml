@@ -41,12 +41,12 @@
         <entry>we</entry>
         <entry>action GotoFile</entry>
         <entry>e</entry>
-        <entry>action Run</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,11 +171,13 @@
       <file name="/Django Console" timestamp="1587115439727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" timestamp="1587031614897">
-        <mark key="'" line="145" column="27" />
-        <mark key="[" line="144" column="11" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1587372825484" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1587376320493">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/script_selenium.py" timestamp="1587129104614">
         <mark key="[" line="5" column="83" />
         <mark key="]" line="5" column="103" />
@@ -217,7 +219,7 @@
         <mark key="." line="184" column="50" />
         <mark key="^" line="184" column="51" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" timestamp="1587374368896">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" timestamp="1587375762358">
         <mark key="'" line="103" column="35" />
         <mark key="[" line="107" column="66" />
         <mark key="]" line="107" column="89" />
@@ -340,10 +342,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TUFYX0RFTEFZIA==</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TUFYX0RFTEFZIA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>countdow</text>
@@ -352,37 +354,37 @@
         <text encoding="base64">REVMSVZFUllfQ09ORklSTUFUSU9OX01BWF9ERUxBWSA9IGVudi5pbnQoIkRFTElWRVJZX0NPTkZJUk1BVElPTl9NQVhfREVMQVkiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TURNX0FQSV9QQVNTV09SRDogJ2RmZ2Rmb2trcjM0JwpNRE1fQVBJX1VSTDogJ2h0dHBzOi8vbWRtLWRldi5rdWJlLWRldi5pbmZyLmNvL2FwaScKTURNX0FQSV9VU0VSTkFNRTogJ3J3X2RldicK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJvcGVuZWQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTVlTUUxfUkFORE9NX1JPT1RfUEFTU1dPUkQ6ICJ5ZXMiCg==</text>
+        <text encoding="base64">TURNX0FQSV9QQVNTV09SRDogJ2RmZ2Rmb2trcjM0JwpNRE1fQVBJX1VSTDogJ2h0dHBzOi8vbWRtLWRldi5rdWJlLWRldi5pbmZyLmNvL2FwaScKTURNX0FQSV9VU0VSTkFNRTogJ3J3X2RldicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBteXNxbDp7eyBNWVNRTF9WRVJTSU9OIH19Cg==</text>
+        <text encoding="base64">aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTVlTUUxfUkFORE9NX1JPT1RfUEFTU1dPUkQ6ICJ5ZXMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBteXNxbDp7eyBNWVNRTF9WRVJTSU9OIH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmV0dXJuX3BpY2tpbmdfaWQ6CiAgICAgICAgICAgICAgICBkaXNwYXRjaF9vcmRlcl90b19yZXR1cm4ud21zX2lkID0gcmV0dXJuX3BpY2tpbmdfaWQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmV0dXJuX3BpY2tpbmdfaWQ6CiAgICAgICAgICAgICAgICBkaXNwYXRjaF9vcmRlcl90b19yZXR1cm4ud21zX2lkID0gcmV0dXJuX3BpY2tpbmdfaWQK</text>
+      </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action Run</text>
       </register>
     </registers>
   </component>
