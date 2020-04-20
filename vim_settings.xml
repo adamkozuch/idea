@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3bXNfYXBpX2NsaWVudFw+</entry>
-        <entry>setup</entry>
-        <entry>DATA</entry>
         <entry>DATABASE_US</entry>
         <entry encoding="base64">XDxEQVRBQkFTRV9VU0VSXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3RpbWVvdXRcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxBY3Rpb25DaGFpbnNcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9jb25maXJtYXRpb25fX2Rpc3BhdGNoX29yZGVyX3BhcmNlbFw+</entry>
         <entry>countdow</entry>
+        <entry encoding="base64">XDxfX2xvYWRlcl9fXD4=</entry>
+        <entry encoding="base64">XDxBYnN0cmFjdFw+</entry>
+        <entry encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
@@ -172,7 +172,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1587372825484" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1587378156089">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1587394786245">
+        <mark key="'" line="9" column="20" />
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="12" />
@@ -184,16 +185,13 @@
         <mark key="^" line="5" column="103" />
         <mark key="." line="5" column="102" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/trackings/paypal/tasks.py" timestamp="1587104942262">
-        <mark key="'" line="27" column="31" />
-      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/validation.py" timestamp="1587395031893" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1587370173393">
         <mark key="[" line="507" column="78" />
         <mark key="]" line="507" column="107" />
         <mark key="." line="507" column="106" />
         <mark key="^" line="507" column="107" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/config.py" timestamp="1587039403495" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587126103427">
         <mark key="'" line="7" column="27" />
       </file>
@@ -211,6 +209,9 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" timestamp="1587107579581">
         <mark key="'" line="132" column="6" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" timestamp="1587395005286">
+        <mark key="'" line="833" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1587112176759">
         <mark key="'" line="177" column="0" />
@@ -237,19 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker-compose.yml" />
-      <jump line="498" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="491" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="797" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="507" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="37" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_picking_adjustment/models/models.py" />
-      <jump line="59" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/dispatch_register.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/dispatch_register.py" />
-      <jump line="284" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="241" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="603" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
-      <jump line="41" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
-      <jump line="246" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/dispatch_register.py" />
       <jump line="446" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/choices.py" />
@@ -337,6 +325,19 @@
       <jump line="190" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" />
       <jump line="160" column="76" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" />
       <jump line="133" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="4882" column="8" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="9" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" />
+      <jump line="3691" column="8" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="5827" column="0" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="5757" column="6" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="5701" column="18" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="2508" column="15" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="892" column="17" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="818" column="8" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="816" column="72" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="833" column="20" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="807" column="6" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,7 +349,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>countdow</text>
+        <text encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">REVMSVZFUllfQ09ORklSTUFUSU9OX01BWF9ERUxBWSA9IGVudi5pbnQoIkRFTElWRVJZX0NPTkZJUk1BVElPTl9NQVhfREVMQVkiKQo=</text>
@@ -390,12 +391,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>countdow</last-search>
+      <last-search encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</last-search>
       <last-offset />
-      <last-pattern>countdow</last-pattern>
+      <last-pattern encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
