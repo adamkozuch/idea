@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>hlsearch</entry>
         <entry>hls</entry>
         <entry>set hlsearch</entry>
         <entry>set is</entry>
@@ -37,16 +36,17 @@
         <entry>s%/gateway/super/g</entry>
         <entry>%s/gateway/super/g</entry>
         <entry>%s/models/nnnnnn/g</entry>
-        <entry encoding="base64">JzwsJz4=</entry>
         <entry>we</entry>
         <entry>action GotoFile</entry>
         <entry>e</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Run</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry>wk</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,12 +161,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587372540571">
-        <mark key="'" line="133" column="39" />
-        <mark key="[" line="112" column="35" />
-        <mark key="]" line="112" column="35" />
-        <mark key="^" line="112" column="52" />
-        <mark key="." line="112" column="35" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587480689999">
+        <mark key="'" line="138" column="39" />
+        <mark key="[" line="132" column="66" />
+        <mark key="]" line="133" column="30" />
+        <mark key="^" line="133" column="30" />
+        <mark key="." line="133" column="29" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587478981348" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" timestamp="1587478731900">
+        <mark key="'" line="470" column="50" />
       </file>
       <file name="/Django Console" timestamp="1587115439727">
         <mark key="[" line="0" column="0" />
@@ -192,11 +196,19 @@
         <mark key="." line="507" column="106" />
         <mark key="^" line="507" column="107" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/contrib/testing/manager.py" timestamp="1587478168450">
+        <mark key="'" line="95" column="16" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587126103427">
         <mark key="'" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/api_clients/pcb.py" timestamp="1587105518491" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587111743927" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1587477066076">
+        <mark key="'" line="66" column="56" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587476858940" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/__init__.py" timestamp="1587115727389">
         <mark key="'" line="51" column="26" />
       </file>
@@ -207,18 +219,8 @@
         <mark key="." line="59" column="26" />
         <mark key="^" line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" timestamp="1587107579581">
-        <mark key="'" line="132" column="6" />
-      </file>
       <file name="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" timestamp="1587456280371">
         <mark key="'" line="833" column="20" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1587112176759">
-        <mark key="'" line="177" column="0" />
-        <mark key="[" line="189" column="43" />
-        <mark key="]" line="189" column="57" />
-        <mark key="." line="184" column="50" />
-        <mark key="^" line="184" column="51" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" timestamp="1587375762358">
         <mark key="'" line="103" column="35" />
@@ -227,24 +229,18 @@
         <mark key="^" line="107" column="89" />
         <mark key="." line="107" column="88" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587370125717">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587479988821">
         <mark key="'" line="160" column="76" />
-        <mark key="[" line="199" column="28" />
-        <mark key="]" line="199" column="28" />
-        <mark key="." line="199" column="28" />
+        <mark key="[" line="163" column="83" />
+        <mark key="]" line="164" column="28" />
+        <mark key="." line="164" column="27" />
+        <mark key="^" line="164" column="28" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/notifications/pcb/tasks.py" timestamp="1587106943063">
-        <mark key="'" line="13" column="61" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" timestamp="1587478514616">
+        <mark key="'" line="336" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/dispatch_register.py" />
-      <jump line="446" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/choices.py" />
-      <jump line="451" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
-      <jump line="806" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="138" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" />
-      <jump line="46" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
       <jump line="1304" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="376" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="470" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
@@ -338,12 +334,19 @@
       <jump line="816" column="72" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
       <jump line="833" column="20" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
       <jump line="807" column="6" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
+      <jump line="67" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/utils/abstract.py" />
+      <jump line="69" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/contrib/testing/manager.py" />
+      <jump line="95" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/contrib/testing/manager.py" />
+      <jump line="336" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" />
+      <jump line="34" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" />
+      <jump line="470" column="50" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyByZXRyeV9wb2xpY3k9ewojICAgICAnbWF4X3JldHJpZXMnOiAzLAojICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAojICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKIyAgICAgJ2ludGVydmFsX21heCc6IDAuMiwKIyB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -351,41 +354,47 @@
       <register name="/" type="4">
         <text encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">REVMSVZFUllfQ09ORklSTUFUSU9OX01BWF9ERUxBWSA9IGVudi5pbnQoIkRFTElWRVJZX0NPTkZJUk1BVElPTl9NQVhfREVMQVkiKQo=</text>
+      <register name="0" type="4">
+        <text>'max_retries': 3,
+       'interval_start': 0,
+       'interval_step': 0.2,
+       'interval_max': 0.2,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvYmopCg==</text>
+        <text encoding="base64">IyByZXRyeV9wb2xpY3k9ewojICAgICAnbWF4X3JldHJpZXMnOiAzLAojICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAojICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKIyAgICAgJ2ludGVydmFsX21heCc6IDAuMiwKIyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAnbWF4X3JldHJpZXMnOiAzLAogICAgICdpbnRlcnZhbF9zdGFydCc6IDAsCiAgICAgJ2ludGVydmFsX3N0ZXAnOiAwLjIsCiAgICAgJ2ludGVydmFsX21heCc6IDAuMiwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJvcGVuZWQiKQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">TURNX0FQSV9QQVNTV09SRDogJ2RmZ2Rmb2trcjM0JwpNRE1fQVBJX1VSTDogJ2h0dHBzOi8vbWRtLWRldi5rdWJlLWRldi5pbmZyLmNvL2FwaScKTURNX0FQSV9VU0VSTkFNRTogJ3J3X2RldicK</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aAo=</text>
+      <register name="5" type="8">
+        <text>#
+#
+#
+#</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTVlTUUxfUkFORE9NX1JPT1RfUEFTU1dPUkQ6ICJ5ZXMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBteXNxbDp7eyBNWVNRTF9WRVJTSU9OIH19Cg==</text>
+        <text encoding="base64">IyByZXRyeV9wb2xpY3k9ewojICAgICAnbWF4X3JldHJpZXMnOiAzLAojICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAojICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKIyAgICAgJ2ludGVydmFsX21heCc6IDAuMiwKIyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvYmopCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
   </component>
