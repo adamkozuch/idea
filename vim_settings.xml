@@ -190,7 +190,7 @@
         <mark key="." line="5" column="102" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/validation.py" timestamp="1587395031893" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1587370173393">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1587482416734">
         <mark key="[" line="507" column="78" />
         <mark key="]" line="507" column="107" />
         <mark key="." line="507" column="106" />
@@ -229,8 +229,8 @@
         <mark key="^" line="107" column="89" />
         <mark key="." line="107" column="88" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587479988821">
-        <mark key="'" line="160" column="76" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587482233451">
+        <mark key="'" line="168" column="66" />
         <mark key="[" line="163" column="83" />
         <mark key="]" line="164" column="28" />
         <mark key="." line="164" column="27" />
@@ -241,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1304" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="376" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="470" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="511" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
@@ -341,6 +340,7 @@
       <jump line="336" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" />
       <jump line="34" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" />
       <jump line="470" column="50" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" />
+      <jump line="168" column="66" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
