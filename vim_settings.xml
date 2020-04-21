@@ -161,12 +161,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587480689999">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587481295634">
         <mark key="'" line="138" column="39" />
-        <mark key="[" line="132" column="66" />
-        <mark key="]" line="133" column="30" />
+        <mark key="[" line="230" column="18" />
+        <mark key="]" line="230" column="18" />
         <mark key="^" line="133" column="30" />
-        <mark key="." line="133" column="29" />
+        <mark key="." line="230" column="18" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587478981348" />
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" timestamp="1587478731900">
@@ -345,11 +345,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyByZXRyeV9wb2xpY3k9ewojICAgICAnbWF4X3JldHJpZXMnOiAzLAojICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAojICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKIyAgICAgJ2ludGVydmFsX21heCc6IDAuMiwKIyB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Failed to scrap delivery_confirmation, max number of retries reache</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Failed to scrap delivery_confirmation, max number of retries reache</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</text>
