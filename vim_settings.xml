@@ -44,9 +44,9 @@
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
         <entry>action Run</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -210,7 +210,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" timestamp="1587107579581">
         <mark key="'" line="132" column="6" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" timestamp="1587395005286">
+      <file name="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" timestamp="1587456280371">
         <mark key="'" line="833" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" timestamp="1587112176759">
@@ -385,7 +385,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
