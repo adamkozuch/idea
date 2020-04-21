@@ -44,9 +44,9 @@
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
-        <entry>action Run</entry>
         <entry>action RecentFiles</entry>
+        <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -172,12 +172,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1587372825484" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1587394786245">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1587464708382">
         <mark key="'" line="9" column="20" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="13" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/script_selenium.py" timestamp="1587129104614">
         <mark key="[" line="5" column="83" />
@@ -343,10 +343,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</text>
@@ -385,7 +385,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
