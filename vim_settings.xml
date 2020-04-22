@@ -164,12 +164,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1587538562386">
         <mark key="'" line="93" column="7" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587538307749">
-        <mark key="'" line="124" column="39" />
-        <mark key="[" line="112" column="23" />
-        <mark key="]" line="112" column="25" />
-        <mark key="^" line="112" column="25" />
-        <mark key="." line="112" column="24" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587540485282">
+        <mark key="'" line="139" column="39" />
+        <mark key="[" line="133" column="66" />
+        <mark key="]" line="133" column="83" />
+        <mark key="." line="133" column="82" />
+        <mark key="^" line="133" column="83" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587478981348" />
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" timestamp="1587478731900">
@@ -347,49 +347,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>generate_dispatch</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>generate_dispatch</text>
       </register>
       <register name="/" type="4">
         <text>celery</text>
       </register>
       <register name="0" type="4">
-        <text>'max_retries': 3,
-       'interval_start': 0,
-       'interval_step': 0.2,
-       'interval_max': 0.2,</text>
+        <text>generate_confirmation__dispatch_order_parcel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmV0cnlfcG9saWNpZXMgPSB7CiAgICdkZWZhdWx0JzogewogICAgICAgJ21heF9yZXRyaWVzJzogMywKICAgICAgICdpbnRlcnZhbF9zdGFydCc6IDAsCiAgICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKICAgICAgICdpbnRlcnZhbF9tYXgnOiAwLjIsCiAgIH0sCiAgICAnbmV4dGl2bycgOiB7CiAgICAgICAgJ21heF9yZXRyaWVzJzogMywKICAgICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAogICAgICAgICdpbnRlcnZhbF9zdGVwJzogMC4yLAogICAgICAgICdpbnRlcnZhbF9tYXgnOiAwLjIsCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEhvdFJlbG9hZGVyICBmcm9tICJuZXh0L2Rpc3Qvc2VydmVyL2hvdC1yZWxvYWRlciI7Cg==</text>
+        <text encoding="base64">cmV0cnlfcG9saWNpZXMgPSB7CiAgICdkZWZhdWx0JzogewogICAgICAgJ21heF9yZXRyaWVzJzogMywKICAgICAgICdpbnRlcnZhbF9zdGFydCc6IDAsCiAgICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKICAgICAgICdpbnRlcnZhbF9tYXgnOiAwLjIsCiAgIH0sCiAgICAnbmV4dGl2bycgOiB7CiAgICAgICAgJ21heF9yZXRyaWVzJzogMywKICAgICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAogICAgICAgICdpbnRlcnZhbF9zdGVwJzogMC4yLAogICAgICAgICdpbnRlcnZhbF9tYXgnOiAwLjIsCiAgICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZpCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyByZXRyeV9wb2xpY3k9ewojICAgICAnbWF4X3JldHJpZXMnOiAzLAojICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAojICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKIyAgICAgJ2ludGVydmFsX21heCc6IDAuMiwKIyB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IEhvdFJlbG9hZGVyICBmcm9tICJuZXh0L2Rpc3Qvc2VydmVyL2hvdC1yZWxvYWRlciI7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbmZpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyByZXRyeV9wb2xpY3k9ewojICAgICAnbWF4X3JldHJpZXMnOiAzLAojICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAojICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKIyAgICAgJ2ludGVydmFsX21heCc6IDAuMiwKIyB9Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAnbWF4X3JldHJpZXMnOiAzLAogICAgICdpbnRlcnZhbF9zdGFydCc6IDAsCiAgICAgJ2ludGVydmFsX3N0ZXAnOiAwLjIsCiAgICAgJ2ludGVydmFsX21heCc6IDAuMiwK</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAg</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
