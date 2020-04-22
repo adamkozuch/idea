@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>watchdog_tim</entry>
-        <entry>cod</entry>
         <entry>mysql</entry>
         <entry encoding="base64">XDxTRU5UUllfRFNOX0tFWVw+</entry>
         <entry>mdm</entry>
@@ -25,10 +23,10 @@
         <entry>welcome</entry>
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxjb3VyaWVyX25hbWVcPg==</entry>
+        <entry>called</entry>
       </history-search>
       <history-cmd>
-        <entry>hls</entry>
-        <entry>set hlsearch</entry>
         <entry>set is</entry>
         <entry>set mps</entry>
         <entry>action ToggleLineBreakpoint</entry>
@@ -43,9 +41,11 @@
         <entry>q</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz4=</entry>
-        <entry>action RecentFiles</entry>
         <entry>wk</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
+        <entry>kw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -164,12 +164,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1587538562386">
         <mark key="'" line="93" column="7" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587556272006">
-        <mark key="'" line="189" column="44" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="131" column="55" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587561000108">
+        <mark key="'" line="108" column="27" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="124" column="59" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587555226631">
         <mark key="'" line="682" column="19" />
@@ -184,12 +184,6 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="34" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/script_selenium.py" timestamp="1587129104614">
-        <mark key="[" line="5" column="83" />
-        <mark key="]" line="5" column="103" />
-        <mark key="^" line="5" column="103" />
-        <mark key="." line="5" column="102" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/learning/app/next.config.js" timestamp="1587536838875">
         <mark key="[" line="3" column="0" />
@@ -206,17 +200,28 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/contrib/testing/manager.py" timestamp="1587478168450">
         <mark key="'" line="95" column="16" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587126103427">
-        <mark key="'" line="7" column="27" />
+      <file name="/Dummy.txt" timestamp="1587560949103">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587556671717">
+        <mark key="'" line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" timestamp="1587560441972">
+        <mark key="'" line="34" column="55" />
+        <mark key="[" line="25" column="85" />
+        <mark key="]" line="25" column="93" />
+        <mark key="^" line="25" column="93" />
+        <mark key="." line="25" column="92" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1587477066076">
-        <mark key="'" line="66" column="56" />
+        <mark key="'" line="67" column="56" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587536874603" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/admin.py" timestamp="1587366200796" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587558099204" />
       <file name="$USER_HOME$/next_disk_migrate/projects/learning/app/pages/index.js" timestamp="1587547435584">
         <mark key="'" line="32" column="27" />
         <mark key="[" line="12" column="57" />
@@ -233,27 +238,18 @@
         <mark key="^" line="107" column="89" />
         <mark key="." line="107" column="88" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587556143796">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587561078641">
         <mark key="'" line="168" column="58" />
-        <mark key="[" line="169" column="78" />
-        <mark key="]" line="169" column="79" />
-        <mark key="." line="169" column="79" />
-        <mark key="^" line="169" column="83" />
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="157" column="30" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" timestamp="1587478514616">
         <mark key="'" line="336" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="156" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="393" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="527" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="528" column="59" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="532" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="554" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="303" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
-      <jump line="311" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
       <jump line="309" column="77" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/all.yml" />
       <jump line="31" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/mysql_config/cod_schemas.sql" />
       <jump line="70" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/docker-compose.yml.j2" />
@@ -345,51 +341,60 @@
       <jump line="492" column="15" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
       <jump line="189" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
       <jump line="79" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="188" column="60" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="81" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="170" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
+      <jump line="190" column="66" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="83" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="109" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="42" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="34" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE5leHRpdmUn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>called</text>
       </register>
       <register name="0" type="4">
-        <text>generate_confirmation__dispatch_order_parcel.request.retries</text>
+        <text>generate_confirmation_extended_retries_settings</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzZWxlbml1bS5jb21tb24uZXhjZXB0aW9ucyBpbXBvcnQgV2ViRHJpdmVyRXhjZXB0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudGRvd249LAo=</text>
+        <text encoding="base64">ICAgIG1heF9yZXRyaWVzPTEwLCAgIyBJIHNob3VsZCBjYWxjdWxhdGUgdGhpcyBvbmUKICAgIHJldHJ5X2JhY2tvZmZfbWF4PSg2MCAqIDYwICogMTIgKiAxNCksICAjIDE0IGRheXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlbGYucmV0cnkK</text>
+        <text encoding="base64">ICAgIG1heF9yZXRyaWVzPTEwLCAgIyBJIHNob3VsZCBjYWxjdWxhdGUgdGhpcyBvbmUKICAgIHJldHJ5X2JhY2tvZmZfbWF4PSg2MCAqIDYwICogMTIgKiAxNCksICAjIDE0IGRheXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgSSBjYW4gd3JpdGUgdGVzdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNlbGVyeV9hcHAudGFzaygqKmdlbmVyYXRlX2NvbmZpcm1hdGlvbl90YXNrX3NldHRpbmdzKQo=</text>
+        <text encoding="base64">ZXh0ZW5kZWRfcmV0cnlfcGFydG5lcnNfbmFtZXMgPSBbJ05leHRpdm8nXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -398,12 +403,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>called</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern>called</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
