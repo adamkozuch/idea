@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21tb25TZXJ2ZXJcPg==</entry>
         <entry>watchdog_tim</entry>
         <entry>cod</entry>
         <entry>mysql</entry>
@@ -25,6 +24,7 @@
         <entry>celery</entry>
         <entry>welcome</entry>
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>hls</entry>
@@ -43,8 +43,8 @@
         <entry>q</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz4=</entry>
-        <entry>wk</entry>
         <entry>action RecentFiles</entry>
+        <entry>wk</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
@@ -164,15 +164,15 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1587538562386">
         <mark key="'" line="93" column="7" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587551178775">
-        <mark key="'" line="143" column="13" />
-        <mark key="[" line="120" column="23" />
-        <mark key="]" line="120" column="29" />
-        <mark key="." line="120" column="28" />
-        <mark key="^" line="120" column="29" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587556272006">
+        <mark key="'" line="189" column="44" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="131" column="55" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587549919982">
-        <mark key="'" line="653" column="40" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587555226631">
+        <mark key="'" line="682" column="19" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" timestamp="1587478731900">
         <mark key="'" line="470" column="50" />
@@ -233,25 +233,18 @@
         <mark key="^" line="107" column="89" />
         <mark key="." line="107" column="88" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587550626125">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587556143796">
         <mark key="'" line="168" column="58" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="169" column="75" />
+        <mark key="[" line="169" column="78" />
+        <mark key="]" line="169" column="79" />
+        <mark key="." line="169" column="79" />
+        <mark key="^" line="169" column="83" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" timestamp="1587478514616">
         <mark key="'" line="336" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="653" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="404" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="632" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="521" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="524" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="633" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
-      <jump line="334" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
       <jump line="186" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
       <jump line="156" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
       <jump line="393" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/service/server.py" />
@@ -345,36 +338,43 @@
       <jump line="285" column="18" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
       <jump line="165" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" />
       <jump line="168" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="143" column="49" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="141" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="682" column="19" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
+      <jump line="492" column="15" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
+      <jump line="189" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IE5leHRpdmUn</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnN0YW5jZVw+</text>
+        <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZV9jb25maXJtYXRpb25fX2Rpc3BhdGNoX29yZGVyX3BhcmNlbF90YXNrX25leHRpdmUuYXBwbHlfYXN5bmMoKDEsKSwgY291bnRkb3duPScnKQo=</text>
+      <register name="0" type="4">
+        <text>generate_confirmation__dispatch_order_parcel.request.retries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudGRvd249LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYucmV0cnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -383,13 +383,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyeQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmV0cnlfcG9saWNpZXMgPSB7CiAgICdkZWZhdWx0JzogewogICAgICAgJ21heF9yZXRyaWVzJzogMywKICAgICAgICdpbnRlcnZhbF9zdGFydCc6IDAsCiAgICAgICAnaW50ZXJ2YWxfc3RlcCc6IDAuMiwKICAgICAgICdpbnRlcnZhbF9tYXgnOiAwLjIsCiAgIH0sCiAgICAnbmV4dGl2bycgOiB7CiAgICAgICAgJ21heF9yZXRyaWVzJzogMywKICAgICAgICAnaW50ZXJ2YWxfc3RhcnQnOiAwLAogICAgICAgICdpbnRlcnZhbF9zdGVwJzogMC4yLAogICAgICAgICdpbnRlcnZhbF9tYXgnOiAwLjIsCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy4K</text>
+        <text encoding="base64">QGNlbGVyeV9hcHAudGFzaygqKmdlbmVyYXRlX2NvbmZpcm1hdGlvbl90YXNrX3NldHRpbmdzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -398,9 +398,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbnN0YW5jZVw+</last-search>
+      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnN0YW5jZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>-1</last-dir>
