@@ -39,13 +39,13 @@
         <entry>e</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>q</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>wk</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>kw</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action Run</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -161,28 +161,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587976675277">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587556671717">
         <mark key="'" line="29" column="4" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1587538562386">
         <mark key="'" line="93" column="7" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587971858548">
-        <mark key="^" line="173" column="29" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587976518065">
+        <mark key="'" line="122" column="24" />
+        <mark key="[" line="126" column="20" />
+        <mark key="]" line="126" column="22" />
+        <mark key="^" line="126" column="22" />
+        <mark key="." line="126" column="21" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587555226631">
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587976412194">
         <mark key="'" line="682" column="19" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" timestamp="1587971918828">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" timestamp="1587976109266">
+        <mark key="'" line="88" column="26" />
+        <mark key="[" line="95" column="74" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/utils.py" timestamp="1587970199989">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="47" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="20" column="24" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/utils.py" timestamp="1587976663718">
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="4" column="71" />
+        <mark key="." line="4" column="70" />
+        <mark key="^" line="4" column="71" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1587477066076">
         <mark key="'" line="67" column="56" />
@@ -198,6 +204,13 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" timestamp="1587970528814">
         <mark key="'" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587975986385" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" timestamp="1587975849892">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" timestamp="1587478731900">
         <mark key="'" line="470" column="50" />
@@ -226,13 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/ppi/app/models.py" />
-      <jump line="63" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
-      <jump line="100" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
-      <jump line="51" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/choices.py" />
-      <jump line="154" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="77" column="59" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
       <jump line="69" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
       <jump line="5" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/mixins.py" />
@@ -321,17 +327,24 @@
       <jump line="9" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
       <jump line="102" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
       <jump line="65" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
-      <jump line="99" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
       <jump line="172" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
       <jump line="105" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
       <jump line="38" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="157" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="88" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
+      <jump line="99" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
+      <jump line="121" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="632" column="77" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
+      <jump line="122" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuZmFjdG9yaWVzIGltcG9ydCBDb3VyaWVyRmFjdG9yeQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -340,37 +353,37 @@
         <text>cour</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBzZWxmLnJldHJ5KAogICAgICAgICAgICBjb3VudGRvd249Z2V0X2NvdW5kb3duKAogICAgICAgICAgICAgICAgY3VycmVudF9yZXRyaWU9Z2VuZXJhdGVfY29uZmlybWF0aW9uX19kaXNwYXRjaF9vcmRlcl9wYXJjZWwucmVxdWVzdC5yZXRyaWVzLAogICAgICAgICAgICAgICAgYmFja29mZl9tYXg9cmV0cmllX2NvbmZpZ1siYmFja29mZl9tYXgiXSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgbWF4X3JldHJpZXM9cmV0cmllX2NvbmZpZ1sibWF4X3JldHJpZXMiXSwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBzZWxmLnJldHJ5KAogICAgICAgICAgICBleGM9ZXhjLAogICAgICAgICAgICBjb3VudGRvd249Z2V0X2NvdW5kb3duKAogICAgICAgICAgICAgICAgY3VycmVudF9yZXRyaWU9Z2VuZXJhdGVfY29uZmlybWF0aW9uX19kaXNwYXRjaF9vcmRlcl9wYXJjZWwucmVxdWVzdC5yZXRyaWVzLAogICAgICAgICAgICAgICAgYmFja29mZl9tYXg9cmV0cmllX2NvbmZpZ1siYmFja29mZl9tYXgiXSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgbWF4X3JldHJpZXM9cmV0cmllX2NvbmZpZ1sibWF4X3JldHJpZXMiXSwKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuZmFjdG9yaWVzIGltcG9ydCBDb3VyaWVyRmFjdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICBleGM9ZXhjLAo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZhaWxlZCB0byBzY3JhcCIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X19kZWxpdmVyeV9jb25maXJtYXRpb25fcmV0cmllZF9zaXhfdGltZXNfd2hlbl9kZWZhdWx0KHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0Tm90RXF1YWwoc2VsZi5wYXJjZWwuc3RhdHVzLCBQYXJjZWxTdGF0dXNDaG9pY2VzLkRFTElWRVJFRCkKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHNlbGYucGFyY2VsLmRlbGl2ZXJ5X2NvbmZpcm1hdGlvbikKICAgICAgICBpbWFnZSA9IGIiUE5HIgoKICAgICAgICB3aXRoIHBhdGNoKAogICAgICAgICAgICAiZGVsaXZlcnlfY29uZmlybWF0aW9uLnRhc2tzLkRlbGl2ZXJ5Q29uZmlybWF0aW9uR2VuZXJhdGlvblRhc2suZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbiIsCiAgICAgICAgICAgIHNpZGVfZWZmZWN0PVdlYkRyaXZlckV4Y2VwdGlvbigpLAogICAgICAgICkgYXMgbW9ja19nZXRfZGVsaXZlcnlfY29uZmlybWF0aW9uOgogICAgICAgICAgICBtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24ucmV0dXJuX3ZhbHVlID0gaW1hZ2UKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc3RhdHVzID0gUGFyY2VsU3RhdHVzQ2hvaWNlcy5ERUxJVkVSRUQKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc2F2ZSgpCiAgICAgICAgICAgIHNlbGYucnVuX2NvbW1pdF9ob29rcygpCiAgICAgICAgICAgIG1vY2tfZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbi5hc3NlcnRfY2FsbGVkKCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24uY2FsbF9jb3VudCwgNikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X19kZWxpdmVyeV9jb25maXJtYXRpb25fcmV0cmllZF9laWdodF90aW1lc193aGVuX25leHRpdm8oc2VsZik6CiAgICAgICAgZG8gPSBEaXNwYXRjaE9yZGVyRmFjdG9yeShjb3VyaWVyX2NvbXBhbnk9Q291cmllckZhY3RvcnkoZGVsaXZlcnlfY29uZmlybWF0aW9uX3NjcmFwZXI9RGVsaXZlcnlDb25maXJtYXRpb25TY3JhcGVyQ2hvaWNlcy5ORVhJVkVfSVQpKQogICAgICAgIHNlbGYucGFyY2VsID0gZG8ucGFyY2VsCiAgICAgICAgc2VsZi5hc3NlcnROb3RFcXVhbChzZWxmLnBhcmNlbC5zdGF0dXMsIFBhcmNlbFN0YXR1c0Nob2ljZXMuREVMSVZFUkVEKQogICAgICAgIHNlbGYuYXNzZXJ0RmFsc2Uoc2VsZi5wYXJjZWwuZGVsaXZlcnlfY29uZmlybWF0aW9uKQogICAgICAgIGltYWdlID0gYiJQTkciCgogICAgICAgIHdpdGggcGF0Y2goCiAgICAgICAgICAgICAgICAiZGVsaXZlcnlfY29uZmlybWF0aW9uLnRhc2tzLkRlbGl2ZXJ5Q29uZmlybWF0aW9uR2VuZXJhdGlvblRhc2suZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbiIsCiAgICAgICAgICAgICAgICBzaWRlX2VmZmVjdD1XZWJEcml2ZXJFeGNlcHRpb24oKQogICAgICAgICkgYXMgbW9ja19nZXRfZGVsaXZlcnlfY29uZmlybWF0aW9uOgogICAgICAgICAgICBtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24ucmV0dXJuX3ZhbHVlID0gaW1hZ2UKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc3RhdHVzID0gUGFyY2VsU3RhdHVzQ2hvaWNlcy5ERUxJVkVSRUQKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc2F2ZSgpCiAgICAgICAgICAgIHNlbGYucnVuX2NvbW1pdF9ob29rcygpCiAgICAgICAgICAgIG1vY2tfZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbi5hc3NlcnRfY2FsbGVkKCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24uY2FsbF9jb3VudCwgOCkKCg==</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuZmFjdG9yaWVzIGltcG9ydCBDb3VyaWVyRmFjdG9yeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnYWZ0ZXIgZXZlcnl0aGluZycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZhaWxlZCB0byBzY3JhcCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXRyaWVfY29uZmlnWyJtYXhfcmV0cmllcyJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIHNlbGYucmV0cnkoCiAgICAgICAgY291bnRkb3duPWdldF9jb3VuZG93bigKICAgICAgICAgICAgY3VycmVudF9yZXRyaWU9Z2VuZXJhdGVfY29uZmlybWF0aW9uX19kaXNwYXRjaF9vcmRlcl9wYXJjZWwucmVxdWVzdC5yZXRyaWVzLAogICAgICAgICAgICBiYWNrb2ZmX21heD0yLAogICAgICAgICksCiAgICAgICAgbWF4X3JldHJpZXM9NwogICAgKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X19kZWxpdmVyeV9jb25maXJtYXRpb25fcmV0cmllZF9laWdodF90aW1lc193aGVuX25leHRpdm8oc2VsZik6CiAgICAgICAgZG8gPSBEaXNwYXRjaE9yZGVyRmFjdG9yeShjb3VyaWVyX2NvbXBhbnk9Q291cmllckZhY3RvcnkoZGVsaXZlcnlfY29uZmlybWF0aW9uX3NjcmFwZXI9RGVsaXZlcnlDb25maXJtYXRpb25TY3JhcGVyQ2hvaWNlcy5ORVhJVkVfSVQpKQogICAgICAgIHNlbGYucGFyY2VsID0gZG8ucGFyY2VsCiAgICAgICAgc2VsZi5hc3NlcnROb3RFcXVhbChzZWxmLnBhcmNlbC5zdGF0dXMsIFBhcmNlbFN0YXR1c0Nob2ljZXMuREVMSVZFUkVEKQogICAgICAgIHNlbGYuYXNzZXJ0RmFsc2Uoc2VsZi5wYXJjZWwuZGVsaXZlcnlfY29uZmlybWF0aW9uKQogICAgICAgIGltYWdlID0gYiJQTkciCgogICAgICAgIHdpdGggcGF0Y2goCiAgICAgICAgICAgICAgICAiZGVsaXZlcnlfY29uZmlybWF0aW9uLnRhc2tzLkRlbGl2ZXJ5Q29uZmlybWF0aW9uR2VuZXJhdGlvblRhc2suZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbiIsCiAgICAgICAgICAgICAgICBzaWRlX2VmZmVjdD1XZWJEcml2ZXJFeGNlcHRpb24oKQogICAgICAgICkgYXMgbW9ja19nZXRfZGVsaXZlcnlfY29uZmlybWF0aW9uOgogICAgICAgICAgICBtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24ucmV0dXJuX3ZhbHVlID0gaW1hZ2UKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc3RhdHVzID0gUGFyY2VsU3RhdHVzQ2hvaWNlcy5ERUxJVkVSRUQKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc2F2ZSgpCiAgICAgICAgICAgIHNlbGYucnVuX2NvbW1pdF9ob29rcygpCiAgICAgICAgICAgIG1vY2tfZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbi5hc3NlcnRfY2FsbGVkKCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24uY2FsbF9jb3VudCwgOCkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJleGVjdXRpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYWZ0ZXIgZXZlcnl0aGluZycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnYmVmb3JlIHJldHJ5JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXRyaWVfY29uZmlnWyJtYXhfcmV0cmllcyJdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -385,7 +398,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
