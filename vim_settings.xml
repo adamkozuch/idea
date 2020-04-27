@@ -161,46 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1587538562386">
-        <mark key="'" line="93" column="7" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587654427719">
-        <mark key="'" line="142" column="34" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
-        <mark key="^" line="164" column="76" />
-      </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587555226631">
-        <mark key="'" line="682" column="19" />
-      </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" timestamp="1587478731900">
-        <mark key="'" line="470" column="50" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1587372825484" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1587464708382">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="34" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/learning/app/next.config.js" timestamp="1587536838875">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/validation.py" timestamp="1587395031893" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1587563846477">
-        <mark key="'" line="378" column="65" />
-        <mark key="[" line="428" column="86" />
-        <mark key="]" line="428" column="94" />
-        <mark key="." line="428" column="93" />
-        <mark key="^" line="428" column="94" />
-      </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/contrib/testing/manager.py" timestamp="1587478168450">
-        <mark key="'" line="95" column="16" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587631686422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -209,11 +169,16 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587556671717">
         <mark key="'" line="29" column="4" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1587538562386">
+        <mark key="'" line="93" column="7" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587555226631">
+        <mark key="'" line="682" column="19" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" timestamp="1587563861966">
         <mark key="'" line="8" column="44" />
         <mark key="[" line="8" column="67" />
         <mark key="]" line="8" column="67" />
-        <mark key="^" line="38" column="111" />
         <mark key="." line="8" column="67" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1587477066076">
@@ -222,7 +187,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587558099204" />
       <file name="$USER_HOME$/next_disk_migrate/projects/learning/app/pages/index.js" timestamp="1587568101771">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="12" column="57" />
@@ -239,15 +203,26 @@
         <mark key="^" line="107" column="89" />
         <mark key="." line="107" column="88" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" timestamp="1587631177656">
-        <mark key="'" line="106" column="31" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="155" column="30" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" timestamp="1587478731900">
+        <mark key="'" line="470" column="50" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" timestamp="1587478514616">
         <mark key="'" line="336" column="25" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1587464708382">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/learning/app/next.config.js" timestamp="1587536838875">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/contrib/testing/manager.py" timestamp="1587478168450">
+        <mark key="'" line="95" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -410,7 +385,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
