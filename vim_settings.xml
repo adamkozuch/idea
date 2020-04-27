@@ -45,8 +45,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,7 +161,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587980693271">
+      <file name="/Dummy.txt" timestamp="1587984049752">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" timestamp="1587556671717">
@@ -169,6 +169,16 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1587538562386">
         <mark key="'" line="93" column="7" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1587983838839">
+        <mark key="'" line="169" column="23" />
+        <mark key="[" line="169" column="8" />
+        <mark key="]" line="169" column="20" />
+        <mark key="^" line="169" column="20" />
+        <mark key="." line="169" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1587983873663">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" timestamp="1587976412194">
         <mark key="'" line="682" column="19" />
@@ -179,11 +189,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/utils.py" timestamp="1587977610437">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="4" column="71" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/utils.py" timestamp="1587983952472">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/views.py" timestamp="1587980903566" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1587477066076">
@@ -201,6 +210,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" timestamp="1587970528814">
         <mark key="'" line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1587983768475" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/tr1/local/lib/python2.7/site-packages/django_patron_v2/client.py" timestamp="1587980941782">
         <mark key="'" line="41" column="39" />
       </file>
@@ -216,13 +226,6 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" timestamp="1587478514616">
         <mark key="'" line="336" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" timestamp="1587464708382">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="34" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/learning/app/next.config.js" timestamp="1587536838875">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -237,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/mixins.py" />
       <jump line="61" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/login.py" />
       <jump line="76" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
       <jump line="198" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
@@ -337,12 +339,13 @@
       <jump line="122" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
       <jump line="41" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/tr1/local/lib/python2.7/site-packages/django_patron_v2/client.py" />
       <jump line="136" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/tr1/local/lib/python2.7/site-packages/django_patron_v2/client.py" />
+      <jump line="169" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkVUUllfQ09ORklHID0gewogICAgRGVsaXZlcnlDb25maXJtYXRpb25TY3JhcGVyQ2hvaWNlcy5ORVhJVkVfSVQ6IHsKICAgICAgICAibWF4X3JldHJpZXMiOiA4LCAgIyAyaCA0aCA4aCAxNmggMzJoIDY0aCAxMjBoIDEyMGggfj0gMTUgZGF5cwogICAgICAgICJiYWNrb2ZmX21heCI6ICg2MCAqIDYwICogMjQgKiA1KSwgICMgNSBkYXlzCiAgICB9Cn0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -354,37 +357,37 @@
         <text encoding="base64">ICAgICAgICByYWlzZSBzZWxmLnJldHJ5KAogICAgICAgICAgICBleGM9ZXhjLAogICAgICAgICAgICBjb3VudGRvd249Z2V0X2NvdW5kb3duKAogICAgICAgICAgICAgICAgY3VycmVudF9yZXRyaWU9Z2VuZXJhdGVfY29uZmlybWF0aW9uX19kaXNwYXRjaF9vcmRlcl9wYXJjZWwucmVxdWVzdC5yZXRyaWVzLAogICAgICAgICAgICAgICAgYmFja29mZl9tYXg9cmV0cmllX2NvbmZpZ1siYmFja29mZl9tYXgiXSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgbWF4X3JldHJpZXM9cmV0cmllX2NvbmZpZ1sibWF4X3JldHJpZXMiXSwKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkVUUllfQ09ORklHID0gewogICAgRGVsaXZlcnlDb25maXJtYXRpb25TY3JhcGVyQ2hvaWNlcy5ORVhJVkVfSVQ6IHsKICAgICAgICAibWF4X3JldHJpZXMiOiA4LCAgIyAyaCA0aCA4aCAxNmggMzJoIDY0aCAxMjBoIDEyMGggfj0gMTUgZGF5cwogICAgICAgICJiYWNrb2ZmX21heCI6ICg2MCAqIDYwICogMjQgKiA1KSwgICMgNSBkYXlzCiAgICB9Cn0K</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgb3ZlcnJpZGVfc2V0dGluZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuZmFjdG9yaWVzIGltcG9ydCBDb3VyaWVyRmFjdG9yeQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgb3ZlcnJpZGVfc2V0dGluZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzZWxlbml1bS5jb21tb24uZXhjZXB0aW9ucyBpbXBvcnQgV2ViRHJpdmVyRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuZmFjdG9yaWVzIGltcG9ydCBDb3VyaWVyRmFjdG9yeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X19kZWxpdmVyeV9jb25maXJtYXRpb25fcmV0cmllZF9zaXhfdGltZXNfd2hlbl9kZWZhdWx0KHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0Tm90RXF1YWwoc2VsZi5wYXJjZWwuc3RhdHVzLCBQYXJjZWxTdGF0dXNDaG9pY2VzLkRFTElWRVJFRCkKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHNlbGYucGFyY2VsLmRlbGl2ZXJ5X2NvbmZpcm1hdGlvbikKICAgICAgICBpbWFnZSA9IGIiUE5HIgoKICAgICAgICB3aXRoIHBhdGNoKAogICAgICAgICAgICAiZGVsaXZlcnlfY29uZmlybWF0aW9uLnRhc2tzLkRlbGl2ZXJ5Q29uZmlybWF0aW9uR2VuZXJhdGlvblRhc2suZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbiIsCiAgICAgICAgICAgIHNpZGVfZWZmZWN0PVdlYkRyaXZlckV4Y2VwdGlvbigpLAogICAgICAgICkgYXMgbW9ja19nZXRfZGVsaXZlcnlfY29uZmlybWF0aW9uOgogICAgICAgICAgICBtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24ucmV0dXJuX3ZhbHVlID0gaW1hZ2UKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc3RhdHVzID0gUGFyY2VsU3RhdHVzQ2hvaWNlcy5ERUxJVkVSRUQKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc2F2ZSgpCiAgICAgICAgICAgIHNlbGYucnVuX2NvbW1pdF9ob29rcygpCiAgICAgICAgICAgIG1vY2tfZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbi5hc3NlcnRfY2FsbGVkKCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24uY2FsbF9jb3VudCwgNikK</text>
+        <text encoding="base64">ZnJvbSBzZWxlbml1bS5jb21tb24uZXhjZXB0aW9ucyBpbXBvcnQgV2ViRHJpdmVyRXhjZXB0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJnZXR0aW5nIGNvbmZpZ20iKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X19kZWxpdmVyeV9jb25maXJtYXRpb25fcmV0cmllZF9zaXhfdGltZXNfd2hlbl9kZWZhdWx0KHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0Tm90RXF1YWwoc2VsZi5wYXJjZWwuc3RhdHVzLCBQYXJjZWxTdGF0dXNDaG9pY2VzLkRFTElWRVJFRCkKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHNlbGYucGFyY2VsLmRlbGl2ZXJ5X2NvbmZpcm1hdGlvbikKICAgICAgICBpbWFnZSA9IGIiUE5HIgoKICAgICAgICB3aXRoIHBhdGNoKAogICAgICAgICAgICAiZGVsaXZlcnlfY29uZmlybWF0aW9uLnRhc2tzLkRlbGl2ZXJ5Q29uZmlybWF0aW9uR2VuZXJhdGlvblRhc2suZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbiIsCiAgICAgICAgICAgIHNpZGVfZWZmZWN0PVdlYkRyaXZlckV4Y2VwdGlvbigpLAogICAgICAgICkgYXMgbW9ja19nZXRfZGVsaXZlcnlfY29uZmlybWF0aW9uOgogICAgICAgICAgICBtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24ucmV0dXJuX3ZhbHVlID0gaW1hZ2UKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc3RhdHVzID0gUGFyY2VsU3RhdHVzQ2hvaWNlcy5ERUxJVkVSRUQKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc2F2ZSgpCiAgICAgICAgICAgIHNlbGYucnVuX2NvbW1pdF9ob29rcygpCiAgICAgICAgICAgIG1vY2tfZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbi5hc3NlcnRfY2FsbGVkKCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24uY2FsbF9jb3VudCwgNikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KCJnZXR0aW5nIGNvbmZpZ20iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGM9ZXhjLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJnZXR0aW5nIGNvbmZpZ20iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X19kZWxpdmVyeV9jb25maXJtYXRpb25fcmV0cmllZF9zaXhfdGltZXNfd2hlbl9kZWZhdWx0KHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0Tm90RXF1YWwoc2VsZi5wYXJjZWwuc3RhdHVzLCBQYXJjZWxTdGF0dXNDaG9pY2VzLkRFTElWRVJFRCkKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHNlbGYucGFyY2VsLmRlbGl2ZXJ5X2NvbmZpcm1hdGlvbikKICAgICAgICBpbWFnZSA9IGIiUE5HIgoKICAgICAgICB3aXRoIHBhdGNoKAogICAgICAgICAgICAiZGVsaXZlcnlfY29uZmlybWF0aW9uLnRhc2tzLkRlbGl2ZXJ5Q29uZmlybWF0aW9uR2VuZXJhdGlvblRhc2suZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbiIsCiAgICAgICAgICAgIHNpZGVfZWZmZWN0PVdlYkRyaXZlckV4Y2VwdGlvbigpLAogICAgICAgICkgYXMgbW9ja19nZXRfZGVsaXZlcnlfY29uZmlybWF0aW9uOgogICAgICAgICAgICBtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24ucmV0dXJuX3ZhbHVlID0gaW1hZ2UKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc3RhdHVzID0gUGFyY2VsU3RhdHVzQ2hvaWNlcy5ERUxJVkVSRUQKICAgICAgICAgICAgc2VsZi5wYXJjZWwuc2F2ZSgpCiAgICAgICAgICAgIHNlbGYucnVuX2NvbW1pdF9ob29rcygpCiAgICAgICAgICAgIG1vY2tfZ2V0X2RlbGl2ZXJ5X2NvbmZpcm1hdGlvbi5hc3NlcnRfY2FsbGVkKCkKICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2NrX2dldF9kZWxpdmVyeV9jb25maXJtYXRpb24uY2FsbF9jb3VudCwgNikK</text>
+        <text encoding="base64">ICAgICAgICBleGM9ZXhjLAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
