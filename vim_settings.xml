@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>countdow</entry>
         <entry encoding="base64">XDxfX2xvYWRlcl9fXD4=</entry>
         <entry encoding="base64">XDxBYnN0cmFjdFw+</entry>
         <entry encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>amount_pln</entry>
         <entry>convert_</entry>
         <entry>buffered</entry>
+        <entry>currency</entry>
       </history-search>
       <history-cmd>
         <entry>set is</entry>
@@ -161,15 +161,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" timestamp="1588590602455">
-        <mark key="'" line="448" column="25" />
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="0" />
-        <mark key="^" line="332" column="8" />
-        <mark key="." line="331" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" timestamp="1588593759779">
+        <mark key="'" line="359" column="26" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="0" />
+        <mark key="^" line="365" column="101" />
+        <mark key="." line="341" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/urls.py" timestamp="1588588790401">
-        <mark key="'" line="60" column="32" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/urls.py" timestamp="1588593438335">
+        <mark key="'" line="62" column="43" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/models.py" timestamp="1588586347867">
         <mark key="[" line="21" column="15" />
@@ -177,19 +177,24 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/utils/auth.py" timestamp="1588586727189" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" timestamp="1588589899826">
-        <mark key="'" line="324" column="43" />
-        <mark key="[" line="336" column="61" />
-        <mark key="]" line="337" column="4" />
-        <mark key="." line="337" column="3" />
-        <mark key="^" line="337" column="4" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/utils/auth.py" timestamp="1588593536525">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="18" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" timestamp="1588594190231">
+        <mark key="'" line="325" column="38" />
+        <mark key="[" line="350" column="28" />
+        <mark key="]" line="350" column="28" />
+        <mark key="." line="350" column="28" />
+        <mark key="^" line="325" column="27" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/static/js/transactions.js" timestamp="1588588465068">
         <mark key="'" line="446" column="31" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" timestamp="1588591605109">
-        <mark key="'" line="165" column="28" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" timestamp="1588592702657">
+        <mark key="'" line="228" column="70" />
         <mark key="[" line="229" column="134" />
         <mark key="]" line="229" column="146" />
         <mark key="." line="229" column="145" />
@@ -213,7 +218,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/cof_user/tasks.py" timestamp="1588586534511">
         <mark key="'" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/vault/transaction_list.html" timestamp="1588590442288" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/vault/transaction_list.html" timestamp="1588593059751">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/management/commands/import_currency_nbp.py" timestamp="1588584843414" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/partials/menu.html" timestamp="1588587869589" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/pcb/views.py" timestamp="1588586692220">
@@ -221,14 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="807" column="6" filename="$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1247971763/builtins.py" />
-      <jump line="67" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
-      <jump line="43" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/utils/abstract.py" />
-      <jump line="69" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/contrib/testing/manager.py" />
-      <jump line="95" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/contrib/testing/manager.py" />
-      <jump line="336" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" />
-      <jump line="34" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/kombu/utils/functional.py" />
-      <jump line="470" column="50" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/base.py" />
       <jump line="3" column="0" filename="$USER_HOME$/next_disk_migrate/projects/learning/app/pages/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/learning/app/pages/index.js" />
       <jump line="73" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
@@ -321,51 +323,59 @@
       <jump line="135" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
       <jump line="147" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
       <jump line="165" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
+      <jump line="228" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
+      <jump line="279" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
+      <jump line="283" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
+      <jump line="7" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/validators.py" />
+      <jump line="62" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/urls.py" />
+      <jump line="359" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" />
+      <jump line="25" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/utils/auth.py" />
+      <jump line="325" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>\nOutcome</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>amount_field</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>buffered</text>
+        <text>currency</text>
       </register>
       <register name="0" type="4">
         <text>\nOutcome</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uYW1vdW50X3BsbiwK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbW91bnRfZmllbGQgPT0gJ3RyYW5zYWN0aW9uX19hbW91bnRfcGxuJzoKICAgICAgICAgICAgY3VycmVuY3kgPSAnUExOJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0cmFuc2FjdGlvbl9fYWNjb3VudF9ma19fY29tcGFueV9ma19fbmFtZScsICd0cmFuc2FjdGlvbl9fYWNjb3VudF9ma19fYmFua19ma19fbmFtZScsCiAgICAgICAgICAgICAgICAndHJhbnNhY3Rpb25fX2FjY291bnRfZmtfX2liYW4nLCAndHJhbnNhY3Rpb25fX2Ftb3VudCcsICd0cmFuc2FjdGlvbl9fY3VycmVuY3knLAogICAgICAgICAgICAgICAgJ3RyYW5zYWN0aW9uX19wb3N0aW5nX2RhdGUnLCAndHJhbnNhY3Rpb25fX3ZhbHVlX2RhdGUnLCAndHJhbnNhY3Rpb25fX3N0YXR1cycsCiAgICAgICAgICAgICAgICAndHJhbnNhY3Rpb25fX2NvbnRyYWN0b3JfbmFtZScsCiAgICAgICAgICAgICAgICAndHJhbnNhY3Rpb25fX2NvbnRyYWN0b3JfYWNjb3VudCcsICd0cmFuc2FjdGlvbl9fb3BlcmF0aW9uX2NvZGUnLCAndHJhbnNhY3Rpb25fX29wZXJhdGlvbl90eXBlJywKICAgICAgICAgICAgICAgICd0cmFuc2FjdGlvbl9fb3BlcmF0aW9uX3RpdGxlJywKICAgICAgICAgICAgICAgICd0cmFuc2FjdGlvbl9fY3VzdG9tX2ZpZWxkc19qc29uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhbW91bnRfZmllbGQgPT0gJ3RyYW5zYWN0aW9uX19hbW91bnRfcGxuJzoKICAgICAgICAgICAgY3VycmVuY3kgPSAnUExOJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0cmFuc2FjdGlvbl9fYWNjb3VudF9ma19fY29tcGFueV9ma19fbmFtZScsICd0cmFuc2FjdGlvbl9fYWNjb3VudF9ma19fYmFua19ma19fbmFtZScsCiAgICAgICAgICAgICAgICAndHJhbnNhY3Rpb25fX2FjY291bnRfZmtfX2liYW4nLCAndHJhbnNhY3Rpb25fX2Ftb3VudCcsICd0cmFuc2FjdGlvbl9fY3VycmVuY3knLAogICAgICAgICAgICAgICAgJ3RyYW5zYWN0aW9uX19wb3N0aW5nX2RhdGUnLCAndHJhbnNhY3Rpb25fX3ZhbHVlX2RhdGUnLCAndHJhbnNhY3Rpb25fX3N0YXR1cycsCiAgICAgICAgICAgICAgICAndHJhbnNhY3Rpb25fX2NvbnRyYWN0b3JfbmFtZScsCiAgICAgICAgICAgICAgICAndHJhbnNhY3Rpb25fX2NvbnRyYWN0b3JfYWNjb3VudCcsICd0cmFuc2FjdGlvbl9fb3BlcmF0aW9uX2NvZGUnLCAndHJhbnNhY3Rpb25fX29wZXJhdGlvbl90eXBlJywKICAgICAgICAgICAgICAgICd0cmFuc2FjdGlvbl9fb3BlcmF0aW9uX3RpdGxlJywKICAgICAgICAgICAgICAgICd0cmFuc2FjdGlvbl9fY3VzdG9tX2ZpZWxkc19qc29uJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgcGxuCiAgICAgICAgY3VycmVuY3kgPSAiIgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBxczoKICAgICAgICAgICAgcHJpbnQoaXRlbS5hbW91bnRfcGxuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChbby5hbW91bnRfcGxuIGZvciBvIGluICBxcy5vYmplY3RzLmFsbCgpXSkK</text>
+        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgcGxuCiAgICAgICAgY3VycmVuY3kgPSAiIgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb252ZXJ0X3RvX3BsbihzZWxmLCB2YWx1ZV9kYXRlLCBhbW91bnQsIGN1cnJlbmN5KToKICAgICAgICBQTE5fQ09ERSA9ICdQTE4nCiAgICAgICAgZXhjaGFuZ2VfcmF0ZSA9IEV4Y2hhbmdlUmF0ZS5vYmplY3RzLmZpbHRlcigKICAgICAgICAgICAgZGF0ZV9fbHRlPXZhbHVlX2RhdGUsCiAgICAgICAgICAgIGZyb21fY3VycmVuY3k9Y3VycmVuY3ksCiAgICAgICAgICAgIHRvX2N1cnJlbmN5PVBMTl9DT0RFCiAgICAgICAgKS5vcmRlcl9ieSgiZGF0ZSIpLmxhc3QoKQoKICAgICAgICBpZiBleGNoYW5nZV9yYXRlICE9IE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEV4Y2hhbmdlUmF0ZS5Eb2VzTm90RXhpc3QoCiAgICAgICAgICAgICAgICAie2N1cnJlbmN5fSB7ZGF0ZX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBjdXJyZW5jeV9jb2RlPWN1cnJlbmN5LAogICAgICAgICAgICAgICAgICAgIGRhdGU9dmFsdWVfZGF0ZQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgcmV0dXJuIGV4Y2hhbmdlX3JhdGUubXVsdGlwbGllciAqIGFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBxczoKICAgICAgICAgICAgcHJpbnQoaXRlbS5hbW91bnRfcGxuKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -374,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>buffered</last-search>
+      <last-search>currency</last-search>
       <last-offset />
-      <last-pattern>buffered</last-pattern>
+      <last-pattern>currency</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>1</last-dir>
