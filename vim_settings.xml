@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2xvYWRlcl9fXD4=</entry>
         <entry encoding="base64">XDxBYnN0cmFjdFw+</entry>
         <entry encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</entry>
         <entry>celery</entry>
@@ -25,6 +24,7 @@
         <entry>convert_</entry>
         <entry>buffered</entry>
         <entry>currency</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>set is</entry>
@@ -44,8 +44,8 @@
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -161,7 +161,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" timestamp="1588593759779">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" timestamp="1588596962431">
         <mark key="'" line="359" column="26" />
         <mark key="[" line="341" column="0" />
         <mark key="]" line="341" column="0" />
@@ -183,12 +183,12 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" timestamp="1588595976868">
-        <mark key="'" line="325" column="38" />
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="16" />
-        <mark key="." line="354" column="16" />
-        <mark key="^" line="341" column="32" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" timestamp="1588596803898">
+        <mark key="'" line="382" column="23" />
+        <mark key="[" line="357" column="23" />
+        <mark key="]" line="357" column="25" />
+        <mark key="." line="357" column="24" />
+        <mark key="^" line="357" column="25" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/static/js/transactions.js" timestamp="1588588465068">
         <mark key="'" line="446" column="31" />
@@ -220,9 +220,9 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/vault/transaction_list.html" timestamp="1588593059751">
         <mark key="[" line="12" column="27" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="24" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="24" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/management/commands/import_currency_nbp.py" timestamp="1588584843414" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/partials/menu.html" timestamp="1588587869589" />
@@ -231,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/next_disk_migrate/projects/learning/app/pages/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/learning/app/pages/index.js" />
       <jump line="73" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="12" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
@@ -331,18 +330,19 @@
       <jump line="359" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" />
       <jump line="25" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/utils/auth.py" />
       <jump line="325" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
+      <jump line="382" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>multiplier</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>multiplier</text>
       </register>
       <register name="/" type="4">
-        <text>currency</text>
+        <text>save</text>
       </register>
       <register name="0" type="4">
         <text>\nOutcome</text>
@@ -384,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>currency</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>currency</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>1</last-dir>
