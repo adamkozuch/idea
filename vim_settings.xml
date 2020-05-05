@@ -169,8 +169,8 @@
         <mark key="." line="357" column="72" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/common.py" timestamp="1588606467949" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/urls.py" timestamp="1588593438335">
-        <mark key="'" line="62" column="43" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1588662682214">
+        <mark key="'" line="31" column="29" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/models.py" timestamp="1588660959351">
         <mark key="[" line="21" column="0" />
@@ -208,6 +208,7 @@
       <file name="/Dummy.txt" timestamp="1588661420266">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/parker/uploader/uploader.html" timestamp="1588662655164" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/tasks.py" timestamp="1588618828832" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tests/test_transaction_mail.py" timestamp="1588660935779">
         <mark key="'" line="26" column="36" />
@@ -216,21 +217,13 @@
         <mark key="." line="60" column="38" />
         <mark key="^" line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/urls.py" timestamp="1588588514845">
-        <mark key="'" line="21" column="74" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/venv1/local/lib/python2.7/site-packages/djqscsv/djqscsv.py" timestamp="1588659845620">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/vault/transaction_list.html" timestamp="1588593059751">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588662196731">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/views.py" timestamp="1588663117899" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588662565715">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="18" />
@@ -244,8 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="49" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="141" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
       <jump line="682" column="19" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
       <jump line="492" column="15" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
       <jump line="189" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
@@ -344,6 +335,8 @@
       <jump line="57" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/venv1/local/lib/python2.7/site-packages/djqscsv/djqscsv.py" />
       <jump line="166" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
       <jump line="225" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
+      <jump line="39" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" />
+      <jump line="31" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
