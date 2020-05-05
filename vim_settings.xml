@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -230,7 +230,7 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588660873560">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588662196731">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="18" />
@@ -391,7 +391,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBfZGljdCBpbiBjc3YuRGljdFJlYWRlcihjc3ZfZmlsZSk6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoX2RpY3QpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
