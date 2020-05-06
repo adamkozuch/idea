@@ -161,7 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/common.py" timestamp="1588606467949" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1588662682214">
         <mark key="'" line="31" column="29" />
       </file>
@@ -173,40 +172,22 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/venv1/lib/python2.7/site-packages/django/contrib/auth/models.py" timestamp="1588605103844" />
       <file name="/models.py" timestamp="1588660956280">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="86" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/utils/auth.py" timestamp="1588605139471">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/utils/auth.py" timestamp="1588757846136">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="19" />
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" timestamp="1588670678020">
-        <mark key="'" line="326" column="22" />
-        <mark key="[" line="326" column="29" />
-        <mark key="]" line="326" column="42" />
-        <mark key="." line="326" column="41" />
-        <mark key="^" line="326" column="42" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/queues.py" timestamp="1588618837510">
         <mark key="'" line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/tests/data/transaction/transactions_base.json" timestamp="1588604463576" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" timestamp="1588660092512">
-        <mark key="'" line="166" column="37" />
-        <mark key="[" line="220" column="31" />
-        <mark key="]" line="220" column="32" />
-        <mark key="." line="220" column="31" />
-        <mark key="^" line="220" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1588670537359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/parker/uploader/uploader.html" timestamp="1588662655164" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/tasks.py" timestamp="1588618828832" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tests/test_transaction_mail.py" timestamp="1588660935779">
         <mark key="'" line="26" column="36" />
         <mark key="[" line="59" column="59" />
@@ -219,15 +200,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/views.py" timestamp="1588663117899" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588670875161">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="26" column="19" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/pcb/views.py" timestamp="1588605121039">
-        <mark key="'" line="6" column="49" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/queues.py" timestamp="1588618886237">
         <mark key="'" line="9" column="28" />
@@ -393,7 +370,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
