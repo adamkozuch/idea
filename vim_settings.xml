@@ -45,8 +45,8 @@
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,16 +161,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" timestamp="1588599171369">
-        <mark key="'" line="354" column="26" />
-        <mark key="[" line="357" column="72" />
-        <mark key="]" line="357" column="72" />
-        <mark key="^" line="362" column="64" />
-        <mark key="." line="357" column="72" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/common.py" timestamp="1588606467949" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1588662682214">
         <mark key="'" line="31" column="29" />
+      </file>
+      <file name="/a.dummy" timestamp="1588670295359">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/models.py" timestamp="1588660959351">
         <mark key="[" line="21" column="0" />
@@ -188,11 +184,12 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" timestamp="1588661122413">
-        <mark key="'" line="384" column="23" />
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" timestamp="1588670678020">
+        <mark key="'" line="326" column="22" />
+        <mark key="[" line="326" column="29" />
+        <mark key="]" line="326" column="42" />
+        <mark key="." line="326" column="41" />
+        <mark key="^" line="326" column="42" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/queues.py" timestamp="1588618837510">
         <mark key="'" line="14" column="22" />
@@ -205,7 +202,7 @@
         <mark key="." line="220" column="31" />
         <mark key="^" line="220" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588661420266">
+      <file name="/Dummy.txt" timestamp="1588670537359">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/parker/uploader/uploader.html" timestamp="1588662655164" />
@@ -223,11 +220,11 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/views.py" timestamp="1588663117899" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588662565715">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="18" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588670875161">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/pcb/views.py" timestamp="1588605121039">
         <mark key="'" line="6" column="49" />
@@ -237,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="682" column="19" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
       <jump line="492" column="15" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
       <jump line="189" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
       <jump line="79" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
@@ -337,15 +333,16 @@
       <jump line="225" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
       <jump line="39" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" />
       <jump line="31" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" />
+      <jump line="326" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UExOX0NPTlZFUlNJT05fRU5BQkxFRCA9IEZhbHNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>INCLUDE_PLN</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -354,37 +351,37 @@
         <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5JTkNMVURFX1BMTjoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UExOX0NPTlZFUlNJT05fRU5BQkxFRCA9IEZhbHNlCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCB0YXNrcyB0byBxdWV1ZSBhZnRlciBzYXZlCg==</text>
+        <text encoding="base64">SU5DTFVERV9QTE4gPSBGYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRfdG9fcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UsIG51bGw9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRfdG9fcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UsIG51bGw9VHJ1ZSkK</text>
+        <text encoding="base64">UExOX0NPTlZFUlNJT05fRU5BQkxFRCA9IEZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXlfcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhJTkNMVURFX1BMTj1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCB0YXNrcyB0byBxdWV1ZSBhZnRlciBzYXZlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGJvZHkpCiAgICAgICAgICAgICAgICBwcmludChjc3ZfZmlsZS5nZXR2YWx1ZSgpKQogICAgICAgICAgICAgICAgIyBub3Qgc3VyZSBhYm91dCBjb250ZW50Cg==</text>
+        <text encoding="base64">ICAgIGNvbnZlcnRfdG9fcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UsIG51bGw9VHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZpZWxkX2hlYWRlcl9tYXApCiAgICBwcmludChmaWVsZF9zZXJpYWxpemVyX21hcCkKICAgIHByaW50KGZpZWxkX29yZGVyKQo=</text>
+        <text encoding="base64">ICAgIGNvbnZlcnRfdG9fcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UsIG51bGw9VHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBfZGljdCBpbiBjc3YuRGljdFJlYWRlcihjc3ZfZmlsZSk6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoX2RpY3QpCg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlfcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
