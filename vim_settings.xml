@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
-        <entry encoding="base64">XDxjb3VyaWVyX25hbWVcPg==</entry>
-        <entry>called</entry>
         <entry encoding="base64">XDxEZWxpdmVyeUNvbmZpcm1hdGlvblNjcmFwZXJDaG9pY2VzXD4=</entry>
         <entry>confirma</entry>
         <entry encoding="base64">XDxyYW5kaW50XD4=</entry>
@@ -25,6 +22,9 @@
         <entry>delivery_list</entry>
         <entry>test_create</entry>
         <entry>create_and</entry>
+        <entry encoding="base64">XDxzZXRfc2Vuc2l0aXZlX2RhdGFfY2FjaGVcPg==</entry>
+        <entry encoding="base64">XDxwYXRjaFw+</entry>
+        <entry>over</entry>
       </history-search>
       <history-cmd>
         <entry>set is</entry>
@@ -167,7 +167,7 @@
         <mark key="]" line="633" column="8" />
         <mark key="." line="524" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589796506530">
+      <file name="/Dummy.txt" timestamp="1589800365735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1589789554783">
@@ -176,12 +176,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1588662682214">
         <mark key="'" line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" timestamp="1589796461362">
-        <mark key="'" line="298" column="0" />
-        <mark key="[" line="293" column="8" />
-        <mark key="]" line="293" column="8" />
-        <mark key="." line="293" column="8" />
-        <mark key="^" line="292" column="38" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" timestamp="1589800238298">
+        <mark key="'" line="55" column="17" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+        <mark key="^" line="246" column="104" />
       </file>
       <file name="/a.dummy" timestamp="1588670295359">
         <mark key="[" line="0" column="0" />
@@ -207,6 +207,19 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" timestamp="1589791788701">
         <mark key="'" line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589800680891">
+        <mark key="'" line="47" column="8" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tests/test_tasks.py" timestamp="1589798269076">
+        <mark key="'" line="153" column="24" />
+        <mark key="[" line="231" column="24" />
+        <mark key="]" line="231" column="24" />
+        <mark key="." line="231" column="24" />
+        <mark key="^" line="231" column="23" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588670875161">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -228,26 +241,13 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1589796699807">
         <mark key="'" line="704" column="30" />
-        <mark key="[" line="869" column="19" />
-        <mark key="]" line="869" column="39" />
-        <mark key="." line="869" column="38" />
-        <mark key="^" line="869" column="39" />
+        <mark key="[" line="868" column="19" />
+        <mark key="]" line="868" column="39" />
+        <mark key="." line="868" column="38" />
+        <mark key="^" line="868" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/venv1/local/lib/python2.7/site-packages/djqscsv/djqscsv.py" />
-      <jump line="166" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="225" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="39" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" />
-      <jump line="31" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" />
-      <jump line="326" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
-      <jump line="187" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="10" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/urls.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
-      <jump line="381" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
-      <jump line="516" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
-      <jump line="326" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
-      <jump line="517" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
       <jump line="523" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
       <jump line="525" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
       <jump line="404" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
@@ -324,7 +324,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
       <jump line="292" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="286" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="246" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="260" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="271" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="273" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
@@ -335,51 +334,65 @@
       <jump line="297" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="303" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="298" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="231" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tests/test_tasks.py" />
+      <jump line="153" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tests/test_tasks.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
+      <jump line="94" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
+      <jump line="107" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="421" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="246" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="245" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="239" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="155" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="154" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="108" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="55" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>create_and</text>
+        <text>over</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuYXV0aGVudGljYXRlZF9yZXF1ZXN0KAogICAgICAgICAgICBzZWxmLmNsaWVudC5nZXQsIGRlbGl2ZXJ5X2F0dGFjaG1lbnRfZGVsaXZlcnlfbGlzdF91cmwsIGZvcm1hdD0ianNvbiIKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZV8xLmRhdGFbJ3Jlc3VsdHMnXSkK</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnc2V0dGluZyBjYWNoZScpCg==</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS5kYXRhKQo=</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaF9vcmRlci5yZWZyZXNoX2Zyb21fZGIoKQogICAgICAgIGF0dGFjaG1lbnQgPSBkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV9hdHRhY2htZW50Cg==</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydERpY3RFcXVhbChyZXNwb25zZS5qc29uKCksIGV4cGVjdGVkX3Jlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZV8xLmRhdGFbJ3Jlc3VsdHMnXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnc2V0dGluZyBjYWNoZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXNwb25zZSA9IHsKICAgICAgICAgICAgImlkIjogZGlzcGF0Y2hfb3JkZXIuZGVsaXZlcnlfYXR0YWNobWVudC5pZCwKICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiBsb2NhbHRpbWUoYXR0YWNobWVudC5jcmVhdGVkX2F0KS5pc29mb3JtYXQoKSwKICAgICAgICAgICAgImRpc3BhdGNoX29yZGVyc19kZWxpdmVyeV9pZHMiOiBbCiAgICAgICAgICAgICAgICBpbnQoZGVsaXZlcnlfaWQpCiAgICAgICAgICAgICAgICBmb3IgZGVsaXZlcnlfaWQgaW4gYXR0YWNobWVudC5kaXNwYXRjaF9vcmRlcnNfZGVsaXZlcnlfaWRzCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJkb3dubG9hZF9saW5rX2V4cGlyYXRpb25fZGF0ZSI6IGxvY2FsdGltZSgKICAgICAgICAgICAgICAgIGF0dGFjaG1lbnQuZG93bmxvYWRfbGlua19leHBpcmF0aW9uX2RhdGUKICAgICAgICAgICAgKS5pc29mb3JtYXQoKSwKICAgICAgICAgICAgIm5hbWUiOiBhdHRhY2htZW50Lm5hbWUsCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -388,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>create_and</last-search>
+      <last-search>over</last-search>
       <last-offset />
-      <last-pattern>create_and</last-pattern>
+      <last-pattern>over</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>1</last-dir>
