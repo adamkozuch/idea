@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX3N1YmNsYXNzaG9va19fXD4=</entry>
-        <entry>celery</entry>
-        <entry>welcome</entry>
-        <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxjb3VyaWVyX25hbWVcPg==</entry>
         <entry>called</entry>
@@ -25,6 +21,10 @@
         <entry>currency</entry>
         <entry>save</entry>
         <entry>sensitive_da</entry>
+        <entry encoding="base64">XDxnZXRfb3JkZXJzX21vY2tcPg==</entry>
+        <entry>delivery_list</entry>
+        <entry>test_create</entry>
+        <entry>create_and</entry>
       </history-search>
       <history-cmd>
         <entry>set is</entry>
@@ -161,28 +161,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" timestamp="1589791516930">
+        <mark key="'" line="287" column="0" />
+        <mark key="[" line="627" column="2" />
+        <mark key="]" line="633" column="8" />
+        <mark key="." line="524" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588670537359">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1589789554783">
+        <mark key="'" line="1226" column="35" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" timestamp="1588662682214">
         <mark key="'" line="31" column="29" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" timestamp="1589794221573">
+        <mark key="'" line="42" column="62" />
+        <mark key="[" line="292" column="31" />
+        <mark key="]" line="292" column="38" />
+        <mark key="." line="292" column="37" />
+        <mark key="^" line="292" column="38" />
+      </file>
       <file name="/a.dummy" timestamp="1588670295359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tests/test_transaction_mail.py" timestamp="1588660935779">
-        <mark key="'" line="26" column="36" />
-        <mark key="[" line="59" column="59" />
-        <mark key="]" line="60" column="39" />
-        <mark key="." line="60" column="38" />
-        <mark key="^" line="60" column="39" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/venv1/local/lib/python2.7/site-packages/djqscsv/djqscsv.py" timestamp="1588659845620">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1589786534411" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/models.py" timestamp="1588660959351">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -192,111 +195,46 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="86" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1589790159246">
+        <mark key="'" line="936" column="33" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/utils/auth.py" timestamp="1588757846136">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="19" />
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" timestamp="1589786522667" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" timestamp="1589791788701">
+        <mark key="'" line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/settings/local.py" timestamp="1588670875161">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1589786728580">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="873" column="0" />
-        <mark key="]" line="873" column="12" />
-        <mark key="." line="873" column="12" />
-        <mark key="^" line="869" column="13" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" timestamp="1589789583836">
+        <mark key="'" line="138" column="22" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/queues.py" timestamp="1588618886237">
-        <mark key="'" line="9" column="28" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/urls.py" timestamp="1589789576867">
+        <mark key="'" line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1589794018982">
+        <mark key="'" line="324" column="57" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="28" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1589791527167">
+        <mark key="'" line="704" column="30" />
+        <mark key="[" line="727" column="19" />
+        <mark key="]" line="727" column="45" />
+        <mark key="." line="727" column="44" />
+        <mark key="^" line="727" column="45" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="188" column="60" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="81" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/scrapers/default.py" />
-      <jump line="190" column="66" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="83" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="109" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="42" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="34" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="57" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="18" column="88" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="6" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="31" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
-      <jump line="167" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
-      <jump line="333" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
-      <jump line="377" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
-      <jump line="378" column="65" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/next_disk_migrate/projects/learning/app/pages/index.js" />
-      <jump line="115" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="2" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="142" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="108" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/receivers.py" />
-      <jump line="19" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/utils.py" />
-      <jump line="170" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="18" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/utils.py" />
-      <jump line="103" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="9" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="102" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
-      <jump line="172" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="105" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="38" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="157" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="88" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="121" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="632" column="77" filename="$USER_HOME$/.local/lib/python3.6/site-packages/celery/app/task.py" />
-      <jump line="122" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="41" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/tr1/local/lib/python2.7/site-packages/django_patron_v2/client.py" />
-      <jump line="136" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/tr1/local/lib/python2.7/site-packages/django_patron_v2/client.py" />
-      <jump line="169" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="11" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/utils.py" />
-      <jump line="173" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="78" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="98" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="8" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="99" column="62" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="162" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="212" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="120" column="47" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
-      <jump line="322" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
-      <jump line="188" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
-      <jump line="323" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tests/test_transaction_mail.py" />
-      <jump line="32" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="51" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/cof_user/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/tr1/local/lib/python2.7/site-packages/iiit_authorization_audit/__init__.py" />
-      <jump line="15" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/pcb/views.py" />
-      <jump line="446" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/static/js/transactions.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/templates/vault/transaction_list.html" />
-      <jump line="21" column="74" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/urls.py" />
-      <jump line="443" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/serializers.py" />
-      <jump line="60" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/urls.py" />
-      <jump line="40" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="134" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="135" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="147" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="165" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="228" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/transaction_task/tasks.py" />
-      <jump line="279" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
-      <jump line="283" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
-      <jump line="7" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/validators.py" />
-      <jump line="62" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/urls.py" />
-      <jump line="359" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/views/transaction.py" />
       <jump line="25" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/utils/auth.py" />
       <jump line="325" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
       <jump line="382" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
@@ -317,51 +255,131 @@
       <jump line="31" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/parker/urls.py" />
       <jump line="326" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/treasury/project/apps/vault/models.py" />
       <jump line="187" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="10" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/urls.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
+      <jump line="381" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="516" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="326" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="517" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="523" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="525" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="404" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="727" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="1226" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="24" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/urls.py" />
+      <jump line="138" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" />
+      <jump line="129" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="447" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="377" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="376" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="363" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="354" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="345" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="343" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="328" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="300" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="295" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="290" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="285" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="275" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="271" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="267" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="259" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="248" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="243" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/utils.py" />
+      <jump line="728" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/utils.py" />
+      <jump line="704" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="790" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="796" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="829" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="852" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="864" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="919" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="932" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="933" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="953" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="936" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="470" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
+      <jump line="244" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
+      <jump line="324" column="57" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="249" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="209" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="224" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="233" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="241" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="250" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="255" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="262" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="264" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="275" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="281" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="287" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
+      <jump line="265" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="40" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="270" column="62" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="36" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" />
+      <jump line="266" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="31" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
+      <jump line="26" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/rest_framework/test.py" />
+      <jump line="20" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" />
+      <jump line="12" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/tests.py" />
+      <jump line="42" column="62" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>get_sensitive_data_cache</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnc2V0dGluZyBjYWNoZScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get_sensitive_data_cache</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>sensitive_da</text>
+        <text>create_and</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5JTkNMVURFX1BMTjoK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuYXV0aGVudGljYXRlZF9yZXF1ZXN0KAogICAgICAgICAgICBzZWxmLmNsaWVudC5nZXQsIGRlbGl2ZXJ5X2F0dGFjaG1lbnRfZGVsaXZlcnlfbGlzdF91cmwsIGZvcm1hdD0ianNvbiIKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UExOX0NPTlZFUlNJT05fRU5BQkxFRCA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnc2V0dGluZyBjYWNoZScpCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5DTFVERV9QTE4gPSBGYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS5kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UExOX0NPTlZFUlNJT05fRU5BQkxFRCA9IEZhbHNlCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaF9vcmRlci5yZWZyZXNoX2Zyb21fZGIoKQogICAgICAgIGF0dGFjaG1lbnQgPSBkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV9hdHRhY2htZW50Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCB0YXNrcyB0byBxdWV1ZSBhZnRlciBzYXZlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydERpY3RFcXVhbChyZXNwb25zZS5qc29uKCksIGV4cGVjdGVkX3Jlc3BvbnNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRfdG9fcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UsIG51bGw9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRfdG9fcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UsIG51bGw9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXNwb25zZSA9IHsKICAgICAgICAgICAgImlkIjogZGlzcGF0Y2hfb3JkZXIuZGVsaXZlcnlfYXR0YWNobWVudC5pZCwKICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiBsb2NhbHRpbWUoYXR0YWNobWVudC5jcmVhdGVkX2F0KS5pc29mb3JtYXQoKSwKICAgICAgICAgICAgImRpc3BhdGNoX29yZGVyc19kZWxpdmVyeV9pZHMiOiBbCiAgICAgICAgICAgICAgICBpbnQoZGVsaXZlcnlfaWQpCiAgICAgICAgICAgICAgICBmb3IgZGVsaXZlcnlfaWQgaW4gYXR0YWNobWVudC5kaXNwYXRjaF9vcmRlcnNfZGVsaXZlcnlfaWRzCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJkb3dubG9hZF9saW5rX2V4cGlyYXRpb25fZGF0ZSI6IGxvY2FsdGltZSgKICAgICAgICAgICAgICAgIGF0dGFjaG1lbnQuZG93bmxvYWRfbGlua19leHBpcmF0aW9uX2RhdGUKICAgICAgICAgICAgKS5pc29mb3JtYXQoKSwKICAgICAgICAgICAgIm5hbWUiOiBhdHRhY2htZW50Lm5hbWUsCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXlfcGxuID0gbW9kZWxzLkJvb2xlYW5GaWVsZCh1J1ByemVsaWN6IGRvIFBMTicsIGRlZmF1bHQ9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -370,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sensitive_da</last-search>
+      <last-search>create_and</last-search>
       <last-offset />
-      <last-pattern>sensitive_da</last-pattern>
+      <last-pattern>create_and</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>models</last-substitute>
       <last-dir>1</last-dir>
