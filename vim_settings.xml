@@ -161,12 +161,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" timestamp="1589800238298">
-        <mark key="'" line="55" column="17" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
-        <mark key="^" line="246" column="104" />
+      <file name="/start_script.py" timestamp="1589872800529">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/schema.py" timestamp="1589808556099">
         <mark key="'" line="33" column="23" />
@@ -180,13 +176,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" timestamp="1589807184508">
         <mark key="'" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tests/test_tasks.py" timestamp="1589798269076">
-        <mark key="'" line="153" column="24" />
-        <mark key="[" line="231" column="24" />
-        <mark key="]" line="231" column="24" />
-        <mark key="." line="231" column="24" />
-        <mark key="^" line="231" column="23" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/mappings.py" timestamp="1589811337948">
         <mark key="'" line="81" column="25" />
         <mark key="[" line="84" column="65" />
@@ -198,23 +187,25 @@
         <mark key="'" line="158" column="14" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible/group_vars/all.yml" timestamp="1589807630357" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" timestamp="1589791516930">
-        <mark key="'" line="287" column="0" />
-        <mark key="[" line="627" column="2" />
-        <mark key="]" line="633" column="8" />
-        <mark key="." line="524" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589871126698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/paypal/ipn/schema.py" timestamp="1589803784852" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/dotpay/__init__.py" timestamp="1589807137608" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1589790159246">
-        <mark key="'" line="936" column="33" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" timestamp="1589872103799">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1589871513061" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" timestamp="1589791788701">
-        <mark key="'" line="12" column="19" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1589872011261">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1589872275946" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/dotpay/__init__.py" timestamp="1589807137608" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1589872347652">
+        <mark key="'" line="54" column="39" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589800680891">
         <mark key="'" line="47" column="8" />
@@ -228,32 +219,8 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1589794018982">
-        <mark key="'" line="324" column="57" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="28" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1589796699807">
-        <mark key="'" line="704" column="30" />
-        <mark key="[" line="868" column="19" />
-        <mark key="]" line="868" column="39" />
-        <mark key="." line="868" column="38" />
-        <mark key="^" line="868" column="39" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="447" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="160" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="377" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="376" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="363" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="354" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="345" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="343" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="328" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="300" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="295" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
@@ -344,12 +311,22 @@
       <jump line="158" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/config.py" />
       <jump line="33" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/schema.py" />
       <jump line="81" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/mappings.py" />
+      <jump line="148" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="179" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="54" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -361,34 +338,34 @@
         <text encoding="base64">ICAgIDIzMzogQ2hhbm5lbCgiT3JhbmdlIiwgUENCX01FVEhPRC5NT0JJTEUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDIzMzogQ2hhbm5lbCgiT3JhbmdlIiwgUENCX01FVEhPRC5NT0JJTEUpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDU5OiBDaGFubmVsKCJULU1vYmlsZSIsIFBDQl9NRVRIT0QuRV9XQUxMRVQpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
+        <text encoding="base64">ZGVmIHNldF9zZW5zaXRpdmVfZGF0YV9jYWNoZShzZW5zaXRpdmVfZGF0YTogZGljdCkgLT4gc3RyOgogICAgIiIiCiAgICBQdXQgc2Vuc2l0aXZlIGRhdGEgdG8gY2FjaGUuIEVhY2ggZGlzcGF0Y2ggb3JkZXIgaGF2ZSBzZXBhcmF0ZSBrZXkuCiAgICA6cGFyYW0gc2Vuc2l0aXZlX2RhdGE6CiAgICAiIiIKCiAgICBjYWNoZS5zZXRfbWFueShzZW5zaXRpdmVfZGF0YSwgdGltZW91dD0zMDApCgoKZGVmIGdldF9jYWNoZV9zZW5zaXRpdmVfZGF0YShkaXNwYXRjaF9vcmRlcnM6IExpc3RbRGlzcGF0Y2hPcmRlcl0pOgogICAgIiIiCiAgICBHZXQgc2Vuc2l0aXZlX2RhdGEgZnJvbSBjYWNoZSBmb3IgbGlzdCBvZiBkaXNwdGF0Y2ggb3JkZXJzLiBJZiBhbnkKICAgIG9mIGRpc3BhdGNoIG9yZGVycyBkb2VzIG5vdCBleGlzdHMgaW4gY2FjaGUgcmV0dXJuIE5vbmUKICAgIDpwYXJhbSBkaXNwYXRjaF9vcmRlcnM6IGxpc3Qgb2YgZGlzcGF0Y2ggb3JkZXJzCiAgICA6cmV0dXJuOiBzZW5zaXZlIGRhdGEgZGljdGlvbmFyeQogICAgIiIiCgogICAgZGVmIGFsbF9rZXlzX2V4aXN0cyhkaXNwYXRjaF9vcmRlcnNfaWRzLCBzZW5zaXRpdmVfZGF0YSk6CiAgICAgICAgcmV0dXJuIHNldChkaXNwYXRjaF9vcmRlcnNfaWRzKS5pc3N1YnNldChzZW5zaXRpdmVfZGF0YS5rZXlzKCkpCgogICAgZGlzcGF0Y2hfb3JkZXJzX2lkcyA9IFtkby5kaXNwYXRjaF9vcmRlcl9pZCBmb3IgZG8gaW4gZGlzcGF0Y2hfb3JkZXJzXQogICAgc2Vuc2l0aXZlX2RhdGEgPSBjYWNoZS5nZXRfbWFueShkaXNwYXRjaF9vcmRlcnNfaWRzKQoKICAgIHJldHVybiAoCiAgICAgICAgc2Vuc2l0aXZlX2RhdGEgaWYgYWxsX2tleXNfZXhpc3RzKGRpc3BhdGNoX29yZGVyc19pZHMsIHNlbnNpdGl2ZV9kYXRhKSBlbHNlIE5vbmUKICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
+        <text encoding="base64">ICAgIHNldF9zZW5zaXRpdmVfZGF0YV9jYWNoZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
+        <text encoding="base64">ICAgIDIzMzogQ2hhbm5lbCgiT3JhbmdlIiwgUENCX01FVEhPRC5NT0JJTEUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
+        <text encoding="base64">ICAgIDU5OiBDaGFubmVsKCJULU1vYmlsZSIsIFBDQl9NRVRIT0QuRV9XQUxMRVQpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fQo=</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
