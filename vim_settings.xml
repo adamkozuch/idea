@@ -176,7 +176,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1589876624288" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/schema.py" timestamp="1589876626523">
         <mark key="'" line="33" column="23" />
       </file>
@@ -188,12 +187,14 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1589873951310" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" timestamp="1589807184508">
         <mark key="'" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1589874085628">
         <mark key="'" line="42" column="15" />
+      </file>
+      <file name="/" timestamp="1589888711161">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/manage.py@dispatch-register-2" timestamp="1589874240764">
         <mark key="[" line="0" column="0" />
@@ -233,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="728" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="27" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/utils.py" />
       <jump line="704" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="790" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
@@ -333,6 +333,7 @@
       <jump line="32" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" />
       <jump line="89" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
       <jump line="103" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
+      <jump line="26" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -392,7 +393,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>231</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
