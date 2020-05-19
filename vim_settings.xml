@@ -35,7 +35,6 @@
         <entry>%s/gateway/super/g</entry>
         <entry>%s/models/nnnnnn/g</entry>
         <entry>we</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>wk</entry>
         <entry>kw</entry>
@@ -43,9 +42,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>e</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -194,9 +194,6 @@
         <mark key="^" line="92" column="22" />
         <mark key="." line="84" column="65" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/urls.py" timestamp="1589789576867">
-        <mark key="'" line="24" column="29" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/config.py" timestamp="1589807293166">
         <mark key="'" line="158" column="14" />
       </file>
@@ -207,7 +204,7 @@
         <mark key="]" line="633" column="8" />
         <mark key="." line="524" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589811519482">
+      <file name="/Dummy.txt" timestamp="1589871126698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/paypal/ipn/schema.py" timestamp="1589803784852" />
@@ -215,6 +212,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1589790159246">
         <mark key="'" line="936" column="33" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1589871513061" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" timestamp="1589791788701">
         <mark key="'" line="12" column="19" />
       </file>
@@ -224,8 +222,11 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/routers.py" timestamp="1589789583836">
-        <mark key="'" line="138" column="22" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1589871311339">
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="48" column="27" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1589794018982">
         <mark key="'" line="324" column="57" />
@@ -348,10 +349,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMgcmF0eSB6IGFsaW9yIGJhbmtpZW0=</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgcmF0eSB6IGFsaW9yIGJhbmtpZW0=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>231</text>
