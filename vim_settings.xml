@@ -27,7 +27,6 @@
         <entry>231</entry>
       </history-search>
       <history-cmd>
-        <entry>set is</entry>
         <entry>set mps</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>set surround</entry>
@@ -47,6 +46,7 @@
         <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -180,9 +180,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/schema.py" timestamp="1589876626523">
         <mark key="'" line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/schema.py" timestamp="1589803548999">
-        <mark key="'" line="14" column="4" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" timestamp="1589877168073">
         <mark key="'" line="114" column="39" />
       </file>
@@ -201,11 +198,18 @@
       <file name="/manage.py@dispatch-register-2" timestamp="1589874240764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1589871311339">
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="27" />
-        <mark key="." line="48" column="26" />
-        <mark key="^" line="48" column="27" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589884680480">
+        <mark key="'" line="89" column="20" />
+        <mark key="[" line="91" column="14" />
+        <mark key="]" line="91" column="20" />
+        <mark key="." line="91" column="19" />
+        <mark key="^" line="91" column="20" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1589884690892">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/mappings.py" timestamp="1589811337948">
         <mark key="'" line="81" column="25" />
@@ -220,18 +224,15 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible/group_vars/all.yml" timestamp="1589876626523">
         <mark key="'" line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1589883126668">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="80" column="30" />
-        <mark key="^" line="80" column="30" />
-        <mark key="." line="80" column="29" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1589884472186">
+        <mark key="'" line="652" column="0" />
+        <mark key="[" line="649" column="33" />
+        <mark key="]" line="649" column="38" />
+        <mark key="^" line="649" column="38" />
+        <mark key="." line="649" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="254" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="248" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
-      <jump line="243" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="29" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/utils.py" />
       <jump line="728" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="27" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/utils.py" />
@@ -328,15 +329,19 @@
       <jump line="11" column="17" filename="$USER_HOME$/.PyCharm2019.2/system/remote_sources/2042133030/-1382175924/requests/exceptions.py" />
       <jump line="39" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible/group_vars/all.yml" />
       <jump line="38" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible/group_vars/all.yml" />
+      <jump line="641" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="652" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="32" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" />
+      <jump line="89" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>231</text>
@@ -375,7 +380,7 @@
         <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
