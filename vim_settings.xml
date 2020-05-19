@@ -43,10 +43,10 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -375,7 +375,7 @@
         <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleBookmarkWithMnemonic</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
