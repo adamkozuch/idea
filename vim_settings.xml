@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,7 +167,7 @@
       <file name="$USER_HOME$/.PyCharm2019.2/system/remote_sources/2042133030/-1382175924/requests/exceptions.py" timestamp="1589874746508">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589875550986">
+      <file name="/Dummy.txt" timestamp="1589881647976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" timestamp="1589872103799">
@@ -201,12 +201,6 @@
       <file name="/manage.py@dispatch-register-2" timestamp="1589874240764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589800680891">
-        <mark key="'" line="47" column="8" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1589871311339">
         <mark key="[" line="48" column="27" />
         <mark key="]" line="48" column="27" />
@@ -225,6 +219,12 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible/group_vars/all.yml" timestamp="1589876626523">
         <mark key="'" line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1589881244417">
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="80" column="30" />
+        <mark key="^" line="80" column="30" />
+        <mark key="." line="80" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -375,7 +375,7 @@
         <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9eydkZWZhdWx0JzogeydCQUNLRU5EJzogJ2RqYW5nby5jb3JlLmNhY2hlLmJhY2tlbmRzLmxvY21lbS5Mb2NNZW1DYWNoZSd9fSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
