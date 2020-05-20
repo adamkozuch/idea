@@ -210,12 +210,12 @@
       <file name="/manage.py@dispatch-register-2" timestamp="1589874240764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589968232280">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589968835071">
         <mark key="'" line="25" column="16" />
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="20" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="25" column="20" />
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1589964329724">
         <mark key="[" line="25" column="4" />
@@ -359,10 +359,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>.set_sensitive_data_cache.cache.set_many</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.set_sensitive_data_cache.cache.set_many</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
