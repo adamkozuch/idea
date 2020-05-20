@@ -182,8 +182,8 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="RecentChangedFiles" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="RenameElement">
@@ -249,6 +249,9 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
