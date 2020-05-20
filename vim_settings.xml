@@ -181,9 +181,6 @@
         <mark key="." line="115" column="44" />
         <mark key="^" line="115" column="45" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/schema.py" timestamp="1589876626523">
-        <mark key="'" line="33" column="23" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker/scripts/crypto/generate-crypto-definitions.sh" timestamp="1589964210131">
         <mark key="[" line="37" column="35" />
         <mark key="]" line="37" column="35" />
@@ -201,10 +198,10 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1589964753302">
         <mark key="'" line="10" column="60" />
-        <mark key="[" line="181" column="21" />
-        <mark key="]" line="181" column="45" />
-        <mark key="." line="181" column="44" />
-        <mark key="^" line="181" column="45" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="45" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" timestamp="1589975214518">
         <mark key="'" line="39" column="25" />
@@ -213,24 +210,21 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1589964422956">
-        <mark key="[" line="69" column="37" />
-        <mark key="]" line="69" column="52" />
-        <mark key="^" line="69" column="52" />
-        <mark key="." line="69" column="51" />
-      </file>
       <file name="/" timestamp="1589901674449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1589964882405">
         <mark key="'" line="935" column="22" />
       </file>
+      <file name="/manage.py@dispatch-register-2" timestamp="1589977618538">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589968940092">
-        <mark key="'" line="25" column="16" />
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="23" column="60" />
-        <mark key="." line="23" column="59" />
-        <mark key="^" line="23" column="60" />
+        <mark key="'" line="27" column="16" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="59" />
+        <mark key="^" line="5" column="60" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/base.py" timestamp="1589973230710">
         <mark key="'" line="36" column="8" />
@@ -239,9 +233,6 @@
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="28" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1589966222245">
-        <mark key="'" line="175" column="50" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1589967171798">
         <mark key="'" line="56" column="29" />
@@ -253,12 +244,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible/group_vars/all.yml" timestamp="1589876626523">
         <mark key="'" line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1589884472186">
-        <mark key="'" line="652" column="0" />
-        <mark key="[" line="649" column="33" />
-        <mark key="]" line="649" column="38" />
-        <mark key="^" line="649" column="38" />
-        <mark key="." line="649" column="37" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1589977597046">
+        <mark key="'" line="654" column="0" />
+        <mark key="[" line="558" column="30" />
+        <mark key="]" line="558" column="30" />
+        <mark key="^" line="558" column="31" />
+        <mark key="." line="558" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -367,10 +358,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X29wZXJhdG9yXD4=</text>
@@ -379,34 +370,34 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGFbIm9wZXJhdG9yIl0sICJNb25leU1hdHJpeCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vdGlmaWNhdGlvbi5kYXRhWyJBY3Rpb24iXSA9IE1vbmV5TWF0cml4QWN0aW9uLlJFRlVORAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5vdGlmaWNhdGlvbi5kYXRhWyJBY3Rpb24iXSA9IE1vbmV5TWF0cml4QWN0aW9uLlJFRlVORAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fcGF5bWVudF92ZW5kb3JfaXNfbWlzc2luZ19jb250cmFjdG9yX2lzX3VzZWRfaW5zdGVhZChzZWxmKToKICAgICAgICBzZWxmLm5vdGlmaWNhdGlvbi5kYXRhWyJBY3Rpb24iXSA9IE1vbmV5TWF0cml4QWN0aW9uLlJFRlVORAogICAgICAgIHByb2Nlc3NvciA9IE1vbmV5TWF0cml4Tm90aWZpY2F0aW9uUHJvY2Vzc29yKG5vdGlmaWNhdGlvbj1zZWxmLm5vdGlmaWNhdGlvbikKICAgICAgICBkYXRhID0gcHJvY2Vzc29yLmdldF9kYXRhKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGFbImFtb3VudCJdLCBEZWNpbWFsKC0xMC4wKS5xdWFudGl6ZShEZWNpbWFsKCIuMDEiKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgb3ZlcnJpZGVfc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fcGF5bWVudF92ZW5kb3JfaXNfbWlzc2luZ19jb250cmFjdG9yX2lzX3VzZWRfaW5zdGVhZChzZWxmKToKICAgICAgICBzZWxmLm5vdGlmaWNhdGlvbi5kYXRhWyJBY3Rpb24iXSA9IE1vbmV5TWF0cml4QWN0aW9uLlJFRlVORAogICAgICAgIHByb2Nlc3NvciA9IE1vbmV5TWF0cml4Tm90aWZpY2F0aW9uUHJvY2Vzc29yKG5vdGlmaWNhdGlvbj1zZWxmLm5vdGlmaWNhdGlvbikKICAgICAgICBkYXRhID0gcHJvY2Vzc29yLmdldF9kYXRhKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGFbImFtb3VudCJdLCBEZWNpbWFsKC0xMC4wKS5xdWFudGl6ZShEZWNpbWFsKCIuMDEiKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy51dGlscyBpbXBvcnQgc2V0X3NlbnNpdGl2ZV9kYXRhX2NhY2hlCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgb3ZlcnJpZGVfc2V0dGluZ3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy51dGlscyBpbXBvcnQgZ2V0X2NhY2hlX3NlbnNpdGl2ZV9kYXRhCg==</text>
+        <text encoding="base64">ZnJvbSB1dGlscy51dGlscyBpbXBvcnQgc2V0X3NlbnNpdGl2ZV9kYXRhX2NhY2hlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy51dGlscyBpbXBvcnQgZ2V0X2NhY2hlX3NlbnNpdGl2ZV9kYXRhLCBzZXRfc2Vuc2l0aXZlX2RhdGFfY2FjaGUK</text>
+        <text encoding="base64">ZnJvbSB1dGlscy51dGlscyBpbXBvcnQgZ2V0X2NhY2hlX3NlbnNpdGl2ZV9kYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
