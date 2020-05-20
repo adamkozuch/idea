@@ -170,11 +170,8 @@
       <file name="/Dummy.txt" timestamp="1589966691947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" timestamp="1589872103799">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1589970951911">
+        <mark key="'" line="51" column="27" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/schema.py" timestamp="1589876626523">
         <mark key="'" line="33" column="23" />
@@ -184,6 +181,9 @@
         <mark key="]" line="37" column="35" />
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="35" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/schema.py" timestamp="1589970347491">
+        <mark key="'" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" timestamp="1589877168073">
         <mark key="'" line="114" column="39" />
@@ -195,6 +195,7 @@
         <mark key="." line="181" column="44" />
         <mark key="^" line="181" column="45" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" timestamp="1589970459986" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1589964422956">
         <mark key="[" line="69" column="37" />
         <mark key="]" line="69" column="52" />
@@ -207,30 +208,20 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1589964882405">
         <mark key="'" line="935" column="22" />
       </file>
-      <file name="/manage.py@dispatch-register-2" timestamp="1589874240764">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589968835071">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1589968940092">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="33" />
-        <mark key="^" line="25" column="34" />
+        <mark key="]" line="23" column="60" />
+        <mark key="." line="23" column="59" />
+        <mark key="^" line="23" column="60" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/base.py" timestamp="1589971048831">
+        <mark key="'" line="180" column="8" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1589964329724">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="28" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/dotpay/mappings.py" timestamp="1589811337948">
-        <mark key="'" line="81" column="25" />
-        <mark key="[" line="84" column="65" />
-        <mark key="]" line="84" column="65" />
-        <mark key="^" line="92" column="22" />
-        <mark key="." line="84" column="65" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/config.py" timestamp="1589807293166">
-        <mark key="'" line="158" column="14" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1589966222245">
         <mark key="'" line="175" column="50" />
@@ -254,12 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
-      <jump line="264" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
-      <jump line="275" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
-      <jump line="281" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
-      <jump line="287" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_attachments.py" />
-      <jump line="265" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="40" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="270" column="62" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_portal_api_integrity/test_delivery_attachments.py" />
       <jump line="36" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" />
@@ -354,6 +339,12 @@
       <jump line="56" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="35" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" />
       <jump line="26" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
+      <jump line="16" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/schema.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" />
+      <jump line="51" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="341" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/base.py" />
+      <jump line="247" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/base.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -365,7 +356,7 @@
         <text>.set_sensitive_data_cache.cache.set_many</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text encoding="base64">XDxnZXRfZGF0YVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHBhdGNoKCJkaXNwYXRjaF9vcmRlcnMuc2Vuc2l0aXZlX2RhdGEuc29rX2FwaV9jbGllbnQuZ2V0X29yZGVycyIpCg==</text>
@@ -413,7 +404,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>231</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
