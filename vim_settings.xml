@@ -41,11 +41,11 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>action GotoFile</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>action Run</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -242,12 +242,12 @@
         <mark key="." line="150" column="0" />
         <mark key="^" line="149" column="24" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1590070219374">
-        <mark key="'" line="49" column="11" />
-        <mark key="[" line="54" column="54" />
-        <mark key="]" line="54" column="55" />
-        <mark key="." line="54" column="54" />
-        <mark key="^" line="54" column="55" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1590071169903">
+        <mark key="'" line="91" column="39" />
+        <mark key="[" line="89" column="63" />
+        <mark key="]" line="89" column="77" />
+        <mark key="." line="89" column="76" />
+        <mark key="^" line="89" column="77" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1590069182491">
         <mark key="[" line="51" column="0" />
@@ -257,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible/group_vars/all.yml" />
       <jump line="641" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="652" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="32" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" />
@@ -357,15 +356,16 @@
       <jump line="74" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
       <jump line="49" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
       <jump line="35" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
+      <jump line="91" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -374,34 +374,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbZG8ub3JkZXJfaWQgZm9yIGRvIGluIHNlbGYuZGlzcGF0Y2hfb3JkZXJzXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRpc3BhdGNoX29yZGVycykK</text>
+        <text encoding="base64">ICAgICAgICBzZXRfc2Vuc2l0aXZlX2RhdGFfY2FjaGUoc2Vuc2l0aXZlX2RhdGEpCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy51dGlscyBpbXBvcnQgZ2V0X2NhY2hlX3Nva19vcmRlcnMsIHNldF9jYWNoZV9zb2tfb3JkZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRpc3BhdGNoX29yZGVycykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJGYWN0b3J5LAo=</text>
+        <text encoding="base64">ZnJvbSB1dGlscy51dGlscyBpbXBvcnQgZ2V0X2NhY2hlX3Nva19vcmRlcnMsIHNldF9jYWNoZV9zb2tfb3JkZXJzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMuc2Vuc2l0aXZlX2RhdGEgaW1wb3J0IFNlbnNpdGl2ZURhdGFEb3dubG9hZGVyCg==</text>
+        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJGYWN0b3J5LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgb3ZlcnJpZGVfc2V0dGluZ3MK</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMuc2Vuc2l0aXZlX2RhdGEgaW1wb3J0IFNlbnNpdGl2ZURhdGFEb3dubG9hZGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiY2FjaGVkICIsIGNhY2hlZF9vcmRlcnMpCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgb3ZlcnJpZGVfc2V0dGluZ3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdjYWxsaW5nIHNlbnNpdGl2ZSBkYXRhJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiY2FjaGVkICIsIGNhY2hlZF9vcmRlcnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNlbnNpdGl2ZV9kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdjYWxsaW5nIHNlbnNpdGl2ZSBkYXRhJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnZ2V0dGluZyBjYWNoZScsIHNlbnNpdGl2ZV9kYXRhX3dpdGhfcHJlZml4KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNlbnNpdGl2ZV9kYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
