@@ -28,7 +28,6 @@
       </history-search>
       <history-cmd>
         <entry>set mps</entry>
-        <entry>action ToggleLineBreakpoint</entry>
         <entry>set surround</entry>
         <entry>s%/gateway/super/g</entry>
         <entry>%s/gateway/super/g</entry>
@@ -43,10 +42,11 @@
         <entry>wq</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action Run</entry>
         <entry>action RecentFiles</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
+        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -391,7 +391,7 @@
         <text encoding="base64">ICAgICAgICAjIGhvdCB0byB0ZXN0IHRoaXMgb25lCiAgICAgICAgY2xpZW50ID0gQVBJUmVxdWVzdEZhY3RvcnkoKQogICAgICAgIHVybCA9IHJldmVyc2UoImFzc2lnbi1pc3N1ZS10by1wYXltZW50Iiwga3dhcmdzPXsncGsnOjF9KQogICAgICAgIHJlcXVlc3QgPSBjbGllbnQucG9zdCh1cmwpCiAgICAgICAgdXNlciA9IFVzZXIub2JqZWN0cy5jcmVhdGVfdXNlcigidGVzdCIsICJ0ZXN0QHRlc3QuY29tIiwgInBhc3N3b3JkIikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
     </registers>
   </component>
