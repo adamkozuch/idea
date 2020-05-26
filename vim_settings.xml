@@ -40,13 +40,13 @@
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>shell adam</entry>
         <entry>shell</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -186,10 +186,6 @@
         <mark key="[" line="210" column="0" />
         <mark key="]" line="212" column="66" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1590058375954">
-        <mark key="[" line="86" column="14" />
-        <mark key="]" line="86" column="36" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1590488181683">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="11" />
@@ -217,18 +213,24 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="38" column="9" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1590487064805">
-        <mark key="'" line="174" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1590491807064">
+        <mark key="'" line="87" column="68" />
         <mark key="y" line="107" column="62" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="203" column="52" />
+        <mark key="." line="57" column="21" />
+        <mark key="^" line="57" column="22" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1590479310963">
         <mark key="'" line="48" column="13" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590491774911">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tests/test_tasks.py" timestamp="1590078536230">
         <mark key="'" line="163" column="43" />
@@ -250,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
       <jump line="31" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
       <jump line="183" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
       <jump line="176" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
@@ -350,54 +351,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/tests.py" />
       <jump line="167" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="179" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
+      <jump line="87" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>[PCB2-504] Preventing overriding of cookie in Transaction with empty string and better error handling in synchronize_with_sok</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gc2VsZi5yZXF1ZXN0X2ZhY3RvcnkucG9zdCgKICAgICAgICAgICAgcmV2ZXJzZSgicGF5bWVudHMiKSwgZGF0YT17InRyYW5zYWN0aW9uX3RpZF9leHRlcm5hbCI6IDF9CiAgICAgICAgKQogICAgICAgIHJlcXVlc3QudXNlciA9IHNlbGYudXNlcgogICAgICAgIGNvbnRyYWN0b3IgPSBDb250cmFjdG9yRmFjdG9yeSgpCiAgICAgICAgbm90aWZpY2F0aW9uID0gTm90aWZpY2F0aW9uRmFjdG9yeSgKICAgICAgICAgICAgY29udHJhY3Rvcj1jb250cmFjdG9yLCBvcGVyYXRvcj0iUGF5UGFsIiwgYmxvY2thZGVfYW1vdW50PS0xMAogICAgICAgICkKICAgICAgICBpc3N1ZSA9IElzc3VlRmFjdG9yeSgKICAgICAgICAgICAgbW9zdF9zaWduaWZpY2FudF9ub3RpZmljYXRpb249bm90aWZpY2F0aW9uLCBjb250cmFjdG9yPWNvbnRyYWN0b3IKICAgICAgICApCiAgICAgICAgQWN0aW9uRmFjdG9yeShjb250cmFjdG9yPWNvbnRyYWN0b3IsIHRpZF9leHRlcm5hbD0xKQogICAgICAgIHJlc3BvbnNlID0gQXNzaWduSXNzdWVUb1BheW1lbnQuYXNfdmlldygpKHJlcXVlc3QsIGlzc3VlLnBrKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHJlc3BvbnNlLnN0YXR1c19jb2RlLCAyMDApCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRjaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>set_cache_sok_orders</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gc2VsZi5yZXF1ZXN0X2ZhY3RvcnkucG9zdCgKICAgICAgICAgICAgcmV2ZXJzZSgicGF5bWVudHMiKSwgZGF0YT17InRyYW5zYWN0aW9uX3RpZF9leHRlcm5hbCI6IDF9CiAgICAgICAgKQogICAgICAgIHJlcXVlc3QudXNlciA9IHNlbGYudXNlcgogICAgICAgIGNvbnRyYWN0b3IgPSBDb250cmFjdG9yRmFjdG9yeSgpCiAgICAgICAgbm90aWZpY2F0aW9uID0gTm90aWZpY2F0aW9uRmFjdG9yeSgKICAgICAgICAgICAgY29udHJhY3Rvcj1jb250cmFjdG9yLCBvcGVyYXRvcj0iUGF5UGFsIiwgYmxvY2thZGVfYW1vdW50PS0xMAogICAgICAgICkKICAgICAgICBpc3N1ZSA9IElzc3VlRmFjdG9yeSgKICAgICAgICAgICAgbW9zdF9zaWduaWZpY2FudF9ub3RpZmljYXRpb249bm90aWZpY2F0aW9uLCBjb250cmFjdG9yPWNvbnRyYWN0b3IKICAgICAgICApCiAgICAgICAgQWN0aW9uRmFjdG9yeShjb250cmFjdG9yPWNvbnRyYWN0b3IsIHRpZF9leHRlcm5hbD0xKQogICAgICAgIHJlc3BvbnNlID0gQXNzaWduSXNzdWVUb1BheW1lbnQuYXNfdmlldygpKHJlcXVlc3QsIGlzc3VlLnBrKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHJlc3BvbnNlLnN0YXR1c19jb2RlLCAyMDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text>[PCB2-504] Preventing overriding of cookie in Transaction with empty string and better error handling in synchronize_with_sok</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCkK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRyYW5zYWN0aW9uRmFjdG9yeSwK</text>
+        <text encoding="base64">ICAgICAgICBmcm8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBheW1lbnRGYWN0b3J5LAo=</text>
+        <text>[PCB2-504] Preventing overriding of cookie in Transaction with empty string and better error handling in synchronize_with_sok</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEN1cnJlbmN5RmFjdG9yeSwK</text>
+        <text encoding="base64">ICAgIFRyYW5zYWN0aW9uRmFjdG9yeSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
+        <text encoding="base64">ICAgIFBheW1lbnRGYWN0b3J5LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
+        <text encoding="base64">ICAgIEN1cnJlbmN5RmFjdG9yeSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBBY3Rpb25GYWN0b3J5KGNvbnRyYWN0b3I9Y29udHJhY3RvciwgdGlkX2V4dGVybmFsPTEpCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGN1cnJlbmN5ID0gQ3VycmVuY3lGYWN0b3J5KCkK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLgo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBBY3Rpb25GYWN0b3J5KGNvbnRyYWN0b3I9Y29udHJhY3RvciwgdGlkX2V4dGVybmFsPTEpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
