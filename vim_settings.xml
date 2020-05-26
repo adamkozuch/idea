@@ -27,8 +27,6 @@
         <entry encoding="base64">XDxwYXRjaFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>set mps</entry>
-        <entry>set surround</entry>
         <entry>s%/gateway/super/g</entry>
         <entry>%s/gateway/super/g</entry>
         <entry>%s/models/nnnnnn/g</entry>
@@ -47,6 +45,8 @@
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>shell adam</entry>
+        <entry>shell</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -189,6 +189,9 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1590058375954">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1590488011680">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1590069914019">
         <mark key="'" line="52" column="48" />
@@ -391,7 +394,7 @@
         <text encoding="base64">ICAgICAgICBkYXRhLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>shell</text>
       </register>
     </registers>
   </component>
