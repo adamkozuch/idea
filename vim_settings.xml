@@ -42,11 +42,11 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>q</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>shell adam</entry>
         <entry>shell</entry>
+        <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -190,8 +190,11 @@
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1590488011680">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1590488181683">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1590069914019">
         <mark key="'" line="52" column="48" />
@@ -394,7 +397,7 @@
         <text encoding="base64">ICAgICAgICBkYXRhLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>shell</text>
+        <text>action Run</text>
       </register>
     </registers>
   </component>
