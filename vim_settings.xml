@@ -45,8 +45,8 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -186,11 +186,10 @@
         <mark key="[" line="210" column="0" />
         <mark key="]" line="212" column="66" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1590499747861">
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="28" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1590501401983">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1590069914019">
         <mark key="'" line="52" column="48" />
@@ -357,50 +356,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>sum()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhyZXNwb25zZS5zdGF0dXNfY29kZSwgMjAwKQo=</text>
+        <text encoding="base64">ICAgIGFyci5hcHBlbmQoMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdW1fbGVmdCwgc3VtX21pZCwgc3VtX3JpZ2h0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHByZWZpeF9zdW1bbGVmdF0gCg==</text>
+        <text encoding="base64">YXJyLmFwcGVuZCgxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWZpeF9zdW1bY2xvc2VzdF9pZHhdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdW1fbGVmdCwgc3VtX21pZCwgc3VtX3JpZ2h0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1pZCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnWlpaWlonLCBwcmVmaXhfc3VtW3JpZ2h0IC0gMV0sIHByZWZpeF9zdW1bbGVmdCArIDFdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhyZXNwb25zZS5jb250ZW50ICwyMDApCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1pZCkKICAgIHByaW50KEFbbGVmdF0sIEFbcmlnaHRdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
+        <text encoding="base64">ICAgICMgbGVmdCwgcmlnaHQgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KEFbbGVmdF0sIEFbcmlnaHRdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCdjb2RlJykK</text>
+        <text encoding="base64">ICAgIHByaW50KG1pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpb25GYWN0b3J5KGNvbnRyYWN0b3I9Y29udHJhY3RvciwgdGlkX2V4dGVybmFsPTEpCg==</text>
+        <text encoding="base64">ICAgIGlmIGFicyhBW2xlZnQgLSAxXSAtIEFbY2xvc2VzdF9pZHhdKSA+IGFicyhBW2xlZnQgLSAxXSAtIEFbY2xvc2VzdF9pZHhdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
