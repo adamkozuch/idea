@@ -45,8 +45,8 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action Run</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -245,7 +245,7 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_sending_accounting_to_sok.py" timestamp="1590566127433">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_sending_accounting_to_sok.py" timestamp="1590584505619">
         <mark key="'" line="315" column="35" />
         <mark key="[" line="314" column="24" />
         <mark key="]" line="314" column="24" />
@@ -400,7 +400,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGF5bWVudHMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
