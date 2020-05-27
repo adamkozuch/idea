@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>95</entry>
         <entry>231</entry>
         <entry encoding="base64">XDxMb2dpc3RpY1BhcnRuZXJzRGlzcGF0Y2hPcmRlck1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRfY2FjaGVfc2Vuc2l0aXZlX2RhdGFcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>pytz</entry>
         <entry>mock</entry>
         <entry encoding="base64">XDxwYXRjaFw+</entry>
+        <entry>PaymentVe</entry>
       </history-search>
       <history-cmd>
         <entry>s%/gateway/super/g</entry>
@@ -169,6 +169,9 @@
         <mark key="'" line="100" column="9" />
         <mark key="o" line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1590568194967">
+        <mark key="'" line="46" column="0" />
+      </file>
       <file name="/manage.py@dispatch-register-2" timestamp="1590086606329">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,13 +202,6 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1590069914019">
-        <mark key="'" line="52" column="48" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1590566134658">
         <mark key="'" line="688" column="15" />
@@ -255,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" />
       <jump line="819" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="550" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="545" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
@@ -355,6 +350,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/sok_accounting.py" />
       <jump line="688" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-103273844/-1227933812/django/forms/models.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,7 +362,7 @@
         <text>(mock_update_accounting.call_count, 0)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRjaFw+</text>
+        <text>PaymentVe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250cmFjdG9yID0gQ29udHJhY3RvckZhY3RvcnkoKQo=</text>
@@ -408,13 +404,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYXRjaFw+</last-search>
+      <last-search>PaymentVe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRjaFw+</last-pattern>
+      <last-pattern>PaymentVe</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>231</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
