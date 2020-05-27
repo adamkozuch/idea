@@ -43,9 +43,9 @@
         <entry>shell adam</entry>
         <entry>shell</entry>
         <entry>action GotoFile</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Run</entry>
+        <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -164,28 +164,42 @@
       <file name="/start_script.py" timestamp="1590082671175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590486704743">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/issue_assign_to_payment.html" timestamp="1590563406403" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1590085381361">
         <mark key="'" line="100" column="9" />
         <mark key="o" line="9" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1590063998293">
+      <file name="/manage.py@dispatch-register-2" timestamp="1590086606329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/api/tests/test_actions.py" timestamp="1590061043305">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="43" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590562031810">
+        <mark key="'" line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/api/tests/test_views.py" timestamp="1590061261106">
-        <mark key="'" line="211" column="52" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="212" column="66" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_search.py" timestamp="1590065542013">
+        <mark key="'" line="42" column="32" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="38" column="9" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tests/test_tasks.py" timestamp="1590078536230">
+        <mark key="'" line="163" column="43" />
+        <mark key="[" line="241" column="34" />
+        <mark key="]" line="241" column="44" />
+        <mark key="." line="241" column="43" />
+        <mark key="^" line="241" column="44" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1590082622136">
+        <mark key="'" line="552" column="16" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="81" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590562112215">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" timestamp="1590564630383" />
       <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1590501401983">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -198,31 +212,22 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="34" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1590564770681">
+        <mark key="'" line="694" column="22" />
+        <mark key="[" line="664" column="0" />
+        <mark key="]" line="664" column="0" />
+        <mark key="." line="664" column="0" />
+      </file>
       <file name="/" timestamp="1590085737944">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/manage.py@dispatch-register-2" timestamp="1590086606329">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590560366631">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="77" />
-        <mark key="^" line="33" column="19" />
-        <mark key="." line="33" column="18" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_search.py" timestamp="1590065542013">
-        <mark key="'" line="42" column="32" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="38" column="9" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1590494587850">
-        <mark key="'" line="198" column="28" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1590564612384">
+        <mark key="'" line="203" column="15" />
         <mark key="y" line="107" column="62" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="192" column="9" />
-        <mark key="." line="57" column="21" />
-        <mark key="^" line="57" column="22" />
+        <mark key="[" line="203" column="33" />
+        <mark key="]" line="203" column="45" />
+        <mark key="." line="203" column="44" />
+        <mark key="^" line="203" column="45" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1590479310963">
         <mark key="'" line="48" column="13" />
@@ -230,40 +235,25 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590560348796">
-        <mark key="'" line="100" column="19" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tests/test_tasks.py" timestamp="1590078536230">
-        <mark key="'" line="163" column="43" />
-        <mark key="[" line="241" column="34" />
-        <mark key="]" line="241" column="44" />
-        <mark key="." line="241" column="43" />
-        <mark key="^" line="241" column="44" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590562101770">
+        <mark key="'" line="99" column="8" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="98" column="28" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1590078509753">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1590082622136">
-        <mark key="'" line="552" column="16" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="81" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/models.py" timestamp="1590561614781">
+        <mark key="[" line="89" column="14" />
+        <mark key="]" line="89" column="47" />
+        <mark key="^" line="89" column="47" />
+        <mark key="." line="89" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
-      <jump line="114" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
-      <jump line="36" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/base.py" />
-      <jump line="58" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/base.py" />
-      <jump line="111" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
-      <jump line="112" column="71" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
-      <jump line="31" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
-      <jump line="38" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
       <jump line="13" column="40" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="29" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/schema.py" />
       <jump line="21" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
@@ -340,67 +330,75 @@
       <jump line="87" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="193" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="94" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-103273844/-1227933812/django/test/client.py" />
       <jump line="100" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
       <jump line="16" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
-      <jump line="99" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
       <jump line="101" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
       <jump line="198" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="22" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
       <jump line="33" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-103273844/-1227933812/django/http/response.py" />
-      <jump line="15" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-103273844/-1227933812/django/views/generic/base.py" />
       <jump line="30" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/utils.py" />
       <jump line="34" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/models.py" />
+      <jump line="35" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
+      <jump line="94" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-103273844/datetime.py" />
+      <jump line="75" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
+      <jump line="163" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
+      <jump line="694" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/api/serializers.py" />
+      <jump line="203" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Rate.convert(amount, from_currency, to_currency, date=date)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGF5bWVudHMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sum()</text>
+        <text>contractor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRjaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Rate.convert(amount, from_currency, to_currency, date=date)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb250cmFjdG9yID0gQ29udHJhY3RvckZhY3RvcnkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGF5bWVudHMpCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBY3Rpb25GYWN0b3J5KGNvbnRyYWN0b3I9Y29udHJhY3RvciwgdGlkX2V4dGVybmFsPTEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXJyLmFwcGVuZCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdW1fbGVmdCwgc3VtX21pZCwgc3VtX3JpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICBpc3N1ZS5yZWZyZXNoX2Zyb21fZGIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnWlpaWlonLCBwcmVmaXhfc3VtW3JpZ2h0IC0gMV0sIHByZWZpeF9zdW1bbGVmdCArIDFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS5jb250ZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1pZCkKICAgIHByaW50KEFbbGVmdF0sIEFbcmlnaHRdKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbGVmdCwgcmlnaHQgPQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJhdGVfdXNkID0gUmF0ZShjdXJyZW5jeV9jb2RlPSdVU0QnLCByYXRlPTQuMDAsIGRhdGU9ZGF0ZXRpbWUoeWVhcj0yMDE4LCBtb250aD0zLCBkYXk9MTMpKQogICAgICAgICMgcmF0ZV9ldXIgPSBSYXRlKGN1cnJlbmN5X2NvZGU9J0VVUicsIHJhdGU9NS4wMCwgZGF0ZT1kYXRldGltZSh5ZWFyPTIwMTgsIG1vbnRoPTMsIGRheT0xMykpCiAgICAgICAgIyByYXRlX3VzZC5zYXZlKCkKICAgICAgICAjIHJhdGVfZXVyLnNhdmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KEFbbGVmdF0sIEFbcmlnaHRdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
