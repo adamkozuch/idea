@@ -42,10 +42,10 @@
         <entry>q</entry>
         <entry>shell adam</entry>
         <entry>shell</entry>
-        <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
+        <entry>action Run</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -183,17 +183,15 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis.yml.j2" timestamp="1590583045795">
         <mark key="'" line="14" column="7" />
       </file>
+      <file name="/Dummy.json" timestamp="1590600311854">
+        <mark key="[" line="1" column="208" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1590580341892">
         <mark key="'" line="78" column="20" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="^" line="81" column="0" />
         <mark key="." line="80" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590576778768">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" timestamp="1590587899375">
         <mark key="'" line="110" column="23" />
@@ -228,12 +226,13 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/signals.py" timestamp="1590587759747">
         <mark key="'" line="114" column="12" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1590588249533">
-        <mark key="y" line="107" column="62" />
-        <mark key="[" line="203" column="66" />
-        <mark key="]" line="203" column="93" />
-        <mark key="^" line="203" column="93" />
-        <mark key="." line="203" column="92" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1590599935173">
+        <mark key="'" line="206" column="127" />
+        <mark key="y" line="108" column="62" />
+        <mark key="[" line="193" column="9" />
+        <mark key="]" line="193" column="40" />
+        <mark key="^" line="193" column="40" />
+        <mark key="." line="193" column="39" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1590580883918">
         <mark key="[" line="18" column="11" />
@@ -253,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="94" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="89" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="9" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
@@ -282,7 +280,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/models.py" />
       <jump line="35" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
       <jump line="94" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-103273844/datetime.py" />
       <jump line="75" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
       <jump line="34" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
       <jump line="15" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
@@ -290,7 +287,6 @@
       <jump line="163" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="694" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/api/serializers.py" />
-      <jump line="203" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="314" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_sending_accounting_to_sok.py" />
       <jump line="315" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_sending_accounting_to_sok.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/sok_accounting.py" />
@@ -339,8 +335,6 @@
       <jump line="1002" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="672" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="692" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="202" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" />
       <jump line="114" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/signals.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" />
       <jump line="296" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
@@ -348,17 +342,22 @@
       <jump line="306" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" />
       <jump line="305" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
       <jump line="39" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
-      <jump line="204" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="110" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="662" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-103273844/-1227933812/django/db/models/query.py" />
+      <jump line="196" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
+      <jump line="204" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
+      <jump line="202" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" />
+      <jump line="203" column="127" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-103273844/datetime.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQYXltZW50RmFjdG9yeSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -367,37 +366,37 @@
         <text>class Action</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBhcHAubm90aWZpY2F0aW9ucy5wY2IuZW51bXMgaW1wb3J0IFBDQl9NRVRIT0QsIFBDQl9TVEFUVVMsIFBDQl9UWVBFCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChQYXltZW50Lm9iamVjdHMuYWxsKClbMV0uX19kaWN0X18pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYXltZW50RmFjdG9yeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChQYXltZW50Lm9iamVjdHMuYWxsKClbMF0uX19kaWN0X18pCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhLnBheW1lbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBQYXltZW50RmFjdG9yeSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhLnBheW1lbnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhjZXB0IEV4Y2VwdGlvbjogICMgcHlsaW50OiBkaXNhYmxlPWJyb2FkLWV4Y2VwdAogICAgbG9nZ2VyLndhcm5pbmcoCiAgICAgICAgIkV4Y2VwdGlvbiBkdXJpbmcgc2V0dGluZyBzZW5zaXRpdmUgZGF0YSB0byBjYWNoZSIsIGV4Y19pbmZvPVRydWUKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ZXhjZXB0IEV4Y2VwdGlvbjogICMgcHlsaW50OiBkaXNhYmxlPWJyb2FkLWV4Y2VwdAogICAgbG9nZ2VyLndhcm5pbmcoCiAgICAgICAgIkV4Y2VwdGlvbiBkdXJpbmcgc2V0dGluZyBzZW5zaXRpdmUgZGF0YSB0byBjYWNoZSIsIGV4Y19pbmZvPVRydWUKICAgICkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb246ICAjIHB5bGludDogZGlzYWJsZT1icm9hZC1leGNlcHQKICAgICAgICBsb2dnZXIud2FybmluZygKICAgICAgICAgICAgIkV4Y2VwdGlvbiBkdXJpbmcgZmV0Y2hpbmcgc2Vuc2l0aXZlIGRhdGEgZnJvbSBjYWNoZSIsIGV4Y19pbmZvPVRydWUKICAgICAgICApCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb246ICAjIHB5bGludDogZGlzYWJsZT1icm9hZC1leGNlcHQKICAgICAgICBsb2dnZXIud2FybmluZygKICAgICAgICAgICAgIkV4Y2VwdGlvbiBkdXJpbmcgZmV0Y2hpbmcgc2Vuc2l0aXZlIGRhdGEgZnJvbSBjYWNoZSIsIGV4Y19pbmZvPVRydWUKICAgICAgICApCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3doZW5fcGF5bWVudF92ZW5kb3JfaXNfbWlzc2luZ19jb250cmFjdG9yX2lzX3VzZWRfaW5zdGVhZChzZWxmKToKICAgICAgICBkZWwgc2VsZi5ub3RpZmljYXRpb24uZGF0YVsiUGF5bWVudFZlbmRvciJdCiAgICAgICAgcHJvY2Vzc29yID0gTW9uZXlNYXRyaXhOb3RpZmljYXRpb25Qcm9jZXNzb3Iobm90aWZpY2F0aW9uPXNlbGYubm90aWZpY2F0aW9uKQogICAgICAgIGRhdGEgPSBwcm9jZXNzb3IuZ2V0X2RhdGEoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZGF0YVsib3BlcmF0b3IiXSwgIk1vbmV5TWF0cml4IikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGFbIm1ldGhvZCJdLCBOb25lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
