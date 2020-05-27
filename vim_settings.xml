@@ -169,8 +169,8 @@
         <mark key="'" line="100" column="9" />
         <mark key="o" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1590568194967">
-        <mark key="'" line="46" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1590569900194">
+        <mark key="'" line="51" column="23" />
       </file>
       <file name="/manage.py@dispatch-register-2" timestamp="1590086606329">
         <mark key="[" line="0" column="0" />
@@ -251,8 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="819" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="550" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="545" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="560" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="567" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
@@ -351,6 +349,8 @@
       <jump line="688" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-103273844/-1227933812/django/forms/models.py" />
       <jump line="46" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="51" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
