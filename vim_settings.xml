@@ -204,8 +204,12 @@
       <file name="/manage.py@dispatch-register-2" timestamp="1590086606329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590498305661">
-        <mark key="'" line="34" column="26" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590560366631">
+        <mark key="'" line="35" column="26" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="77" />
+        <mark key="^" line="33" column="19" />
+        <mark key="." line="33" column="18" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_search.py" timestamp="1590065542013">
         <mark key="'" line="42" column="32" />
@@ -226,11 +230,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590495496977">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590560348796">
         <mark key="'" line="100" column="19" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tests/test_tasks.py" timestamp="1590078536230">
         <mark key="'" line="163" column="43" />
@@ -356,8 +360,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Rate.convert(amount, from_currency, to_currency, date=date)</text>
       </register>
       <register name="-" type="4">
         <text>sum()</text>
@@ -365,38 +369,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRjaFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFyci5hcHBlbmQoMSkK</text>
+      <register name="0" type="4">
+        <text>Rate.convert(amount, from_currency, to_currency, date=date)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXJyLmFwcGVuZCgxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdW1fbGVmdCwgc3VtX21pZCwgc3VtX3JpZ2h0KQo=</text>
+        <text encoding="base64">YXJyLmFwcGVuZCgxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnWlpaWlonLCBwcmVmaXhfc3VtW3JpZ2h0IC0gMV0sIHByZWZpeF9zdW1bbGVmdCArIDFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdW1fbGVmdCwgc3VtX21pZCwgc3VtX3JpZ2h0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1pZCkKICAgIHByaW50KEFbbGVmdF0sIEFbcmlnaHRdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnWlpaWlonLCBwcmVmaXhfc3VtW3JpZ2h0IC0gMV0sIHByZWZpeF9zdW1bbGVmdCArIDFdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbGVmdCwgcmlnaHQgPQo=</text>
+        <text encoding="base64">ICAgIHByaW50KG1pZCkKICAgIHByaW50KEFbbGVmdF0sIEFbcmlnaHRdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KEFbbGVmdF0sIEFbcmlnaHRdKQo=</text>
+        <text encoding="base64">ICAgICMgbGVmdCwgcmlnaHQgPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1pZCkK</text>
+        <text encoding="base64">ICAgIHByaW50KEFbbGVmdF0sIEFbcmlnaHRdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGFicyhBW2xlZnQgLSAxXSAtIEFbY2xvc2VzdF9pZHhdKSA+IGFicyhBW2xlZnQgLSAxXSAtIEFbY2xvc2VzdF9pZHhdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KG1pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
