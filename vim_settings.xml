@@ -193,9 +193,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis.yml.j2" timestamp="1590583045795">
         <mark key="'" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590562031810">
-        <mark key="'" line="15" column="15" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1590580341892">
         <mark key="'" line="78" column="20" />
         <mark key="[" line="80" column="0" />
@@ -245,6 +242,10 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" timestamp="1590585844584">
+        <mark key="'" line="50" column="0" />
+        <mark key="." line="50" column="3" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_sending_accounting_to_sok.py" timestamp="1590584505619">
         <mark key="'" line="315" column="35" />
         <mark key="[" line="314" column="24" />
@@ -253,9 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/api/tests/test_views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/api/tests/base.py" />
-      <jump line="211" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/api/tests/test_views.py" />
       <jump line="83" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_search.py" />
       <jump line="40" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_search.py" />
       <jump line="19" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/sok_status_sync/tests/test_views.py" />
@@ -353,6 +351,9 @@
       <jump line="165" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/importer/models.py" />
       <jump line="162" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/importer/models.py" />
       <jump line="14" column="7" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis.yml.j2" />
+      <jump line="12" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" />
+      <jump line="50" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
