@@ -45,8 +45,8 @@
         <entry>action Run</entry>
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -189,7 +189,7 @@
       <file name="/Dummy.json" timestamp="1590600311854">
         <mark key="[" line="1" column="208" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590656588604">
+      <file name="/Dummy.txt" timestamp="1590661596686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -228,12 +228,12 @@
         <mark key="^" line="159" column="39" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590660467630">
-        <mark key="'" line="103" column="42" />
-        <mark key="[" line="105" column="44" />
-        <mark key="]" line="105" column="46" />
-        <mark key="." line="105" column="45" />
-        <mark key="^" line="105" column="46" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590661591182">
+        <mark key="'" line="101" column="42" />
+        <mark key="[" line="103" column="47" />
+        <mark key="]" line="103" column="48" />
+        <mark key="^" line="103" column="48" />
+        <mark key="." line="103" column="48" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" timestamp="1590585844584">
         <mark key="'" line="50" column="0" />
@@ -357,8 +357,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXJyb3IK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -370,37 +370,37 @@
         <text>2018-03-14T01:30:00.429151Z</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYXRlX3VzZC5zYXZlKCkKICAgICAgICByYXRlX2V1cm8uc2F2ZSgpCg==</text>
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXJyb3IK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luICByYXRlIG9iamVjdHMnKQogICAgICAgICAgICBwcmludChkYXRlKQogICAgICAgICAgICBwcmludChmcm9tX2N1cnJlbmN5KQogICAgICAgICAgICBwcmludChSYXRlLm9iamVjdHMuYWxsKCkudmFsdWVzKCkpCg==</text>
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cyBpbXBvcnQgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5vYmplY3RzLmNyZWF0ZSh1c2VybmFtZT0idGVzdCIsIHBhc3N3b3JkPSJ0ZXN0IikK</text>
+        <text encoding="base64">ICAgICAgICByYXRlX3VzZC5zYXZlKCkKICAgICAgICByYXRlX2V1cm8uc2F2ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlID0gZGF0ZXRpbWUoeWVhcj0yMDE4LCBtb250aD0zLCBkYXk9MTQsIGhvdXI9MCwgbWludXRlPTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luICByYXRlIG9iamVjdHMnKQogICAgICAgICAgICBwcmludChkYXRlKQogICAgICAgICAgICBwcmludChmcm9tX2N1cnJlbmN5KQogICAgICAgICAgICBwcmludChSYXRlLm9iamVjdHMuYWxsKCkudmFsdWVzKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlJhdGUgZG9lcyBub3QgZXhpc3RzIikK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5vYmplY3RzLmNyZWF0ZSh1c2VybmFtZT0idGVzdCIsIHBhc3N3b3JkPSJ0ZXN0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlID0gZGF0ZXRpbWUoeWVhcj0yMDE4LCBtb250aD0zLCBkYXk9MTQsIGhvdXI9MCwgbWludXRlPTApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlJhdGUgZG9lcyBub3QgZXhpc3RzIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgicGF5Y3Jvc3MyMS5zb2tfYXBpLnNva19hcGkuZ2V0X3JhdGVzIiwgYXV0b3NwZWM9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDRUxFUllfVEFTS19BTFdBWVNfRUFHRVI9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
