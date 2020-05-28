@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQYXltZW50VmVuZG9yXD4=</entry>
         <entry>Mapping</entry>
         <entry encoding="base64">XDxfZ2V0X29wZXJhdG9yXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -25,6 +24,7 @@
         <entry>Action</entry>
         <entry>class Action</entry>
         <entry>paycross</entry>
+        <entry>paycross21</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gateway/super/g</entry>
@@ -173,8 +173,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" timestamp="1590587794857">
         <mark key="'" line="317" column="23" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" timestamp="1590651045515">
-        <mark key="'" line="121" column="238" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" timestamp="1590653966308">
+        <mark key="'" line="123" column="29" />
         <mark key="[" line="11" column="47" />
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="49" />
@@ -193,7 +193,7 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590650882738">
+      <file name="/Dummy.txt" timestamp="1590655007442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -201,7 +201,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" timestamp="1590587899375">
         <mark key="'" line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis-svc.yml.j2" timestamp="1590579759218" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1590579952746" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1590587208090">
         <mark key="'" line="692" column="0" />
@@ -239,6 +238,12 @@
         <mark key="'" line="50" column="0" />
         <mark key="." line="50" column="3" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/all.yml" timestamp="1590654993465">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="42" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_sending_accounting_to_sok.py" timestamp="1590584505619">
         <mark key="'" line="315" column="35" />
         <mark key="[" line="314" column="24" />
@@ -247,9 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/tests.py" />
-      <jump line="167" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="179" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="87" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="193" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
@@ -346,7 +348,10 @@
       <jump line="680" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="665" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="21" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
+      <jump line="139" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
       <jump line="121" column="238" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
+      <jump line="122" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
+      <jump line="123" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -358,7 +363,7 @@
         <text>paycross21</text>
       </register>
       <register name="/" type="4">
-        <text>paycross</text>
+        <text>paycross21</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmwgPSByZXZlcnNlKCJhc3NpZ24taXNzdWUtdG8tcGF5bWVudCIsIGt3YXJncz17InBrIjogMX0pCiAgICAgICAgc2VsZi5jbGllbnQucG9zdCh1cmwpCg==</text>
@@ -400,9 +405,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>paycross</last-search>
+      <last-search>paycross21</last-search>
       <last-offset />
-      <last-pattern>paycross</last-pattern>
+      <last-pattern>paycross21</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>231</last-substitute>
       <last-dir>1</last-dir>
