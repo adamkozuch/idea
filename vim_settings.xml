@@ -45,8 +45,8 @@
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>action Run</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -164,7 +164,7 @@
       <file name="/start_script.py" timestamp="1590647072480">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590678087805">
+      <file name="/Dummy.txt" timestamp="1590679675950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -178,6 +178,11 @@
         <mark key="]" line="82" column="18" />
         <mark key="^" line="82" column="17" />
         <mark key="." line="82" column="18" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis-svc.yml.j2" timestamp="1590679628725">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" timestamp="1590587806158">
         <mark key="'" line="305" column="14" />
@@ -203,7 +208,7 @@
         <mark key="]" line="699" column="0" />
         <mark key="." line="699" column="0" />
       </file>
-      <file name="/" timestamp="1590675604704">
+      <file name="/" timestamp="1590679614727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590660270163">
@@ -232,12 +237,11 @@
         <mark key="^" line="159" column="39" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590678213458">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" timestamp="1590679499535">
         <mark key="'" line="96" column="13" />
-        <mark key="[" line="104" column="25" />
-        <mark key="]" line="104" column="36" />
-        <mark key="." line="104" column="35" />
-        <mark key="^" line="104" column="36" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" timestamp="1590585844584">
         <mark key="'" line="50" column="0" />
@@ -359,7 +363,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -370,38 +374,38 @@
       <register name="0" type="4">
         <text>2018-03-14T01:30:00.429151Z</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0cyBpbXBvcnQgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYXRlX3VzZC5zYXZlKCkKICAgICAgICByYXRlX2V1cm8uc2F2ZSgpCg==</text>
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXJyb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luICByYXRlIG9iamVjdHMnKQogICAgICAgICAgICBwcmludChkYXRlKQogICAgICAgICAgICBwcmludChmcm9tX2N1cnJlbmN5KQogICAgICAgICAgICBwcmludChSYXRlLm9iamVjdHMuYWxsKCkudmFsdWVzKCkpCg==</text>
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cyBpbXBvcnQgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5vYmplY3RzLmNyZWF0ZSh1c2VybmFtZT0idGVzdCIsIHBhc3N3b3JkPSJ0ZXN0IikK</text>
+        <text encoding="base64">ICAgICAgICByYXRlX3VzZC5zYXZlKCkKICAgICAgICByYXRlX2V1cm8uc2F2ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlID0gZGF0ZXRpbWUoeWVhcj0yMDE4LCBtb250aD0zLCBkYXk9MTQsIGhvdXI9MCwgbWludXRlPTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luICByYXRlIG9iamVjdHMnKQogICAgICAgICAgICBwcmludChkYXRlKQogICAgICAgICAgICBwcmludChmcm9tX2N1cnJlbmN5KQogICAgICAgICAgICBwcmludChSYXRlLm9iamVjdHMuYWxsKCkudmFsdWVzKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlJhdGUgZG9lcyBub3QgZXhpc3RzIikK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5vYmplY3RzLmNyZWF0ZSh1c2VybmFtZT0idGVzdCIsIHBhc3N3b3JkPSJ0ZXN0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlID0gZGF0ZXRpbWUoeWVhcj0yMDE4LCBtb250aD0zLCBkYXk9MTQsIGhvdXI9MCwgbWludXRlPTApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
