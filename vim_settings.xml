@@ -161,6 +161,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1590647072480">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/importer/models.py" timestamp="1590580676539">
         <mark key="'" line="162" column="13" />
       </file>
@@ -195,13 +198,6 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" timestamp="1590587899375">
         <mark key="'" line="110" column="23" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" timestamp="1590577193967">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="111" column="45" />
-        <mark key="]" line="111" column="79" />
-        <mark key="^" line="111" column="79" />
-        <mark key="." line="111" column="78" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis-svc.yml.j2" timestamp="1590579759218" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/group_vars/stage/settings.yml" timestamp="1590579952746" />
