@@ -167,14 +167,17 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/importer/models.py" timestamp="1590580676539">
         <mark key="'" line="162" column="13" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-backend.yml.j2" timestamp="1590579700600">
-        <mark key="'" line="44" column="10" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" timestamp="1590587806158">
         <mark key="'" line="305" column="14" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" timestamp="1590587794857">
         <mark key="'" line="317" column="23" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" timestamp="1590650877347">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="50" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis.yml.j2" timestamp="1590583045795">
         <mark key="'" line="14" column="7" />
@@ -189,10 +192,10 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590650241835">
+      <file name="/Dummy.txt" timestamp="1590650882738">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" timestamp="1590587899375">
         <mark key="'" line="110" column="23" />
@@ -219,11 +222,11 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/signals.py" timestamp="1590587759747">
         <mark key="'" line="114" column="12" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1590650278620">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="160" column="39" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" timestamp="1590650307618">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="159" column="39" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/utils.py" timestamp="1590580883918">
         <mark key="[" line="18" column="11" />
@@ -347,11 +350,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFBheW1lbnRGYWN0b3J5LAo=</text>
+      <register name="&quot;" type="4">
+        <text>paycross21</text>
       </register>
       <register name="-" type="4">
-        <text>BaseApiTestCase</text>
+        <text>paycross21</text>
       </register>
       <register name="/" type="4">
         <text>class Action</text>
@@ -360,34 +363,34 @@
         <text encoding="base64">ICAgICAgICB1cmwgPSByZXZlcnNlKCJhc3NpZ24taXNzdWUtdG8tcGF5bWVudCIsIGt3YXJncz17InBrIjogMX0pCiAgICAgICAgc2VsZi5jbGllbnQucG9zdCh1cmwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBheW1lbnRGYWN0b3J5LAo=</text>
+        <text>[PCB2-633] Add test for As</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmFwaS50ZXN0cy5iYXNlIGltcG9ydCBCYXNlQXBpVGVzdENhc2UK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBheW1lbnQsCg==</text>
+        <text encoding="base64">ICAgIFBheW1lbnRGYWN0b3J5LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChOb3RpZmljYXRpb24ub2JqZWN0cy5hbGwoKSkK</text>
+        <text encoding="base64">ZnJvbSBwYXljcm9zczIxLmFwaS50ZXN0cy5iYXNlIGltcG9ydCBCYXNlQXBpVGVzdENhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5vdGlmaWNhdGlvbi50cmFuc2FjdGlvbl90aWRfZXh0ZXJuYWwsIDIyKQo=</text>
+        <text encoding="base64">ICAgIFBheW1lbnQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChOb3RpZmljYXRpb24ub2JqZWN0cy5hbGwoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Bvc3RfcmV0dXJuXzQwNF93aGVuX25vX2lzc3VlX25ld19jbGllbnQoc2VsZiwpOgogICAgICAgIHVybCA9IHJldmVyc2UoImFzc2lnbi1pc3N1ZS10by1wYXltZW50Iiwga3dhcmdzPXsicGsiOiAxfSkKICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKEh0dHA0MDQpOgogICAgICAgICAgICBzZWxmLmNsaWVudC5wb3N0KHVybCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5vdGlmaWNhdGlvbi50cmFuc2FjdGlvbl90aWRfZXh0ZXJuYWwsIDIyKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Fzc2lnbl9pc3N1ZV90b19wYXltZW50KHNlbGYpOgogICAgICAgIHVybCA9IHJldmVyc2UoImFzc2lnbi1pc3N1ZS10by1wYXltZW50Iiwga3dhcmdzPXsicGsiOiAxfSkKICAgICAgICBzZWxmLmNsaWVudC5wb3N0KHVybCkKCiAgICAgICAgIyBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdCwgW3NlbGYuYWN0aW9uX3JldmVyc2FsX25ld10pCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Bvc3RfcmV0dXJuXzQwNF93aGVuX25vX2lzc3VlX25ld19jbGllbnQoc2VsZiwpOgogICAgICAgIHVybCA9IHJldmVyc2UoImFzc2lnbi1pc3N1ZS10by1wYXltZW50Iiwga3dhcmdzPXsicGsiOiAxfSkKICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKEh0dHA0MDQpOgogICAgICAgICAgICBzZWxmLmNsaWVudC5wb3N0KHVybCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
