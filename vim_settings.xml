@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Mapping</entry>
         <entry encoding="base64">XDxfZ2V0X29wZXJhdG9yXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxUZXN0Q2FzZVw+</entry>
@@ -25,6 +24,7 @@
         <entry>class Action</entry>
         <entry>paycross</entry>
         <entry>paycross21</entry>
+        <entry>generate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gateway/super/g</entry>
@@ -173,8 +173,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" timestamp="1590587794857">
         <mark key="'" line="317" column="23" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" timestamp="1590653966308">
-        <mark key="'" line="123" column="29" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" timestamp="1590655507714">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="11" column="47" />
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="49" />
@@ -252,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="87" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="193" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
@@ -352,6 +351,7 @@
       <jump line="121" column="238" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
       <jump line="122" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
       <jump line="123" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
+      <jump line="20" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -363,7 +363,7 @@
         <text>paycross21</text>
       </register>
       <register name="/" type="4">
-        <text>paycross21</text>
+        <text>generate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmwgPSByZXZlcnNlKCJhc3NpZ24taXNzdWUtdG8tcGF5bWVudCIsIGt3YXJncz17InBrIjogMX0pCiAgICAgICAgc2VsZi5jbGllbnQucG9zdCh1cmwpCg==</text>
@@ -405,9 +405,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>paycross21</last-search>
+      <last-search>generate</last-search>
       <last-offset />
-      <last-pattern>paycross21</last-pattern>
+      <last-pattern>generate</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>231</last-substitute>
       <last-dir>1</last-dir>
