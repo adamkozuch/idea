@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>set_s</entry>
         <entry>mys</entry>
         <entry>pytz</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxEQVRBQkFTRV9VUkxcPg==</entry>
         <entry>paycross</entry>
         <entry>pay</entry>
+        <entry>without_mig</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gateway/super/g</entry>
@@ -42,11 +42,11 @@
         <entry>shell adam</entry>
         <entry>shell</entry>
         <entry>action GotoFile</entry>
-        <entry>action Run</entry>
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -164,7 +164,7 @@
       <file name="/start_script.py" timestamp="1590647072480">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590671002162">
+      <file name="/Dummy.txt" timestamp="1590675964748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -203,7 +203,7 @@
         <mark key="]" line="699" column="0" />
         <mark key="." line="699" column="0" />
       </file>
-      <file name="/" timestamp="1590670864047">
+      <file name="/" timestamp="1590675604704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590660270163">
@@ -357,14 +357,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHMK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>pay</text>
+        <text>without_mig</text>
       </register>
       <register name="0" type="4">
         <text>2018-03-14T01:30:00.429151Z</text>
@@ -400,7 +400,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
   </component>
