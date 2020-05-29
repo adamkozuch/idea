@@ -190,9 +190,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.json" timestamp="1590600311854">
-        <mark key="[" line="1" column="208" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_sorters.py" timestamp="1590757771015">
         <mark key="[" line="102" column="14" />
         <mark key="]" line="102" column="15" />
@@ -218,12 +215,6 @@
         <mark key="]" line="1143" column="0" />
         <mark key="." line="1143" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1590649679749">
-        <mark key="'" line="665" column="12" />
-        <mark key="[" line="699" column="0" />
-        <mark key="]" line="699" column="0" />
-        <mark key="." line="699" column="0" />
-      </file>
       <file name="/" timestamp="1590735776494">
         <mark key="[" line="0" column="0" />
       </file>
@@ -237,6 +228,9 @@
         <mark key="]" line="1" column="29" />
         <mark key="^" line="159" column="39" />
         <mark key="." line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" timestamp="1590765240643">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1590756722463">
         <mark key="[" line="60" column="0" />
@@ -261,9 +255,14 @@
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile.local" timestamp="1590765948693">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="715" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="718" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="865" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="867" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -363,21 +362,22 @@
       <jump line="1143" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_views.py" />
       <jump line="43" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/urls.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>ptipython</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>ptipython</text>
       </register>
       <register name="/" type="4">
         <text>without_mig</text>
       </register>
-      <register name="0" type="4">
-        <text>2018-03-14T01:30:00.429151Z</text>
+      <register name="0" type="2">
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIHB0aXB5dGhvbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
