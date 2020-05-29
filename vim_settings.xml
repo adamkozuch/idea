@@ -164,10 +164,13 @@
       <file name="/start_script.py" timestamp="1590735815159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590735767335">
+      <file name="/Dummy.txt" timestamp="1590736627470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/virtual_envs/paycross21/local/lib/python2.7/site-packages/django/db/models/manager.py" timestamp="1590751246174">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" timestamp="1590587899375">
         <mark key="'" line="110" column="23" />
@@ -243,10 +246,6 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" timestamp="1590585844584">
-        <mark key="'" line="50" column="0" />
-        <mark key="." line="50" column="3" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/all.yml" timestamp="1590654993465">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="42" />
@@ -258,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/importer/models.py" />
       <jump line="14" column="7" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis.yml.j2" />
       <jump line="12" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/README.md" />
@@ -357,6 +355,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/virtual_envs/paycross21/local/lib/python2.7/site-packages/django/db/models/query.py" />
       <jump line="98" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
       <jump line="96" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/survey/controllers/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/virtual_envs/paycross21/local/lib/python2.7/site-packages/django/db/models/manager.py" />
     </jumps>
   </component>
@@ -417,7 +416,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>231</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
