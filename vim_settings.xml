@@ -164,13 +164,16 @@
       <file name="/start_script.py" timestamp="1590735815159">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled3/untitled3/asgi.py" timestamp="1590834428657">
+        <mark key="'" line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" timestamp="1590756380843">
         <mark key="[" line="705" column="45" />
         <mark key="]" line="705" column="19" />
         <mark key="^" line="705" column="19" />
         <mark key="." line="705" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590736627470">
+      <file name="/Dummy.txt" timestamp="1590835913201">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -185,18 +188,11 @@
       <file name="$USER_HOME$/virtual_envs/paycross21/local/lib/python2.7/site-packages/django/db/models/manager.py" timestamp="1590751246174">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled3/requirements.txt" timestamp="1590834104117">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/untitled3/requirements.txt" timestamp="1590834411480">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1590674152938">
-        <mark key="'" line="344" column="9" />
-        <mark key="[" line="82" column="17" />
-        <mark key="]" line="82" column="18" />
-        <mark key="^" line="82" column="17" />
-        <mark key="." line="82" column="18" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis-svc.yml.j2" timestamp="1590679628725">
         <mark key="[" line="12" column="17" />
@@ -212,7 +208,6 @@
       <file name="/" timestamp="1590735776494">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker-compose.yml" timestamp="1590833498408" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590769123044">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="38" column="36" />
@@ -258,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="970" column="59" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="1001" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="1002" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="672" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="692" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -358,12 +351,14 @@
       <jump line="240" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="122" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
+      <jump line="11" column="17" filename="$USER_HOME$/PycharmProjects/untitled3/untitled3/asgi.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/virtual_envs/untitled3/lib/python3.6/site-packages/django/core/asgi.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ptipython</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ptipython</text>
@@ -375,34 +370,34 @@
         <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIHB0aXB5dGhvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgneHh4JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgneHh4JykK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBycGludCgpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmcm9tIHMK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXJyb3IK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0cyBpbXBvcnQgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYXRlX3VzZC5zYXZlKCkKICAgICAgICByYXRlX2V1cm8uc2F2ZSgpCg==</text>
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cyBpbXBvcnQgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
