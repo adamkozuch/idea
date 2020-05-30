@@ -175,8 +175,21 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1590834327014">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="125" column="19" />
+        <mark key="]" line="126" column="8" />
+        <mark key="^" line="126" column="8" />
+        <mark key="." line="126" column="7" />
+      </file>
       <file name="$USER_HOME$/virtual_envs/paycross21/local/lib/python2.7/site-packages/django/db/models/manager.py" timestamp="1590751246174">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled3/requirements.txt" timestamp="1590834104117">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1590674152938">
         <mark key="'" line="344" column="9" />
@@ -200,22 +213,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker-compose.yml" timestamp="1590833498408" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590660270163">
-        <mark key="'" line="30" column="28" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590769123044">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="38" column="36" />
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="35" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/utils.py" timestamp="1590657959987">
-        <mark key="'" line="22" column="11" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="41" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" timestamp="1590765240643">
         <mark key="'" line="2" column="0" />
@@ -256,8 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="865" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="867" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="970" column="59" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="1001" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="1002" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
@@ -356,6 +356,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
       <jump line="2" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" />
       <jump line="240" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="122" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
