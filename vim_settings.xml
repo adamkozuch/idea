@@ -170,43 +170,6 @@
         <mark key="^" line="705" column="19" />
         <mark key="." line="705" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1590674152938">
-        <mark key="'" line="344" column="9" />
-        <mark key="[" line="82" column="17" />
-        <mark key="]" line="82" column="18" />
-        <mark key="^" line="82" column="17" />
-        <mark key="." line="82" column="18" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" timestamp="1590655507714">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="49" />
-        <mark key="^" line="11" column="50" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590660270163">
-        <mark key="'" line="30" column="28" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590769123044">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="36" />
-        <mark key="^" line="38" column="36" />
-        <mark key="." line="38" column="35" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_sorters.py" timestamp="1590757771015">
-        <mark key="[" line="102" column="14" />
-        <mark key="]" line="102" column="15" />
-        <mark key="^" line="102" column="15" />
-        <mark key="." line="102" column="15" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1590768742366">
-        <mark key="'" line="240" column="29" />
-        <mark key="[" line="240" column="30" />
-        <mark key="." line="240" column="42" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590736627470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
@@ -214,6 +177,13 @@
       </file>
       <file name="$USER_HOME$/virtual_envs/paycross21/local/lib/python2.7/site-packages/django/db/models/manager.py" timestamp="1590751246174">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" timestamp="1590674152938">
+        <mark key="'" line="344" column="9" />
+        <mark key="[" line="82" column="17" />
+        <mark key="]" line="82" column="18" />
+        <mark key="^" line="82" column="17" />
+        <mark key="." line="82" column="18" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis-svc.yml.j2" timestamp="1590679628725">
         <mark key="[" line="12" column="17" />
@@ -228,6 +198,19 @@
       </file>
       <file name="/" timestamp="1590735776494">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker-compose.yml" timestamp="1590833498408" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1590660270163">
+        <mark key="'" line="30" column="28" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590769123044">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="35" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/utils.py" timestamp="1590657959987">
         <mark key="'" line="22" column="11" />
@@ -259,6 +242,17 @@
         <mark key="]" line="7" column="29" />
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_sorters.py" timestamp="1590757771015">
+        <mark key="[" line="102" column="14" />
+        <mark key="]" line="102" column="15" />
+        <mark key="^" line="102" column="15" />
+        <mark key="." line="102" column="15" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1590768742366">
+        <mark key="'" line="240" column="29" />
+        <mark key="[" line="240" column="30" />
+        <mark key="." line="240" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -421,7 +415,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>231</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
