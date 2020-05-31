@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mys</entry>
         <entry>pytz</entry>
         <entry>mock</entry>
         <entry encoding="base64">XDxwYXRjaFw+</entry>
@@ -25,6 +24,7 @@
         <entry>pay</entry>
         <entry>without_mig</entry>
         <entry>media</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gateway/super/g</entry>
@@ -207,11 +207,9 @@
       <file name="/" timestamp="1590735776494">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590769123044">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="36" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590931430517">
+        <mark key="'" line="151" column="16" />
         <mark key="^" line="38" column="36" />
-        <mark key="." line="38" column="35" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" timestamp="1590765240643">
         <mark key="'" line="2" column="0" />
@@ -252,14 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1002" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="672" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="692" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
-      <jump line="114" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/signals.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" />
-      <jump line="296" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
-      <jump line="317" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" />
-      <jump line="306" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" />
       <jump line="305" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
       <jump line="39" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
       <jump line="110" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" />
@@ -352,6 +342,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="11" column="17" filename="$USER_HOME$/PycharmProjects/untitled3/untitled3/asgi.py" />
       <jump line="0" column="0" filename="$USER_HOME$/virtual_envs/untitled3/lib/python3.6/site-packages/django/core/asgi.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
+      <jump line="138" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
+      <jump line="122" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
+      <jump line="146" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
+      <jump line="151" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -363,7 +361,7 @@
         <text>ptipython</text>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text>send</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIHB0aXB5dGhvbgo=</text>
@@ -405,13 +403,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>media</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>nnnnnn</last-replace>
-      <last-substitute>231</last-substitute>
+      <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
