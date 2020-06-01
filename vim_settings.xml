@@ -190,7 +190,7 @@
         <mark key="^" line="38" column="36" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/xml/base.xml" timestamp="1591010371000" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/service/server.py" timestamp="1591011964890">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/service/server.py" timestamp="1591012858048">
         <mark key="[" line="807" column="17" />
         <mark key="]" line="807" column="20" />
         <mark key="^" line="807" column="20" />
@@ -225,8 +225,12 @@
         <mark key="]" line="1143" column="0" />
         <mark key="." line="1143" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1591009009242">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1591013144238">
         <mark key="'" line="18" column="0" />
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="94" column="26" />
+        <mark key="^" line="94" column="26" />
+        <mark key="." line="94" column="25" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" timestamp="1590765240643">
         <mark key="'" line="2" column="0" />
@@ -352,11 +356,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCAnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>sprexit</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>sprexit</text>
       </register>
       <register name="/" type="4">
         <text>db_list</text>
