@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pytz</entry>
-        <entry>mock</entry>
         <entry encoding="base64">XDxwYXRjaFw+</entry>
         <entry>PaymentVe</entry>
         <entry>PaymentVendor</entry>
@@ -25,6 +23,8 @@
         <entry>without_mig</entry>
         <entry>media</entry>
         <entry>send</entry>
+        <entry>post</entry>
+        <entry>db_list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gateway/super/g</entry>
@@ -170,19 +170,11 @@
         <mark key="^" line="705" column="19" />
         <mark key="." line="705" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590835913201">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1590834327014">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="21" column="8" />
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/virtual_envs/paycross21/local/lib/python2.7/site-packages/django/db/models/manager.py" timestamp="1590751246174">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled3/requirements.txt" timestamp="1590834411480">
         <mark key="[" line="1" column="0" />
@@ -190,45 +182,16 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_views.py" timestamp="1590756471670">
-        <mark key="'" line="1143" column="41" />
-        <mark key="[" line="1143" column="0" />
-        <mark key="]" line="1143" column="0" />
-        <mark key="." line="1143" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/js/chrome.js" timestamp="1591007399594">
-        <mark key="'" line="457" column="86" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/js/chrome.js" timestamp="1591009342812">
+        <mark key="'" line="342" column="26" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590932622150">
         <mark key="'" line="151" column="16" />
         <mark key="^" line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" timestamp="1590765240643">
-        <mark key="'" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1590756722463">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/urls.py" timestamp="1590756371237">
-        <mark key="'" line="43" column="48" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/.venv/lib/python2.7/site-packages/gdata/photos/__init__.py" timestamp="1590754787761">
-        <mark key="'" line="223" column="22" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/xml/base.xml" timestamp="1591007316483" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" timestamp="1591007577267">
-        <mark key="'" line="757" column="16" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" timestamp="1591007581373">
-        <mark key="'" line="63" column="22" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile.local" timestamp="1590765948693">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="28" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/xml/base.xml" timestamp="1591009329493" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" timestamp="1591009857727">
+        <mark key="'" line="1466" column="10" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_sorters.py" timestamp="1590757771015">
         <mark key="[" line="102" column="14" />
@@ -241,12 +204,43 @@
         <mark key="[" line="240" column="30" />
         <mark key="." line="240" column="42" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590835913201">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_views.py" timestamp="1590756471670">
+        <mark key="'" line="1143" column="41" />
+        <mark key="[" line="1143" column="0" />
+        <mark key="]" line="1143" column="0" />
+        <mark key="." line="1143" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1591009009242">
+        <mark key="'" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" timestamp="1590765240643">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/siuntu_centras_lt/tests/test_status_update.py" timestamp="1590756722463">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/web/tasks/setup_supervisor.yml" timestamp="1591008330074" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/urls.py" timestamp="1590756371237">
+        <mark key="'" line="43" column="48" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" timestamp="1591009364758">
+        <mark key="'" line="687" column="24" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile.local" timestamp="1590765948693">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-103273844/-1227933812/django/db/models/query.py" />
-      <jump line="196" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="204" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="202" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" />
       <jump line="203" column="127" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
@@ -343,6 +337,10 @@
       <jump line="757" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" />
       <jump line="63" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
       <jump line="61" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" />
+      <jump line="342" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/js/chrome.js" />
+      <jump line="687" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" />
+      <jump line="1466" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,7 +352,7 @@
         <text>ptipython</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text>db_list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIHB0aXB5dGhvbgo=</text>
@@ -396,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>send</last-search>
+      <last-search>db_list</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>db_list</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
