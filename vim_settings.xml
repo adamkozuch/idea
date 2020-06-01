@@ -161,9 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1590735815159">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled3/untitled3/asgi.py" timestamp="1590834428657">
         <mark key="'" line="11" column="17" />
       </file>
@@ -193,19 +190,14 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/ansible/templates/k8s/app-redis-svc.yml.j2" timestamp="1590679628725">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_views.py" timestamp="1590756471670">
         <mark key="'" line="1143" column="41" />
         <mark key="[" line="1143" column="0" />
         <mark key="]" line="1143" column="0" />
         <mark key="." line="1143" column="0" />
       </file>
-      <file name="/" timestamp="1590735776494">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/js/chrome.js" timestamp="1591007399594">
+        <mark key="'" line="457" column="86" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590932622150">
         <mark key="'" line="151" column="16" />
@@ -226,6 +218,12 @@
         <mark key="'" line="223" column="22" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/xml/base.xml" timestamp="1591007316483" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" timestamp="1591007577267">
+        <mark key="'" line="757" column="16" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" timestamp="1591007581373">
+        <mark key="'" line="63" column="22" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile.local" timestamp="1590765948693">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="29" />
@@ -245,10 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
-      <jump line="39" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tasks.py" />
-      <jump line="110" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" />
-      <jump line="662" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-103273844/-1227933812/django/db/models/query.py" />
       <jump line="196" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="204" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
@@ -345,6 +339,10 @@
       <jump line="139" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
       <jump line="146" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
       <jump line="151" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
+      <jump line="457" column="86" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/js/chrome.js" />
+      <jump line="757" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" />
+      <jump line="63" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
+      <jump line="61" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
