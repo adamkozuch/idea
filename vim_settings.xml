@@ -189,9 +189,19 @@
         <mark key="'" line="151" column="16" />
         <mark key="^" line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/xml/base.xml" timestamp="1591009329493" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" timestamp="1591009857727">
-        <mark key="'" line="1466" column="10" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/xml/base.xml" timestamp="1591010371000" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/service/server.py" timestamp="1591011964890">
+        <mark key="[" line="807" column="17" />
+        <mark key="]" line="807" column="20" />
+        <mark key="^" line="807" column="20" />
+        <mark key="." line="807" column="19" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" timestamp="1591011712815">
+        <mark key="'" line="108" column="42" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_sorters.py" timestamp="1590757771015">
         <mark key="[" line="102" column="14" />
@@ -227,9 +237,6 @@
         <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/web/tasks/setup_supervisor.yml" timestamp="1591008330074" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/urls.py" timestamp="1590756371237">
-        <mark key="'" line="43" column="48" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" timestamp="1591009364758">
         <mark key="'" line="687" column="24" />
       </file>
@@ -241,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/model_factory.py" />
       <jump line="203" column="127" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-103273844/datetime.py" />
       <jump line="699" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
@@ -341,15 +346,17 @@
       <jump line="342" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/js/chrome.js" />
       <jump line="687" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" />
       <jump line="1466" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
+      <jump line="115" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
+      <jump line="108" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCAnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>ptipython</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>db_list</text>
@@ -358,34 +365,34 @@
         <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIHB0aXB5dGhvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCAnKQo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCBtZXRob2QsIHBhcmFtcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgneHh4JykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBycGludCgpCg==</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHMK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgneHh4JykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBycGludCgpCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0cyBpbXBvcnQgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
