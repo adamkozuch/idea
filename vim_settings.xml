@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXRjaFw+</entry>
         <entry>PaymentVe</entry>
         <entry>PaymentVendor</entry>
         <entry>re</entry>
@@ -25,6 +24,7 @@
         <entry>send</entry>
         <entry>post</entry>
         <entry>db_list</entry>
+        <entry encoding="base64">XDxsaWJqcGVnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gateway/super/g</entry>
@@ -203,18 +203,29 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1590768742366">
-        <mark key="'" line="240" column="29" />
-        <mark key="[" line="240" column="30" />
-        <mark key="." line="240" column="42" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/base/tasks/main.yml" timestamp="1591090157268">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/base/tasks/main.yml" timestamp="1591090164087">
+        <mark key="'" line="23" column="6" />
         <mark key="[" line="22" column="16" />
+        <mark key="]" line="23" column="17" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="23" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590835913201">
+      <file name="/Dummy.txt" timestamp="1591090283645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/local/vars.yml" timestamp="1591090204915">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/web/tasks/setup_virtualenv.yml" timestamp="1591090331150">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="/" timestamp="1591040176878">
         <mark key="[" line="0" column="0" />
@@ -222,22 +233,16 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1591077008936">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" timestamp="1590765240643">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/web/tasks/setup_supervisor.yml" timestamp="1591008330074" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/development/vars.yml" timestamp="1591090191241">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" timestamp="1591009364758">
         <mark key="'" line="687" column="24" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile.local" timestamp="1590765948693">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="28" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="127" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-103273844/datetime.py" />
       <jump line="699" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
       <jump line="687" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
@@ -337,21 +342,22 @@
       <jump line="1466" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
       <jump line="115" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
       <jump line="108" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" />
+      <jump line="23" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/base/tasks/main.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>000</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
-        <text>db_list</text>
+        <text encoding="base64">XDxsaWJqcGVnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIHB0aXB5dGhvbgo=</text>
+        <text encoding="base64">Z3JheWxvZ19sb2NhbG5hbWU6ICdzcHItZGV2Jwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCAnKQo=</text>
@@ -390,12 +396,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>db_list</last-search>
+      <last-search encoding="base64">XDxsaWJqcGVnXD4=</last-search>
       <last-offset />
-      <last-pattern>db_list</last-pattern>
+      <last-pattern encoding="base64">XDxsaWJqcGVnXD4=</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
