@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Action</entry>
-        <entry>class Action</entry>
         <entry>paycross21</entry>
         <entry>generate</entry>
         <entry encoding="base64">XDxIVFRQRXJyb3JcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>payment</entry>
         <entry>method</entry>
         <entry>logistic</entry>
+        <entry>extra</entry>
+        <entry>deli</entry>
       </history-search>
       <history-cmd>
         <entry>%s/models/nnnnnn/g</entry>
@@ -44,9 +44,9 @@
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -181,12 +181,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/parcels/views.py" timestamp="1591185989536">
         <mark key="'" line="48" column="28" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1591190683899">
-        <mark key="'" line="180" column="5" />
-        <mark key="[" line="180" column="24" />
-        <mark key="]" line="180" column="57" />
-        <mark key="." line="180" column="56" />
-        <mark key="^" line="180" column="57" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1591191132705">
+        <mark key="'" line="169" column="20" />
+        <mark key="[" line="182" column="57" />
+        <mark key="]" line="182" column="66" />
+        <mark key="." line="182" column="65" />
+        <mark key="^" line="182" column="66" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/base/tasks/main.yml" timestamp="1591090164087">
         <mark key="'" line="23" column="6" />
@@ -247,12 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="377" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="383" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="387" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="391" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="395" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="404" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="407" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="408" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
@@ -347,21 +341,27 @@
       <jump line="119" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="134" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="180" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="179" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="191" column="53" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="209" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="213" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="221" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="169" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Courier</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJsb2dpc3RpY19jb21wYW5pZXMuRGVsaXZlcnlNZXRob2RDb25maWd1cmF0aW9uQ29uZmlnIiwK</text>
       </register>
       <register name="-" type="4">
         <text>Courier</text>
       </register>
       <register name="/" type="4">
-        <text>logistic</text>
+        <text>deli</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsb2dpc3RpY19jb21wYW5pZXMuQ291cmllciIsCg==</text>
+        <text encoding="base64">ICAgICJsb2dpc3RpY19jb21wYW5pZXMuRGVsaXZlcnlNZXRob2RDb25maWd1cmF0aW9uQ29uZmlnIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
@@ -394,15 +394,15 @@
         <text encoding="base64">I3ZhZ3JhbnQgYW5zaWJsZV9zc2hfaG9zdD0xOTIuMTY4LjMzLjEwMSBhbnNpYmxlX3NzaF91c2VyPSd2YWdyYW50JyBhbnNpYmxlX3NzaF9wcml2YXRlX2tleV9maWxlPScudmFncmFudC9tYWNoaW5lcy92YWdyYW50L3ZpcnR1YWxib3gvcHJpdmF0ZV9rZXknCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>logistic</last-search>
+      <last-search>deli</last-search>
       <last-offset />
-      <last-pattern>logistic</last-pattern>
+      <last-pattern>deli</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
