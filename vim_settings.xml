@@ -164,12 +164,6 @@
       <file name="$USER_HOME$/PycharmProjects/untitled3/untitled3/asgi.py" timestamp="1590834428657">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" timestamp="1590834327014">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="21" column="8" />
-        <mark key="." line="21" column="7" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled3/requirements.txt" timestamp="1590834411480">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -210,7 +204,7 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591090283645">
+      <file name="/Dummy.txt" timestamp="1591091648294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -232,6 +226,12 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1591077008936">
         <mark key="'" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/inventories/local.ini" timestamp="1591091645181">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/web/tasks/setup_supervisor.yml" timestamp="1591008330074" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/development/vars.yml" timestamp="1591090191241">
@@ -347,11 +347,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>000</text>
+        <text>server</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWJqcGVnXD4=</text>
@@ -360,34 +360,34 @@
         <text encoding="base64">Z3JheWxvZ19sb2NhbG5hbWU6ICdzcHItZGV2Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCAnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCBtZXRob2QsIHBhcmFtcykK</text>
+        <text encoding="base64">I3ZhZ3JhbnQgYW5zaWJsZV9zc2hfaG9zdD0xOTIuMTY4LjMzLjEwMSBhbnNpYmxlX3NzaF91c2VyPSd2YWdyYW50JyBhbnNpYmxlX3NzaF9wcml2YXRlX2tleV9maWxlPScudmFncmFudC9tYWNoaW5lcy92YWdyYW50L3ZpcnR1YWxib3gvcHJpdmF0ZV9rZXknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCAnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCBtZXRob2QsIHBhcmFtcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgneHh4JykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBycGludCgpCg==</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHMK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgneHh4JykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBycGludCgpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
