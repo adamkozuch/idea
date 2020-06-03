@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>PaymentVendor</entry>
-        <entry>re</entry>
-        <entry>order_id</entry>
         <entry>Payment</entry>
         <entry>Action</entry>
         <entry>class Action</entry>
@@ -25,6 +22,9 @@
         <entry>db_list</entry>
         <entry encoding="base64">XDxsaWJqcGVnXD4=</entry>
         <entry>create</entry>
+        <entry>paymentMe</entry>
+        <entry>payment</entry>
+        <entry>method</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gateway/super/g</entry>
@@ -42,10 +42,10 @@
         <entry>shell</entry>
         <entry>action GotoFile</entry>
         <entry>reg</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -161,6 +161,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/models.py" timestamp="1591186272679">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="27" column="46" />
+      </file>
+      <file name="/Dummy.ts" timestamp="1591040184412">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591178374630">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/parcels/views.py" timestamp="1591185989536">
+        <mark key="'" line="48" column="28" />
+      </file>
+      <file name="/Dummy.js" timestamp="1591040184234">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/service/server.py" timestamp="1591012858048">
+        <mark key="[" line="807" column="17" />
+        <mark key="]" line="807" column="20" />
+        <mark key="^" line="807" column="20" />
+        <mark key="." line="807" column="19" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" timestamp="1591011712815">
+        <mark key="'" line="108" column="42" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/base/tasks/main.yml" timestamp="1591090164087">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="22" column="16" />
@@ -179,26 +211,18 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="/Dummy.ts" timestamp="1591040184412">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591178374630">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="3" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/static/src/js/chrome.js" timestamp="1591009342812">
-        <mark key="'" line="342" column="26" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591186725309">
+        <mark key="'" line="537" column="4" />
+        <mark key="[" line="540" column="17" />
+        <mark key="]" line="540" column="37" />
+        <mark key="." line="540" column="36" />
+        <mark key="^" line="540" column="37" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/web/tasks/setup_virtualenv.yml" timestamp="1591090331150">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="21" />
-      </file>
-      <file name="/Dummy.js" timestamp="1591040184234">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/" timestamp="1591040176878">
         <mark key="[" line="0" column="0" />
@@ -212,53 +236,19 @@
         <mark key="^" line="0" column="146" />
         <mark key="." line="0" column="145" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" timestamp="1590932622150">
-        <mark key="'" line="150" column="16" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/development/vars.yml" timestamp="1591090191241">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/addons/web/controllers/main.py" timestamp="1591009364758">
-        <mark key="'" line="687" column="24" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/choices.py" timestamp="1591186339036">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/service/server.py" timestamp="1591012858048">
-        <mark key="[" line="807" column="17" />
-        <mark key="]" line="807" column="20" />
-        <mark key="^" line="807" column="20" />
-        <mark key="." line="807" column="19" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/openerp/http.py" timestamp="1591011712815">
-        <mark key="'" line="108" column="42" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591177979526">
-        <mark key="'" line="142" column="18" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591186603652">
+        <mark key="'" line="401" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="680" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
-      <jump line="665" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
-      <jump line="21" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
-      <jump line="139" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
-      <jump line="121" column="238" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
-      <jump line="122" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
-      <jump line="123" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
-      <jump line="20" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/.gitlab-ci.yml" />
-      <jump line="111" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
-      <jump line="30" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" />
-      <jump line="99" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
-      <jump line="22" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/models.py" />
-      <jump line="105" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
-      <jump line="103" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/tests/test_currencies.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/utils.py" />
-      <jump line="54" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="140" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="353" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="364" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="368" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
@@ -340,51 +330,74 @@
       <jump line="109" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="141" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="142" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="48" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/parcels/views.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="500" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="522" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="487" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="532" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="406" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/choices.py" />
+      <jump line="123" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="31" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="227" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="264" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="303" column="74" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="308" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="364" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="400" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="401" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="533" column="53" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="537" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Rule</text>
       </register>
       <register name="-" type="4">
-        <text>server</text>
+        <text>Rule</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>method</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z3JheWxvZ19sb2NhbG5hbWU6ICdzcHItZGV2Jwo=</text>
+      <register name="0" type="4">
+        <text>models.PositiveSmallIntegerField(
+        choices=DeliveryMethodChoices(
+        help_text=&quot;Extra service type for link with dispatch order.&quot;,
+    )
+    )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnRuZXIgPSBtb2RlbHMuRm9yZWlnbktleSgKICAgICAgICBQYXJ0bmVyLAogICAgICAgIGRiX2luZGV4PVRydWUsCiAgICAgICAgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFLAogICAgICAgIHJlbGF0ZWRfbmFtZT0iZXh0cmFfc2VydmljZV9ydWxlcyIsCiAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3ZhZ3JhbnQgYW5zaWJsZV9zc2hfaG9zdD0xOTIuMTY4LjMzLjEwMSBhbnNpYmxlX3NzaF91c2VyPSd2YWdyYW50JyBhbnNpYmxlX3NzaF9wcml2YXRlX2tleV9maWxlPScudmFncmFudC9tYWNoaW5lcy92YWdyYW50L3ZpcnR1YWxib3gvcHJpdmF0ZV9rZXknCg==</text>
+        <text encoding="base64">ICAgIHBhcnRuZXIgPSBtb2RlbHMuRm9yZWlnbktleShQYXJ0bmVyLCBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUpCiAgICBjb3VyaWVyID0gbW9kZWxzLkZvcmVpZ25LZXkoQ291cmllciwgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgdW5pcXVlX3RvZ2V0aGVyID0gKCJwYXJ0bmVyIiwgImNvdXJpZXIiKQoKICAgIGRlZiBjbGVhbihzZWxmKToKICAgICAgICBpZiBzZWxmLmNvdXJpZXIgbm90IGluIHNlbGYucGFydG5lci5jb3VyaWVycy5hbGwoKToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKAogICAgICAgICAgICAgICAgeyJjb3VyaWVyIjogIlNlbGVjdGVkIENvdXJpZXIgaXMgbm90IHNwZWNpZmllZCBpbiBQYXJ0bmVyIGNvbmZpZy4ifQogICAgICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCAnKQo=</text>
+        <text encoding="base64">ICAgIHBhcnRuZXIgPSBtb2RlbHMuT25lVG9PbmVGaWVsZChQYXJ0bmVyLCBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUpCiAgICB3ZWVrZGF5ID0gbW9kZWxzLlBvc2l0aXZlU21hbGxJbnRlZ2VyRmllbGQoCiAgICAgICAgY2hvaWNlcz1XZWVrZGF5Q2hvaWNlcywgbnVsbD1UcnVlLCBibGFuaz1UcnVlCiAgICApCiAgICBob3VyID0gbW9kZWxzLlBvc2l0aXZlU21hbGxJbnRlZ2VyRmllbGQobnVsbD1UcnVlLCBibGFuaz1UcnVlKQogICAgZGVsYXlfaG91cnMgPSBtb2RlbHMuUG9zaXRpdmVTbWFsbEludGVnZXJGaWVsZChudWxsPVRydWUsIGJsYW5rPVRydWUpCgogICAgZGVmIHNhdmUoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKTogICMgcHlsaW50OiBkaXNhYmxlPWFyZ3VtZW50cy1kaWZmZXIKICAgICAgICBpZiBzZWxmLmRlbGF5X2hvdXJzIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLndlZWtkYXksIHNlbGYuaG91ciA9IE5vbmUsIE5vbmUKICAgICAgICBlbGlmIHNlbGYuZGVsYXlfaG91cnMgaXMgTm9uZSBhbmQgc2VsZi53ZWVrZGF5IGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgICAgICJZb3UgaGF2ZSB0byBjaG9vc2UgZWl0aGVyIGRlbGF5X2hvdXJzIG9yIHdlZWtkYXkgdG8gc2F2ZSBhIGNvbmZpZ3VyYXRpb24uIgogICAgICAgICAgICApCiAgICAgICAgZWxpZiBzZWxmLmhvdXIgaXMgbm90IE5vbmUgYW5kIHNlbGYuaG91ciBub3QgaW4gcmFuZ2UoMCwgMjQpOgogICAgICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IoIkhvdXIgbXVzdCBiZSBiZXR3ZWVuIDAgYW5kIDIzLiIpCiAgICAgICAgZWxpZiBzZWxmLmhvdXIgaXMgTm9uZSBhbmQgc2VsZi53ZWVrZGF5IGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLmhvdXIgPSAwCiAgICAgICAgc3VwZXIoKS5zYXZlKCphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCBtZXRob2QsIHBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3ZhZ3JhbnQgYW5zaWJsZV9zc2hfaG9zdD0xOTIuMTY4LjMzLjEwMSBhbnNpYmxlX3NzaF91c2VyPSd2YWdyYW50JyBhbnNpYmxlX3NzaF9wcml2YXRlX2tleV9maWxlPScudmFncmFudC9tYWNoaW5lcy92YWdyYW50L3ZpcnR1YWxib3gvcHJpdmF0ZV9rZXknCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCAnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgneHh4JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRElTUEFUQ0giLCBtZXRob2QsIHBhcmFtcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBycGludCgpCg==</text>
-      </register>
-      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -393,9 +406,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>create</last-search>
+      <last-search>method</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>method</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
