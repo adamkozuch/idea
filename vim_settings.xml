@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>paycross21</entry>
-        <entry>generate</entry>
         <entry encoding="base64">XDxIVFRQRXJyb3JcPg==</entry>
         <entry>database</entry>
         <entry encoding="base64">XDxEQVRBQkFTRV9VUkxcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>logistic</entry>
         <entry>extra</entry>
         <entry>deli</entry>
+        <entry>DistributionRule</entry>
+        <entry>Distri</entry>
       </history-search>
       <history-cmd>
         <entry>%s/models/nnnnnn/g</entry>
@@ -165,18 +165,18 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/distribution.py" timestamp="1591189509540">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="49" column="5" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/distribution.py" timestamp="1591192970582">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="33" column="13" />
       </file>
       <file name="/Dummy.ts" timestamp="1591040184412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591190460638">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="32" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="32" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591192452051">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/parcels/views.py" timestamp="1591185989536">
         <mark key="'" line="48" column="28" />
@@ -206,12 +206,12 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591190411074">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591193080312">
         <mark key="'" line="539" column="4" />
-        <mark key="[" line="547" column="12" />
-        <mark key="]" line="547" column="45" />
-        <mark key="^" line="547" column="45" />
-        <mark key="." line="547" column="44" />
+        <mark key="[" line="551" column="18" />
+        <mark key="]" line="551" column="46" />
+        <mark key="." line="551" column="45" />
+        <mark key="^" line="551" column="46" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/delivery_method_configurator.py" timestamp="1591189306894">
         <mark key="[" line="0" column="0" />
@@ -242,18 +242,11 @@
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591186603652">
-        <mark key="'" line="401" column="22" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591192921621">
+        <mark key="'" line="277" column="44" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="404" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="407" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="408" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="409" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="410" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="413" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="416" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="417" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="418" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="419" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
@@ -347,51 +340,58 @@
       <jump line="213" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="221" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="169" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
+      <jump line="465" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="281" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="282" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="86" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="87" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="88" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="277" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsb2dpc3RpY19jb21wYW5pZXMuRGVsaXZlcnlNZXRob2RDb25maWd1cmF0aW9uQ29uZmlnIiwK</text>
+      <register name="&quot;" type="4">
+        <text>payment_method</text>
       </register>
       <register name="-" type="4">
-        <text>Courier</text>
+        <text>payment_method</text>
       </register>
       <register name="/" type="4">
-        <text>deli</text>
+        <text>Distri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsb2dpc3RpY19jb21wYW5pZXMuRGVsaXZlcnlNZXRob2RDb25maWd1cmF0aW9uQ29uZmlnIiwK</text>
+        <text encoding="base64">ICAgICAgICAuZmlsdGVyKAogICAgICAgICAgICBRKAogICAgICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPWRpc3BhdGNoX29yZGVyLmRlbGl2ZXJ5X21ldGhvZCwKICAgICAgICAgICAgICAgIGRlbGl2ZXJ5X21ldGhvZF9faXNudWxsPUZhbHNlLAogICAgICAgICAgICApCiAgICAgICAgICAgIHwgUSgKICAgICAgICAgICAgICAgIHBheW1lbnRfbWV0aG9kPWRpc3BhdGNoX29yZGVyLnBheW1lbnRfbWV0aG9kLAogICAgICAgICAgICAgICAgcGF5bWVudF9tZXRob2RfX2lzbnVsbD1GYWxzZSwKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoCiAgICAgICAgICAgICAgICAgUSgKICAgICAgICAgICAgICAgICAgICBwYXltZW50X21ldGhvZD1kaXNwYXRjaF9vcmRlci5wYXltZW50X21ldGhvZCwKICAgICAgICAgICAgICAgICAgICBwYXltZW50X21ldGhvZF9faXNudWxsPUZhbHNlLAogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgUSgKICAgICAgICAgICAgICAgICAgICBoYW5kbGVfdW5jb25maXJtZWRfb3JkZXJzPWRpc3BhdGNoX29yZGVyLm9yZGVyX2NvbmZpcm1hdGlvbl90eXBlLAogICAgICAgICAgICAgICAgICAgIGhhbmRsZV91bmNvbmZpcm1lZF9vcmRlcnNfX2lzbnVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHwgUSgKICAgICAgICAgICAgICAgICAgICByZWdpb25fbGlzdF9faXRlbXNfX2NvbnRhaW5zPVtkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV9yZWdpb25dLAogICAgICAgICAgICAgICAgICAgIHJlZ2lvbl9saXN0X19pc251bGw9RmFsc2UsCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB8IFEoCiAgICAgICAgICAgICAgICAgICAgemlwX2NvZGVfbGlzdF9faXRlbXNfX2NvbnRhaW5zPVtkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV96aXBfY29kZV0sCiAgICAgICAgICAgICAgICAgICAgemlwX2NvZGVfbGlzdF9faXNudWxsPUZhbHNlLAogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFEoCiAgICAgICAgICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPWRpc3BhdGNoX29yZGVyLmRlbGl2ZXJ5X21ldGhvZCwKICAgICAgICAgICAgICAgICAgICBkZWxpdmVyeV9tZXRob2RfX2lzbnVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnRuZXIgPSBtb2RlbHMuRm9yZWlnbktleSgKICAgICAgICBQYXJ0bmVyLAogICAgICAgIGRiX2luZGV4PVRydWUsCiAgICAgICAgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFLAogICAgICAgIHJlbGF0ZWRfbmFtZT0iZXh0cmFfc2VydmljZV9ydWxlcyIsCiAgICApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnRuZXIgPSBtb2RlbHMuRm9yZWlnbktleShQYXJ0bmVyLCBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUpCiAgICBjb3VyaWVyID0gbW9kZWxzLkZvcmVpZ25LZXkoQ291cmllciwgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgdW5pcXVlX3RvZ2V0aGVyID0gKCJwYXJ0bmVyIiwgImNvdXJpZXIiKQoKICAgIGRlZiBjbGVhbihzZWxmKToKICAgICAgICBpZiBzZWxmLmNvdXJpZXIgbm90IGluIHNlbGYucGFydG5lci5jb3VyaWVycy5hbGwoKToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKAogICAgICAgICAgICAgICAgeyJjb3VyaWVyIjogIlNlbGVjdGVkIENvdXJpZXIgaXMgbm90IHNwZWNpZmllZCBpbiBQYXJ0bmVyIGNvbmZpZy4ifQogICAgICAgICAgICApCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnRuZXIgPSBtb2RlbHMuT25lVG9PbmVGaWVsZChQYXJ0bmVyLCBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUpCiAgICB3ZWVrZGF5ID0gbW9kZWxzLlBvc2l0aXZlU21hbGxJbnRlZ2VyRmllbGQoCiAgICAgICAgY2hvaWNlcz1XZWVrZGF5Q2hvaWNlcywgbnVsbD1UcnVlLCBibGFuaz1UcnVlCiAgICApCiAgICBob3VyID0gbW9kZWxzLlBvc2l0aXZlU21hbGxJbnRlZ2VyRmllbGQobnVsbD1UcnVlLCBibGFuaz1UcnVlKQogICAgZGVsYXlfaG91cnMgPSBtb2RlbHMuUG9zaXRpdmVTbWFsbEludGVnZXJGaWVsZChudWxsPVRydWUsIGJsYW5rPVRydWUpCgogICAgZGVmIHNhdmUoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKTogICMgcHlsaW50OiBkaXNhYmxlPWFyZ3VtZW50cy1kaWZmZXIKICAgICAgICBpZiBzZWxmLmRlbGF5X2hvdXJzIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLndlZWtkYXksIHNlbGYuaG91ciA9IE5vbmUsIE5vbmUKICAgICAgICBlbGlmIHNlbGYuZGVsYXlfaG91cnMgaXMgTm9uZSBhbmQgc2VsZi53ZWVrZGF5IGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgICAgICJZb3UgaGF2ZSB0byBjaG9vc2UgZWl0aGVyIGRlbGF5X2hvdXJzIG9yIHdlZWtkYXkgdG8gc2F2ZSBhIGNvbmZpZ3VyYXRpb24uIgogICAgICAgICAgICApCiAgICAgICAgZWxpZiBzZWxmLmhvdXIgaXMgbm90IE5vbmUgYW5kIHNlbGYuaG91ciBub3QgaW4gcmFuZ2UoMCwgMjQpOgogICAgICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IoIkhvdXIgbXVzdCBiZSBiZXR3ZWVuIDAgYW5kIDIzLiIpCiAgICAgICAgZWxpZiBzZWxmLmhvdXIgaXMgTm9uZSBhbmQgc2VsZi53ZWVrZGF5IGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLmhvdXIgPSAwCiAgICAgICAgc3VwZXIoKS5zYXZlKCphcmdzLCAqKmt3YXJncykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoCiAgICAgICAgICAgICAgICAgUSgKICAgICAgICAgICAgICAgICAgICBwYXltZW50X21ldGhvZD1kaXNwYXRjaF9vcmRlci5wYXltZW50X21ldGhvZCwKICAgICAgICAgICAgICAgICAgICBwYXltZW50X21ldGhvZF9faXNudWxsPUZhbHNlLAogICAgICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgUSgKICAgICAgICAgICAgICAgICAgICBoYW5kbGVfdW5jb25maXJtZWRfb3JkZXJzPWRpc3BhdGNoX29yZGVyLm9yZGVyX2NvbmZpcm1hdGlvbl90eXBlLAogICAgICAgICAgICAgICAgICAgIGhhbmRsZV91bmNvbmZpcm1lZF9vcmRlcnNfX2lzbnVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHwgUSgKICAgICAgICAgICAgICAgICAgICByZWdpb25fbGlzdF9faXRlbXNfX2NvbnRhaW5zPVtkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV9yZWdpb25dLAogICAgICAgICAgICAgICAgICAgIHJlZ2lvbl9saXN0X19pc251bGw9RmFsc2UsCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB8IFEoCiAgICAgICAgICAgICAgICAgICAgemlwX2NvZGVfbGlzdF9faXRlbXNfX2NvbnRhaW5zPVtkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV96aXBfY29kZV0sCiAgICAgICAgICAgICAgICAgICAgemlwX2NvZGVfbGlzdF9faXNudWxsPUZhbHNlLAogICAgICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFEoCiAgICAgICAgICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPWRpc3BhdGNoX29yZGVyLmRlbGl2ZXJ5X21ldGhvZCwKICAgICAgICAgICAgICAgICAgICBkZWxpdmVyeV9tZXRob2RfX2lzbnVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">I3ZhZ3JhbnQgYW5zaWJsZV9zc2hfaG9zdD0xOTIuMTY4LjMzLjEwMSBhbnNpYmxlX3NzaF91c2VyPSd2YWdyYW50JyBhbnNpYmxlX3NzaF9wcml2YXRlX2tleV9maWxlPScudmFncmFudC9tYWNoaW5lcy92YWdyYW50L3ZpcnR1YWxib3gvcHJpdmF0ZV9rZXknCg==</text>
+        <text encoding="base64">ICAgIHBhcnRuZXIgPSBtb2RlbHMuRm9yZWlnbktleSgKICAgICAgICBQYXJ0bmVyLAogICAgICAgIGRiX2luZGV4PVRydWUsCiAgICAgICAgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFLAogICAgICAgIHJlbGF0ZWRfbmFtZT0iZXh0cmFfc2VydmljZV9ydWxlcyIsCiAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -400,9 +400,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>deli</last-search>
+      <last-search>Distri</last-search>
       <last-offset />
-      <last-pattern>deli</last-pattern>
+      <last-pattern>Distri</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
