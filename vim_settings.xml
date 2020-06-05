@@ -40,12 +40,12 @@
         <entry>reg</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz4=</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>ww</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>.,.+5action RecentFiles</entry>
-        <entry>action RecentFiles</entry>
         <entry>kw</entry>
+        <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -170,12 +170,10 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="33" column="13" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591343970612">
-        <mark key="'" line="26" column="34" />
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="57" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591346276819">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/parcels/views.py" timestamp="1591185989536">
         <mark key="'" line="48" column="28" />
@@ -189,12 +187,12 @@
         <mark key="[" line="350" column="15" />
         <mark key="]" line="350" column="63" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" timestamp="1591343559027">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="107" column="16" />
-        <mark key="]" line="107" column="34" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" timestamp="1591344037258">
+        <mark key="'" line="79" column="33" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
         <mark key="^" line="107" column="34" />
-        <mark key="." line="107" column="33" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1591191132705">
         <mark key="'" line="169" column="20" />
@@ -214,12 +212,12 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591343841026">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591346272665">
         <mark key="'" line="239" column="45" />
-        <mark key="[" line="555" column="45" />
-        <mark key="]" line="555" column="52" />
-        <mark key="^" line="555" column="52" />
-        <mark key="." line="555" column="51" />
+        <mark key="[" line="562" column="14" />
+        <mark key="]" line="562" column="19" />
+        <mark key="^" line="562" column="19" />
+        <mark key="." line="562" column="18" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/delivery_method_configurator.py" timestamp="1591189306894">
         <mark key="[" line="0" column="0" />
@@ -248,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="80" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="81" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="110" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
@@ -348,21 +345,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
       <jump line="14" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="28" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
+      <jump line="79" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>mock_or_sth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mock_or_sth</text>
+        <text>first().query</text>
       </register>
       <register name="/" type="4">
         <text>DispatchOrder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZENvbmZpZ3VyYXRpb25Db25maWdGYWN0b3J5KGNvdXJpZXI9Y291cmllciwgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5IT01FX0RFTElWRVJZKQo=</text>
+        <text encoding="base64">ICAgICAgICBkbXIuY291cmllcnMuYWRkKGNvdXJpZXIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -371,28 +369,28 @@
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoYXQga2luZCBvZiBETyB3ZSBhcmUgcGFzc2luZyBoZXJlIGRpY3Rpb25hcnkgb3IgYWN0dWFsbCBvYmplY3QK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X25vX2RlbGl2ZXJ5X21ldGhvZF9ydWxlX2V4aXN0c19ydWxlX3dpdGhfbW9yZV9wcmlvcml0eV9pc19maXJzdChzZWxmKToKICAgICAgICBjb3VyaWVyID0gQ291cmllckZhY3RvcnkobmFtZT0iUG9jenRhIFBvbHNrYSIpCiAgICAgICAgZG1yID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeShkZWxpdmVyeV9tZXRob2Q9RGVsaXZlcnlNZXRob2RDaG9pY2VzLkhPTUVfREVMSVZFUlkpCiAgICAgICAgZG1yLmNvdXJpZXJzLmFkZChjb3VyaWVyKQogICAgICAgIGRvID0gRGlzcGF0Y2hPcmRlckZhY3RvcnkoY291cmllcl9jb21wYW55PWNvdXJpZXIpCiAgICAgICAgcmVzdWx0ID0gRGVsaXZlcnlNZXRob2RSdWxlLmdldF9kZWxpdmVyeV9tZXRob2QoZG8pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQsIERlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5IT01FX0RFTElWRVJZKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoYXQga2luZCBvZiBETyB3ZSBhcmUgcGFzc2luZyBoZXJlIGRpY3Rpb25hcnkgb3IgYWN0dWFsbCBvYmplY3QK</text>
+        <text encoding="base64">ICAgICAgICBkbXIuY291cmllcnMuYWRkCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoYXQga2luZCBvZiBETyB3ZSBhcmUgcGFzc2luZyBoZXJlIGRpY3Rpb25hcnkgb3IgYWN0dWFsbCBvYmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHdoYXQga2luZCBvZiBETyB3ZSBhcmUgcGFzc2luZyBoZXJlIGRpY3Rpb25hcnkgb3IgYWN0dWFsbCBvYmplY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50cnk9ZGlzcGF0Y2hfb3JkZXIuZGVsaXZlcnlfY291bnRyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
