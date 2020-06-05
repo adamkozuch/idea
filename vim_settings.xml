@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>post</entry>
         <entry>db_list</entry>
         <entry encoding="base64">XDxsaWJqcGVnXD4=</entry>
         <entry>create</entry>
@@ -25,6 +24,7 @@
         <entry>distribution</entry>
         <entry>-prio</entry>
         <entry>send</entry>
+        <entry encoding="base64">XDxhbW91bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
@@ -161,10 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/models.py" timestamp="1591186272679">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="27" column="46" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/distribution.py" timestamp="1591348378723">
         <mark key="'" line="22" column="14" />
         <mark key="[" line="25" column="0" />
@@ -176,8 +172,8 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="8" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/parcels/views.py" timestamp="1591185989536">
-        <mark key="'" line="48" column="28" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/staticfiles/js/partials/account.js" timestamp="1591367653448">
+        <mark key="'" line="251" column="54" />
       </file>
       <file name="/a.dummy" timestamp="1591343535555">
         <mark key="[" line="0" column="1" />
@@ -211,11 +207,6 @@
         <mark key="." line="182" column="41" />
         <mark key="^" line="182" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591181248961">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/admin/options.py" timestamp="1591357044498">
         <mark key="'" line="1982" column="24" />
       </file>
@@ -232,21 +223,21 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/admin.py" timestamp="1591348482186" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/choices.py" timestamp="1591186339036">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="27" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1591366849754" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1591367377114">
+        <mark key="'" line="90" column="25" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1591367383203">
+        <mark key="'" line="624" column="23" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/account_box.html" timestamp="1591367905185" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/admin.py" timestamp="1591348482186" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/obligation_info.html" timestamp="1591367924058" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591348293884">
         <mark key="'" line="86" column="67" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1143" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_views.py" />
-      <jump line="43" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/urls.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/Dockerfile" />
-      <jump line="240" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="122" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/requirements.txt" />
       <jump line="11" column="17" filename="$USER_HOME$/PycharmProjects/untitled3/untitled3/asgi.py" />
@@ -342,6 +333,11 @@
       <jump line="2193" column="20" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/admin/options.py" />
       <jump line="1982" column="24" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/admin/options.py" />
       <jump line="100" column="6" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/admin/options.py" />
+      <jump line="90" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" />
+      <jump line="624" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" />
+      <jump line="258" column="40" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/staticfiles/js/partials/account.js" />
+      <jump line="255" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/staticfiles/js/partials/account.js" />
+      <jump line="251" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/staticfiles/js/partials/account.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +349,7 @@
         <text>annotate</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text encoding="base64">XDxhbW91bnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X25vX2RlbGl2ZXJ5X21ldGhvZF9ydWxlX2V4aXN0c19ydWxlX3dpdGhfbW9yZV9wcmlvcml0eV9pc19maXJzdChzZWxmKToKICAgICAgICBjb3VyaWVyID0gQ291cmllckZhY3RvcnkobmFtZT0iUG9jenRhIFBvbHNrYSIpCgogICAgICAgIHdpdGhfY291cmllciA9IERlbGl2ZXJ5TWV0aG9kUnVsZUZhY3RvcnkoZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5QT1NUX09GRklDRSkKICAgICAgICB3aXRoX2NvdXJpZXIuY291cmllcnMuYWRkKGNvdXJpZXIpCiAgICAgICAgd2lodG91dF9jb3VyaWVyID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeShwYXltZW50X21ldGhvZD1QYXltZW50TWV0aG9kQ2hvaWNlcy5DT0QsIGRlbGl2ZXJ5X21ldGhvZD1EZWxpdmVyeU1ldGhvZENob2ljZXMuSE9NRV9ERUxJVkVSWSkKICAgICAgICBkbyA9IERpc3BhdGNoT3JkZXJGYWN0b3J5KGNvdXJpZXJfY29tcGFueT1jb3VyaWVyKQogICAgICAgIHJlc3VsdCA9IERlbGl2ZXJ5TWV0aG9kUnVsZS5nZXRfZGVsaXZlcnlfbWV0aG9kKGRvKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzdWx0LCBEZWxpdmVyeU1ldGhvZENob2ljZXMuUE9TVF9PRkZJQ0UpCg==</text>
@@ -395,12 +391,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>send</last-search>
+      <last-search encoding="base64">XDxhbW91bnRcPg==</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern encoding="base64">XDxhbW91bnRcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
