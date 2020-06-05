@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxIVFRQRXJyb3JcPg==</entry>
-        <entry>database</entry>
-        <entry encoding="base64">XDxEQVRBQkFTRV9VUkxcPg==</entry>
-        <entry>paycross</entry>
         <entry>pay</entry>
         <entry>without_mig</entry>
         <entry>media</entry>
@@ -18,17 +14,19 @@
         <entry encoding="base64">XDxsaWJqcGVnXD4=</entry>
         <entry>create</entry>
         <entry>paymentMe</entry>
-        <entry>payment</entry>
         <entry>method</entry>
         <entry>logistic</entry>
         <entry>extra</entry>
         <entry>deli</entry>
         <entry>DistributionRule</entry>
         <entry>Distri</entry>
+        <entry>courier</entry>
+        <entry>country</entry>
+        <entry>payment</entry>
+        <entry>Payment</entry>
+        <entry>DispatchOrder</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/models/nnnnnn/g</entry>
-        <entry>we</entry>
         <entry>wk</entry>
         <entry>kw</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
@@ -44,7 +42,9 @@
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>ww</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
+        <entry>.,.+5action RecentFiles</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
@@ -165,21 +165,33 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/distribution.py" timestamp="1591192970582">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/distribution.py" timestamp="1591338891741">
+        <mark key="'" line="22" column="17" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="33" column="13" />
       </file>
-      <file name="/Dummy.ts" timestamp="1591040184412">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591192452051">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="45" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="45" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591343079002">
+        <mark key="'" line="22" column="31" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="41" column="66" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/parcels/views.py" timestamp="1591185989536">
         <mark key="'" line="48" column="28" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/admin.py" timestamp="1591339592825" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1591340634608">
+        <mark key="'" line="350" column="34" />
+        <mark key="[" line="350" column="15" />
+        <mark key="]" line="350" column="63" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" timestamp="1591339855517">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="104" column="39" />
+        <mark key="]" line="104" column="46" />
+        <mark key="^" line="104" column="46" />
+        <mark key="." line="104" column="45" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1591191132705">
         <mark key="'" line="169" column="20" />
@@ -187,13 +199,6 @@
         <mark key="]" line="182" column="66" />
         <mark key="." line="182" column="65" />
         <mark key="^" line="182" column="66" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/base/tasks/main.yml" timestamp="1591090164087">
-        <mark key="'" line="23" column="6" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="23" column="17" />
-        <mark key="^" line="23" column="17" />
-        <mark key="." line="23" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1591181248961">
         <mark key="[" line="0" column="0" />
@@ -206,12 +211,12 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591193080312">
-        <mark key="'" line="539" column="4" />
-        <mark key="[" line="551" column="18" />
-        <mark key="]" line="551" column="46" />
-        <mark key="." line="551" column="45" />
-        <mark key="^" line="551" column="46" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591343245392">
+        <mark key="'" line="239" column="45" />
+        <mark key="[" line="551" column="27" />
+        <mark key="]" line="551" column="28" />
+        <mark key="^" line="551" column="28" />
+        <mark key="." line="551" column="27" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/delivery_method_configurator.py" timestamp="1591189306894">
         <mark key="[" line="0" column="0" />
@@ -224,9 +229,6 @@
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1591077008936">
-        <mark key="'" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/inventories/local.ini" timestamp="1591181242846">
         <mark key="[" line="0" column="0" />
@@ -247,21 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="418" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="419" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="422" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="423" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="424" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="613" column="2" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="2" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="20" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="24" column="49" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="25" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="73" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="74" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="75" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
-      <jump line="76" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="77" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="78" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
       <jump line="79" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/config/settings/common.py" />
@@ -347,21 +334,36 @@
       <jump line="87" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="88" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="277" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="547" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="22" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/distribution.py" />
+      <jump line="374" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="1095" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
+      <jump line="104" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
+      <jump line="238" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="217" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="239" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="350" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/deletion.py" />
+      <jump line="22" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>payment_method</text>
+        <text>ForeignKey</text>
       </register>
       <register name="-" type="4">
-        <text>payment_method</text>
+        <text>ForeignKey</text>
       </register>
       <register name="/" type="4">
-        <text>Distri</text>
+        <text>DispatchOrder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlsdGVyKAogICAgICAgICAgICBRKAogICAgICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPWRpc3BhdGNoX29yZGVyLmRlbGl2ZXJ5X21ldGhvZCwKICAgICAgICAgICAgICAgIGRlbGl2ZXJ5X21ldGhvZF9faXNudWxsPUZhbHNlLAogICAgICAgICAgICApCiAgICAgICAgICAgIHwgUSgKICAgICAgICAgICAgICAgIHBheW1lbnRfbWV0aG9kPWRpc3BhdGNoX29yZGVyLnBheW1lbnRfbWV0aG9kLAogICAgICAgICAgICAgICAgcGF5bWVudF9tZXRob2RfX2lzbnVsbD1GYWxzZSwKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZENvbmZpZ3VyYXRpb25Db25maWdGYWN0b3J5KGNvdXJpZXI9Y291cmllciwgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5IT01FX0RFTElWRVJZKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -370,28 +372,28 @@
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAjIHdoYXQga2luZCBvZiBETyB3ZSBhcmUgcGFzc2luZyBoZXJlIGRpY3Rpb25hcnkgb3IgYWN0dWFsbCBvYmplY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50cnk9ZGlzcGF0Y2hfb3JkZXIuZGVsaXZlcnlfY291bnRyeQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoCiAgICAgICAgICAgICAgICAgUSgKICAgICAgICAgICAgICAgICAgICBwYXltZW50X21ldGhvZD1kaXNwYXRjaF9vcmRlci5wYXltZW50X21ldGhvZCwKICAgICAgICAgICAgICAgICAgICBwYXltZW50X21ldGhvZF9faXNudWxsPUZhbHNlLAogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maXJzdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgUSgKICAgICAgICAgICAgICAgICAgICBoYW5kbGVfdW5jb25maXJtZWRfb3JkZXJzPWRpc3BhdGNoX29yZGVyLm9yZGVyX2NvbmZpcm1hdGlvbl90eXBlLAogICAgICAgICAgICAgICAgICAgIGhhbmRsZV91bmNvbmZpcm1lZF9vcmRlcnNfX2lzbnVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHwgUSgKICAgICAgICAgICAgICAgICAgICByZWdpb25fbGlzdF9faXRlbXNfX2NvbnRhaW5zPVtkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV9yZWdpb25dLAogICAgICAgICAgICAgICAgICAgIHJlZ2lvbl9saXN0X19pc251bGw9RmFsc2UsCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB8IFEoCiAgICAgICAgICAgICAgICAgICAgemlwX2NvZGVfbGlzdF9faXRlbXNfX2NvbnRhaW5zPVtkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV96aXBfY29kZV0sCiAgICAgICAgICAgICAgICAgICAgemlwX2NvZGVfbGlzdF9faXNudWxsPUZhbHNlLAogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX29yX3N0aCA9IFNpbXBsZU5hbWVzcGFjZShkZWxpdmVyeV9jb3VudHJ5PSJTcGFpbiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFEoCiAgICAgICAgICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPWRpc3BhdGNoX29yZGVyLmRlbGl2ZXJ5X21ldGhvZCwKICAgICAgICAgICAgICAgICAgICBkZWxpdmVyeV9tZXRob2RfX2lzbnVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnRuZXIgPSBtb2RlbHMuRm9yZWlnbktleSgKICAgICAgICBQYXJ0bmVyLAogICAgICAgIGRiX2luZGV4PVRydWUsCiAgICAgICAgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFLAogICAgICAgIHJlbGF0ZWRfbmFtZT0iZXh0cmFfc2VydmljZV9ydWxlcyIsCiAgICApCg==</text>
+        <text encoding="base64">ICAgIGNvdW50cmllcyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoQ291bnRyeSwgYmxhbms9VHJ1ZSkKICAgIGNvdXJpZXJzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChDb3VyaWVyLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -400,9 +402,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Distri</last-search>
+      <last-search>DispatchOrder</last-search>
       <last-offset />
-      <last-pattern>Distri</last-pattern>
+      <last-pattern>DispatchOrder</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
