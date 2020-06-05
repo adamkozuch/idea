@@ -44,8 +44,8 @@
         <entry>.,.+5action RecentFiles</entry>
         <entry>kw</entry>
         <entry>s</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -170,11 +170,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="33" column="13" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591353072627">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591355253052">
         <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="8" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/parcels/views.py" timestamp="1591185989536">
         <mark key="'" line="48" column="28" />
@@ -202,24 +202,24 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="51" column="81" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1591191132705">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1591353920529">
         <mark key="'" line="169" column="20" />
-        <mark key="[" line="182" column="57" />
-        <mark key="]" line="182" column="66" />
-        <mark key="." line="182" column="65" />
-        <mark key="^" line="182" column="66" />
+        <mark key="[" line="182" column="24" />
+        <mark key="]" line="182" column="42" />
+        <mark key="." line="182" column="41" />
+        <mark key="^" line="182" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1591181248961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591352958607">
-        <mark key="'" line="506" column="36" />
-        <mark key="[" line="547" column="17" />
-        <mark key="]" line="547" column="27" />
-        <mark key="." line="547" column="26" />
-        <mark key="^" line="547" column="27" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591355527595">
+        <mark key="'" line="530" column="4" />
+        <mark key="[" line="537" column="25" />
+        <mark key="]" line="537" column="25" />
+        <mark key="." line="537" column="25" />
+        <mark key="^" line="533" column="32" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/delivery_method_configurator.py" timestamp="1591189306894">
         <mark key="[" line="0" column="0" />
@@ -243,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/virtual_envs/paycross21/local/lib/python2.7/site-packages/django/db/models/manager.py" />
       <jump line="220" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/.venv/lib/python2.7/site-packages/gdata/photos/__init__.py" />
       <jump line="223" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/.venv/lib/python2.7/site-packages/gdata/photos/__init__.py" />
       <jump line="68" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/.venv/lib/python2.7/site-packages/gdata/photos/__init__.py" />
@@ -343,15 +342,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/fields/__init__.py" />
       <jump line="21" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/choices.py" />
+      <jump line="530" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoX2NvdXJpZXIuc2F2ZSgpCiAgICAgICAgd2l0aF9jb3VyaWVyLnJlZnJlc2hfZnJvbV9kYigpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgbmVlZCB0byBhZGQgcGF5bWVudCBtZXRob2Q=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">ICMgbmVlZCB0byBhZGQgcGF5bWVudCBtZXRob2Q=</text>
       </register>
       <register name="/" type="4">
         <text>send</text>
@@ -360,22 +360,22 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X25vX2RlbGl2ZXJ5X21ldGhvZF9ydWxlX2V4aXN0c19ydWxlX3dpdGhfbW9yZV9wcmlvcml0eV9pc19maXJzdChzZWxmKToKICAgICAgICBjb3VyaWVyID0gQ291cmllckZhY3RvcnkobmFtZT0iUG9jenRhIFBvbHNrYSIpCgogICAgICAgIHdpdGhfY291cmllciA9IERlbGl2ZXJ5TWV0aG9kUnVsZUZhY3RvcnkoZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5QT1NUX09GRklDRSkKICAgICAgICB3aXRoX2NvdXJpZXIuY291cmllcnMuYWRkKGNvdXJpZXIpCiAgICAgICAgd2lodG91dF9jb3VyaWVyID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeShwYXltZW50X21ldGhvZD1QYXltZW50TWV0aG9kQ2hvaWNlcy5DT0QsIGRlbGl2ZXJ5X21ldGhvZD1EZWxpdmVyeU1ldGhvZENob2ljZXMuSE9NRV9ERUxJVkVSWSkKICAgICAgICBkbyA9IERpc3BhdGNoT3JkZXJGYWN0b3J5KGNvdXJpZXJfY29tcGFueT1jb3VyaWVyKQogICAgICAgIHJlc3VsdCA9IERlbGl2ZXJ5TWV0aG9kUnVsZS5nZXRfZGVsaXZlcnlfbWV0aG9kKGRvKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzdWx0LCBEZWxpdmVyeU1ldGhvZENob2ljZXMuUE9TVF9PRkZJQ0UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoX2NvdXJpZXIuc2F2ZSgpCiAgICAgICAgd2l0aF9jb3VyaWVyLnJlZnJlc2hfZnJvbV9kYigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoc2VsZik6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkbyA9IERpc3BhdGNoT3JkZXJGYWN0b3J5KGNvdXJpZXJfY29tcGFueT1jb3VyaWVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBEZWxpdmVyeU1ldGhvZFJ1bGUuZ2V0X2RlbGl2ZXJ5X21ldGhvZChkbykK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucHJpb3JpdHkgPSBzZWxmLmdldF9wcmlvcml0eSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aWh0b3V0X2NvdXJpZXIgPSBEZWxpdmVyeU1ldGhvZFJ1bGVGYWN0b3J5KHBheW1lbnRfbWV0aG9kPVBheW1lbnRNZXRob2RDaG9pY2VzLkNPRCwgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5IT01FX0RFTElWRVJZKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -384,10 +384,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhlcmUgd2UgbmVlZCB0byBnZXQgcHJpb3JpdHkKICAgICAgICAjIHdlIHdpbGwgaGF2ZSBzZXJpYWxpemVyIGFuZCB0aGVyZSB3ZSBjZW4gY2FsdWNsYXRlCiAgICAgICAgIyBidXQgbWF5YmUgaXQgd2lsbCBub3QgYmUgbmVjZXNzYXJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlZ2lvbl9saXN0IiwKICAgICAgICAgICAgInppcF9jb2RlX2xpc3QiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
