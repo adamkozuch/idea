@@ -191,9 +191,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1591441266631">
         <mark key="'" line="72" column="34" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/views.py" timestamp="1591367383203">
-        <mark key="'" line="624" column="23" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" timestamp="1591516560515">
         <mark key="'" line="53" column="44" />
         <mark key="[" line="55" column="51" />
@@ -216,8 +213,8 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/staticfiles/js/partials/account.js" timestamp="1591367653448">
-        <mark key="'" line="251" column="54" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1591535123653">
+        <mark key="'" line="193" column="36" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/serializers.py" timestamp="1591461698233">
         <mark key="'" line="21" column="15" />
@@ -244,13 +241,12 @@
         <mark key="." line="570" column="26" />
         <mark key="^" line="570" column="33" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" timestamp="1591535303793">
+        <mark key="'" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/account_box.html" timestamp="1591367905185" />
     </filemarks>
     <jumps>
-      <jump line="31" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="227" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="264" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="303" column="74" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="308" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="364" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="400" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
@@ -347,6 +343,10 @@
       <jump line="19" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
       <jump line="20" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/201545291/unittest/case.py" />
+      <jump line="193" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
+      <jump line="16" column="40" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
+      <jump line="12" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
+      <jump line="4" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
