@@ -185,6 +185,9 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1591461533325">
         <mark key="'" line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" timestamp="1591534895569">
+        <mark key="'" line="20" column="23" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/urls.py" timestamp="1591441266631">
         <mark key="'" line="72" column="34" />
       </file>
@@ -225,7 +228,7 @@
         <mark key="^" line="88" column="4" />
         <mark key="." line="88" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591532476300">
+      <file name="/Dummy.txt" timestamp="1591534668294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="7" />
@@ -241,13 +244,9 @@
         <mark key="." line="570" column="26" />
         <mark key="^" line="570" column="33" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1591366849754" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/account_box.html" timestamp="1591367905185" />
     </filemarks>
     <jumps>
-      <jump line="406" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/choices.py" />
-      <jump line="123" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="31" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="227" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="264" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
@@ -345,6 +344,9 @@
       <jump line="16" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/samples/dispatch_order_valid_data.json" />
       <jump line="807" column="49" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/models.py" />
+      <jump line="19" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
+      <jump line="20" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/201545291/unittest/case.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
