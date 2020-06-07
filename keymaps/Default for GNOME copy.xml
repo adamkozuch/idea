@@ -77,6 +77,7 @@
   <action id="EditorIndentSelection" />
   <action id="EditorMatchBrace" />
   <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord" />
   <action id="EditorToggleShowGutterIcons">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -229,6 +230,9 @@
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="ShowContent" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt s" />

@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>paymentMe</entry>
         <entry>method</entry>
         <entry>logistic</entry>
         <entry>extra</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxEZWxpdmVyeUF0dGFjaG1lbnRDb25maWdcPg==</entry>
         <entry>DeliveryMethodRUle</entry>
         <entry>success</entry>
+        <entry>delivery_method</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -43,9 +43,9 @@
         <entry>s</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>kw</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -161,12 +161,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1591532064135">
-        <mark key="'" line="261" column="34" />
-        <mark key="[" line="772" column="43" />
-        <mark key="]" line="772" column="47" />
-        <mark key="." line="772" column="46" />
-        <mark key="^" line="772" column="47" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1591533404929">
+        <mark key="'" line="807" column="49" />
+        <mark key="[" line="775" column="17" />
+        <mark key="]" line="770" column="30" />
+        <mark key="." line="770" column="29" />
+        <mark key="^" line="770" column="30" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591531912680">
         <mark key="[" line="35" column="17" />
@@ -198,13 +198,16 @@
         <mark key="." line="56" column="12" />
         <mark key="^" line="56" column="13" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/samples/dispatch_order_valid_data.json" timestamp="1591532847353">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/obligation_info.html" timestamp="1591367924058" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591531958500">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591532493224">
         <mark key="'" line="88" column="43" />
-        <mark key="[" line="381" column="92" />
-        <mark key="]" line="381" column="106" />
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="16" />
         <mark key="^" line="381" column="106" />
-        <mark key="." line="381" column="105" />
+        <mark key="." line="382" column="16" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/models.py" timestamp="1591444375286">
         <mark key="[" line="19" column="0" />
@@ -216,21 +219,14 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/serializers.py" timestamp="1591461698233">
         <mark key="'" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1591353920529">
-        <mark key="'" line="169" column="20" />
-        <mark key="[" line="182" column="24" />
-        <mark key="]" line="182" column="42" />
-        <mark key="." line="182" column="41" />
-        <mark key="^" line="182" column="42" />
-      </file>
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query_utils.py" timestamp="1591517145737">
         <mark key="[" line="87" column="18" />
         <mark key="]" line="88" column="4" />
         <mark key="^" line="88" column="4" />
         <mark key="." line="88" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591531546583">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1591532476300">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="8" />
@@ -238,20 +234,17 @@
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/admin/options.py" timestamp="1591462163839">
         <mark key="'" line="119" column="22" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591531574922">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591533435999">
         <mark key="'" line="556" column="16" />
-        <mark key="[" line="551" column="0" />
-        <mark key="]" line="551" column="0" />
-        <mark key="." line="551" column="0" />
+        <mark key="[" line="570" column="26" />
+        <mark key="]" line="570" column="26" />
+        <mark key="." line="570" column="26" />
         <mark key="^" line="570" column="33" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1591366849754" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/account_box.html" timestamp="1591367905185" />
     </filemarks>
     <jumps>
-      <jump line="522" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="487" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="532" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
       <jump line="406" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/choices.py" />
       <jump line="123" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
@@ -335,7 +328,6 @@
       <jump line="47" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
       <jump line="109" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
       <jump line="11" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/admin.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/models.py" />
       <jump line="110" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
       <jump line="18" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/rest_framework/serializers.py" />
@@ -349,51 +341,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query_utils.py" />
       <jump line="88" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="261" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="793" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/samples/dispatch_order_valid_data.json" />
+      <jump line="807" column="49" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgKICAgICAgICAiZGlzdHJpYnV0aW9uX3J1bGVzLnJlc2VydmF0aW9uLndtc19hcGlfY2xpZW50LnN0b2NrX3BpY2tpbmdfX2NyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24iCiAgICApCiAgICBkZWYgdGVzdF9jcmVhdGVfZGlzcGF0Y2hfb3JkZXJfX2NyZWF0ZWQoc2VsZiwgbW9ja19wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24pOgogICAgICAgIHdpdGggb3BlbigKICAgICAgICAgICAgImRpc3RyaWJ1dGlvbl9ydWxlcy90ZXN0cy9zYW1wbGVzL3dtc19yZXNwb25zZV9fcGFja2luZ19saXN0X3Jlc2VydmF0aW9uX19zdWNjZXNzLmpzb24iCiAgICAgICAgKSBhcyBmaWxlOgogICAgICAgICAgICBzZWxmLndtc19yZXNwb25zZV9zdWNjZXNzID0ganNvbi5sb2FkKGZpbGUpCiAgICAgICAgcGFydG5lciA9IFBhcnRuZXIub2JqZWN0cy5nZXQobmFtZT1zZWxmLndtc19yZXNwb25zZV9zdWNjZXNzWyJjb21wYW55Il0pCiAgICAgICAgY291bnRyeSA9IENvdW50cnkub2JqZWN0cy5nZXQoaGFzaF9pZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsiZGVsaXZlcnlfY291bnRyeSJdKQogICAgICAgIHNlbGYuX2NyZWF0ZV9ydWxlcyhwYXJ0bmVyLCBjb3VudHJ5KQoKICAgICAgICAjIERpc3RyaWJ1dGlvbiBSdWxlCiAgICAgICAgUGVyY2VudGFnZURpc3RyaWJ1dGlvbkZhY3RvcnkoCiAgICAgICAgICAgIHBhcnRuZXI9cGFydG5lciwKICAgICAgICAgICAgZGlzdHJpYnV0aW9uX3J1bGU9RGlzdHJpYnV0aW9uUnVsZUZhY3RvcnkoZGVsaXZlcnlfY291bnRyeT1jb3VudHJ5KSwKICAgICAgICAgICAgdmFsdWU9MTAwLAogICAgICAgICkKCiAgICAgICAgRXh0cmFTZXJ2aWNlUnVsZUZhY3RvcnkocGFydG5lcj1wYXJ0bmVyKQoKICAgICAgICBtb2NrX3BhY2tpbmdfbGlzdF9yZXNlcnZhdGlvbi5yZXR1cm5fdmFsdWUgPSBzZWxmLndtc19yZXNwb25zZV9zdWNjZXNzCgogICAgICAgIHJlc3BvbnNlID0gc2VsZi5hdXRoZW50aWNhdGVkX3JlcXVlc3QoCiAgICAgICAgICAgIHNlbGYuY2xpZW50LnBvc3QsIHNlbGYudXJsLCBzZWxmLnZhbGlkX2pzb25fZGF0YSwgZm9ybWF0PSJqc29uIgogICAgICAgICkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCBzdGF0dXMuSFRUUF8yMDFfQ1JFQVRFRCkKCiAgICAgICAgZGlzcGF0Y2hfb3JkZXIgPSBEaXNwYXRjaE9yZGVyLm9iamVjdHMuZ2V0KAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlcl9pZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsiZGlzcGF0Y2hfb3JkZXJfaWQiXQogICAgICAgICkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkKCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGRpc3BhdGNoX29yZGVyLmV4dHJhX3NlcnZpY2VzLmV4aXN0cygpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>success</text>
+        <text>delivery_method</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgKICAgICAgICAiZGlzdHJpYnV0aW9uX3J1bGVzLnJlc2VydmF0aW9uLndtc19hcGlfY2xpZW50LnN0b2NrX3BpY2tpbmdfX2NyZWF0ZV9wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24iCiAgICApCiAgICBkZWYgdGVzdF9jcmVhdGVfZGlzcGF0Y2hfb3JkZXJfX2NyZWF0ZWQoc2VsZiwgbW9ja19wYWNraW5nX2xpc3RfcmVzZXJ2YXRpb24pOgogICAgICAgIHdpdGggb3BlbigKICAgICAgICAgICAgImRpc3RyaWJ1dGlvbl9ydWxlcy90ZXN0cy9zYW1wbGVzL3dtc19yZXNwb25zZV9fcGFja2luZ19saXN0X3Jlc2VydmF0aW9uX19zdWNjZXNzLmpzb24iCiAgICAgICAgKSBhcyBmaWxlOgogICAgICAgICAgICBzZWxmLndtc19yZXNwb25zZV9zdWNjZXNzID0ganNvbi5sb2FkKGZpbGUpCiAgICAgICAgcGFydG5lciA9IFBhcnRuZXIub2JqZWN0cy5nZXQobmFtZT1zZWxmLndtc19yZXNwb25zZV9zdWNjZXNzWyJjb21wYW55Il0pCiAgICAgICAgY291bnRyeSA9IENvdW50cnkub2JqZWN0cy5nZXQoaGFzaF9pZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsiZGVsaXZlcnlfY291bnRyeSJdKQogICAgICAgIHNlbGYuX2NyZWF0ZV9ydWxlcyhwYXJ0bmVyLCBjb3VudHJ5KQoKICAgICAgICAjIERpc3RyaWJ1dGlvbiBSdWxlCiAgICAgICAgUGVyY2VudGFnZURpc3RyaWJ1dGlvbkZhY3RvcnkoCiAgICAgICAgICAgIHBhcnRuZXI9cGFydG5lciwKICAgICAgICAgICAgZGlzdHJpYnV0aW9uX3J1bGU9RGlzdHJpYnV0aW9uUnVsZUZhY3RvcnkoZGVsaXZlcnlfY291bnRyeT1jb3VudHJ5KSwKICAgICAgICAgICAgdmFsdWU9MTAwLAogICAgICAgICkKCiAgICAgICAgRXh0cmFTZXJ2aWNlUnVsZUZhY3RvcnkocGFydG5lcj1wYXJ0bmVyKQoKICAgICAgICBtb2NrX3BhY2tpbmdfbGlzdF9yZXNlcnZhdGlvbi5yZXR1cm5fdmFsdWUgPSBzZWxmLndtc19yZXNwb25zZV9zdWNjZXNzCgogICAgICAgIHJlc3BvbnNlID0gc2VsZi5hdXRoZW50aWNhdGVkX3JlcXVlc3QoCiAgICAgICAgICAgIHNlbGYuY2xpZW50LnBvc3QsIHNlbGYudXJsLCBzZWxmLnZhbGlkX2pzb25fZGF0YSwgZm9ybWF0PSJqc29uIgogICAgICAgICkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCBzdGF0dXMuSFRUUF8yMDFfQ1JFQVRFRCkKCiAgICAgICAgZGlzcGF0Y2hfb3JkZXIgPSBEaXNwYXRjaE9yZGVyLm9iamVjdHMuZ2V0KAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlcl9pZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsiZGlzcGF0Y2hfb3JkZXJfaWQiXQogICAgICAgICkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkKCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGRpc3BhdGNoX29yZGVyLmV4dHJhX3NlcnZpY2VzLmV4aXN0cygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByb2JhYmx5IGxvZ2lzdGljIGNvbXBhbnkgaGFzIHRvIGJlIGhlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb25maWd1cmF0b3JzLnF1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByb2JhYmx5IGxvZ2lzdGljIGNvbXBhbnkgaGFzIHRvIGJlIGhlcmUK</text>
       </register>
       <register name="4" type="2">
-        <text>Checking locmemcache</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25maWd1cmF0b3JzLnF1ZXJ5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBtZG1fZGljdGlvbmFyaWVzLm1vZGVscyBpbXBvcnQgQ291bnRyeQo=</text>
+        <text>Checking locmemcache</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtZG1fZGljdGlvbmFyaWVzLm1vZGVscyBpbXBvcnQgQ291bnRyeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0eXBlcyBpbXBvcnQgU2ltcGxlTmFtZXNwYWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdGVzdCBhbmQgbWFrZSBiZWF1dGlmdWwgZ2V0IHByaW9yaXR5Cg==</text>
+        <text encoding="base64">ZnJvbSB0eXBlcyBpbXBvcnQgU2ltcGxlTmFtZXNwYWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdGVzdCBhbmQgbWFrZSBiZWF1dGlmdWwgZ2V0IHByaW9yaXR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -402,9 +398,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>success</last-search>
+      <last-search>delivery_method</last-search>
       <last-offset />
-      <last-pattern>success</last-pattern>
+      <last-pattern>delivery_method</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
