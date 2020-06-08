@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>method</entry>
         <entry>logistic</entry>
         <entry>extra</entry>
         <entry>deli</entry>
@@ -25,11 +24,11 @@
         <entry>DeliveryMethodRUle</entry>
         <entry>success</entry>
         <entry>delivery_method</entry>
+        <entry>payme</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>shell adam</entry>
         <entry>shell</entry>
@@ -45,8 +44,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>action ToggleBookmarkWithMnemonic</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -168,11 +168,12 @@
         <mark key="." line="770" column="29" />
         <mark key="^" line="770" column="30" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591531912680">
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="58" />
-        <mark key="^" line="30" column="68" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591601112836">
+        <mark key="'" line="16" column="31" />
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="33" column="58" />
+        <mark key="^" line="33" column="58" />
+        <mark key="." line="33" column="57" />
       </file>
       <file name="/a.dummy" timestamp="1591445156000">
         <mark key="[" line="0" column="24" />
@@ -228,7 +229,7 @@
         <mark key="^" line="88" column="4" />
         <mark key="." line="88" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591599007754">
+      <file name="/Dummy.txt" timestamp="1591599212769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="7" />
@@ -249,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="400" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="401" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="533" column="53" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
@@ -271,7 +271,6 @@
       <jump line="1095" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="58" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="37" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
-      <jump line="104" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
       <jump line="21" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
       <jump line="238" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
       <jump line="217" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
@@ -349,66 +348,68 @@
       <jump line="4" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
       <jump line="16" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
       <jump line="529" column="20" filename="/usr/lib/python3/dist-packages/usbcreator/frontends/gtk/frontend.py" />
+      <jump line="16" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
+      <jump line="104" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>COD</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>COD</text>
       </register>
       <register name="/" type="4">
-        <text>delivery_method</text>
+        <text>payme</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF5bWVudF8K</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByb2JhYmx5IGxvZ2lzdGljIGNvbXBhbnkgaGFzIHRvIGJlIGhlcmUK</text>
+        <text encoding="base64">ICAgICAgICBjb3VyaWVyID0gQ291cmllckZhY3RvcnkobmFtZT0iUG9jenRhIFBvbHNrYSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb25maWd1cmF0b3JzLnF1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZS5jb3VyaWVycy5hZGQoY291cmllcikK</text>
       </register>
       <register name="5" type="2">
-        <text>Checking locmemcache</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtZG1fZGljdGlvbmFyaWVzLm1vZGVscyBpbXBvcnQgQ291bnRyeQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByb2JhYmx5IGxvZ2lzdGljIGNvbXBhbnkgaGFzIHRvIGJlIGhlcmUK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0eXBlcyBpbXBvcnQgU2ltcGxlTmFtZXNwYWNlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25maWd1cmF0b3JzLnF1ZXJ5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdGVzdCBhbmQgbWFrZSBiZWF1dGlmdWwgZ2V0IHByaW9yaXR5Cg==</text>
+        <text>Checking locmemcache</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>delivery_method</last-search>
+      <last-search>payme</last-search>
       <last-offset />
-      <last-pattern>delivery_method</last-pattern>
+      <last-pattern>payme</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
