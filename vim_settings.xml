@@ -45,8 +45,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -194,12 +194,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/samples/dispatch_order_valid_data.json" timestamp="1591532847353">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591532493224">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1591609987649">
         <mark key="'" line="88" column="43" />
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="382" column="16" />
-        <mark key="^" line="381" column="106" />
-        <mark key="." line="382" column="16" />
+        <mark key="[" line="384" column="53" />
+        <mark key="]" line="384" column="83" />
+        <mark key="." line="384" column="82" />
+        <mark key="^" line="384" column="83" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1591535123653">
         <mark key="'" line="193" column="36" />
@@ -347,8 +347,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChmIlRIaXMgaXMgZGVsaXZlcnkgbWV0aG9kIikK</text>
       </register>
       <register name="-" type="4">
         <text>None</text>
@@ -360,37 +360,37 @@
         <text>DeliveryMethodChoices.HOME_DELIVERY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bWVudF8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChmIlRIaXMgaXMgZGVsaXZlcnkgbWV0aG9kIikK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF5bWVudF8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VyaWVyID0gQ291cmllckZhY3RvcnkobmFtZT0iUG9jenRhIFBvbHNrYSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZS5jb3VyaWVycy5hZGQoY291cmllcikK</text>
+        <text encoding="base64">ICAgICAgICBjb3VyaWVyID0gQ291cmllckZhY3RvcnkobmFtZT0iUG9jenRhIFBvbHNrYSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZS5jb3VyaWVycy5hZGQoY291cmllcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByb2JhYmx5IGxvZ2lzdGljIGNvbXBhbnkgaGFzIHRvIGJlIGhlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb25maWd1cmF0b3JzLnF1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByb2JhYmx5IGxvZ2lzdGljIGNvbXBhbnkgaGFzIHRvIGJlIGhlcmUK</text>
       </register>
       <register name="9" type="2">
-        <text>Checking locmemcache</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25maWd1cmF0b3JzLnF1ZXJ5KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
