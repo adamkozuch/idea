@@ -31,7 +31,6 @@
         <entry>wq</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>q</entry>
         <entry>shell adam</entry>
         <entry>shell</entry>
         <entry>action GotoFile</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -216,6 +216,9 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1591535123653">
         <mark key="'" line="193" column="36" />
       </file>
+      <file name="/usr/lib/python3/dist-packages/usbcreator/frontends/gtk/frontend.py" timestamp="1591598689368">
+        <mark key="'" line="529" column="20" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/serializers.py" timestamp="1591461698233">
         <mark key="'" line="21" column="15" />
       </file>
@@ -225,7 +228,7 @@
         <mark key="^" line="88" column="4" />
         <mark key="." line="88" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591534668294">
+      <file name="/Dummy.txt" timestamp="1591599007754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="7" />
@@ -244,10 +247,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" timestamp="1591535303793">
         <mark key="'" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/account_box.html" timestamp="1591367905185" />
     </filemarks>
     <jumps>
-      <jump line="308" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="364" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="400" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="401" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
@@ -344,9 +345,10 @@
       <jump line="20" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/201545291/unittest/case.py" />
       <jump line="193" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" />
-      <jump line="16" column="40" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
       <jump line="12" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
       <jump line="4" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
+      <jump line="16" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" />
+      <jump line="529" column="20" filename="/usr/lib/python3/dist-packages/usbcreator/frontends/gtk/frontend.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -394,7 +396,7 @@
         <text encoding="base64">ICAgICMgdGVzdCBhbmQgbWFrZSBiZWF1dGlmdWwgZ2V0IHByaW9yaXR5Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
