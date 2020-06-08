@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>extra</entry>
         <entry>deli</entry>
         <entry>DistributionRule</entry>
         <entry>Distri</entry>
@@ -25,6 +24,7 @@
         <entry>delivery_method</entry>
         <entry>payme</entry>
         <entry>create</entry>
+        <entry encoding="base64">XDxEZWxpdmVyeU1ldGhvZENob2ljZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -161,12 +161,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1591608310682">
-        <mark key="'" line="811" column="49" />
-        <mark key="[" line="797" column="11" />
-        <mark key="]" line="797" column="12" />
-        <mark key="." line="797" column="11" />
-        <mark key="^" line="797" column="12" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1591609182458">
+        <mark key="'" line="812" column="83" />
+        <mark key="[" line="812" column="57" />
+        <mark key="]" line="812" column="92" />
+        <mark key="." line="812" column="57" />
+        <mark key="^" line="799" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591608032932">
         <mark key="'" line="16" column="31" />
@@ -243,14 +243,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1591607848675" />
     </filemarks>
     <jumps>
-      <jump line="401" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="533" column="53" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="537" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
-      <jump line="134" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
-      <jump line="180" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
-      <jump line="179" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
-      <jump line="191" column="53" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="209" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="213" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
       <jump line="221" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" />
@@ -343,21 +335,29 @@
       <jump line="16" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="104" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
       <jump line="116" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_dispatch_orders.py" />
+      <jump line="797" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="1106" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="1103" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="1084" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="1071" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="812" column="83" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/choices.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>HOME_DELIVERY</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>HOME_DELIVERY</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">XDxEZWxpdmVyeU1ldGhvZENob2ljZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55Lm5hbWUsIHNlbGYud21zX3Jlc3BvbnNlX3N1Y2Nlc3NbImNvbXBhbnkiXQogICAgICAgICkK</text>
+      <register name="0" type="4">
+        <text>DeliveryMethodChoices.HOME_DELIVERY</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGF5bWVudF8K</text>
@@ -396,12 +396,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">XDxEZWxpdmVyeU1ldGhvZENob2ljZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">XDxEZWxpdmVyeU1ldGhvZENob2ljZXNcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
