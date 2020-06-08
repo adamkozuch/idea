@@ -161,7 +161,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591606556258">
+      <file name="/Dummy.txt" timestamp="1591629295755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="7" />
@@ -178,12 +178,11 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1591535123653">
         <mark key="'" line="193" column="36" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591627319549">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591629731662">
         <mark key="'" line="15" column="33" />
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="45" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="20" column="45" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/staticfiles/js/partials/account.js" timestamp="1591603465036">
         <mark key="'" line="251" column="54" />
@@ -194,12 +193,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tests/test_dispatch_orders_parcel.py" timestamp="1591534895569">
         <mark key="'" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591627359565">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591629242247">
         <mark key="'" line="559" column="29" />
-        <mark key="[" line="564" column="9" />
-        <mark key="]" line="564" column="16" />
-        <mark key="." line="564" column="15" />
-        <mark key="^" line="564" column="16" />
+        <mark key="[" line="558" column="82" />
+        <mark key="]" line="558" column="109" />
+        <mark key="." line="558" column="108" />
+        <mark key="^" line="558" column="109" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/models.py" timestamp="1591622737057">
         <mark key="[" line="67" column="29" />
@@ -338,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChteV9kaWN0W215X21heF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHJpb3JpdHkgYWZ0ZXIgIiwgZGVsaXZlcnlfbWV0aG9kX3J1bGVfMS5wcmlvcml0eSkK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -350,34 +349,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgYy5jb3VudHJpZXMuZXhpc3RzKCk6CiAgICAgICAgICAgICAgICBjb3VudGVyICs9IDEKICAgICAgICAgICAgaWYgYy5jb3VyaWVycy5leGlzdHMoKToKICAgICAgICAgICAgICAgIGNvdW50ZXIgKz0gMQogICAgICAgICAgICBpZiBjLnBheW1lbnRfbWV0aG9kOgogICAgICAgICAgICAgICAgY291bnRlciArPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChteV9kaWN0W215X21heF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHJpb3JpdHkgYWZ0ZXIgIiwgZGVsaXZlcnlfbWV0aG9kX3J1bGVfMS5wcmlvcml0eSkK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChmIlRIaXMgaXMgZGVsaXZlcnkgbWV0aG9kIHtkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV9tZXRob2R9IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiVGhpcyBpcyBwcmlvcml0eSAiLCBkZWxpdmVyeV9tZXRob2RfcnVsZV8xLnByaW9yaXR5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0bmVyID0gUGFydG5lckZhY3RvcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHJpb3JpdHkgYmVmb3JlICIsIGRtLnByaW9yaXR5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFydG5lcgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25maWd1cmF0b3JzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ1RoaXMgaXMgaXQgIHtkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55fScpCiAgICAgICAgcHJpbnQoRGVsaXZlcnlNZXRob2RSdWxlLm9iamVjdHMuYWxsKClbMF0uZGVsaXZlcnlfbWV0aG9kKQogICAgICAgIHByaW50KGRpc3BhdGNoX29yZGVyLmNvdXJpZXJfY29tcGFueSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChteV9kaWN0W215X21heF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0bmVyID0gUGFydG5lckZhY3RvcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChmIlRIaXMgaXMgZGVsaXZlcnkgbWV0aG9kIHtkaXNwYXRjaF9vcmRlci5kZWxpdmVyeV9tZXRob2R9IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0bmVyID0gUGFydG5lckZhY3RvcnkoKQogICAgICAgIHBhcnRuZXJfMSA9IFBhcnRuZXJGYWN0b3J5KCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXJ0bmVyID0gUGFydG5lckZhY3RvcnkoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFydG5lcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChmIlRIaXMgaXMgZGVsaXZlcnkgbWV0aG9kIikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1RoaXMgaXMgaXQgIHtkaXNwYXRjaF9vcmRlci5sb2dpc3RpY19jb21wYW55fScpCiAgICAgICAgcHJpbnQoRGVsaXZlcnlNZXRob2RSdWxlLm9iamVjdHMuYWxsKClbMF0uZGVsaXZlcnlfbWV0aG9kKQogICAgICAgIHByaW50KGRpc3BhdGNoX29yZGVyLmNvdXJpZXJfY29tcGFueSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
