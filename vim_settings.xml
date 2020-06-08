@@ -178,11 +178,6 @@
       <file name="/a.dummy" timestamp="1591445156000">
         <mark key="[" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/admin.py" timestamp="1591444416849">
-        <mark key="'" line="11" column="12" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="30" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1591461533325">
         <mark key="'" line="18" column="42" />
       </file>
@@ -206,10 +201,6 @@
         <mark key="^" line="381" column="106" />
         <mark key="." line="382" column="16" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/models.py" timestamp="1591444375286">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="24" column="5" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/tasks.py" timestamp="1591535123653">
         <mark key="'" line="193" column="36" />
       </file>
@@ -220,6 +211,7 @@
         <mark key="'" line="529" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/templates/pcb/payment_detail.html" timestamp="1591603491426" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/currencies/views.py" timestamp="1591604478864" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/extra_services/serializers.py" timestamp="1591461698233">
         <mark key="'" line="21" column="15" />
       </file>
@@ -229,7 +221,7 @@
         <mark key="^" line="88" column="4" />
         <mark key="." line="88" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591599212769">
+      <file name="/Dummy.txt" timestamp="1591606556258">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="7" />
@@ -248,6 +240,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/delivery_confirmation/exceptions.py" timestamp="1591535303793">
         <mark key="'" line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/sensitive_data.py" timestamp="1591606792692" />
     </filemarks>
     <jumps>
       <jump line="400" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
