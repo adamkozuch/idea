@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbW91bnRcPg==</entry>
         <entry encoding="base64">XDxEZWxpdmVyeUF0dGFjaG1lbnRDb25maWdcPg==</entry>
         <entry>DeliveryMethodRUle</entry>
         <entry>success</entry>
@@ -25,6 +24,7 @@
         <entry>signarure</entry>
         <entry>json</entry>
         <entry>withou</entry>
+        <entry>pin</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -169,8 +169,12 @@
         <mark key="^" line="486" column="22" />
         <mark key="." line="486" column="21" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" timestamp="1591698935281">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" timestamp="1591714846051">
+        <mark key="'" line="31" column="20" />
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="32" column="2" />
+        <mark key="." line="32" column="1" />
+        <mark key="^" line="32" column="2" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/dotpay/views.py" timestamp="1591704359910" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/schema.py" timestamp="1591681292601" />
@@ -204,7 +208,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/moneymatrix/__init__.py" timestamp="1591704025902">
         <mark key="'" line="183" column="43" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/stage/settings.yml" timestamp="1591694360571" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/stage/settings.yml" timestamp="1591714832330" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/run.py" timestamp="1591701867132">
         <mark key="[" line="68" column="58" />
         <mark key="]" line="68" column="69" />
@@ -222,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
       <jump line="18" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
       <jump line="47" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
       <jump line="109" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
@@ -322,6 +325,7 @@
       <jump line="515" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="133" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/api_clients/pcb.py" />
       <jump line="34" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/api_clients/pcb.py" />
+      <jump line="31" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +337,7 @@
         <text>10.32.117.51</text>
       </register>
       <register name="/" type="4">
-        <text>withou</text>
+        <text>pin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS5ib2R5KQo=</text>
@@ -375,9 +379,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>withou</last-search>
+      <last-search>pin</last-search>
       <last-offset />
-      <last-pattern>withou</last-pattern>
+      <last-pattern>pin</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
