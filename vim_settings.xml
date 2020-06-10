@@ -38,14 +38,14 @@
         <entry>kw</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
-        <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz4=</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -182,9 +182,6 @@
         <mark key="." line="85" column="39" />
         <mark key="^" line="85" column="40" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/api_clients/pcb.py" timestamp="1591704398700">
-        <mark key="'" line="133" column="23" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/developer/settings.yml" timestamp="1591706303677" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/dotpay/test_provider.py" timestamp="1591726487089">
         <mark key="[" line="107" column="14" />
@@ -209,12 +206,18 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" timestamp="1591795671531">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1591799272962">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="37" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" timestamp="1591799335887">
         <mark key="'" line="70" column="12" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="39" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="58" column="57" />
+        <mark key="[" line="83" column="13" />
+        <mark key="]" line="83" column="13" />
+        <mark key="." line="83" column="13" />
+        <mark key="^" line="93" column="22" />
       </file>
       <file name="/Python Console" timestamp="1591727024766">
         <mark key="[" line="0" column="0" />
@@ -361,17 +364,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZFJ1bGVDb25maWdJbmxpbmUsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAjID8/Pz8/Pz8=</text>
       </register>
       <register name="-" type="4">
-        <text>, for given dispatch order</text>
+        <text encoding="base64">ICAjID8/Pz8/Pz8=</text>
       </register>
       <register name="/" type="4">
         <text>readonly</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yLmNvdXJpZXJzLmFkZChzZWxmLmNvdXJpZXIpCg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPGxlYWRlcj5zIDogYWN0aW9uIEdvdG9TeW1ib2w8Q1I+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZFJ1bGVDb25maWdJbmxpbmUsCg==</text>
