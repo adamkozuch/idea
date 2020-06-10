@@ -40,12 +40,12 @@
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>;w</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -161,6 +161,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1591778275034">
+        <mark key="'" line="1397" column="25" />
+        <mark key="[" line="768" column="0" />
+        <mark key="]" line="769" column="35" />
+        <mark key="." line="769" column="34" />
+        <mark key="^" line="769" column="35" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" timestamp="1591727847312">
         <mark key="'" line="448" column="34" />
         <mark key="[" line="486" column="0" />
@@ -179,7 +186,6 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/dotpay/views.py" timestamp="1591704359910" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" timestamp="1591684765923" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/api_clients/pcb.py" timestamp="1591704398700">
         <mark key="'" line="133" column="23" />
       </file>
@@ -227,15 +233,19 @@
         <mark key="^" line="68" column="69" />
         <mark key="." line="68" column="68" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/models.py" timestamp="1591685602888">
-        <mark key="'" line="32" column="4" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/dev/settings.yml" timestamp="1591726030002">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/dotpay/test.py" timestamp="1591726665002" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" timestamp="1591778221931">
+        <mark key="'" line="53" column="44" />
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="59" column="34" />
+        <mark key="." line="59" column="34" />
+        <mark key="^" line="59" column="57" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="104" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
@@ -342,11 +352,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgd29uZGVyIGlmIHRoYXQgd29ya3M=</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text encoding="base64">ICMgd29uZGVyIGlmIHRoYXQgd29ya3M=</text>
       </register>
       <register name="/" type="4">
         <text>dot</text>
