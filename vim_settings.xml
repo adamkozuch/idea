@@ -99,7 +99,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -178,6 +178,13 @@
       <file name="/Python Console" timestamp="1591727024766">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591780903064">
+        <mark key="'" line="46" column="29" />
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="70" column="12" />
+        <mark key="." line="70" column="11" />
+        <mark key="^" line="70" column="12" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" timestamp="1591772991547">
         <mark key="'" line="15" column="26" />
         <mark key="[" line="41" column="0" />
@@ -203,22 +210,22 @@
         <mark key="." line="198" column="85" />
         <mark key="^" line="198" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591779088315">
+      <file name="/Dummy.txt" timestamp="1591780680268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/featurebranch/settings.yml" timestamp="1591710862244" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/moneymatrix/__init__.py" timestamp="1591704025902">
-        <mark key="'" line="183" column="43" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591779256576">
         <mark key="'" line="559" column="29" />
         <mark key="[" line="550" column="44" />
         <mark key="]" line="551" column="70" />
         <mark key="." line="551" column="69" />
         <mark key="^" line="551" column="70" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" timestamp="1591780558677">
+        <mark key="'" line="74" column="42" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/stage/settings.yml" timestamp="1591726018344">
         <mark key="[" line="30" column="0" />
@@ -232,12 +239,6 @@
         <mark key="'" line="66" column="37" />
         <mark key="[" line="67" column="29" />
         <mark key="." line="67" column="30" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/run.py" timestamp="1591701867132">
-        <mark key="[" line="68" column="58" />
-        <mark key="]" line="68" column="69" />
-        <mark key="^" line="68" column="69" />
-        <mark key="." line="68" column="68" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/dev/settings.yml" timestamp="1591726030002">
         <mark key="[" line="21" column="0" />
@@ -254,10 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_dispatch_orders.py" />
-      <jump line="797" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="24" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
-      <jump line="1106" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="1103" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="1084" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="1071" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
@@ -354,51 +351,55 @@
       <jump line="125" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/.gitlab-ci.yml" />
       <jump line="15" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" />
       <jump line="66" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/models.py" />
+      <jump line="61" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
+      <jump line="74" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/mdm_dictionaries/factories.py" />
+      <jump line="46" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlZW1zIHRoYXQgaXQgc2hvdWxkIGJlIEFORCBjb25kaXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>POST_OFFICE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICMgbWF5YmUgaW4gaW5zdGVhZA==</text>
+        <text>POST_OFFICE</text>
       </register>
       <register name="/" type="4">
         <text>dot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RkxBU0tfU1RBVElDX0ZPTERFUjogInt7IFBFUlNJU1RFTlRfU1RPUkFHRV9QQVRIIH19L3B1YmxpY19maWxlcyIKRkxBU0tfV1RGX0NTUkZfU0VDUkVUX0tFWTogIjg3ZDViNDQwN2ViOWUyOTUyODAxMjg4NWVhOWI0NjRlIgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8xLmNvdXJpZXJzLmFkZChjb3VyaWVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlZW1zIHRoYXQgaXQgc2hvdWxkIGJlIEFORCBjb25kaXRpb24K</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMuZmFjdG9yaWVzIGltcG9ydCAgaW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ3VyYXRvciA9IERlbGl2ZXJ5TWV0aG9kUnVsZS5nZXRfYnlfcHJpb3JpdHkoY29uZmlndXJhdG9ycykKICAgICAgICAjIHJldHVybiBjb25maWd1cmF0b3IuZGVsaXZlcnlfbWV0aG9kIGlmIGNvbmZpZ3VyYXRvcnMgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlZW1zIHRoYXQgaXQgc2hvdWxkIGJlIEFORCBjb25kaXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ3VyYXRvciA9IERlbGl2ZXJ5TWV0aG9kUnVsZS5nZXRfYnlfcHJpb3JpdHkoY29uZmlndXJhdG9ycykKICAgICAgICAjIHJldHVybiBjb25maWd1cmF0b3IuZGVsaXZlcnlfbWV0aG9kIGlmIGNvbmZpZ3VyYXRvcnMgZWxzZSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text>[PPI-722] Deploy to develop</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQoIlRoaXMgaXMgc3RhdHVzIGNvZGUgIiwgcmVzcG9uc2Uuc3RhdHVzX2NvZGUpCg==</text>
+        <text>[PPI-722] Deploy to develop</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQoIlRoaXMgaXMgc3RhdHVzIGNvZGUgIiwgcmVzcG9uc2Uuc3RhdHVzX2NvZGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RE9UUEFZX1VSTDogIiIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RE9UUEFZX1VSTDogImh0dHBzOi8vc3NsLmRvdHBheS5wbC90ZXN0X3BheW1lbnQvIgo=</text>
+        <text encoding="base64">RE9UUEFZX1VSTDogIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS5ib2R5KQo=</text>
+        <text encoding="base64">RE9UUEFZX1VSTDogImh0dHBzOi8vc3NsLmRvdHBheS5wbC90ZXN0X3BheW1lbnQvIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
