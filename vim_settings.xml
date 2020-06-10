@@ -178,12 +178,12 @@
       <file name="/Python Console" timestamp="1591727024766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591782441488">
-        <mark key="'" line="8" column="45" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="8" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591785538927">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="94" column="55" />
+        <mark key="]" line="94" column="66" />
+        <mark key="." line="94" column="65" />
+        <mark key="^" line="94" column="66" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" timestamp="1591772991547">
         <mark key="'" line="15" column="26" />
@@ -255,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="823" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/201545291/unittest/case.py" />
       <jump line="302" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
       <jump line="314" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
@@ -355,51 +354,52 @@
       <jump line="38" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="8" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="1085" column="6" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/test/testcases.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>HOME_DELIVERY</text>
       </register>
       <register name="-" type="4">
-        <text>POST_OFFICE</text>
+        <text>HOME_DELIVERY</text>
       </register>
       <register name="/" type="4">
         <text>dot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8xLmNvdXJpZXJzLmFkZChjb3VyaWVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJ0bmVyID0gUGFydG5lckZhY3RvcnkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yLmNvdW50cmllcy5hZGQoY291bnRyeSkK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMuZmFjdG9yaWVzIGltcG9ydCAgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlZW1zIHRoYXQgaXQgc2hvdWxkIGJlIEFORCBjb25kaXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ3VyYXRvciA9IERlbGl2ZXJ5TWV0aG9kUnVsZS5nZXRfYnlfcHJpb3JpdHkoY29uZmlndXJhdG9ycykKICAgICAgICAjIHJldHVybiBjb25maWd1cmF0b3IuZGVsaXZlcnlfbWV0aG9kIGlmIGNvbmZpZ3VyYXRvcnMgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMuZmFjdG9yaWVzIGltcG9ydCAgaW1wb3J0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlZW1zIHRoYXQgaXQgc2hvdWxkIGJlIEFORCBjb25kaXRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text>[PPI-722] Deploy to develop</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ3VyYXRvciA9IERlbGl2ZXJ5TWV0aG9kUnVsZS5nZXRfYnlfcHJpb3JpdHkoY29uZmlndXJhdG9ycykKICAgICAgICAjIHJldHVybiBjb25maWd1cmF0b3IuZGVsaXZlcnlfbWV0aG9kIGlmIGNvbmZpZ3VyYXRvcnMgZWxzZSBOb25lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQoIlRoaXMgaXMgc3RhdHVzIGNvZGUgIiwgcmVzcG9uc2Uuc3RhdHVzX2NvZGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>[PPI-722] Deploy to develop</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
