@@ -171,9 +171,12 @@
       <file name="/Python Console" timestamp="1591727024766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" timestamp="1591728104422">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" timestamp="1591728396305">
         <mark key="'" line="15" column="26" />
-        <mark key="^" line="43" column="13" />
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="48" />
+        <mark key="^" line="43" column="49" />
+        <mark key="." line="43" column="48" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/dotpay/views.py" timestamp="1591704359910" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" timestamp="1591684765923" />
@@ -340,10 +343,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>756882</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>756882</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>dot</text>
