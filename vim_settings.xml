@@ -43,10 +43,10 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action RecentFiles</entry>
-        <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>q</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -175,12 +175,12 @@
         <mark key="^" line="486" column="22" />
         <mark key="." line="486" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591790633883">
-        <mark key="'" line="113" column="51" />
-        <mark key="[" line="85" column="31" />
-        <mark key="]" line="85" column="40" />
-        <mark key="." line="85" column="39" />
-        <mark key="^" line="85" column="40" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591801000286">
+        <mark key="'" line="117" column="54" />
+        <mark key="[" line="118" column="50" />
+        <mark key="]" line="118" column="57" />
+        <mark key="." line="118" column="56" />
+        <mark key="^" line="118" column="57" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/developer/settings.yml" timestamp="1591706303677" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/dotpay/test_provider.py" timestamp="1591726487089">
@@ -239,7 +239,7 @@
         <mark key="^" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/featurebranch/settings.yml" timestamp="1591710862244" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591795476400">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591800691579">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="555" column="30" />
         <mark key="]" line="555" column="44" />
@@ -260,8 +260,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/dotpay/test.py" timestamp="1591726665002" />
     </filemarks>
     <jumps>
-      <jump line="137" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/validation.py" />
-      <jump line="200" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/validation.py" />
       <jump line="381" column="89" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="564" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
       <jump line="16" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
@@ -360,21 +358,23 @@
       <jump line="546" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
       <jump line="13" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
       <jump line="70" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
+      <jump line="117" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
+      <jump line="17" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAjID8/Pz8/Pz8=</text>
+        <text>courier</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjID8/Pz8/Pz8=</text>
+        <text>courier</text>
       </register>
       <register name="/" type="4">
         <text>readonly</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPGxlYWRlcj5zIDogYWN0aW9uIEdvdG9TeW1ib2w8Q1I+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yLmNvdXJpZXJzLmFkZChzZWxmLmNvdXJpZXIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZFJ1bGVDb25maWdJbmxpbmUsCg==</text>
@@ -407,7 +407,7 @@
         <text encoding="base64">ICAgICAgICBwYXJ0bmVyXzEgPSBQYXJ0bmVyRmFjdG9yeSgpCiAgICAgICAgcGFydG5lcl8yID0gUGFydG5lckZhY3RvcnkoKQogICAgICAgIGNvdW50cnkgPSBDb3VudHJ5RmFjdG9yeSgpCiAgICAgICAgY291cmllciA9IENvdXJpZXJGYWN0b3J5KG5hbWU9IlBvY3p0YSBQb2xza2EiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</text>
       </register>
     </registers>
   </component>
