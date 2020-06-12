@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="$SelectAll" />
+  <action id="ActivateNotesToolWindow">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="ActivateQuickNotesToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
@@ -11,9 +14,7 @@
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
-    <keyboard-shortcut first-keystroke="altGraph t" />
   </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="Annotate">
@@ -91,6 +92,7 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="ExpressionTypeInfo" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
     <keyboard-shortcut first-keystroke="alt m" />
@@ -170,12 +172,14 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
     <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="alt p" />
-    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="RecentChangedFiles" />
   <action id="ReformatCode">
@@ -203,10 +207,9 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="SaveAll" />
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
+  <action id="Scratch.NewScratch" />
+  <action id="Scratch.OpenDefaultScratch" />
+  <action id="Scratch.OpenScratchList" />
   <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NextTab" />
