@@ -45,8 +45,8 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
-        <entry>w</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -175,14 +175,16 @@
         <mark key="^" line="486" column="22" />
         <mark key="." line="486" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1591801000286">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1592203597294">
         <mark key="'" line="117" column="54" />
-        <mark key="[" line="118" column="50" />
-        <mark key="]" line="118" column="57" />
-        <mark key="." line="118" column="56" />
-        <mark key="^" line="118" column="57" />
+        <mark key="[" line="78" column="46" />
+        <mark key="]" line="78" column="47" />
+        <mark key="." line="78" column="47" />
+        <mark key="^" line="78" column="60" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/developer/settings.yml" timestamp="1591706303677" />
+      <file name="/a.dummy" timestamp="1592202704053">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/dotpay/test_provider.py" timestamp="1591726487089">
         <mark key="[" line="107" column="14" />
         <mark key="]" line="107" column="29" />
@@ -232,11 +234,11 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" timestamp="1591789667723">
         <mark key="'" line="5" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591793403382">
+      <file name="/Dummy.txt" timestamp="1592203699645">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="8" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/featurebranch/settings.yml" timestamp="1591710862244" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591800691579">
@@ -365,49 +367,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>courier</text>
+        <text>Configurator</text>
       </register>
       <register name="-" type="4">
-        <text>courier</text>
+        <text>Configurator</text>
       </register>
       <register name="/" type="4">
         <text>readonly</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yLmNvdXJpZXJzLmFkZChzZWxmLmNvdXJpZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzEucHJpb3JpdHksIDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZFJ1bGVDb25maWdJbmxpbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzIucHJpb3JpdHksIDMpCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYl9pbmRleD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3J1bGVfd2l0aF9sb3dlcl9wcmlvcml0eV9pc19tYXRjaGVkKHNlbGYpOgogICAgICAgIGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzEgPSBEZWxpdmVyeU1ldGhvZFJ1bGVGYWN0b3J5KAogICAgICAgICAgICBwYXJ0bmVyPXNlbGYucGFydG5lcl8xLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1QYXltZW50TWV0aG9kQ2hvaWNlcy5QQUlELAogICAgICAgICAgICBkZWxpdmVyeV9tZXRob2Q9RGVsaXZlcnlNZXRob2RDaG9pY2VzLlBPU1RfT0ZGSUNFLAogICAgICAgICkKICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8xLmNvdXJpZXJzLmFkZChzZWxmLmNvdXJpZXIpCgogICAgICAgIGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzIgPSBEZWxpdmVyeU1ldGhvZFJ1bGVGYWN0b3J5KAogICAgICAgICAgICBwYXJ0bmVyPXNlbGYucGFydG5lcl8yLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1QYXltZW50TWV0aG9kQ2hvaWNlcy5QQUlELAogICAgICAgICAgICBkZWxpdmVyeV9tZXRob2Q9RGVsaXZlcnlNZXRob2RDaG9pY2VzLkhPTUVfREVMSVZFUlksCiAgICAgICAgKQogICAgICAgIGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzIuY291cmllcnMuYWRkKHNlbGYuY291cmllcikKICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yLmNvdW50cmllcy5hZGQoc2VsZi5jb3VudHJ5KQogICAgICAgIGRvID0gRGlzcGF0Y2hPcmRlckZhY3RvcnkoCiAgICAgICAgICAgIGNvdXJpZXJfY29tcGFueT1zZWxmLmNvdXJpZXIsCiAgICAgICAgICAgIHBheW1lbnRfbWV0aG9kPVBheW1lbnRNZXRob2RDaG9pY2VzLlBBSUQsCiAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnk9c2VsZi5wYXJ0bmVyXzEsCiAgICAgICAgICAgIGRlbGl2ZXJ5X2NvdW50cnk9c2VsZi5jb3VudHJ5LAogICAgICAgICkKICAgICAgICByZXN1bHQgPSBEZWxpdmVyeU1ldGhvZFJ1bGUuZ2V0X2RlbGl2ZXJ5X21ldGhvZChkbykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdCwgRGVsaXZlcnlNZXRob2RDaG9pY2VzLlBPU1RfT0ZGSUNFKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsPVRydWUsICAjIFRPRE8gSSBzaG91bGQgcmVtb3ZlIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZFJ1bGVDb25maWdJbmxpbmUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsPVRydWUsICAjIFRPRE8gSSBzaG91bGQgcmVtb3ZlIHRoaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcmVhZG9ubHlfZmllbGRzID0gKCdwcmlvcml0eScsKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYl9pbmRleD1UcnVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBudWxsPVRydWUsICAjIFRPRE8gSSBzaG91bGQgcmVtb3ZlIHRoaXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBudWxsPVRydWUsICAjIFRPRE8gSSBzaG91bGQgcmVtb3ZlIHRoaXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0bmVyXzEgPSBQYXJ0bmVyRmFjdG9yeSgpCiAgICAgICAgcGFydG5lcl8yID0gUGFydG5lckZhY3RvcnkoKQogICAgICAgIGNvdW50cnkgPSBDb3VudHJ5RmFjdG9yeSgpCiAgICAgICAgY291cmllciA9IENvdXJpZXJGYWN0b3J5KG5hbWU9IlBvY3p0YSBQb2xza2EiKQo=</text>
+        <text encoding="base64">ICAgICMgcmVhZG9ubHlfZmllbGRzID0gKCdwcmlvcml0eScsKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
