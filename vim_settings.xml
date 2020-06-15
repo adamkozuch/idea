@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcm1faWRcPg==</entry>
         <entry encoding="base64">XDxzYXZlX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxET1RQQVlfVVJMXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxDb3VudHJ5XD4=</entry>
         <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
         <entry>test_create</entry>
+        <entry encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -185,18 +185,15 @@
       <file name="/a.dummy" timestamp="1592202704053">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/dotpay/test_provider.py" timestamp="1591726487089">
-        <mark key="[" line="107" column="14" />
-        <mark key="]" line="107" column="29" />
-        <mark key="." line="107" column="28" />
-        <mark key="^" line="107" column="29" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/.gitlab-ci.yml" timestamp="1591727817129">
         <mark key="'" line="125" column="13" />
         <mark key="[" line="198" column="85" />
         <mark key="]" line="198" column="86" />
         <mark key="." line="198" column="85" />
         <mark key="^" line="198" column="86" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_dispatch_order_to_sent.py" timestamp="1592218853021">
+        <mark key="'" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/models.py" timestamp="1591779171419">
         <mark key="'" line="66" column="37" />
@@ -260,12 +257,11 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" timestamp="1591780558677">
         <mark key="'" line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/dotpay/test.py" timestamp="1591726665002" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1592218748905">
+        <mark key="'" line="338" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" />
-      <jump line="43" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" />
-      <jump line="844" column="40" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/validation_rules/commands.py" />
       <jump line="919" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/validation_rules/commands.py" />
       <jump line="486" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="483" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
@@ -363,6 +359,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/choices.py" />
       <jump line="81" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="108" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
+      <jump line="338" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
+      <jump line="12" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_dispatch_order_to_sent.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -374,7 +373,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>test_create</text>
+        <text encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeSgKICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5QT1NUX09GRklDRSwKICAgICAgICAgICAgcGFydG5lcj1wYXJ0bmVyLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsicGF5bWVudF9tZXRob2QiXSwKICAgICAgICApCiAgICAgICAgZGVsaXZlcnlfbWV0aG9kX3J1bGVfMi5jb3VudHJpZXMuYWRkKGNvdW50cnkpCg==</text>
@@ -416,12 +415,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>test_create</last-search>
+      <last-search encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</last-search>
       <last-offset />
-      <last-pattern>test_create</last-pattern>
+      <last-pattern encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
