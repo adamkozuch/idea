@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXZlX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxjYXB0dXJlX25vdGlmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxET1RQQVlfVVJMXD4=</entry>
         <entry>dotpay</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
         <entry>test_create</entry>
         <entry encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</entry>
+        <entry encoding="base64">XDxTZW5kRW1haWxNYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -44,8 +44,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -168,13 +168,6 @@
         <mark key="." line="818" column="30" />
         <mark key="^" line="816" column="52" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" timestamp="1591727847312">
-        <mark key="'" line="448" column="34" />
-        <mark key="[" line="486" column="0" />
-        <mark key="]" line="486" column="0" />
-        <mark key="^" line="486" column="22" />
-        <mark key="." line="486" column="0" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1592210959149">
         <mark key="'" line="81" column="36" />
         <mark key="[" line="78" column="46" />
@@ -193,8 +186,11 @@
         <mark key="[" line="67" column="29" />
         <mark key="." line="67" column="30" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1592206228315">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1592242109938">
         <mark key="'" line="68" column="19" />
+        <mark key="[" line="787" column="0" />
+        <mark key="]" line="787" column="0" />
+        <mark key="." line="787" column="0" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1591799272962">
         <mark key="[" line="26" column="32" />
@@ -208,13 +204,6 @@
         <mark key="]" line="93" column="22" />
         <mark key="." line="93" column="21" />
         <mark key="^" line="93" column="22" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" timestamp="1591772991547">
-        <mark key="'" line="15" column="26" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="43" column="49" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/mdm_dictionaries/models.py" timestamp="1592206395896">
         <mark key="'" line="117" column="6" />
@@ -231,7 +220,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" timestamp="1592210963344">
         <mark key="'" line="16" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592213442895">
+      <file name="/Dummy.txt" timestamp="1592242409944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
@@ -247,15 +236,20 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" timestamp="1591780558677">
         <mark key="'" line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" timestamp="1592218748905">
-        <mark key="'" line="338" column="34" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1592242246317">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/mail/tasks.py" timestamp="1592242378457">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/moneymatrix/__init__.py" />
-      <jump line="429" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
-      <jump line="515" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
-      <jump line="133" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/api_clients/pcb.py" />
       <jump line="34" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/api_clients/pcb.py" />
       <jump line="31" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" />
       <jump line="439" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
@@ -352,51 +346,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="26" column="69" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_managers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/choices.py" />
+      <jump line="24" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/mail/managers.py" />
+      <jump line="44" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</text>
+        <text encoding="base64">XDxTZW5kRW1haWxNYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeSgKICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5QT1NUX09GRklDRSwKICAgICAgICAgICAgcGFydG5lcj1wYXJ0bmVyLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsicGF5bWVudF9tZXRob2QiXSwKICAgICAgICApCiAgICAgICAgZGVsaXZlcnlfbWV0aG9kX3J1bGVfMi5jb3VudHJpZXMuYWRkKGNvdW50cnkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yLmNvdW50cmllcy5hZGQoY291bnRyeSkK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YSwgdGltZXpvbmUK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZFJ1bGVGYWN0b3J5KAogICAgICAgICAgICBkZWxpdmVyeV9tZXRob2Q9RGVsaXZlcnlNZXRob2RDaG9pY2VzLlBBUkNFTF9MT0NLRVIsIHBhcnRuZXI9cGFydG5lcgogICAgICAgICkK</text>
+        <text encoding="base64">ZnJvbSAubWFuYWdlcnMgaW1wb3J0IFNlbmRFbWFpbE1hbmFnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBydWxlLmNvdW50cmllcy5hZGQoY291bnRyeSkK</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBQYXJ0bmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgaG93IHRvIGF2b2lkIHRoaXMgZHVwbGljYXRpb24K</text>
+        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzIucHJpb3JpdHksIDMpCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3J1bGVfd2l0aF9sb3dlcl9wcmlvcml0eV9pc19tYXRjaGVkKHNlbGYpOgogICAgICAgIGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzEgPSBEZWxpdmVyeU1ldGhvZFJ1bGVGYWN0b3J5KAogICAgICAgICAgICBwYXJ0bmVyPXNlbGYucGFydG5lcl8xLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1QYXltZW50TWV0aG9kQ2hvaWNlcy5QQUlELAogICAgICAgICAgICBkZWxpdmVyeV9tZXRob2Q9RGVsaXZlcnlNZXRob2RDaG9pY2VzLlBPU1RfT0ZGSUNFLAogICAgICAgICkKICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8xLmNvdXJpZXJzLmFkZChzZWxmLmNvdXJpZXIpCgogICAgICAgIGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzIgPSBEZWxpdmVyeU1ldGhvZFJ1bGVGYWN0b3J5KAogICAgICAgICAgICBwYXJ0bmVyPXNlbGYucGFydG5lcl8yLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1QYXltZW50TWV0aG9kQ2hvaWNlcy5QQUlELAogICAgICAgICAgICBkZWxpdmVyeV9tZXRob2Q9RGVsaXZlcnlNZXRob2RDaG9pY2VzLkhPTUVfREVMSVZFUlksCiAgICAgICAgKQogICAgICAgIGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzIuY291cmllcnMuYWRkKHNlbGYuY291cmllcikKICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yLmNvdW50cmllcy5hZGQoc2VsZi5jb3VudHJ5KQogICAgICAgIGRvID0gRGlzcGF0Y2hPcmRlckZhY3RvcnkoCiAgICAgICAgICAgIGNvdXJpZXJfY29tcGFueT1zZWxmLmNvdXJpZXIsCiAgICAgICAgICAgIHBheW1lbnRfbWV0aG9kPVBheW1lbnRNZXRob2RDaG9pY2VzLlBBSUQsCiAgICAgICAgICAgIGxvZ2lzdGljX2NvbXBhbnk9c2VsZi5wYXJ0bmVyXzEsCiAgICAgICAgICAgIGRlbGl2ZXJ5X2NvdW50cnk9c2VsZi5jb3VudHJ5LAogICAgICAgICkKICAgICAgICByZXN1bHQgPSBEZWxpdmVyeU1ldGhvZFJ1bGUuZ2V0X2RlbGl2ZXJ5X21ldGhvZChkbykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdCwgRGVsaXZlcnlNZXRob2RDaG9pY2VzLlBPU1RfT0ZGSUNFKQo=</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubWFuYWdlcnMgaW1wb3J0IGdldF9tYW5hZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU1ldGhvZFJ1bGVDb25maWdJbmxpbmUsCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIgaW1wb3J0IHRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjZWxlcnkudGFzayBpbXBvcnQgdGFzawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -405,9 +403,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</last-search>
+      <last-search encoding="base64">XDxTZW5kRW1haWxNYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</last-pattern>
+      <last-pattern encoding="base64">XDxTZW5kRW1haWxNYW5hZ2VyXD4=</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>-1</last-dir>
