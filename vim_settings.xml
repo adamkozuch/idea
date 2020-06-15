@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxCYXNlQXBpVGVzdENhc2VcPg==</entry>
-        <entry encoding="base64">XDxQYXltZW50UHJvdmlkZXJSZXF1ZXN0XD4=</entry>
         <entry>crm_id</entry>
         <entry encoding="base64">XDxjcm1faWRcPg==</entry>
         <entry encoding="base64">XDxzYXZlX25vdGlmaWNhdGlvblw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxTdWJGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxQYXJjZWxTdGF0dXNDaG9pY2VzXD4=</entry>
         <entry>readonly</entry>
+        <entry encoding="base64">XDxDb3VudHJ5XD4=</entry>
+        <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>q</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,13 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1591778275034">
-        <mark key="'" line="1397" column="25" />
-        <mark key="[" line="768" column="0" />
-        <mark key="]" line="769" column="35" />
-        <mark key="." line="769" column="34" />
-        <mark key="^" line="769" column="35" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" timestamp="1591727847312">
         <mark key="'" line="448" column="34" />
         <mark key="[" line="486" column="0" />
@@ -203,6 +196,9 @@
         <mark key="[" line="67" column="29" />
         <mark key="." line="67" column="30" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1592206228315">
+        <mark key="'" line="68" column="19" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/dev/settings.yml" timestamp="1591726030002">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -214,11 +210,11 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" timestamp="1591799335887">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" timestamp="1592205446220">
         <mark key="'" line="70" column="12" />
-        <mark key="[" line="83" column="13" />
-        <mark key="]" line="83" column="13" />
-        <mark key="." line="83" column="13" />
+        <mark key="[" line="93" column="21" />
+        <mark key="]" line="93" column="22" />
+        <mark key="." line="93" column="21" />
         <mark key="^" line="93" column="22" />
       </file>
       <file name="/Python Console" timestamp="1591727024766">
@@ -240,26 +236,21 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" timestamp="1591789667723">
         <mark key="'" line="5" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592203997941">
+      <file name="/Dummy.txt" timestamp="1592205477704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1591800691579">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="555" column="30" />
-        <mark key="]" line="555" column="44" />
-        <mark key="." line="555" column="43" />
-        <mark key="^" line="555" column="44" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1592206193145">
+        <mark key="'" line="539" column="39" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" timestamp="1591780558677">
         <mark key="'" line="74" column="42" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/stage/settings.yml" timestamp="1591726018344">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="49" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/dotpay/__init__.py" timestamp="1591726326424">
         <mark key="'" line="35" column="35" />
@@ -267,17 +258,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/dotpay/test.py" timestamp="1591726665002" />
     </filemarks>
     <jumps>
-      <jump line="381" column="89" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
-      <jump line="564" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
-      <jump line="249" column="63" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/config.py" />
-      <jump line="312" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/config.py" />
-      <jump line="130" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/models.py" />
-      <jump line="139" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/models.py" />
-      <jump line="62" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="53" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="65" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/models.py" />
-      <jump line="93" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/models.py" />
       <jump line="32" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/models.py" />
       <jump line="175" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
       <jump line="152" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
@@ -367,18 +347,29 @@
       <jump line="70" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" />
       <jump line="117" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="17" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
+      <jump line="373" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="5" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="539" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
+      <jump line="68" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="117" column="6" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/mdm_dictionaries/models.py" />
+      <jump line="781" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="747" column="71" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="742" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="741" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="193" column="71" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="188" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Configurator</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>Configurator</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>readonly</text>
+        <text encoding="base64">XDxjb3VudHJ5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRlbGl2ZXJ5X21ldGhvZF9ydWxlXzEucHJpb3JpdHksIDIpCg==</text>
@@ -414,18 +405,18 @@
         <text encoding="base64">ICAgICMgcmVhZG9ubHlfZmllbGRzID0gKCdwcmlvcml0eScsKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>readonly</last-search>
+      <last-search encoding="base64">XDxjb3VudHJ5XD4=</last-search>
       <last-offset />
-      <last-pattern>readonly</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudHJ5XD4=</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
