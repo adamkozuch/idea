@@ -192,12 +192,6 @@
         <mark key="]" line="787" column="0" />
         <mark key="." line="787" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1591799272962">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="37" />
-        <mark key="." line="26" column="36" />
-        <mark key="^" line="26" column="37" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/admin.py" timestamp="1592205446220">
         <mark key="'" line="70" column="12" />
         <mark key="[" line="93" column="21" />
@@ -218,6 +212,9 @@
         <mark key="]" line="2" column="31" />
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" timestamp="1592292085821">
+        <mark key="'" line="231" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1592206395746">
         <mark key="'" line="347" column="8" />
@@ -252,14 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/api_clients/pcb.py" />
-      <jump line="31" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" />
-      <jump line="439" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
-      <jump line="475" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
-      <jump line="38" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="35" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/dotpay/__init__.py" />
-      <jump line="1064" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
-      <jump line="1067" column="63" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="1079" column="62" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="1122" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="1123" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
@@ -352,6 +341,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/mail/managers.py" />
       <jump line="44" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="30" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" />
+      <jump line="326" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" />
+      <jump line="247" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" />
+      <jump line="244" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" />
+      <jump line="242" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" />
+      <jump line="239" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" />
+      <jump line="235" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" />
+      <jump line="231" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
