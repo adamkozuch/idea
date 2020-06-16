@@ -178,13 +178,13 @@
       <file name="/a.dummy" timestamp="1592202704053">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1592242843086">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_dispatch_order_to_sent.py" timestamp="1592218853021">
         <mark key="'" line="12" column="34" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/models.py" timestamp="1591779171419">
-        <mark key="'" line="66" column="37" />
-        <mark key="[" line="67" column="29" />
-        <mark key="." line="67" column="30" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1592242109938">
         <mark key="'" line="68" column="19" />
@@ -208,6 +208,11 @@
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/mdm_dictionaries/models.py" timestamp="1592206395896">
         <mark key="'" line="117" column="6" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/forms.py" timestamp="1592242893375">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker/scripts/run_black" timestamp="1592203947525">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="31" />
@@ -220,7 +225,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" timestamp="1592210963344">
         <mark key="'" line="16" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592242409944">
+      <file name="/Dummy.txt" timestamp="1592242896119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
@@ -232,9 +237,6 @@
         <mark key="]" line="551" column="61" />
         <mark key="." line="551" column="60" />
         <mark key="^" line="551" column="61" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" timestamp="1591780558677">
-        <mark key="'" line="74" column="42" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1592242246317">
         <mark key="'" line="30" column="0" />
@@ -355,10 +357,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZW5kRW1haWxNYW5hZ2VyXD4=</text>
@@ -367,34 +369,34 @@
         <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeSgKICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5QT1NUX09GRklDRSwKICAgICAgICAgICAgcGFydG5lcj1wYXJ0bmVyLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsicGF5bWVudF9tZXRob2QiXSwKICAgICAgICApCiAgICAgICAgZGVsaXZlcnlfbWV0aG9kX3J1bGVfMi5jb3VudHJpZXMuYWRkKGNvdW50cnkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YSwgdGltZXpvbmUK</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubW9kZWxzIGltcG9ydCBEaXNwYXRjaE9yZGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAubWFuYWdlcnMgaW1wb3J0IFNlbmRFbWFpbE1hbmFnZXIK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YSwgdGltZXpvbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBQYXJ0bmVyCg==</text>
+        <text encoding="base64">ZnJvbSAubWFuYWdlcnMgaW1wb3J0IFNlbmRFbWFpbE1hbmFnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBQYXJ0bmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubWFuYWdlcnMgaW1wb3J0IGdldF9tYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIgaW1wb3J0IHRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubWFuYWdlcnMgaW1wb3J0IGdldF9tYW5hZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkudGFzayBpbXBvcnQgdGFzawo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIgaW1wb3J0IHRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
