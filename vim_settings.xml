@@ -164,6 +164,11 @@
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query.py" timestamp="1592389546727">
         <mark key="'" line="907" column="25" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/models.py" timestamp="1592393163411">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/forms.py" timestamp="1592242893375">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
@@ -191,8 +196,8 @@
         <mark key="'" line="84086" column="420" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/dev/settings.yml" timestamp="1592314437082" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" timestamp="1592319287230">
-        <mark key="'" line="2" column="24" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" timestamp="1592393144662">
+        <mark key="'" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/copy_scripts.yml" timestamp="1592310057144" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" timestamp="1592389509799">
@@ -296,7 +301,6 @@
       <jump line="8" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" />
       <jump line="82" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" />
       <jump line="45" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" />
-      <jump line="4" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
       <jump line="2" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
       <jump line="84086" column="420" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/docker/postgresql/sql/data.sql" />
       <jump line="16" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" />
@@ -306,6 +310,7 @@
       <jump line="40" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" />
       <jump line="891" column="20" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query.py" />
       <jump line="907" column="25" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
