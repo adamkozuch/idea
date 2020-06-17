@@ -24,9 +24,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="BraceOrQuoteOut" />
-  <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
+  <action id="CheckinProject" />
   <action id="ChooseNextSubsequentPropertyValueEditorAction" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ChooseRunConfiguration">
@@ -262,6 +260,11 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt equals" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
