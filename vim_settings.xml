@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>q</entry>
-        <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -195,8 +195,12 @@
         <mark key="^" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/copy_scripts.yml" timestamp="1592310057144" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" timestamp="1592375751831">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" timestamp="1592388740916">
         <mark key="'" line="45" column="20" />
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/all.yml" timestamp="1592314478193" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/setup_supervisor.yml" timestamp="1592310809367" />
@@ -306,8 +310,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLCBjcmVhdGVkID0gTG9naXN0aWNQYXJ0bmVyQ29uZmlnLm9iamVjdHMuZ2V0X29yX2NyZWF0ZSgKICAgICAgICAgICAgICAgIHR5cGVfbmFtZT10eXBlX25hbWUsIGRlZmF1bHRzPXsiZHJpdmVyX25hbWUiOiBscGNbImRyaXZlcl9uYW1lIl19Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCA=</text>
@@ -319,37 +323,37 @@
         <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeSgKICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5QT1NUX09GRklDRSwKICAgICAgICAgICAgcGFydG5lcj1wYXJ0bmVyLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsicGF5bWVudF9tZXRob2QiXSwKICAgICAgICApCiAgICAgICAgZGVsaXZlcnlfbWV0aG9kX3J1bGVfMi5jb3VudHJpZXMuYWRkKGNvdW50cnkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubW9kZWxzIGltcG9ydCBEaXNwYXRjaE9yZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLCBjcmVhdGVkID0gTG9naXN0aWNQYXJ0bmVyQ29uZmlnLm9iamVjdHMuZ2V0X29yX2NyZWF0ZSgKICAgICAgICAgICAgICAgIHR5cGVfbmFtZT10eXBlX25hbWUsIGRlZmF1bHRzPXsiZHJpdmVyX25hbWUiOiBscGNbImRyaXZlcl9uYW1lIl19Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YSwgdGltZXpvbmUK</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubW9kZWxzIGltcG9ydCBEaXNwYXRjaE9yZGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAubWFuYWdlcnMgaW1wb3J0IFNlbmRFbWFpbE1hbmFnZXIK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YSwgdGltZXpvbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBQYXJ0bmVyCg==</text>
+        <text encoding="base64">ZnJvbSAubWFuYWdlcnMgaW1wb3J0IFNlbmRFbWFpbE1hbmFnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBQYXJ0bmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubWFuYWdlcnMgaW1wb3J0IGdldF9tYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIgaW1wb3J0IHRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubWFuYWdlcnMgaW1wb3J0IGdldF9tYW5hZ2VyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</text>
       </register>
     </registers>
   </component>
