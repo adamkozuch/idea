@@ -184,18 +184,15 @@
         <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tests.py" timestamp="1592318715546" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/docker/postgresql/sql/data.sql" timestamp="1592376936357">
+        <mark key="'" line="84086" column="420" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/dev/settings.yml" timestamp="1592314437082" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" timestamp="1592319287230">
         <mark key="'" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1592242246317">
         <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1592242109938">
-        <mark key="'" line="68" column="19" />
-        <mark key="[" line="787" column="0" />
-        <mark key="]" line="787" column="0" />
-        <mark key="." line="787" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/copy_scripts.yml" timestamp="1592310057144" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" timestamp="1592375751831">
@@ -205,7 +202,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/setup_supervisor.yml" timestamp="1592310809367" />
     </filemarks>
     <jumps>
-      <jump line="139" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="142" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="149" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="152" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
@@ -305,6 +301,7 @@
       <jump line="45" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" />
       <jump line="4" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
       <jump line="2" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
+      <jump line="84086" column="420" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/docker/postgresql/sql/data.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
