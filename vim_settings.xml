@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxET1RQQVlfVVJMXD4=</entry>
         <entry>dotpay</entry>
         <entry>test</entry>
         <entry>signarure</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxTZW5kRW1haWxNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxpcGxfYXBpX2NsaWVudFw+</entry>
+        <entry encoding="base64">XDxMb2dpc3RpY1BhcnRuZXJDb25maWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -161,20 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1592209099497">
-        <mark key="'" line="800" column="31" />
-        <mark key="[" line="818" column="29" />
-        <mark key="]" line="818" column="30" />
-        <mark key="." line="818" column="30" />
-        <mark key="^" line="816" column="52" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" timestamp="1592210959149">
-        <mark key="'" line="81" column="36" />
-        <mark key="[" line="78" column="46" />
-        <mark key="]" line="78" column="47" />
-        <mark key="." line="78" column="47" />
-        <mark key="^" line="78" column="60" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/forms.py" timestamp="1592242893375">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
@@ -183,9 +169,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/group_vars/all.yml" timestamp="1592292085821">
         <mark key="'" line="232" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" timestamp="1592210963344">
-        <mark key="'" line="16" column="16" />
-      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/ansible_docker/templates/docker-compose.yml.j2" timestamp="1592375793946" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/templates/start_celery_dev.j2" timestamp="1592309870900" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1592318643295">
         <mark key="'" line="82" column="20" />
@@ -200,16 +184,9 @@
         <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tests.py" timestamp="1592318715546" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tests/test_dispatch_order_to_sent.py" timestamp="1592218853021">
-        <mark key="'" line="12" column="34" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/dev/settings.yml" timestamp="1592314437082" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" timestamp="1592211539654">
-        <mark key="'" line="539" column="39" />
-        <mark key="[" line="551" column="59" />
-        <mark key="]" line="551" column="61" />
-        <mark key="." line="551" column="60" />
-        <mark key="^" line="551" column="61" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" timestamp="1592319287230">
+        <mark key="'" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1592242246317">
         <mark key="^" line="2" column="30" />
@@ -221,16 +198,13 @@
         <mark key="." line="787" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/copy_scripts.yml" timestamp="1592310057144" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" timestamp="1592318596978">
-        <mark key="'" line="8" column="24" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" timestamp="1592375751831">
+        <mark key="'" line="45" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/all.yml" timestamp="1592314478193" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/setup_supervisor.yml" timestamp="1592310809367" />
     </filemarks>
     <jumps>
-      <jump line="113" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
-      <jump line="115" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
-      <jump line="120" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="139" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="142" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
       <jump line="149" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" />
@@ -328,6 +302,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/utils/tests.py" />
       <jump line="8" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" />
       <jump line="82" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" />
+      <jump line="45" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +316,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpcGxfYXBpX2NsaWVudFw+</text>
+        <text encoding="base64">XDxMb2dpc3RpY1BhcnRuZXJDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeSgKICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5QT1NUX09GRklDRSwKICAgICAgICAgICAgcGFydG5lcj1wYXJ0bmVyLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsicGF5bWVudF9tZXRob2QiXSwKICAgICAgICApCiAgICAgICAgZGVsaXZlcnlfbWV0aG9kX3J1bGVfMi5jb3VudHJpZXMuYWRkKGNvdW50cnkpCg==</text>
@@ -381,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpcGxfYXBpX2NsaWVudFw+</last-search>
+      <last-search encoding="base64">XDxMb2dpc3RpY1BhcnRuZXJDb25maWdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpcGxfYXBpX2NsaWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxMb2dpc3RpY1BhcnRuZXJDb25maWdcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>-1</last-dir>
