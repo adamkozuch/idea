@@ -169,7 +169,9 @@
         <mark key="^" line="372" column="33" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" timestamp="1592477475101" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1592477639852" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1592481979665">
+        <mark key="'" line="97" column="70" />
+      </file>
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query.py" timestamp="1592389546727">
         <mark key="'" line="907" column="25" />
       </file>
@@ -237,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
-      <jump line="71" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="13" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="77" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="557" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
@@ -337,6 +337,8 @@
       <jump line="95" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" />
       <jump line="42" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" />
       <jump line="30" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" />
+      <jump line="97" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/enums.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
