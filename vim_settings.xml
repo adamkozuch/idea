@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>signarure</entry>
         <entry>withou</entry>
         <entry>pin</entry>
         <entry encoding="base64">XDxjaGVja3N1bV9waW5cPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxMb2dpc3RpY1BhcnRuZXJDb25maWdcPg==</entry>
         <entry>logging</entry>
         <entry>calc_fields</entry>
+        <entry>Status</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -169,12 +169,12 @@
         <mark key="^" line="372" column="33" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" timestamp="1592477475101" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1592484031202">
-        <mark key="'" line="97" column="71" />
-        <mark key="[" line="97" column="93" />
-        <mark key="]" line="97" column="101" />
-        <mark key="." line="97" column="100" />
-        <mark key="^" line="97" column="101" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1592485189954">
+        <mark key="'" line="97" column="86" />
+        <mark key="[" line="129" column="84" />
+        <mark key="]" line="129" column="113" />
+        <mark key="." line="129" column="112" />
+        <mark key="^" line="129" column="113" />
       </file>
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query.py" timestamp="1592389546727">
         <mark key="'" line="907" column="25" />
@@ -226,11 +226,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" timestamp="1592393144662">
         <mark key="'" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" timestamp="1592484379683">
-        <mark key="[" line="113" column="61" />
-        <mark key="]" line="113" column="69" />
-        <mark key="." line="113" column="68" />
-        <mark key="^" line="113" column="69" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" timestamp="1592485107083">
+        <mark key="'" line="119" column="43" />
+        <mark key="[" line="121" column="79" />
+        <mark key="]" line="121" column="132" />
+        <mark key="." line="121" column="131" />
+        <mark key="^" line="121" column="132" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1592474941074">
         <mark key="'" line="510" column="22" />
@@ -249,12 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
-      <jump line="557" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="558" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="57" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query_utils.py" />
-      <jump line="562" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="519" column="4" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1531772033/builtins.py" />
       <jump line="91" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="524" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
       <jump line="31" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
@@ -347,20 +342,26 @@
       <jump line="42" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" />
       <jump line="30" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/enums.py" />
-      <jump line="97" column="71" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="6" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/enums.py" />
+      <jump line="119" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
+      <jump line="12" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="32" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="52" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="74" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="75" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="97" column="86" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ERROR</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>calc_fields</text>
+        <text>Status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2Vycm9yX3N0YXR1cyhzZWxmKToKICAgICAgICBzZWxmLm5vdGlmaWNhdGlvbi5kYXRhWyJTdGF0dXMiXSA9IE1vbmV5TWF0cml4U3RhdHVzLkVSUk9SCiAgICAgICAgc2VsZi5ub3RpZmljYXRpb24uZGF0YVsiQW1vdW50Il0gPSAxCiAgICAgICAgc2VsZi5ub3RpZmljYXRpb24uZGF0YVsiQ3VycmVuY3kiXSA9ICJFVVIiCiAgICAgICAgc2VsZi5ub3RpZmljYXRpb24uZGF0YVsiVmVuZG9yQ3VycmVuY3kiXSA9IE5vbmUKICAgICAgICBzZWxmLm5vdGlmaWNhdGlvbi5kYXRhWyJWZW5kb3JSZXF1ZXN0ZWRBbW91bnQiXSA9IDAuMAogICAgICAgIHNlbGYubm90aWZpY2F0aW9uLmRhdGFbIlZlbmRvckNvbmZpcm1lZEFtb3VudCJdID0gMC4wCiAgICAgICAgcHJvY2Vzc29yID0gTW9uZXlNYXRyaXhOb3RpZmljYXRpb25Qcm9jZXNzb3Iobm90aWZpY2F0aW9uPXNlbGYubm90aWZpY2F0aW9uKQogICAgICAgIGRhdGEgPSBwcm9jZXNzb3IuZ2V0X2RhdGEoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZGF0YVsiYW1vdW50Il0sIERlY2ltYWwoMS4wKS5xdWFudGl6ZShEZWNpbWFsKCIuMDEiKSkpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkYXRhWyJjdXJyZW5jeSJdLCBzZWxmLm5vdGlmaWNhdGlvbi5kYXRhWyJDdXJyZW5jeSJdKQo=</text>
@@ -402,9 +403,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>calc_fields</last-search>
+      <last-search>Status</last-search>
       <last-offset />
-      <last-pattern>calc_fields</last-pattern>
+      <last-pattern>Status</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
