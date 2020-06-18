@@ -169,7 +169,7 @@
         <mark key="^" line="372" column="33" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/payments/test_views.py" timestamp="1592477475101" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1592485189954">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" timestamp="1592487208612">
         <mark key="'" line="97" column="86" />
         <mark key="[" line="129" column="84" />
         <mark key="]" line="129" column="113" />
@@ -226,8 +226,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" timestamp="1592393144662">
         <mark key="'" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" timestamp="1592485107083">
-        <mark key="'" line="119" column="43" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" timestamp="1592485475373">
+        <mark key="'" line="119" column="44" />
         <mark key="[" line="121" column="79" />
         <mark key="]" line="121" column="132" />
         <mark key="." line="121" column="131" />
@@ -250,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="524" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
       <jump line="31" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="78" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
@@ -343,13 +342,14 @@
       <jump line="30" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/enums.py" />
       <jump line="6" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/enums.py" />
-      <jump line="119" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
       <jump line="12" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="32" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="52" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="74" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="75" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="97" column="86" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="132" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
+      <jump line="119" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
