@@ -195,7 +195,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" timestamp="1592477618261">
         <mark key="'" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" timestamp="1592477312353">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" timestamp="1592489907993">
+        <mark key="'" line="21" column="43" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -249,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="524" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
       <jump line="31" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="78" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
       <jump line="69" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
@@ -349,6 +349,7 @@
       <jump line="97" column="86" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="132" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="119" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
+      <jump line="21" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
