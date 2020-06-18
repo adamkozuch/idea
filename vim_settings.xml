@@ -183,11 +183,11 @@
         <mark key="]" line="7" column="46" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1592497356270">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1592498710527">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="43" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" timestamp="1592472368189">
         <mark key="[" line="124" column="43" />
@@ -195,8 +195,12 @@
         <mark key="^" line="124" column="44" />
         <mark key="." line="124" column="43" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" timestamp="1592477606449">
-        <mark key="'" line="95" column="26" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" timestamp="1592498516392">
+        <mark key="'" line="180" column="20" />
+        <mark key="[" line="79" column="63" />
+        <mark key="]" line="79" column="80" />
+        <mark key="^" line="79" column="80" />
+        <mark key="." line="79" column="79" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/__init__.py" timestamp="1592477618261">
         <mark key="'" line="30" column="33" />
@@ -253,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="78" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
       <jump line="69" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
       <jump line="68" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/factories.py" />
@@ -353,15 +356,16 @@
       <jump line="132" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/processor.py" />
       <jump line="119" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" />
       <jump line="21" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" />
+      <jump line="178" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>notification</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>notification</text>
       </register>
       <register name="/" type="4">
         <text>Status</text>
