@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>signarure</entry>
         <entry>withou</entry>
         <entry>pin</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpcGxfYXBpX2NsaWVudFw+</entry>
         <entry encoding="base64">XDxMb2dpc3RpY1BhcnRuZXJDb25maWdcPg==</entry>
         <entry>logging</entry>
+        <entry>calc_fields</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -161,6 +161,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1592472478795">
+        <mark key="'" line="306" column="31" />
+        <mark key="[" line="356" column="13" />
+        <mark key="]" line="356" column="31" />
+        <mark key="." line="356" column="30" />
+        <mark key="^" line="356" column="31" />
+      </file>
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query.py" timestamp="1592389546727">
         <mark key="'" line="907" column="25" />
       </file>
@@ -168,6 +175,15 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="46" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/controller.py" timestamp="1592472368189">
+        <mark key="[" line="124" column="43" />
+        <mark key="]" line="124" column="43" />
+        <mark key="^" line="124" column="44" />
+        <mark key="." line="124" column="43" />
+      </file>
+      <file name="/models.py" timestamp="1592471958783">
+        <mark key="'" line="216" column="8" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/ansible_docker/templates/docker-compose.yml.j2" timestamp="1592375793946" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/utils.py" timestamp="1592471471002">
@@ -196,14 +212,13 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/docker/postgresql/sql/data.sql" timestamp="1592378535849">
         <mark key="'" line="84086" column="420" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/dev/settings.yml" timestamp="1592314437082" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" timestamp="1592393144662">
         <mark key="'" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1592471467459">
         <mark key="'" line="508" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/copy_scripts.yml" timestamp="1592310057144" />
+      <file name="/utils.py" timestamp="1592472149111" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" timestamp="1592389509799">
         <mark key="'" line="40" column="38" />
         <mark key="[" line="28" column="12" />
@@ -211,14 +226,8 @@
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/ansible/group_vars/all.yml" timestamp="1592314478193" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/tasks/setup_supervisor.yml" timestamp="1592310809367" />
     </filemarks>
     <jumps>
-      <jump line="15" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/all.yml" />
-      <jump line="66" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_validation/models.py" />
-      <jump line="61" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
-      <jump line="74" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/factories.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/mdm_dictionaries/factories.py" />
       <jump line="46" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="70" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
@@ -315,21 +324,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="508" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" />
       <jump line="15" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/utils.py" />
+      <jump line="35" column="0" filename="/models.py" />
+      <jump line="200" column="12" filename="/models.py" />
+      <jump line="216" column="8" filename="/models.py" />
+      <jump line="306" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>multiple_chargebacks</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>multiple_chargebacks</text>
       </register>
       <register name="/" type="4">
-        <text>logging</text>
+        <text>calc_fields</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxpdmVyeV9tZXRob2RfcnVsZV8yID0gRGVsaXZlcnlNZXRob2RSdWxlRmFjdG9yeSgKICAgICAgICAgICAgZGVsaXZlcnlfbWV0aG9kPURlbGl2ZXJ5TWV0aG9kQ2hvaWNlcy5QT1NUX09GRklDRSwKICAgICAgICAgICAgcGFydG5lcj1wYXJ0bmVyLAogICAgICAgICAgICBwYXltZW50X21ldGhvZD1zZWxmLnZhbGlkX2pzb25fZGF0YVsicGF5bWVudF9tZXRob2QiXSwKICAgICAgICApCiAgICAgICAgZGVsaXZlcnlfbWV0aG9kX3J1bGVfMi5jb3VudHJpZXMuYWRkKGNvdW50cnkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X211bHRpcGxlX2NoYXJnZWJhY2tzKHNlbGYpOgogICAgICAgIHBheXBhbCA9IENvbnRyYWN0b3JGYWN0b3J5KG5hbWU9IlBheVBhbCIpCgogICAgICAgIEFjdGlvbkZhY3RvcnkoCiAgICAgICAgICAgIHR5cGU9VFlQRV9DSE9JQ0VTLklOQ09NRSwKICAgICAgICAgICAgc3RhdHVzPVNUQVRVU19DSE9JQ0VTLlNFVFRMRUQsCiAgICAgICAgICAgIGNvbnRyYWN0b3I9cGF5cGFsLAogICAgICAgICAgICBzdGF0dXNfZGF0ZT1Ob25lLAogICAgICAgICAgICBhbW91bnQ9MTAwLAogICAgICAgICAgICB0aWRfZXh0ZXJuYWw9IjEiLAogICAgICAgICAgICBncm91cGluZ19pZD0xLAogICAgICAgICAgICBleHRlcm5hbF9kYXRlPU5vbmUsCiAgICAgICAgICAgIG9wZXJhdG9yX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlPXRpbWV6b25lLm5vdygpLAogICAgICAgICkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoVHJhbnNhY3Rpb24ub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKFBheW1lbnQub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAxKQoKICAgICAgICBBY3Rpb25GYWN0b3J5KAogICAgICAgICAgICB0eXBlPVRZUEVfQ0hPSUNFUy5DSEFSR0VCQUNLLAogICAgICAgICAgICBzdGF0dXM9U1RBVFVTX0NIT0lDRVMuU0VUVExFRCwKICAgICAgICAgICAgY29udHJhY3Rvcj1wYXlwYWwsCiAgICAgICAgICAgIHN0YXR1c19kYXRlPU5vbmUsCiAgICAgICAgICAgIGFtb3VudD0tMjAsCiAgICAgICAgICAgIHRpZF9leHRlcm5hbD0iMiIsCiAgICAgICAgICAgIGdyb3VwaW5nX2lkPTEsCiAgICAgICAgICAgIGV4dGVybmFsX2RhdGU9Tm9uZSwKICAgICAgICAgICAgb3BlcmF0b3JfdHJhbnNhY3Rpb25fcmVjZWl2aW5nX2RhdGU9dGltZXpvbmUubm93KCksCiAgICAgICAgKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhUcmFuc2FjdGlvbi5vYmplY3RzLmFsbCgpLmNvdW50KCksIDIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoUGF5bWVudC5vYmplY3RzLmFsbCgpLmNvdW50KCksIDEpCgogICAgICAgIEFjdGlvbkZhY3RvcnkoCiAgICAgICAgICAgIHR5cGU9VFlQRV9DSE9JQ0VTLkNIQVJHRUJBQ0ssCiAgICAgICAgICAgIHN0YXR1cz1TVEFUVVNfQ0hPSUNFUy5TRVRUTEVELAogICAgICAgICAgICBjb250cmFjdG9yPXBheXBhbCwKICAgICAgICAgICAgc3RhdHVzX2RhdGU9Tm9uZSwKICAgICAgICAgICAgYW1vdW50PTEwLAogICAgICAgICAgICB0aWRfZXh0ZXJuYWw9IjMiLAogICAgICAgICAgICBncm91cGluZ19pZD0xLAogICAgICAgICAgICBleHRlcm5hbF9kYXRlPU5vbmUsCiAgICAgICAgICAgIG9wZXJhdG9yX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlPXRpbWV6b25lLm5vdygpLAogICAgICAgICkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoVHJhbnNhY3Rpb24ub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAzKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKFBheW1lbnQub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKFBheW1lbnQub2JqZWN0cy5hbGwoKVswXS5iYWxhbmNlLCA5MCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIm1heEJ5dGVzIjogNTI0Mjg4MDAwLAo=</text>
@@ -368,9 +381,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>logging</last-search>
+      <last-search>calc_fields</last-search>
       <last-offset />
-      <last-pattern>logging</last-pattern>
+      <last-pattern>calc_fields</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
