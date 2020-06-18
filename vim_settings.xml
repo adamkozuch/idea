@@ -161,12 +161,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1592472478795">
-        <mark key="'" line="306" column="31" />
-        <mark key="[" line="356" column="13" />
-        <mark key="]" line="356" column="31" />
-        <mark key="." line="356" column="30" />
-        <mark key="^" line="356" column="31" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" timestamp="1592474393711">
+        <mark key="'" line="372" column="15" />
+        <mark key="[" line="371" column="21" />
+        <mark key="]" line="372" column="33" />
+        <mark key="." line="372" column="32" />
+        <mark key="^" line="372" column="33" />
       </file>
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/db/models/query.py" timestamp="1592389546727">
         <mark key="'" line="907" column="25" />
@@ -215,8 +215,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" timestamp="1592393144662">
         <mark key="'" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1592471467459">
-        <mark key="'" line="508" column="18" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/models.py" timestamp="1592474572047">
+        <mark key="'" line="510" column="18" />
+        <mark key="[" line="443" column="40" />
+        <mark key="]" line="443" column="82" />
+        <mark key="." line="443" column="81" />
+        <mark key="^" line="443" column="82" />
       </file>
       <file name="/utils.py" timestamp="1592472149111" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/tasks.py" timestamp="1592389509799">
@@ -228,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/mdm_dictionaries/factories.py" />
       <jump line="46" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="70" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
       <jump line="38" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_delivery_method_configurator.py" />
@@ -328,12 +331,13 @@
       <jump line="200" column="12" filename="/models.py" />
       <jump line="216" column="8" filename="/models.py" />
       <jump line="306" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" />
+      <jump line="372" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/paycross21/paycross21/pcb/tests/test_transactions.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>multiple_chargebacks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhUcmFuc2FjdGlvbi5vYmplY3RzLmFsbCgpLmNvdW50KCksIDEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>multiple_chargebacks</text>
@@ -345,34 +349,34 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X211bHRpcGxlX2NoYXJnZWJhY2tzKHNlbGYpOgogICAgICAgIHBheXBhbCA9IENvbnRyYWN0b3JGYWN0b3J5KG5hbWU9IlBheVBhbCIpCgogICAgICAgIEFjdGlvbkZhY3RvcnkoCiAgICAgICAgICAgIHR5cGU9VFlQRV9DSE9JQ0VTLklOQ09NRSwKICAgICAgICAgICAgc3RhdHVzPVNUQVRVU19DSE9JQ0VTLlNFVFRMRUQsCiAgICAgICAgICAgIGNvbnRyYWN0b3I9cGF5cGFsLAogICAgICAgICAgICBzdGF0dXNfZGF0ZT1Ob25lLAogICAgICAgICAgICBhbW91bnQ9MTAwLAogICAgICAgICAgICB0aWRfZXh0ZXJuYWw9IjEiLAogICAgICAgICAgICBncm91cGluZ19pZD0xLAogICAgICAgICAgICBleHRlcm5hbF9kYXRlPU5vbmUsCiAgICAgICAgICAgIG9wZXJhdG9yX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlPXRpbWV6b25lLm5vdygpLAogICAgICAgICkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoVHJhbnNhY3Rpb24ub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKFBheW1lbnQub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAxKQoKICAgICAgICBBY3Rpb25GYWN0b3J5KAogICAgICAgICAgICB0eXBlPVRZUEVfQ0hPSUNFUy5DSEFSR0VCQUNLLAogICAgICAgICAgICBzdGF0dXM9U1RBVFVTX0NIT0lDRVMuU0VUVExFRCwKICAgICAgICAgICAgY29udHJhY3Rvcj1wYXlwYWwsCiAgICAgICAgICAgIHN0YXR1c19kYXRlPU5vbmUsCiAgICAgICAgICAgIGFtb3VudD0tMjAsCiAgICAgICAgICAgIHRpZF9leHRlcm5hbD0iMiIsCiAgICAgICAgICAgIGdyb3VwaW5nX2lkPTEsCiAgICAgICAgICAgIGV4dGVybmFsX2RhdGU9Tm9uZSwKICAgICAgICAgICAgb3BlcmF0b3JfdHJhbnNhY3Rpb25fcmVjZWl2aW5nX2RhdGU9dGltZXpvbmUubm93KCksCiAgICAgICAgKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhUcmFuc2FjdGlvbi5vYmplY3RzLmFsbCgpLmNvdW50KCksIDIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoUGF5bWVudC5vYmplY3RzLmFsbCgpLmNvdW50KCksIDEpCgogICAgICAgIEFjdGlvbkZhY3RvcnkoCiAgICAgICAgICAgIHR5cGU9VFlQRV9DSE9JQ0VTLkNIQVJHRUJBQ0ssCiAgICAgICAgICAgIHN0YXR1cz1TVEFUVVNfQ0hPSUNFUy5TRVRUTEVELAogICAgICAgICAgICBjb250cmFjdG9yPXBheXBhbCwKICAgICAgICAgICAgc3RhdHVzX2RhdGU9Tm9uZSwKICAgICAgICAgICAgYW1vdW50PTEwLAogICAgICAgICAgICB0aWRfZXh0ZXJuYWw9IjMiLAogICAgICAgICAgICBncm91cGluZ19pZD0xLAogICAgICAgICAgICBleHRlcm5hbF9kYXRlPU5vbmUsCiAgICAgICAgICAgIG9wZXJhdG9yX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlPXRpbWV6b25lLm5vdygpLAogICAgICAgICkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoVHJhbnNhY3Rpb24ub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAzKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKFBheW1lbnQub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKFBheW1lbnQub2JqZWN0cy5hbGwoKVswXS5iYWxhbmNlLCA5MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1heEJ5dGVzIjogNTI0Mjg4MDAwLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhUcmFuc2FjdGlvbi5vYmplY3RzLmFsbCgpLmNvdW50KCksIDEpCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIndoZW4iOiAiMzBEIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqLCBjcmVhdGVkID0gTG9naXN0aWNQYXJ0bmVyQ29uZmlnLm9iamVjdHMuZ2V0X29yX2NyZWF0ZSgKICAgICAgICAgICAgICAgIHR5cGVfbmFtZT10eXBlX25hbWUsIGRlZmF1bHRzPXsiZHJpdmVyX25hbWUiOiBscGNbImRyaXZlcl9uYW1lIl19Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhQYXltZW50Lm9iamVjdHMuYWxsKCkuY291bnQoKSwgMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubW9kZWxzIGltcG9ydCBEaXNwYXRjaE9yZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBBY3Rpb25GYWN0b3J5KAogICAgICAgICAgICB0eXBlPVRZUEVfQ0hPSUNFUy5DSEFSR0VCQUNLLAogICAgICAgICAgICBzdGF0dXM9U1RBVFVTX0NIT0lDRVMuU0VUVExFRCwKICAgICAgICAgICAgY29udHJhY3Rvcj1wYXlwYWwsCiAgICAgICAgICAgIHN0YXR1c19kYXRlPU5vbmUsCiAgICAgICAgICAgIGFtb3VudD0tMjAsCiAgICAgICAgICAgIHRpZF9leHRlcm5hbD0iMiIsCiAgICAgICAgICAgIGdyb3VwaW5nX2lkPTEsCiAgICAgICAgICAgIGV4dGVybmFsX2RhdGU9Tm9uZSwKICAgICAgICAgICAgb3BlcmF0b3JfdHJhbnNhY3Rpb25fcmVjZWl2aW5nX2RhdGU9dGltZXpvbmUubm93KCksCiAgICAgICAgKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhUcmFuc2FjdGlvbi5vYmplY3RzLmFsbCgpLmNvdW50KCksIDIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoUGF5bWVudC5vYmplY3RzLmFsbCgpLmNvdW50KCksIDEpCgogICAgICAgIEFjdGlvbkZhY3RvcnkoCiAgICAgICAgICAgIHR5cGU9VFlQRV9DSE9JQ0VTLkNIQVJHRUJBQ0ssCiAgICAgICAgICAgIHN0YXR1cz1TVEFUVVNfQ0hPSUNFUy5TRVRUTEVELAogICAgICAgICAgICBjb250cmFjdG9yPXBheXBhbCwKICAgICAgICAgICAgc3RhdHVzX2RhdGU9Tm9uZSwKICAgICAgICAgICAgYW1vdW50PTEwLAogICAgICAgICAgICB0aWRfZXh0ZXJuYWw9IjMiLAogICAgICAgICAgICBncm91cGluZ19pZD0xLAogICAgICAgICAgICBleHRlcm5hbF9kYXRlPU5vbmUsCiAgICAgICAgICAgIG9wZXJhdG9yX3RyYW5zYWN0aW9uX3JlY2VpdmluZ19kYXRlPXRpbWV6b25lLm5vdygpLAogICAgICAgICkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoVHJhbnNhY3Rpb24ub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAzKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKFBheW1lbnQub2JqZWN0cy5hbGwoKS5jb3VudCgpLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKFBheW1lbnQub2JqZWN0cy5hbGwoKVswXS5iYWxhbmNlLCA5MCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YSwgdGltZXpvbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aWRfZXh0ZXJuYWwsCiAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAubWFuYWdlcnMgaW1wb3J0IFNlbmRFbWFpbE1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1heEJ5dGVzIjogNTI0Mjg4MDAwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBQYXJ0bmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndoZW4iOiAiMzBEIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLCBjcmVhdGVkID0gTG9naXN0aWNQYXJ0bmVyQ29uZmlnLm9iamVjdHMuZ2V0X29yX2NyZWF0ZSgKICAgICAgICAgICAgICAgIHR5cGVfbmFtZT10eXBlX25hbWUsIGRlZmF1bHRzPXsiZHJpdmVyX25hbWUiOiBscGNbImRyaXZlcl9uYW1lIl19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
+        <text encoding="base64">ZnJvbSBkaXNwYXRjaF9vcmRlcnMubW9kZWxzIGltcG9ydCBEaXNwYXRjaE9yZGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
