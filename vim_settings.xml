@@ -174,12 +174,12 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/ansible_docker/templates/docker-compose.yml.j2" timestamp="1592375793946" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/utility/ansible/roles/celery/templates/start_celery_dev.j2" timestamp="1592309870900" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1592400643479">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/config/settings/base.py" timestamp="1592463581644">
         <mark key="'" line="280" column="21" />
-        <mark key="[" line="564" column="28" />
-        <mark key="]" line="564" column="29" />
-        <mark key="." line="564" column="28" />
-        <mark key="^" line="564" column="29" />
+        <mark key="[" line="560" column="30" />
+        <mark key="]" line="560" column="30" />
+        <mark key="." line="560" column="30" />
+        <mark key="^" line="560" column="50" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1592318643295">
         <mark key="'" line="145" column="20" />
@@ -318,10 +318,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>F</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
