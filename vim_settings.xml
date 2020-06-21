@@ -180,7 +180,8 @@
         <mark key="." line="95" column="112" />
         <mark key="^" line="95" column="113" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1592566747114">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1592737445862">
+        <mark key="'" line="27" column="31" />
         <mark key="[" line="12" column="13944" />
         <mark key="]" line="13" column="34" />
         <mark key="." line="13" column="33" />
@@ -243,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/managers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/mail/managers.py" />
       <jump line="44" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="30" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
@@ -343,6 +343,7 @@
       <jump line="16" column="37" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="23" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/models.py" />
       <jump line="19" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
+      <jump line="27" column="31" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
