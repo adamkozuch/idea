@@ -180,11 +180,12 @@
         <mark key="." line="95" column="112" />
         <mark key="^" line="95" column="113" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1592814713647">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1592817851184">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="88" column="46" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/moneymatrix/test.py" timestamp="1592485475373">
         <mark key="'" line="119" column="44" />
@@ -351,10 +352,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>ontification</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQVRBQkFTRV9IT1NUXD4=</text>
@@ -363,34 +364,34 @@
         <text>NotificationToSend.query.filter_by(notification=notification.id).one()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igbm90aWZpY2F0aW9uX3N5c3RlbSBpbiBjdXJyZW50X2FwcC5jb25maWdbIk5PVElGSUNBVElPTl9TWVNURU1TIl06Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkc19vZl9yZXNlbmRlZF9ub3RpZmljYXRpb25zLmFwcGVuZCgpCg==</text>
+        <text encoding="base64">ICAgIGlmIGN1cnJlbnRfYXBwLmNvbmZpZ1siUFJPUEFHQVRFX05PVElGSUNBVElPTlMiXToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ1cGRhdGluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KE5vdGlmaWNhdGlvblRvU2VuZC5xdWVyeS5maWx0ZXJfYnkobm90aWZpY2F0aW9uPW5vdGlmaWNhdGlvbi5pZCkub25lKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvX3NlbmQuc2tpcCA9IEZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJjaGFuZ2VzIGNvbW1pdGVkIikK</text>
+        <text encoding="base64">IyBmaXJzdCBjaGVjayBqdXN0IHdpdGggb25lIGNvb2tpZQpjb29raWVzID0gWyIyMjVmOGUzYmRmNGFjZGZjYzZhOTRjMDQ3OTM3NGZmZCJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJNdWx0aXBsZSByZXN1bHRzIikK</text>
+        <text encoding="base64">IyBob3cgdG8gZXh0cmFjdCBpZHMgb2Ygbm90aWZpY2F0aW9ucwojIGlzIHJlY3JlYXRpbmcgTm90aWZpY2F0aW9uVG9TZW5kIGdvb2QgaWRlYQojIFN0ZXAgMSBmaWx0ZXIgb3V0IG5vdGlmaWNhdGlvbnMKIyBTdGVwIDIgUmVtb3ZlIGl0IGluIFBDQiAoU3Rhc3playBhY3Rpb25zIGFyZSBhbHJlYWR5IHJlbW92ZWQpCiMgU3RlcCAzIENyZWF0ZSBzZW50IHRvIFBDQiBvYmplY3RzLCBtYXliZSB3ZSBuZWVkIHRvIHNsb3cgZG93biBzZW5kaW5nIGl0LgojIFN0ZXAgNCBJdCBpcyBkb25lIGJ5IGl0c2VsZiBzbyBpdCBpcyBncmVhdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdUaGlzIGlzIG5vdGlmaWNhdGlvbiAnLCBub3RpZmljYXRpb24pCiAgICAgICAgICAgICAgICBwcmludCh0b19zZW5kLmlkKQogICAgICAgICAgICAgICAgcHJpbnQodG9fc2VuZC5zZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uYWRkKHRvX3NlbmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
