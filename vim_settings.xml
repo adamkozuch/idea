@@ -180,6 +180,7 @@
         <mark key="." line="95" column="112" />
         <mark key="^" line="95" column="113" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/roles/postgresql/tasks/main.yml" timestamp="1592896454162" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" timestamp="1592822859815">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="0" column="0" />
@@ -212,7 +213,6 @@
         <mark key="^" line="79" column="80" />
         <mark key="." line="79" column="79" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1592823550902" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" timestamp="1592825847268">
         <mark key="'" line="447" column="16" />
       </file>
@@ -232,6 +232,7 @@
         <mark key="." line="443" column="81" />
         <mark key="^" line="443" column="82" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/group_vars/all.yml" timestamp="1592896518508" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/developer/settings.yml" timestamp="1592814565487">
         <mark key="'" line="9" column="0" />
       </file>
@@ -246,6 +247,7 @@
         <mark key="[" line="373" column="0" />
         <mark key="]" line="379" column="35" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/Sprexit/ansible/site.yml" timestamp="1592896469689" />
     </filemarks>
     <jumps>
       <jump line="84086" column="420" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/docker/postgresql/sql/data.sql" />
@@ -407,7 +409,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
