@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3VudHJ5XD4=</entry>
         <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
         <entry>test_create</entry>
         <entry encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</entry>
@@ -25,6 +24,7 @@
         <entry>kazoo</entry>
         <entry encoding="base64">XDxzenVfYXBpX2NsaWVudFw+</entry>
         <entry encoding="base64">XDxjb21wYW55X2xpc3RcPg==</entry>
+        <entry>Company</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -161,20 +161,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" timestamp="1593087037767">
+        <mark key="'" line="179" column="70" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/ansible_docker/group_vars/featurebranch/vars.yml" timestamp="1593006995042" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/dispatch_register.py" timestamp="1593068824920">
-        <mark key="'" line="10" column="26" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/my_notebook.ipynb" timestamp="1593005744098">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="3" column="1" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/models/stock_warehouse.py" timestamp="1593074327561" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/wms.py" timestamp="1593084946445" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_picking_adjustment/models/models.py" timestamp="1593068221875">
@@ -197,22 +187,19 @@
         <mark key="'" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/requirements.txt" timestamp="1593069715478">
-        <mark key="[" line="72" column="24" />
-        <mark key="]" line="72" column="25" />
-        <mark key="." line="72" column="25" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/utils/locking_utils.py" timestamp="1593006299873">
-        <mark key="'" line="6" column="33" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/logisticpartners/models.py" timestamp="1593083792540" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1593073783694">
         <mark key="'" line="34" column="45" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/szu.py" timestamp="1593069588171">
-        <mark key="[" line="108" column="28" />
-        <mark key="]" line="108" column="32" />
-        <mark key="^" line="108" column="32" />
-        <mark key="." line="108" column="31" />
+        <mark key="[" line="107" column="28" />
+        <mark key="]" line="107" column="32" />
+        <mark key="^" line="107" column="32" />
+        <mark key="." line="107" column="31" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/__init__.py" timestamp="1593068820712">
         <mark key="'" line="93" column="21" />
@@ -221,6 +208,7 @@
         <mark key="^" line="93" column="117" />
         <mark key="." line="93" column="116" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/mrp/views/stock_picking_views.xml" timestamp="1593087085359" />
       <file name="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/552804719/125375885/base_rest_api_client/base.py" timestamp="1593069286935">
         <mark key="'" line="88" column="8" />
       </file>
@@ -236,10 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/moneymatrix/mappings.py" />
-      <jump line="178" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="66" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/tasks.py" />
-      <jump line="10" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/paypal/test_rest.py" />
       <jump line="125" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/paypal/test_rest.py" />
       <jump line="114" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/paypal/test_rest.py" />
       <jump line="11" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/paypal/test_rest.py" />
@@ -336,6 +320,10 @@
       <jump line="212" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/exceptions.py" />
       <jump line="10" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/__init__.py" />
+      <jump line="93" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" />
+      <jump line="211" column="82" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" />
+      <jump line="26" column="82" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" />
+      <jump line="179" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,7 +335,7 @@
         <text>path=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wYW55X2xpc3RcPg==</text>
+        <text>Company</text>
       </register>
       <register name="0" type="4">
         <text>NotificationToSend.query.filter_by(notification=notification.id).one()</text>
@@ -389,12 +377,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb21wYW55X2xpc3RcPg==</last-search>
+      <last-search>Company</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wYW55X2xpc3RcPg==</last-pattern>
+      <last-pattern>Company</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
