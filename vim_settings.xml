@@ -170,7 +170,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1593674277234" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1593678576959">
+        <mark key="'" line="1042" column="27" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1593075302697">
         <mark key="'" line="212" column="36" />
       </file>
@@ -203,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/paypal/test_rest.py" />
-      <jump line="114" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/paypal/test_rest.py" />
       <jump line="11" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/tests/notifications/pcb/paypal/test_rest.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/pcb/paypal/rest/processor.py" />
       <jump line="67" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/validation_rules/available_channels_utils.py" />
@@ -303,6 +303,8 @@
       <jump line="211" column="82" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" />
       <jump line="26" column="82" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" />
       <jump line="179" column="70" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" />
+      <jump line="1042" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/base/tests.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
