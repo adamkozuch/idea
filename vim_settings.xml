@@ -44,9 +44,9 @@
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -164,15 +164,13 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" timestamp="1593087037767">
         <mark key="'" line="179" column="70" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/deliveries/views.py" timestamp="1593075068549">
-        <mark key="'" line="179" column="40" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593069720482">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/tests/test_dispatch_orders.py" timestamp="1593674277234" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1593075302697">
         <mark key="'" line="212" column="36" />
       </file>
@@ -184,14 +182,17 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1593073783694">
         <mark key="'" line="34" column="45" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/deliveries/views.py" timestamp="1593075068549">
+        <mark key="'" line="179" column="40" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/__init__.py" timestamp="1593083806445">
+        <mark key="'" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/szu.py" timestamp="1593069588171">
         <mark key="[" line="107" column="28" />
         <mark key="]" line="107" column="32" />
         <mark key="^" line="107" column="32" />
         <mark key="." line="107" column="31" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/__init__.py" timestamp="1593083806445">
-        <mark key="'" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1593073761389">
         <mark key="'" line="338" column="39" />
@@ -349,7 +350,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
