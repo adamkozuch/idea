@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
-        <entry>test_create</entry>
         <entry encoding="base64">XDxEaXNwYXRjaE9yZGVySVBMU2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxTZW5kRW1haWxNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxpcGxfYXBpX2NsaWVudFw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzenVfYXBpX2NsaWVudFw+</entry>
         <entry encoding="base64">XDxjb21wYW55X2xpc3RcPg==</entry>
         <entry>Company</entry>
+        <entry>tracking</entry>
+        <entry encoding="base64">XDxTdWJjb250cmFjdG9yRXJyb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -45,8 +45,8 @@
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
-        <entry>action RecentFiles</entry>
         <entry>q</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -184,38 +184,36 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1593073783694">
         <mark key="'" line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/deliveries/views.py" timestamp="1593075068549">
-        <mark key="'" line="179" column="40" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/__init__.py" timestamp="1593083806445">
-        <mark key="'" line="10" column="21" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/szu.py" timestamp="1593069588171">
         <mark key="[" line="107" column="28" />
         <mark key="]" line="107" column="32" />
         <mark key="^" line="107" column="32" />
         <mark key="." line="107" column="31" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1593685193254">
-        <mark key="'" line="338" column="39" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1593679030555">
+        <mark key="'" line="43" column="31" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1593685414365">
+        <mark key="'" line="487" column="4" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/v1/deliveries/views.py" timestamp="1593075068549">
+        <mark key="'" line="179" column="40" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/__init__.py" timestamp="1593083806445">
+        <mark key="'" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1593686749312">
+        <mark key="'" line="423" column="49" />
         <mark key="[" line="340" column="17" />
         <mark key="]" line="340" column="33" />
         <mark key="^" line="340" column="33" />
         <mark key="." line="340" column="32" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1593679030555">
-        <mark key="'" line="43" column="31" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1593686762103">
+        <mark key="'" line="4" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="374" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="330" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="238" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="237" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="216" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="215" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="201" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
       <jump line="200" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
       <jump line="64" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
       <jump line="63" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
@@ -308,6 +306,14 @@
       <jump line="42" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/versions/current/purchases/models.py" />
       <jump line="43" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/versions/current/purchases/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2019.2/system/remote_sources/714333993/149332735/django/db/models/fields/__init__.py" />
+      <jump line="258" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="487" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="731" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" />
+      <jump line="1355" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="1349" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
+      <jump line="440" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="423" column="49" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
+      <jump line="4" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +325,7 @@
         <text>path=</text>
       </register>
       <register name="/" type="4">
-        <text>Company</text>
+        <text encoding="base64">XDxTdWJjb250cmFjdG9yRXJyb3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>NotificationToSend.query.filter_by(notification=notification.id).one()</text>
@@ -355,19 +361,19 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Company</last-search>
+      <last-search encoding="base64">XDxTdWJjb250cmFjdG9yRXJyb3JcPg==</last-search>
       <last-offset />
-      <last-pattern>Company</last-pattern>
+      <last-pattern encoding="base64">XDxTdWJjb250cmFjdG9yRXJyb3JcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
