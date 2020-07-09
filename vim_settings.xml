@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/views/stock_warehouse_views.xml" timestamp="1593087037767">
         <mark key="'" line="179" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593069720482">
+      <file name="/Dummy.txt" timestamp="1594323618449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
@@ -210,18 +210,18 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/szu.py" timestamp="1593069588171">
-        <mark key="[" line="107" column="28" />
-        <mark key="]" line="107" column="32" />
-        <mark key="^" line="107" column="32" />
-        <mark key="." line="107" column="31" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1593967047813">
         <mark key="'" line="43" column="31" />
         <mark key="i" line="50" column="42" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/serializers.py" timestamp="1593685414365">
         <mark key="'" line="487" column="4" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/config/settings/base.py" timestamp="1594323553893">
+        <mark key="[" line="76" column="5" />
+        <mark key="]" line="76" column="9" />
+        <mark key="^" line="76" column="9" />
+        <mark key="." line="76" column="8" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" timestamp="1593688787862">
         <mark key="'" line="129" column="12" />
@@ -237,11 +237,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/quiz/models.py" timestamp="1594323420642">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="20" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/quiz/models.py" timestamp="1594324072672">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1593686762103">
         <mark key="'" line="4" column="50" />
@@ -353,10 +353,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>accounts</text>
+        <text>model.</text>
       </register>
       <register name="-" type="4">
-        <text>accounts</text>
+        <text>model.</text>
       </register>
       <register name="/" type="4">
         <text>parent_disp</text>
