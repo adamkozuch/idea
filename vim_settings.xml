@@ -44,9 +44,9 @@
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>action Run</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -184,13 +184,31 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/config/urls.py" timestamp="1594323225048">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="16" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" timestamp="1593073783694">
         <mark key="'" line="34" column="45" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/quiz/views.py" timestamp="1594322997994">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1593968077622">
         <mark key="[" line="8" column="57" />
         <mark key="]" line="8" column="57" />
         <mark key="." line="8" column="57" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/config/api_router.py" timestamp="1594323099128">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/szu.py" timestamp="1593069588171">
         <mark key="[" line="107" column="28" />
@@ -213,6 +231,17 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api_clients/__init__.py" timestamp="1593083806445">
         <mark key="'" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/quiz/apps.py" timestamp="1594322566622">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/quiz/models.py" timestamp="1594323420642">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1593686762103">
         <mark key="'" line="4" column="50" />
@@ -324,19 +353,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIyBjb250cmV4YW1wbGUgZm9yIHRoaXMgZXF1YXRpb24=</text>
+        <text>accounts</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIyBjb250cmV4YW1wbGUgZm9yIHRoaXMgZXF1YXRpb24=</text>
+        <text>accounts</text>
       </register>
       <register name="/" type="4">
         <text>parent_disp</text>
       </register>
-      <register name="0" type="4">
-        <text>NotificationToSend.query.filter_by(notification=notification.id).one()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhdGgoImFjY291bnRzLyIsIGluY2x1ZGUoImFsbGF1dGgudXJscyIpKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoJ2FkYW0nKQo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
@@ -345,28 +374,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24KaW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">cHJpbnQoJ2FkYW0nKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24KaW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB0b2tlbiwgYmFzZV91cmwpOgogICAgICAgIHNlbGYudG9rZW4gPSB0b2tlbgogICAgICAgIHNlbGYuYmFzZV91cmwgPSBiYXNlX3VybAoKICAgICAgICBzZWxmLmhlYWRlcnMgPSB7CiAgICAgICAgICAgICJBdXRob3JpemF0aW9uIjogIlRva2VuIHt9Ii5mb3JtYXQodG9rZW4pLAogICAgICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICAgIH0KICAgICAgICBsb2dnZXIuaW5mbyhmIkRpc3BhdGNoUmVnaXN0ZXJBUEk6IHtiYXNlX3VybH0iKQoKICAgIGRlZiBfcmVxdWVzdCggICMgcHlsaW50OiBkaXNhYmxlPXRvby1tYW55LWFyZ3VtZW50cwogICAgICAgIHNlbGYsIHBhdGgsIHBhcmFtcz1Ob25lLCBoZWFkZXJzPU5vbmUsIGRhdGE9Tm9uZSwgbWV0aG9kPSJHRVQiCiAgICApOgoKICAgICAgICB1cmwgPSBzZWxmLmJhc2VfdXJsICsgIi8iICsgcGF0aAogICAgICAgIHJlcXVlc3RfaGVhZGVycyA9IGRpY3Qoc2VsZi5oZWFkZXJzKQoKICAgICAgICBpZiBkYXRhOgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGRhdGEsIGRpY3QpOgogICAgICAgICAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgICAgICAgICBrOiB2IGZvciBrLCB2IGluIGRhdGEuaXRlbXMoKSBpZiB2IGlzIG5vdCBFbGxpcHNpcwogICAgICAgICAgICAgICAgfSAgIyBwcmV2ZW50IGR1bXBpbmcgTm9uZSB0byBudWxsIGluIEpTT04KICAgICAgICAgICAgZGF0YSA9IGpzb24uZHVtcHMoZGF0YSkKCiAgICAgICAgaWYgaGVhZGVyczoKICAgICAgICAgICAgcmVxdWVzdF9oZWFkZXJzLnVwZGF0ZShoZWFkZXJzKQoKICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLnJlcXVlc3QoCiAgICAgICAgICAgIG1ldGhvZD1tZXRob2QubG93ZXIoKSwKICAgICAgICAgICAgdXJsPXVybCwKICAgICAgICAgICAgaGVhZGVycz1yZXF1ZXN0X2hlYWRlcnMsCiAgICAgICAgICAgIHBhcmFtcz1wYXJhbXMsCiAgICAgICAgICAgIHZlcmlmeT1GYWxzZSwKICAgICAgICAgICAgZGF0YT1kYXRhLAogICAgICAgICkKICAgICAgICByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkKCiAgICAgICAgaWYgcmVzcG9uc2UuaGVhZGVyc1siY29udGVudC10eXBlIl0gIT0gImFwcGxpY2F0aW9uL2pzb24iOgogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UKCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpCiAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCJGYWlsZWQgdG8gcGFyc2UgSlNPTiByZXNwb25zZSB7cGF0aH0iKQogICAgICAgICAgICByZXR1cm4ge30=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gc2VsZi5fcmVxdWVzdCgKICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
