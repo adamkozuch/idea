@@ -218,12 +218,12 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" timestamp="1594557091875">
-        <mark key="'" line="7" column="14" />
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="55" />
-        <mark key="^" line="35" column="55" />
-        <mark key="." line="35" column="54" />
+      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" timestamp="1594558541636">
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1593968077622">
         <mark key="[" line="8" column="57" />
@@ -248,12 +248,11 @@
         <mark key="." line="18" column="60" />
       </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/README" timestamp="1594557321653" />
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" timestamp="1594557639406">
-        <mark key="'" line="15" column="63" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="20" />
+      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" timestamp="1594558478146">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="9" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/quiz/models.py" timestamp="1594324232135">
         <mark key="[" line="8" column="40" />
@@ -368,10 +367,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>secret</text>
+        <text>ForeignKey</text>
       </register>
       <register name="-" type="4">
-        <text>secret</text>
+        <text>ForeignKey</text>
       </register>
       <register name="/" type="4">
         <text>parent_disp</text>
@@ -380,34 +379,34 @@
         <text encoding="base64">ICAgICAgICBib29rID0gQm9vay5vYmplY3RzLmNyZWF0ZSh0aXRsZT0nUHJhZ21hdGljIHByb2dyYW1tZXInLCBwcmljZT0yMC4yMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5vYmplY3RzLmNyZWF0ZV91c2VyKCdqb2huJywgJ2xlbm5vbkB0aGViZWF0bGVzLmNvbScsICdqb2hucGFzc3dvcmQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQuc3RhdHVzX2NvZGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
+        <text encoding="base64">ICAgIEBhY3Rpb24obWV0aG9kcz1bJ3Bvc3QnXSwgZGV0YWlsPVRydWUsCiAgICAgICAgICAgIHVybF9wYXRoPSdidXknLCB1cmxfbmFtZT0nY2hhbmdlX3Bhc3N3b3JkJykKICAgIGRlZiBidXkoc2VsZiwgcmVxdWVzdCwgcGs9Tm9uZSk6CiAgICAgICAgcmV0dXJuIEh0dHBSZXNwb25zZShzdGF0dXM9MjAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNhdC5zcGVhaygpLCAnVGhlIGNhdCBzYXlzICJtZW93IicpCg==</text>
+        <text encoding="base64">ICAgICMgcGVybWlzc2lvbl9jbGFzc2VzID0gW0lzQWRtaW5Vc2VyXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxpb24uc3BlYWsoKSwgJ1RoZSBsaW9uIHNheXMgInJvYXIiJykK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5vYmplY3RzLmNyZWF0ZV91c2VyKCdqb2huJywgJ2xlbm5vbkB0aGViZWF0bGVzLmNvbScsICdqb2hucGFzc3dvcmQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaW9uID0gQW5pbWFsLm9iamVjdHMuZ2V0KG5hbWU9Imxpb24iKQogICAgICAgIGNhdCA9IEFuaW1hbC5vYmplY3RzLmdldChuYW1lPSJjYXQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQuc3RhdHVzX2NvZGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBBbmltYWwub2JqZWN0cy5jcmVhdGUobmFtZT0ibGlvbiIsIHNvdW5kPSJyb2FyIikKICAgICAgICBBbmltYWwub2JqZWN0cy5jcmVhdGUobmFtZT0iY2F0Iiwgc291bmQ9Im1lb3ciKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBteWFwcC5tb2RlbHMgaW1wb3J0IEFuaW1hbAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNhdC5zcGVhaygpLCAnVGhlIGNhdCBzYXlzICJtZW93IicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxpb24uc3BlYWsoKSwgJ1RoZSBsaW9uIHNheXMgInJvYXIiJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
