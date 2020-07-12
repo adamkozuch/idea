@@ -43,8 +43,8 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>action Run</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
@@ -167,6 +167,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/utils.py" timestamp="1594568487468">
+        <mark key="[" line="5" column="111" />
+        <mark key="]" line="5" column="115" />
+        <mark key="." line="5" column="114" />
+        <mark key="^" line="5" column="115" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1594368950976">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="14" />
@@ -183,10 +189,6 @@
         <mark key="]" line="12" column="35" />
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="34" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab/versions/current/purchases/models.py" timestamp="1593967047813">
-        <mark key="'" line="43" column="31" />
-        <mark key="i" line="50" column="42" />
       </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/urls.py" timestamp="1594546663166">
         <mark key="[" line="5" column="47" />
@@ -218,12 +220,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" timestamp="1594560047686">
+      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" timestamp="1594569860285">
         <mark key="'" line="8" column="14" />
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="53" />
-        <mark key="^" line="13" column="53" />
-        <mark key="." line="13" column="52" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="66" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/async_notebook/solution.py" timestamp="1593968077622">
         <mark key="[" line="8" column="57" />
@@ -241,18 +242,20 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/tests.py" timestamp="1594558419841">
-        <mark key="[" line="18" column="60" />
-        <mark key="]" line="18" column="61" />
-        <mark key="^" line="18" column="61" />
-        <mark key="." line="18" column="60" />
+      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/tests.py" timestamp="1594570320552">
+        <mark key="'" line="55" column="21" />
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="46" />
+        <mark key="^" line="34" column="47" />
+        <mark key="." line="34" column="46" />
       </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/README" timestamp="1594557321653" />
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" timestamp="1594558478146">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="16" column="10" />
-        <mark key="^" line="16" column="10" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" timestamp="1594570141429">
+        <mark key="'" line="20" column="34" />
+        <mark key="[" line="27" column="66" />
+        <mark key="]" line="27" column="87" />
+        <mark key="^" line="27" column="87" />
+        <mark key="." line="27" column="86" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/learning/quizzer/quiz/models.py" timestamp="1594324232135">
         <mark key="[" line="8" column="40" />
@@ -262,11 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/notifications/__init__.py" />
-      <jump line="15" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="18" column="53" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="20" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/payments/base/__init__.py" />
-      <jump line="21" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="17" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="62" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/app/models.py" />
       <jump line="16" column="37" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
@@ -362,51 +360,56 @@
       <jump line="409" column="53" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
       <jump line="7" column="14" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" />
       <jump line="11" column="63" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" />
+      <jump line="23" column="37" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" />
+      <jump line="20" column="44" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" />
+      <jump line="21" column="34" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" />
+      <jump line="54" column="21" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/tests.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Books</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Books</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>parent_disp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib29rID0gQm9vay5vYmplY3RzLmNyZWF0ZSh0aXRsZT0nUHJhZ21hdGljIHByb2dyYW1tZXInLCBwcmljZT0yMC4yMikK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBjbGllbnQucG9zdCh1cmwsIGpzb24uZHVtcHMoeydib29rcyc6IFtzZWxmLmJvb2tfMS5pZCwgc2VsZi5ib29rXzIuaWQsIHNlbGYuYm9va18zLmlkXX0pLCBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL2pzb24nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBjbGllbnQucG9zdCh1cmwsIGpzb24uZHVtcHMoeydib29rcyc6IFtib29rXzEuaWQsIGJvb2tfMi5pZCwgYm9va18zLmlkXX0pLCBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL2pzb24nKQo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29rXzEgPSBCb29rLm9iamVjdHMuY3JlYXRlKHRpdGxlPSdQcmFnbWF0aWMgcHJvZ3JhbW1lcicsIHByaWNlPTIwLjAwKQogICAgICAgIGJvb2tfMiA9IEJvb2sub2JqZWN0cy5jcmVhdGUodGl0bGU9J1VuY2xlIGJvYicsIHByaWNlPTI1LjAwKQogICAgICAgIGJvb2tfMyA9IEJvb2sub2JqZWN0cy5jcmVhdGUodGl0bGU9J0FyY2hpdGVjdHVyZScsIHByaWNlPTMwLjIyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24obWV0aG9kcz1bJ3Bvc3QnXSwgZGV0YWlsPVRydWUsCiAgICAgICAgICAgIHVybF9wYXRoPSdidXknLCB1cmxfbmFtZT0nY2hhbmdlX3Bhc3N3b3JkJykKICAgIGRlZiBidXkoc2VsZiwgcmVxdWVzdCwgcGs9Tm9uZSk6CiAgICAgICAgcmV0dXJuIEh0dHBSZXNwb25zZShzdGF0dXM9MjAwKQo=</text>
+        <text encoding="base64">ICAgIGFjY291bnQgPSBtb2RlbHMuRm9yZWlnbktleShBY2NvdW50LCBvbl9kZWxldGU9bW9kZWxzLlBST1RFQ1QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcGVybWlzc2lvbl9jbGFzc2VzID0gW0lzQWRtaW5Vc2VyXQo=</text>
+        <text encoding="base64">ICAgIGFjY291bnQgPSBtb2RlbHMuRm9yZWlnbktleShBY2NvdW50LCBvbl9kZWxldGU9bW9kZWxzLlBST1RFQ1QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5vYmplY3RzLmNyZWF0ZV91c2VyKCdqb2huJywgJ2xlbm5vbkB0aGViZWF0bGVzLmNvbScsICdqb2hucGFzc3dvcmQnKQo=</text>
+        <text encoding="base64">ICAgIG9wZXJhdGlvbiA9IG1vZGVscy5PbmVUb09uZUZpZWxkKE9wZXJhdGlvbiwgb25fZGVsZXRlPW1vZGVscy5QUk9URUNUKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQuc3RhdHVzX2NvZGUpCg==</text>
+        <text encoding="base64">ICAgIG9wZXJhdGlvbiA9IG1vZGVscy5Gb3JlaWduS2V5KE9wZXJhdGlvbiwgb25fZGVsZXRlPW1vZGVscy5QUk9URUNUKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFjY291bnQub3BlcmF0aW9uX3NldClrago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNhdC5zcGVhaygpLCAnVGhlIGNhdCBzYXlzICJtZW93IicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxpb24uc3BlYWsoKSwgJ1RoZSBsaW9uIHNheXMgInJvYXIiJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
