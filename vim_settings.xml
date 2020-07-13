@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dpc3RpY1BhcnRuZXJDb25maWdcPg==</entry>
         <entry>logging</entry>
         <entry>calc_fields</entry>
         <entry>Status</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkaXNwYXRjaF9vcmRlcl9pZFw+</entry>
         <entry>parent</entry>
         <entry>parent_disp</entry>
+        <entry>elastic</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -190,10 +190,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/dispatchOrder.js" timestamp="1594623824799">
         <mark key="'" line="35" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" timestamp="1594368950976">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/trapan/settings.py" timestamp="1594643693115">
+        <mark key="'" line="65" column="29" />
       </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/urls.py" timestamp="1594546663166">
         <mark key="[" line="5" column="47" />
@@ -202,18 +200,14 @@
         <mark key="." line="5" column="54" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/crud_service.py" timestamp="1594633032788" />
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/Pipfile" timestamp="1594376902156" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" timestamp="1594643585900">
+        <mark key="'" line="7" column="37" />
+      </file>
       <file name="/Dummy.txt" timestamp="1594580110558">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py" timestamp="1594368580199">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" timestamp="1594579946086">
         <mark key="'" line="9" column="14" />
@@ -227,6 +221,7 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/permission.py" timestamp="1594633060253" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/config/common.sh" timestamp="1594644131135" />
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/tests.py" timestamp="1594580048903">
         <mark key="'" line="35" column="21" />
         <mark key="[" line="12" column="30" />
@@ -244,9 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="51" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="1772" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/.crypto_venv/lib/python3.6/site-packages/sqlalchemy/orm/query.py" />
-      <jump line="27" column="46" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="3598" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/1612747711/builtins.py" />
       <jump line="5" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/developer/settings.yml" />
       <jump line="35" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
@@ -344,6 +336,9 @@
       <jump line="35" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/dispatchOrder.js" />
       <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" />
       <jump line="126" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
+      <jump line="26" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" />
+      <jump line="7" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" />
+      <jump line="65" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/trapan/settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -355,7 +350,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>parent_disp</text>
+        <text>elastic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X25vdF9lbm91Z2hfbW9uZXkoc2VsZik6CiAgICAgICAgQWNjb3VudC5vYmplY3RzLmNyZWF0ZShiYWxhbmNlPTUwLjAwLCB1c2VyPXNlbGYudXNlcikKICAgICAgICB1cmwgPSByZXZlcnNlKCdidXktYm9vaycpCiAgICAgICAgY2xpZW50ID0gQ2xpZW50KCkKICAgICAgICBjbGllbnQubG9naW4odXNlcm5hbWU9J2pvaG4nLCBwYXNzd29yZD0nam9obnBhc3N3b3JkJykKICAgICAgICByZXN1bHQgPSBjbGllbnQucG9zdCh1cmwsIGpzb24uZHVtcHMoeydib29rcyc6IFtzZWxmLmJvb2tfMS5pZCwgc2VsZi5ib29rXzIuaWQsIHNlbGYuYm9va18zLmlkXX0pLCBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL2pzb24nKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdC5zdGF0dXNfY29kZSwgNDAwKQo=</text>
@@ -397,13 +392,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>parent_disp</last-search>
+      <last-search>elastic</last-search>
       <last-offset />
-      <last-pattern>parent_disp</last-pattern>
+      <last-pattern>elastic</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
