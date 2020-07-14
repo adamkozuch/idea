@@ -168,13 +168,18 @@
         <mark key="." line="126" column="28" />
         <mark key="^" line="126" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594580110558">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/serializers.py" timestamp="1594544888337">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" timestamp="1594623395611" />
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/utils.py" timestamp="1594579490581">
         <mark key="'" line="0" column="26" />
         <mark key="[" line="6" column="76" />
@@ -193,21 +198,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/trapan/settings.py" timestamp="1594643693115">
         <mark key="'" line="65" column="29" />
       </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/urls.py" timestamp="1594546663166">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="55" />
-        <mark key="^" line="5" column="55" />
-        <mark key="." line="5" column="54" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/crud_service.py" timestamp="1594633032788" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" timestamp="1594643585900">
-        <mark key="'" line="7" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594580110558">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/user/views/translator.py" timestamp="1594720766015">
+        <mark key="'" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" timestamp="1594579946086">
         <mark key="'" line="9" column="14" />
@@ -215,13 +207,17 @@
         <mark key="]" line="35" column="62" />
         <mark key="." line="35" column="62" />
       </file>
+      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/urls.py" timestamp="1594546663166">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="54" />
+      </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/recruitment/settings.py" timestamp="1594547059944">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/permission.py" timestamp="1594633060253" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/config/common.sh" timestamp="1594644131135" />
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/tests.py" timestamp="1594580048903">
         <mark key="'" line="35" column="21" />
         <mark key="[" line="12" column="30" />
@@ -229,7 +225,6 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/README" timestamp="1594579381455" />
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" timestamp="1594579835041">
         <mark key="'" line="11" column="20" />
         <mark key="[" line="23" column="65" />
@@ -237,9 +232,11 @@
         <mark key="." line="23" column="96" />
         <mark key="^" line="23" column="97" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" timestamp="1594643585900">
+        <mark key="'" line="7" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="3598" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/1612747711/builtins.py" />
       <jump line="5" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/developer/settings.yml" />
       <jump line="35" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <jump line="19" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
@@ -339,6 +336,7 @@
       <jump line="26" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" />
       <jump line="7" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" />
       <jump line="65" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/trapan/settings.py" />
+      <jump line="6" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/user/views/translator.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -398,7 +396,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
