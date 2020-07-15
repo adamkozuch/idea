@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>calc_fields</entry>
-        <entry>Status</entry>
         <entry encoding="base64">XDxOb3RpZmljYXRpb25Ub1NlbmRcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50X2FwcFw+</entry>
         <entry encoding="base64">XDxkYlw+</entry>
@@ -25,6 +23,8 @@
         <entry>parent_disp</entry>
         <entry>elastic</entry>
         <entry>Glossary</entry>
+        <entry encoding="base64">XDxnZXRfZ2xvc3NhcnlfaXRlbXNcPg==</entry>
+        <entry encoding="base64">XDxnZXRfZ2xvc3NhcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -42,11 +42,11 @@
         <entry>action Run</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,6 +161,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/hint_type.py" timestamp="1594807348351">
+        <mark key="'" line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" timestamp="1594642469501">
         <mark key="'" line="126" column="26" />
         <mark key="[" line="125" column="45" />
@@ -168,91 +171,48 @@
         <mark key="." line="126" column="28" />
         <mark key="^" line="126" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594580110558">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" timestamp="1594806811607">
+        <mark key="'" line="26" column="51" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/db/glossary.py" timestamp="1594794913365" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" timestamp="1594797615943">
-        <mark key="'" line="26" column="40" />
-      </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/utils.py" timestamp="1594579490581">
-        <mark key="'" line="0" column="26" />
-        <mark key="[" line="6" column="76" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="17" />
-      </file>
-      <file name="/a.dummy" timestamp="1594579545550">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/dispatchOrder.js" timestamp="1594623824799">
-        <mark key="'" line="35" column="27" />
-      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/migrations/0044_glossary_hash.py" timestamp="1594807143067" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/trapan/settings.py" timestamp="1594643693115">
         <mark key="'" line="65" column="29" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/user/views/translator.py" timestamp="1594720766015">
         <mark key="'" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" timestamp="1594801882415">
-        <mark key="'" line="36" column="25" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/tests/tests/translation.py" timestamp="1594807446866">
+        <mark key="'" line="240" column="39" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/validators/translation.py" timestamp="1594809356095">
+        <mark key="k" line="127" column="35" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/validators/validation_rules.py" timestamp="1594809018864" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/glossary.py" timestamp="1594808861463">
+        <mark key="'" line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/translation.py" timestamp="1594808389022" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" timestamp="1594643585900">
+        <mark key="'" line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/translation_guess_tags.py" timestamp="1594806780782" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/db/glossary.py" timestamp="1594809422665" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" timestamp="1594808973387">
+        <mark key="'" line="19" column="9" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="23" column="26" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" timestamp="1594579946086">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="35" column="62" />
-        <mark key="]" line="35" column="62" />
-        <mark key="." line="35" column="62" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" timestamp="1594809466155">
+        <mark key="'" line="53" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/tests.py" timestamp="1594580048903">
-        <mark key="'" line="35" column="21" />
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/hint_type.py" timestamp="1594807386320">
+        <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" timestamp="1594796598026">
-        <mark key="'" line="306" column="42" />
-      </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" timestamp="1594579835041">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="23" column="65" />
-        <mark key="]" line="23" column="97" />
-        <mark key="." line="23" column="96" />
-        <mark key="^" line="23" column="97" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" timestamp="1594643585900">
-        <mark key="'" line="7" column="37" />
-      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/tests/tests/glossary.py" timestamp="1594807192442" />
     </filemarks>
     <jumps>
-      <jump line="19" column="39" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/sessions/middleware.py" />
-      <jump line="15" column="36" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/sessions/middleware.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/201545291/importlib/__init__.py" />
-      <jump line="14" column="49" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/sessions/middleware.py" />
-      <jump line="5" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/dispatch_register.py" />
-      <jump line="88" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/552804719/125375885/base_rest_api_client/base.py" />
-      <jump line="6" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/utils/locking_utils.py" />
-      <jump line="39" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_picking_adjustment/models/models.py" />
-      <jump line="44" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/mdm.py" />
-      <jump line="49" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/config/settings.py" />
-      <jump line="98" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/szu.py" />
-      <jump line="99" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/__init__.py" />
-      <jump line="25" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/__init__.py" />
-      <jump line="93" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/__init__.py" />
-      <jump line="10" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/api_clients/dispatch_register.py" />
-      <jump line="40" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_szu/models/models.py" />
       <jump line="9" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_szu/models/models.py" />
       <jump line="338" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="34" column="45" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/distribution_rules/reservation.py" />
@@ -319,7 +279,6 @@
       <jump line="306" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
       <jump line="43" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
       <jump line="16" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" />
-      <jump line="26" column="40" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" />
       <jump line="88" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="153" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="174" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
@@ -334,6 +293,26 @@
       <jump line="4301" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1154056549/builtins.py" />
       <jump line="36" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="116" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.5/envs/virtualenv-compatriot/lib/python3.6/site-packages/openpyxl/workbook/workbook.py" />
+      <jump line="6" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/hint_type.py" />
+      <jump line="26" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" />
+      <jump line="168" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/translation.py" />
+      <jump line="250" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="87" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="124" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="139" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/hint_type.py" />
+      <jump line="7" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/hint_type.py" />
+      <jump line="22" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/hint_type.py" />
+      <jump line="240" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/tests/tests/translation.py" />
+      <jump line="125" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="197" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="53" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="10" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/glossary.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,7 +324,7 @@
         <text>premissions</text>
       </register>
       <register name="/" type="4">
-        <text>Glossary</text>
+        <text encoding="base64">XDxnZXRfZ2xvc3NhcnlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X25vdF9lbm91Z2hfbW9uZXkoc2VsZik6CiAgICAgICAgQWNjb3VudC5vYmplY3RzLmNyZWF0ZShiYWxhbmNlPTUwLjAwLCB1c2VyPXNlbGYudXNlcikKICAgICAgICB1cmwgPSByZXZlcnNlKCdidXktYm9vaycpCiAgICAgICAgY2xpZW50ID0gQ2xpZW50KCkKICAgICAgICBjbGllbnQubG9naW4odXNlcm5hbWU9J2pvaG4nLCBwYXNzd29yZD0nam9obnBhc3N3b3JkJykKICAgICAgICByZXN1bHQgPSBjbGllbnQucG9zdCh1cmwsIGpzb24uZHVtcHMoeydib29rcyc6IFtzZWxmLmJvb2tfMS5pZCwgc2VsZi5ib29rXzIuaWQsIHNlbGYuYm9va18zLmlkXX0pLCBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL2pzb24nKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdC5zdGF0dXNfY29kZSwgNDAwKQo=</text>
@@ -381,18 +360,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Glossary</last-search>
+      <last-search encoding="base64">XDxnZXRfZ2xvc3NhcnlcPg==</last-search>
       <last-offset />
-      <last-pattern>Glossary</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfZ2xvc3NhcnlcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
