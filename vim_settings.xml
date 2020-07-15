@@ -199,8 +199,8 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/user/views/translator.py" timestamp="1594720766015">
         <mark key="'" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" timestamp="1594799999319">
-        <mark key="'" line="47" column="22" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" timestamp="1594801882415">
+        <mark key="'" line="36" column="25" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="23" column="26" />
@@ -234,15 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
-      <jump line="503" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
-      <jump line="465" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
-      <jump line="455" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
-      <jump line="447" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
-      <jump line="3" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
-      <jump line="106" column="35" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/middleware/csrf.py" />
-      <jump line="4" column="64" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/core/admin.py" />
-      <jump line="57" column="44" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/sessions/middleware.py" />
       <jump line="19" column="39" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/sessions/middleware.py" />
       <jump line="15" column="36" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/-1382175924/django/contrib/sessions/middleware.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/201545291/importlib/__init__.py" />
@@ -334,6 +325,15 @@
       <jump line="174" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="28" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/db/glossary.py" />
       <jump line="47" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/util/hash.py" />
+      <jump line="171" column="47" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="31" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/db/glossary.py" />
+      <jump line="175" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="4748" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1154056549/builtins.py" />
+      <jump line="27" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="4301" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1154056549/builtins.py" />
+      <jump line="36" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.5/envs/virtualenv-compatriot/lib/python3.6/site-packages/openpyxl/workbook/workbook.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
