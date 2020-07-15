@@ -35,8 +35,6 @@
         <entry>.,.+5action RecentFiles</entry>
         <entry>s</entry>
         <entry>kw</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
-        <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">JzwsJz5x</entry>
@@ -46,6 +44,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>action ToggleBookmarkWithMnemonic</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -175,6 +175,9 @@
         <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/db/glossary.py" timestamp="1594794913365" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" timestamp="1594797615943">
+        <mark key="'" line="26" column="40" />
+      </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/utils.py" timestamp="1594579490581">
         <mark key="'" line="0" column="26" />
         <mark key="[" line="6" column="76" />
@@ -196,23 +199,18 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/user/views/translator.py" timestamp="1594720766015">
         <mark key="'" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" timestamp="1594795678790">
-        <mark key="'" line="21" column="29" />
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="26" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" timestamp="1594797730489">
+        <mark key="'" line="174" column="41" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="25" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/models.py" timestamp="1594579946086">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="35" column="62" />
         <mark key="]" line="35" column="62" />
         <mark key="." line="35" column="62" />
-      </file>
-      <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/recruitment/settings.py" timestamp="1594547059944">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/tests.py" timestamp="1594580048903">
         <mark key="'" line="35" column="21" />
@@ -221,7 +219,9 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" timestamp="1594796268615" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" timestamp="1594796598026">
+        <mark key="'" line="306" column="42" />
+      </file>
       <file name="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" timestamp="1594579835041">
         <mark key="'" line="11" column="20" />
         <mark key="[" line="23" column="65" />
@@ -234,16 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="19" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="20" column="47" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/ppi/ansible_docker/group_vars/developer/settings.yml" />
-      <jump line="29" column="44" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="34" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
-      <jump line="477" column="4" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/1612747711/builtins.py" />
-      <jump line="364" column="18" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
       <jump line="358" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
       <jump line="298" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
       <jump line="503" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DispatchOrderTable.vue" />
@@ -334,12 +324,22 @@
       <jump line="65" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/trapan/settings.py" />
       <jump line="6" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/user/views/translator.py" />
       <jump line="21" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="293" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="289" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="306" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
+      <jump line="16" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" />
+      <jump line="26" column="40" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" />
+      <jump line="88" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="153" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="174" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
+      <jump line="28" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/db/glossary.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>premissions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWCBHRVRUSU5HIEdMT1NTQVJZIikKICAgICAgICBwcmludChzcmNfbGFuZ3VhZ2UpCiAgICAgICAgcHJpbnQoZHN0X2xhbmd1YWdlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>premissions</text>
@@ -351,31 +351,31 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X25vdF9lbm91Z2hfbW9uZXkoc2VsZik6CiAgICAgICAgQWNjb3VudC5vYmplY3RzLmNyZWF0ZShiYWxhbmNlPTUwLjAwLCB1c2VyPXNlbGYudXNlcikKICAgICAgICB1cmwgPSByZXZlcnNlKCdidXktYm9vaycpCiAgICAgICAgY2xpZW50ID0gQ2xpZW50KCkKICAgICAgICBjbGllbnQubG9naW4odXNlcm5hbWU9J2pvaG4nLCBwYXNzd29yZD0nam9obnBhc3N3b3JkJykKICAgICAgICByZXN1bHQgPSBjbGllbnQucG9zdCh1cmwsIGpzb24uZHVtcHMoeydib29rcyc6IFtzZWxmLmJvb2tfMS5pZCwgc2VsZi5ib29rXzIuaWQsIHNlbGYuYm9va18zLmlkXX0pLCBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL2pzb24nKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3VsdC5zdGF0dXNfY29kZSwgNDAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiR0VUIEdMT1NTQVJZICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWCBHRVRUSU5HIEdMT1NTQVJZIikKICAgICAgICBwcmludChzcmNfbGFuZ3VhZ2UpCiAgICAgICAgcHJpbnQoZHN0X2xhbmd1YWdlKQo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY291bnQuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZSAtIG9yZGVyX3ByaWNlCiAgICAgICAgICAgICAgICBvcGVyYXRpb24gPSBPcGVyYXRpb24ub2JqZWN0cy5jcmVhdGUodHlwZT1PcGVyYXRpb24uUFVSQ0hBU0UpCiAgICAgICAgICAgICAgICBwdXJjaGFzZSA9IFB1cmNoYXNlLm9iamVjdHMuY3JlYXRlKGFjY291bnQ9YWNjb3VudCwgb3BlcmF0aW9uPW9wZXJhdGlvbikKICAgICAgICAgICAgICAgIGZvciBib29rIGluIEJvb2sub2JqZWN0cy5maWx0ZXIoaWRfX2luPWJvb2tzX2lkcyk6CiAgICAgICAgICAgICAgICAgICAgcHVyY2hhc2UuYm9va3MuYWRkKGJvb2spCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiR0VUIEdMT1NTQVJZICIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQubG9naW4odXNlcm5hbWU9J2pvaG4nLCBwYXNzd29yZD0nam9obnBhc3N3b3JkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY291bnQuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZSAtIG9yZGVyX3ByaWNlCiAgICAgICAgICAgICAgICBvcGVyYXRpb24gPSBPcGVyYXRpb24ub2JqZWN0cy5jcmVhdGUodHlwZT1PcGVyYXRpb24uUFVSQ0hBU0UpCiAgICAgICAgICAgICAgICBwdXJjaGFzZSA9IFB1cmNoYXNlLm9iamVjdHMuY3JlYXRlKGFjY291bnQ9YWNjb3VudCwgb3BlcmF0aW9uPW9wZXJhdGlvbikKICAgICAgICAgICAgICAgIGZvciBib29rIGluIEJvb2sub2JqZWN0cy5maWx0ZXIoaWRfX2luPWJvb2tzX2lkcyk6CiAgICAgICAgICAgICAgICAgICAgcHVyY2hhc2UuYm9va3MuYWRkKGJvb2spCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQubG9naW4odXNlcm5hbWU9J2pvaG4nLCBwYXNzd29yZD0nam9obnBhc3N3b3JkJykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0YXNrcy51dGlscyBpbXBvcnQgY2FsY3VsYXRlX3B1cmNoYXNlX3ByaWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZnJvbSB0YXNrcy51dGlscyBpbXBvcnQgY2FsY3VsYXRlX3B1cmNoYXNlX3ByaWNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0YXNrcy51dGlscyBpbXBvcnQgY2FsY3VsYXRlX3B1cmNoYXNlX3ByaWNlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
