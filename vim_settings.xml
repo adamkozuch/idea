@@ -162,6 +162,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/templates/order/evaluation.html" timestamp="1594819753478" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" timestamp="1594897510445">
+        <mark key="'" line="258" column="36" />
+        <mark key="[" line="125" column="45" />
+        <mark key="]" line="126" column="29" />
+        <mark key="." line="126" column="28" />
+        <mark key="^" line="126" column="29" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/util/thread_pool.py" timestamp="1594820058330">
         <mark key="'" line="24" column="45" />
       </file>
@@ -175,7 +182,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/glossary.py" timestamp="1594808861463">
         <mark key="'" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/translation.py" timestamp="1594808389022" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/db/sentence.py" timestamp="1594821262307">
         <mark key="'" line="65" column="42" />
       </file>
@@ -218,8 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="26" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/utils.py" />
-      <jump line="11" column="20" filename="$USER_HOME$/Downloads/recruitment-task-master/recruitment-task-master/tasks/views.py" />
       <jump line="57" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/dispatchOrder.js" />
       <jump line="0" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/dispatchOrder.js" />
       <jump line="35" column="27" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/dispatchOrder.js" />
@@ -318,6 +322,8 @@
       <jump line="228" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
       <jump line="248" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
       <jump line="230" column="57" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
+      <jump line="258" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
+      <jump line="325" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
