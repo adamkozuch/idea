@@ -161,6 +161,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DeliveryAttachmentTable.vue" timestamp="1594908311294">
+        <mark key="'" line="33" column="10" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/base.py" timestamp="1594901152061">
+        <mark key="'" line="48" column="28" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" timestamp="1594816665563">
+        <mark key="'" line="125" column="17" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/tests/builders/text_clean.py" timestamp="1594820185807">
+        <mark key="'" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" timestamp="1594896459791">
+        <mark key="'" line="230" column="57" />
+        <mark key="[" line="230" column="34" />
+        <mark key="]" line="230" column="34" />
+        <mark key="." line="230" column="135" />
+        <mark key="^" line="233" column="16" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/templates/order/evaluation.html" timestamp="1594819753478" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" timestamp="1594897510445">
         <mark key="'" line="258" column="36" />
@@ -169,14 +188,11 @@
         <mark key="." line="126" column="28" />
         <mark key="^" line="126" column="29" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" timestamp="1594908271270">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" timestamp="1594908435588">
         <mark key="'" line="63" column="14" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/util/thread_pool.py" timestamp="1594820058330">
         <mark key="'" line="24" column="45" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/validators/translation.py" timestamp="1594812682581">
-        <mark key="k" line="127" column="35" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/db/sentence.py" timestamp="1594821262307">
         <mark key="'" line="65" column="42" />
@@ -201,33 +217,15 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1594901143438">
         <mark key="'" line="401" column="92" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/base.py" timestamp="1594901152061">
-        <mark key="'" line="48" column="28" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" timestamp="1594816665563">
-        <mark key="'" line="125" column="17" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/matcher.py" timestamp="1594821232930">
         <mark key="'" line="252" column="31" />
         <mark key="[" line="2" column="63" />
         <mark key="]" line="2" column="66" />
         <mark key="." line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/tests/builders/text_clean.py" timestamp="1594820185807">
-        <mark key="'" line="14" column="30" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/util/monitor.py" timestamp="1594820093213" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" timestamp="1594896459791">
-        <mark key="'" line="230" column="57" />
-        <mark key="[" line="230" column="34" />
-        <mark key="]" line="230" column="34" />
-        <mark key="." line="230" column="135" />
-        <mark key="^" line="233" column="16" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="47" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
-      <jump line="31" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/db/glossary.py" />
       <jump line="175" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="4748" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1154056549/builtins.py" />
       <jump line="27" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
@@ -326,6 +324,8 @@
       <jump line="48" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
       <jump line="11" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
       <jump line="63" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
+      <jump line="66" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DeliveryAttachmentTable.vue" />
+      <jump line="33" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DeliveryAttachmentTable.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
