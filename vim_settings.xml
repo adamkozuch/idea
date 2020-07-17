@@ -45,8 +45,8 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,23 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" timestamp="1594961506713">
-        <mark key="'" line="10" column="7" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DeliveryAttachmentTable.vue" timestamp="1594908311294">
-        <mark key="'" line="33" column="10" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/base.py" timestamp="1594901152061">
-        <mark key="'" line="48" column="28" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/config/settings/base.py" timestamp="1594913874528" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" timestamp="1594896459791">
-        <mark key="'" line="230" column="57" />
-        <mark key="[" line="230" column="34" />
-        <mark key="]" line="230" column="34" />
-        <mark key="." line="230" column="135" />
-        <mark key="^" line="233" column="16" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" timestamp="1594897510445">
         <mark key="'" line="258" column="36" />
         <mark key="[" line="125" column="45" />
@@ -185,14 +168,7 @@
         <mark key="." line="126" column="28" />
         <mark key="^" line="126" column="29" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" timestamp="1594913700085">
-        <mark key="'" line="63" column="13" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/utils/auth.js" timestamp="1594961513225" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/db/sentence.py" timestamp="1594821262307">
-        <mark key="'" line="65" column="42" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594896467866">
+      <file name="/Dummy.txt" timestamp="1594979961031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
@@ -208,21 +184,39 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/mixins.py" timestamp="1594914840393">
         <mark key="'" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/decorators.py" timestamp="1594916008242" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/celeritas_es/parcel_checkers.py" timestamp="1594901180315" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" timestamp="1594913700085">
+        <mark key="'" line="63" column="13" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DeliveryAttachmentTable.vue" timestamp="1594908311294">
+        <mark key="'" line="33" column="10" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" timestamp="1594961225043">
         <mark key="'" line="40" column="11" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" timestamp="1594961506713">
+        <mark key="'" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1594901143438">
         <mark key="'" line="401" column="92" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/base.py" timestamp="1594901152061">
+        <mark key="'" line="48" column="28" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/utils/request.js" timestamp="1594961425213">
         <mark key="'" line="14" column="51" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" timestamp="1594979808651">
+        <mark key="'" line="230" column="162" />
+        <mark key="[" line="230" column="164" />
+        <mark key="]" line="230" column="163" />
+        <mark key="." line="230" column="162" />
+        <mark key="^" line="230" column="163" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/db/sentence.py" timestamp="1594821262307">
+        <mark key="'" line="65" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" />
-      <jump line="168" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/translation.py" />
       <jump line="87" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="124" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
@@ -288,7 +282,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/permission.py" />
       <jump line="228" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
       <jump line="248" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
-      <jump line="230" column="57" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
       <jump line="258" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
       <jump line="325" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
       <jump line="185" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
@@ -321,15 +314,18 @@
       <jump line="40" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" />
       <jump line="28" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" />
       <jump line="10" column="7" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/permission.py" />
+      <jump line="230" column="162" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>is_exporter</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>is_exporter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb2tlblw+</text>
@@ -368,7 +364,7 @@
         <text encoding="base64">ZnJvbSB0YXNrcy51dGlscyBpbXBvcnQgY2FsY3VsYXRlX3B1cmNoYXNlX3ByaWNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
@@ -380,7 +376,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
