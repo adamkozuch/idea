@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxub3RpZnlcPg==</entry>
         <entry encoding="base64">XDxfcmVxdWVzdF9hcGlcPg==</entry>
         <entry>kazoo</entry>
         <entry encoding="base64">XDxzenVfYXBpX2NsaWVudFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxfX2xvZ19hY3Rpb25cPg==</entry>
         <entry>tariff_to</entry>
         <entry encoding="base64">XDxmdWxsX3JlcG9ydF9ub3RfYWxsb3dlZFw+</entry>
+        <entry encoding="base64">XDxnZXRUb2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -161,6 +161,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" timestamp="1594961506713">
+        <mark key="'" line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DeliveryAttachmentTable.vue" timestamp="1594908311294">
         <mark key="'" line="33" column="10" />
       </file>
@@ -168,9 +171,6 @@
         <mark key="'" line="48" column="28" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/config/settings/base.py" timestamp="1594913874528" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/tests/builders/text_clean.py" timestamp="1594820185807">
-        <mark key="'" line="14" column="30" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" timestamp="1594896459791">
         <mark key="'" line="230" column="57" />
         <mark key="[" line="230" column="34" />
@@ -188,6 +188,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" timestamp="1594913700085">
         <mark key="'" line="63" column="13" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/utils/auth.js" timestamp="1594961513225" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/db/sentence.py" timestamp="1594821262307">
         <mark key="'" line="65" column="42" />
       </file>
@@ -209,26 +210,17 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/decorators.py" timestamp="1594916008242" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/celeritas_es/parcel_checkers.py" timestamp="1594901180315" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" timestamp="1594961225043">
+        <mark key="'" line="40" column="11" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" timestamp="1594901143438">
         <mark key="'" line="401" column="92" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/utils/request.js" timestamp="1594916450823">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/utils/request.js" timestamp="1594961425213">
         <mark key="'" line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/matcher.py" timestamp="1594821232930">
-        <mark key="'" line="252" column="31" />
-        <mark key="[" line="2" column="63" />
-        <mark key="]" line="2" column="66" />
-        <mark key="." line="2" column="66" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/util/monitor.py" timestamp="1594820093213" />
     </filemarks>
     <jumps>
-      <jump line="27" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
-      <jump line="4301" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1154056549/builtins.py" />
-      <jump line="36" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.5/envs/virtualenv-compatriot/lib/python3.6/site-packages/openpyxl/workbook/workbook.py" />
-      <jump line="6" column="22" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/hint_type.py" />
       <jump line="26" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/views/glossary.py" />
       <jump line="168" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/translation.py" />
@@ -324,6 +316,11 @@
       <jump line="63" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
       <jump line="12" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/mixins.py" />
       <jump line="14" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/utils/request.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" />
+      <jump line="9" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" />
+      <jump line="40" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" />
+      <jump line="28" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" />
+      <jump line="10" column="7" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +332,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdWxsX3JlcG9ydF9ub3RfYWxsb3dlZFw+</text>
+        <text encoding="base64">XDxnZXRUb2tlblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmdWxsX3JlcG9ydF9ub3RfYWxsb3dlZCA9IHNlbGYucGVybWlzc2lvbl9zZXJ2aWNlLmlzX3RyYW5zbGF0b3IodXNlcikgb3JcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnBlcm1pc3Npb25fc2VydmljZS5pc190cmFuc2xhdGlvbl9leHBvcnRlcih1c2VyKSBvclwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucGVybWlzc2lvbl9zZXJ2aWNlLmlzX2V4cG9ydGVyKHVzZXIpCg==</text>
@@ -377,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmdWxsX3JlcG9ydF9ub3RfYWxsb3dlZFw+</last-search>
+      <last-search encoding="base64">XDxnZXRUb2tlblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdWxsX3JlcG9ydF9ub3RfYWxsb3dlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRUb2tlblw+</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>-1</last-dir>
