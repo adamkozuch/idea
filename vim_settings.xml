@@ -174,12 +174,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" timestamp="1594903878449">
-        <mark key="'" line="197" column="15" />
-        <mark key="[" line="200" column="56" />
-        <mark key="]" line="200" column="88" />
-        <mark key="^" line="200" column="88" />
-        <mark key="." line="200" column="87" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" timestamp="1595236494961">
+        <mark key="'" line="198" column="69" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="198" column="105" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/mixins.py" timestamp="1594914840393">
         <mark key="'" line="12" column="25" />
@@ -217,8 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/translation.py" />
-      <jump line="87" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="124" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="139" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/glossary/services/glossary.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/hint_type.py" />
@@ -317,12 +315,14 @@
       <jump line="102" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
       <jump line="16" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/permission.py" />
       <jump line="230" column="162" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
+      <jump line="198" column="69" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
+      <jump line="821" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>is_exporter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXJ0bmVyX3N0YXR1cyI6IHBhcmNlbF9kYXRhWyJzdGF0dXMiXSwgIyB3eWRhamUgc2llIHplIHR1dGFqIGplc3QgYmxhZAo=</text>
       </register>
       <register name="-" type="4">
         <text>is_exporter</text>
@@ -330,38 +330,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb2tlblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsX3JlcG9ydF9ub3RfYWxsb3dlZCA9IHNlbGYucGVybWlzc2lvbl9zZXJ2aWNlLmlzX3RyYW5zbGF0b3IodXNlcikgb3JcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnBlcm1pc3Npb25fc2VydmljZS5pc190cmFuc2xhdGlvbl9leHBvcnRlcih1c2VyKSBvclwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucGVybWlzc2lvbl9zZXJ2aWNlLmlzX2V4cG9ydGVyKHVzZXIpCg==</text>
+      <register name="0" type="4">
+        <text>parcel_data[&quot;status&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXJ0bmVyX3N0YXR1cyI6IHBhcmNlbF9kYXRhWyJzdGF0dXMiXSwgIyB3eWRhamUgc2llIHplIHR1dGFqIGplc3QgYmxhZAo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsX3JlcG9ydF9hbGxvd2VkID0gc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfYWRtaW4odXNlcikgb3Igc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfY29vcmRpbmF0b3IodXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWCBHRVRUSU5HIEdMT1NTQVJZIikKICAgICAgICBwcmludChzcmNfbGFuZ3VhZ2UpCiAgICAgICAgcHJpbnQoZHN0X2xhbmd1YWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmdWxsX3JlcG9ydF9hbGxvd2VkID0gc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfYWRtaW4odXNlcikgb3Igc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfY29vcmRpbmF0b3IodXNlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiR0VUIEdMT1NTQVJZICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWCBHRVRUSU5HIEdMT1NTQVJZIikKICAgICAgICBwcmludChzcmNfbGFuZ3VhZ2UpCiAgICAgICAgcHJpbnQoZHN0X2xhbmd1YWdlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY291bnQuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZSAtIG9yZGVyX3ByaWNlCiAgICAgICAgICAgICAgICBvcGVyYXRpb24gPSBPcGVyYXRpb24ub2JqZWN0cy5jcmVhdGUodHlwZT1PcGVyYXRpb24uUFVSQ0hBU0UpCiAgICAgICAgICAgICAgICBwdXJjaGFzZSA9IFB1cmNoYXNlLm9iamVjdHMuY3JlYXRlKGFjY291bnQ9YWNjb3VudCwgb3BlcmF0aW9uPW9wZXJhdGlvbikKICAgICAgICAgICAgICAgIGZvciBib29rIGluIEJvb2sub2JqZWN0cy5maWx0ZXIoaWRfX2luPWJvb2tzX2lkcyk6CiAgICAgICAgICAgICAgICAgICAgcHVyY2hhc2UuYm9va3MuYWRkKGJvb2spCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiR0VUIEdMT1NTQVJZICIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQubG9naW4odXNlcm5hbWU9J2pvaG4nLCBwYXNzd29yZD0nam9obnBhc3N3b3JkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY291bnQuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZSAtIG9yZGVyX3ByaWNlCiAgICAgICAgICAgICAgICBvcGVyYXRpb24gPSBPcGVyYXRpb24ub2JqZWN0cy5jcmVhdGUodHlwZT1PcGVyYXRpb24uUFVSQ0hBU0UpCiAgICAgICAgICAgICAgICBwdXJjaGFzZSA9IFB1cmNoYXNlLm9iamVjdHMuY3JlYXRlKGFjY291bnQ9YWNjb3VudCwgb3BlcmF0aW9uPW9wZXJhdGlvbikKICAgICAgICAgICAgICAgIGZvciBib29rIGluIEJvb2sub2JqZWN0cy5maWx0ZXIoaWRfX2luPWJvb2tzX2lkcyk6CiAgICAgICAgICAgICAgICAgICAgcHVyY2hhc2UuYm9va3MuYWRkKGJvb2spCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQubG9naW4odXNlcm5hbWU9J2pvaG4nLCBwYXNzd29yZD0nam9obnBhc3N3b3JkJykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0YXNrcy51dGlscyBpbXBvcnQgY2FsY3VsYXRlX3B1cmNoYXNlX3ByaWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
