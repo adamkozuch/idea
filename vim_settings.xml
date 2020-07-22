@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdWJjb250cmFjdG9yRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxkaXNwYXRjaF9vcmRlcl9pZFw+</entry>
         <entry>parent</entry>
         <entry>parent_disp</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkYXRldGltZVw+</entry>
         <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
         <entry>timezone</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -174,6 +174,9 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" timestamp="1595415609959">
+        <mark key="'" line="70" column="35" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker/scripts/docker-entrypoint" timestamp="1595411733153" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1595409417793">
         <mark key="[" line="4" column="35" />
@@ -186,24 +189,10 @@
         <mark key="]" line="66" column="56" />
         <mark key="." line="66" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594979961031">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" timestamp="1595239258883">
-        <mark key="'" line="198" column="69" />
-        <mark key="[" line="198" column="84" />
-        <mark key="]" line="198" column="84" />
-        <mark key="^" line="198" column="105" />
-        <mark key="." line="198" column="84" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/.eslintrc.js" timestamp="1595411069677">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/.eslintrc.js" timestamp="1595413669616">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="5" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1595412793632">
         <mark key="'" line="2" column="5" />
@@ -225,21 +214,18 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" timestamp="1595415824410">
+        <mark key="'" line="230" column="162" />
+        <mark key="[" line="230" column="164" />
+        <mark key="]" line="230" column="163" />
+        <mark key="." line="230" column="162" />
+        <mark key="^" line="230" column="163" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Clients/Clients.vue" timestamp="1595410337663">
         <mark key="'" line="22" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
-      <jump line="250" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
-      <jump line="220" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
-      <jump line="66" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
-      <jump line="36" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/crud_service.py" />
-      <jump line="48" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/crud_service.py" />
-      <jump line="24" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/crud_service.py" />
-      <jump line="91" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_preparator.py" />
-      <jump line="101" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_preparator.py" />
-      <jump line="22" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/db/sentence.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/db/text_clean.py" />
       <jump line="123" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
       <jump line="105" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_preparator.py" />
@@ -330,51 +316,61 @@
       <jump line="366" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="233" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
       <jump line="2" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="14" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="158" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="159" column="50" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="69" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="161" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="224" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="13" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="21" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="66" column="131" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="70" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuY2hvaWNlcyBpbXBvcnQgUGFydG5lckNvbW11bmljYXRpb25DaGFubmVsQ2hvaWNlcwo=</text>
+        <text encoding="base64">ICAgICd2dWUvbm8tdW51c2VkLXZhcnMnOiAxLAogICAgJ3Z1ZS9uby10ZXh0YXJlYS1tdXN0YWNoZSc6IDEsCiAgICAndnVlL25vLXNpZGUtZWZmZWN0cy1pbi1jb21wdXRlZC1wcm9wZXJ0aWVzJzogMSwKICAgICd2dWUvbm8tdW51c2VkLWNvbXBvbmVudHMnOiAxLAogICAgJ3Z1ZS9uby1wYXJzaW5nLWVycm9yJzogMSwKICAgICd2dWUvcmVxdWlyZS12LWZvci1rZXknOiAxLAo=</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>timezone</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICd2dWUvcmVxdWlyZS12LWZvci1rZXknOiAxLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuY2hvaWNlcyBpbXBvcnQgUGFydG5lckNvbW11bmljYXRpb25DaGFubmVsQ2hvaWNlcwo=</text>
+        <text encoding="base64">ICAgICd2dWUvbm8tdW51c2VkLXZhcnMnOiAxLAogICAgJ3Z1ZS9uby10ZXh0YXJlYS1tdXN0YWNoZSc6IDEsCiAgICAndnVlL25vLXNpZGUtZWZmZWN0cy1pbi1jb21wdXRlZC1wcm9wZXJ0aWVzJzogMSwKICAgICd2dWUvbm8tdW51c2VkLWNvbXBvbmVudHMnOiAxLAogICAgJ3Z1ZS9uby1wYXJzaW5nLWVycm9yJzogMSwKICAgICd2dWUvcmVxdWlyZS12LWZvci1rZXknOiAxLAo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuY2hvaWNlcyBpbXBvcnQgUGFydG5lckNvbW11bmljYXRpb25DaGFubmVsQ2hvaWNlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBDb3VyaWVyLCAsIFBhcnRuZXIK</text>
+        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGVzbGludC1kaXNhYmxlLWxpbmUgdnVlL25vLXBhcnNpbmctZXJyb3IgLS0+Cg==</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBDb3VyaWVyLCAsIFBhcnRuZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXJ0bmVyX3N0YXR1cyI6IHBhcmNlbF9kYXRhWyJzdGF0dXMiXSwgIyB3eWRhamUgc2llIHplIHR1dGFqIGplc3QgYmxhZAo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGVzbGludC1kaXNhYmxlLWxpbmUgdnVlL25vLXBhcnNpbmctZXJyb3IgLS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXJ0bmVyX3N0YXR1cyI6IHBhcmNlbF9kYXRhWyJzdGF0dXMiXSwgIyB3eWRhamUgc2llIHplIHR1dGFqIGplc3QgYmxhZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsX3JlcG9ydF9hbGxvd2VkID0gc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfYWRtaW4odXNlcikgb3Igc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfY29vcmRpbmF0b3IodXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -383,9 +379,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>timezone</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>timezone</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
