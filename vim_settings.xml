@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVxdWVzdF9hcGlcPg==</entry>
-        <entry>kazoo</entry>
-        <entry encoding="base64">XDxzenVfYXBpX2NsaWVudFw+</entry>
         <entry encoding="base64">XDxjb21wYW55X2xpc3RcPg==</entry>
         <entry>Company</entry>
         <entry>tracking</entry>
@@ -25,6 +22,9 @@
         <entry>tariff_to</entry>
         <entry encoding="base64">XDxmdWxsX3JlcG9ydF9ub3RfYWxsb3dlZFw+</entry>
         <entry encoding="base64">XDxnZXRUb2tlblw+</entry>
+        <entry>filter</entry>
+        <entry>basedate</entry>
+        <entry>BaseDateRangeFilter</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -41,11 +41,11 @@
         <entry encoding="base64">IGFjdGlvbiBHb3RvU3ltYm9s</entry>
         <entry>action Run</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -161,6 +161,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/partial/BaseDateRangeFilter.vue" timestamp="1595410309706">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/Program.vue" timestamp="1595402373111">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Users/BiglistUsers.vue" timestamp="1595402952806">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker/scripts/docker-entrypoint" timestamp="1595411733153" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1595409417793">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Vouchers/BiglistVouchers.vue" timestamp="1595402563923">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="66" column="56" />
@@ -180,43 +199,35 @@
         <mark key="^" line="198" column="105" />
         <mark key="." line="198" column="84" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/mixins.py" timestamp="1594914840393">
-        <mark key="'" line="12" column="25" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/.eslintrc.js" timestamp="1595411069677">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" timestamp="1594913700085">
-        <mark key="'" line="63" column="13" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1595409547103">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/Program.vue" timestamp="1595402373111">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/BiglistPrograms.vue" timestamp="1595410241773">
+        <mark key="'" line="11" column="33" />
+        <mark key="[" line="123" column="13" />
+        <mark key="]" line="123" column="22" />
+        <mark key="^" line="123" column="22" />
+        <mark key="." line="123" column="21" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" timestamp="1594961225043">
-        <mark key="'" line="40" column="11" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1595409287984">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="94" column="67" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" timestamp="1594961506713">
-        <mark key="'" line="10" column="7" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/utils/request.js" timestamp="1594961425213">
-        <mark key="'" line="14" column="51" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Users/BiglistUsers.vue" timestamp="1595402952806">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" timestamp="1594979808651">
-        <mark key="'" line="230" column="162" />
-        <mark key="[" line="230" column="164" />
-        <mark key="]" line="230" column="163" />
-        <mark key="." line="230" column="162" />
-        <mark key="^" line="230" column="163" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Clients/Clients.vue" timestamp="1595410337663">
+        <mark key="'" line="22" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/views/hint_type.py" />
-      <jump line="22" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/hint_type.py" />
-      <jump line="240" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/tests/tests/translation.py" />
       <jump line="197" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
       <jump line="53" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/services/elastic.py" />
@@ -314,51 +325,54 @@
       <jump line="2" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/Program.vue" />
       <jump line="12" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Vouchers/BiglistVouchers.vue" />
       <jump line="2" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Users/BiglistUsers.vue" />
+      <jump line="11" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/BiglistPrograms.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/partial/BaseDateRangeFilter.vue" />
+      <jump line="22" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Clients/Clients.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGVzbGludC1kaXNhYmxlLWxpbmUgdnVlL25vLXBhcnNpbmctZXJyb3IgLS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUb2tlblw+</text>
+        <text>BaseDateRangeFilter</text>
       </register>
-      <register name="0" type="4">
-        <text>parcel_data[&quot;status&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICd2dWUvcmVxdWlyZS12LWZvci1rZXknOiAxLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGVzbGludC1kaXNhYmxlLWxpbmUgdnVlL25vLXBhcnNpbmctZXJyb3IgLS0+Cg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXJ0bmVyX3N0YXR1cyI6IHBhcmNlbF9kYXRhWyJzdGF0dXMiXSwgIyB3eWRhamUgc2llIHplIHR1dGFqIGplc3QgYmxhZAo=</text>
+        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsX3JlcG9ydF9hbGxvd2VkID0gc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfYWRtaW4odXNlcikgb3Igc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfY29vcmRpbmF0b3IodXNlcikK</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBDb3VyaWVyLCAsIFBhcnRuZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWCBHRVRUSU5HIEdMT1NTQVJZIikKICAgICAgICBwcmludChzcmNfbGFuZ3VhZ2UpCiAgICAgICAgcHJpbnQoZHN0X2xhbmd1YWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGVzbGludC1kaXNhYmxlLWxpbmUgdnVlL25vLXBhcnNpbmctZXJyb3IgLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiR0VUIEdMT1NTQVJZICIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXJ0bmVyX3N0YXR1cyI6IHBhcmNlbF9kYXRhWyJzdGF0dXMiXSwgIyB3eWRhamUgc2llIHplIHR1dGFqIGplc3QgYmxhZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY291bnQuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZSAtIG9yZGVyX3ByaWNlCiAgICAgICAgICAgICAgICBvcGVyYXRpb24gPSBPcGVyYXRpb24ub2JqZWN0cy5jcmVhdGUodHlwZT1PcGVyYXRpb24uUFVSQ0hBU0UpCiAgICAgICAgICAgICAgICBwdXJjaGFzZSA9IFB1cmNoYXNlLm9iamVjdHMuY3JlYXRlKGFjY291bnQ9YWNjb3VudCwgb3BlcmF0aW9uPW9wZXJhdGlvbikKICAgICAgICAgICAgICAgIGZvciBib29rIGluIEJvb2sub2JqZWN0cy5maWx0ZXIoaWRfX2luPWJvb2tzX2lkcyk6CiAgICAgICAgICAgICAgICAgICAgcHVyY2hhc2UuYm9va3MuYWRkKGJvb2spCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQubG9naW4odXNlcm5hbWU9J2pvaG4nLCBwYXNzd29yZD0nam9obnBhc3N3b3JkJykK</text>
+        <text encoding="base64">ICAgICAgICBmdWxsX3JlcG9ydF9hbGxvd2VkID0gc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfYWRtaW4odXNlcikgb3Igc2VsZi5wZXJtaXNzaW9uX3NlcnZpY2UuaXNfY29vcmRpbmF0b3IodXNlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWCBHRVRUSU5HIEdMT1NTQVJZIikKICAgICAgICBwcmludChzcmNfbGFuZ3VhZ2UpCiAgICAgICAgcHJpbnQoZHN0X2xhbmd1YWdlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -367,13 +381,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRUb2tlblw+</last-search>
+      <last-search>BaseDateRangeFilter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUb2tlblw+</last-pattern>
+      <last-pattern>BaseDateRangeFilter</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
