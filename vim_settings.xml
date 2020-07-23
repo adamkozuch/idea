@@ -44,8 +44,8 @@
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVjZW50RmlsZXM=</entry>
-        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -161,11 +161,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Vouchers/BiglistVouchers.vue" timestamp="1595402563923">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="66" column="56" />
+        <mark key="]" line="66" column="56" />
+        <mark key="." line="66" column="56" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/tests/test_batch_picking.py" timestamp="1595487568464">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/partial/BaseDateRangeFilter.vue" timestamp="1595410309706">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/.eslintrc.js" timestamp="1595423133784">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="5" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/Program.vue" timestamp="1595402373111">
         <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1595412793632">
+        <mark key="'" line="2" column="5" />
+        <mark key="[" line="233" column="42" />
+        <mark key="]" line="233" column="48" />
+        <mark key="." line="233" column="47" />
+        <mark key="^" line="233" column="48" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595487882019">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="34" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Users/BiglistUsers.vue" timestamp="1595402952806">
         <mark key="'" line="2" column="0" />
@@ -176,31 +206,6 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" timestamp="1595415609959">
         <mark key="'" line="70" column="35" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/docker/scripts/docker-entrypoint" timestamp="1595411733153" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1595409417793">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Vouchers/BiglistVouchers.vue" timestamp="1595402563923">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="66" column="56" />
-        <mark key="]" line="66" column="56" />
-        <mark key="." line="66" column="56" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/.eslintrc.js" timestamp="1595423133784">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="5" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/models/stock_picking_batch.py" timestamp="1595424506057" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1595412793632">
-        <mark key="'" line="2" column="5" />
-        <mark key="[" line="233" column="42" />
-        <mark key="]" line="233" column="48" />
-        <mark key="." line="233" column="47" />
-        <mark key="^" line="233" column="48" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/BiglistPrograms.vue" timestamp="1595410241773">
         <mark key="'" line="11" column="33" />
@@ -221,6 +226,11 @@
         <mark key="]" line="230" column="163" />
         <mark key="." line="230" column="162" />
         <mark key="^" line="230" column="163" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/serializers.py" timestamp="1595409417793">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Clients/Clients.vue" timestamp="1595410337663">
         <mark key="'" line="22" column="30" />
@@ -331,11 +341,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICd2dWUvbm8tdW51c2VkLXZhcnMnOiAxLAogICAgJ3Z1ZS9uby10ZXh0YXJlYS1tdXN0YWNoZSc6IDEsCiAgICAndnVlL25vLXNpZGUtZWZmZWN0cy1pbi1jb21wdXRlZC1wcm9wZXJ0aWVzJzogMSwKICAgICd2dWUvbm8tdW51c2VkLWNvbXBvbmVudHMnOiAxLAogICAgJ3Z1ZS9uby1wYXJzaW5nLWVycm9yJzogMSwKICAgICd2dWUvcmVxdWlyZS12LWZvci1rZXknOiAxLAo=</text>
+      <register name="&quot;" type="4">
+        <text>StockPickingBatch</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>StockPickingBatch</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -386,7 +396,7 @@
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
