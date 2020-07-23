@@ -171,12 +171,15 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="46" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595508004542">
+      <file name="/a.dummy" timestamp="1595508733911">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595508727303">
         <mark key="'" line="35" column="33" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="46" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="59" column="12" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="18" />
+        <mark key="." line="61" column="17" />
+        <mark key="^" line="61" column="18" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/views/picking_view.xml" timestamp="1595500510553">
         <mark key="[" line="51" column="0" />
@@ -234,9 +237,6 @@
         <mark key="]" line="230" column="163" />
         <mark key="." line="230" column="162" />
         <mark key="^" line="230" column="163" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Clients/Clients.vue" timestamp="1595410337663">
-        <mark key="'" line="22" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -344,47 +344,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBsYW5uZWRfZGF0ZSA9IGZpZWxkcy5EYXRlKCdQbGFubmVkIERhdGUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>planned_date</text>
       </register>
       <register name="-" type="4">
-        <text>kind</text>
+        <text>planned_date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdG9ja1BpY2tpbmdCYXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsYW5uZWRfZGF0ZSA9IGZpZWxkcy5EYXRlKCdQbGFubmVkIERhdGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmc9J1RyYW5zcG9ydCBCYXRjaCBOYW1lJywgZGVmYXVsdD0nTmV3JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgTmF6d2EgLSBnZW5lcm93YW5hIHNla3dlbmN5am5pZSBqYWsgdyBzdG9jay5waWNraW5nCiMgTmFkYXdjYSAtIHdzcMOzbG55IHPFgm93bmlrIGRsYSB3c3p5c3RraWNoIGludGVncmFjamkKIyBPZGJpb3JjYSAtIHdzcMOzbG55IHPFgm93bmlrIGRsYSB3c3p5c3RraWNoIGludGVncmFjamkKIyBUeXAgLSBzxYJvd25payB6IG9wY2phbWk6IGV4cG9ydCAvIGltcG9ydAojIFJvZHphaiAtIHPFgm93bmlrIHogb3BjamFtaToga3Jham93eSAvIG1pxJlkenluYXJvZG93eQojIFByaW9yeXRldCAtIHPFgm93bmlrIHogb3BjamFtaTogc3RhbmRhcmQgLyBleHByZXNzCg==</text>
+        <text encoding="base64">IyBOYXp3YSAtIGdlbmVyb3dhbmEgc2Vrd2VuY3lqbmllIGphayB3IHN0b2NrLnBpY2tpbmcKIyBOYWRhd2NhIC0gd3Nww7Nsbnkgc8WCb3duaWsgZGxhIHdzenlzdGtpY2ggaW50ZWdyYWNqaQojIE9kYmlvcmNhIC0gd3Nww7Nsbnkgc8WCb3duaWsgZGxhIHdzenlzdGtpY2ggaW50ZWdyYWNqaQojIFR5cCAtIHPFgm93bmlrIHogb3BjamFtaTogZXhwb3J0IC8gaW1wb3J0CiMgUm9kemFqIC0gc8WCb3duaWsgeiBvcGNqYW1pOiBrcmFqb3d5IC8gbWnEmWR6eW5hcm9kb3d5CiMgUHJpb3J5dGV0IC0gc8WCb3duaWsgeiBvcGNqYW1pOiBzdGFuZGFyZCAvIGV4cHJlc3MK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAgICAgTmF6d2EgLSBnZW5lcm93YW5hIHNla3dlbmN5am5pZSBqYWsgdyBzdG9jay5waWNraW5nCiMgTmFkYXdjYSAtIHdzcMOzbG55IHPFgm93bmlrIGRsYSB3c3p5c3RraWNoIGludGVncmFjamkKIyBPZGJpb3JjYSAtIHdzcMOzbG55IHPFgm93bmlrIGRsYSB3c3p5c3RraWNoIGludGVncmFjamkKIyBUeXAgLSBzxYJvd25payB6IG9wY2phbWk6IGV4cG9ydCAvIGltcG9ydAojIFJvZHphaiAtIHPFgm93bmlrIHogb3BjamFtaToga3Jham93eSAvIG1pxJlkenluYXJvZG93eQojIFByaW9yeXRldCAtIHPFgm93bmlrIHogb3BjamFtaTogc3RhbmRhcmQgLyBleHByZXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd2dWUvbm8tdW51c2VkLXZhcnMnOiAxLAogICAgJ3Z1ZS9uby10ZXh0YXJlYS1tdXN0YWNoZSc6IDEsCiAgICAndnVlL25vLXNpZGUtZWZmZWN0cy1pbi1jb21wdXRlZC1wcm9wZXJ0aWVzJzogMSwKICAgICd2dWUvbm8tdW51c2VkLWNvbXBvbmVudHMnOiAxLAogICAgJ3Z1ZS9uby1wYXJzaW5nLWVycm9yJzogMSwKICAgICd2dWUvcmVxdWlyZS12LWZvci1rZXknOiAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuY2hvaWNlcyBpbXBvcnQgUGFydG5lckNvbW11bmljYXRpb25DaGFubmVsQ2hvaWNlcwo=</text>
+        <text encoding="base64">ICAgICd2dWUvbm8tdW51c2VkLXZhcnMnOiAxLAogICAgJ3Z1ZS9uby10ZXh0YXJlYS1tdXN0YWNoZSc6IDEsCiAgICAndnVlL25vLXNpZGUtZWZmZWN0cy1pbi1jb21wdXRlZC1wcm9wZXJ0aWVzJzogMSwKICAgICd2dWUvbm8tdW51c2VkLWNvbXBvbmVudHMnOiAxLAogICAgJ3Z1ZS9uby1wYXJzaW5nLWVycm9yJzogMSwKICAgICd2dWUvcmVxdWlyZS12LWZvci1rZXknOiAxLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMuY2hvaWNlcyBpbXBvcnQgUGFydG5lckNvbW11bmljYXRpb25DaGFubmVsQ2hvaWNlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXJTb3J0TWFwcGluZywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
+        <text encoding="base64">ICAgIFBhcnRuZXIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBDb3VyaWVyLCAsIFBhcnRuZXIK</text>
+        <text encoding="base64">ICAgIERpc3BhdGNoT3JkZXJUb1NlbmQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGVzbGludC1kaXNhYmxlLWxpbmUgdnVlL25vLXBhcnNpbmctZXJyb3IgLS0+Cg==</text>
+        <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBDb3VyaWVyLCAsIFBhcnRuZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
