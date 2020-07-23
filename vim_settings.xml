@@ -191,7 +191,8 @@
         <mark key="." line="233" column="47" />
         <mark key="^" line="233" column="48" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595487882019">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595488869387">
+        <mark key="'" line="28" column="62" />
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="34" />
@@ -237,11 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/text/db/text_clean.py" />
-      <jump line="123" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
-      <jump line="105" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_preparator.py" />
-      <jump line="125" column="17" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
-      <jump line="184" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/translation.py" />
       <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/matcher.py" />
       <jump line="107" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_preparator.py" />
       <jump line="110" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_preparator.py" />
@@ -337,6 +333,11 @@
       <jump line="21" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
       <jump line="66" column="131" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
       <jump line="70" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" />
+      <jump line="22" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" />
+      <jump line="20" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" />
+      <jump line="27" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" />
+      <jump line="23" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" />
+      <jump line="28" column="62" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
