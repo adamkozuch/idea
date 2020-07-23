@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>parent_disp</entry>
         <entry>elastic</entry>
         <entry>Glossary</entry>
         <entry encoding="base64">XDxnZXRfZ2xvc3NhcnlfaXRlbXNcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>create</entry>
         <entry>Import</entry>
         <entry>Import S</entry>
+        <entry>Create</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -161,12 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" timestamp="1595500868644">
-        <mark key="[" line="88" column="43" />
-        <mark key="]" line="88" column="58" />
-        <mark key="." line="88" column="57" />
-        <mark key="^" line="88" column="58" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/tests/test_batch_picking.py" timestamp="1595487568464">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="32" />
@@ -175,6 +169,38 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/partial/BaseDateRangeFilter.vue" timestamp="1595410309706">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595502389177">
+        <mark key="'" line="28" column="62" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="34" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/views/picking_view.xml" timestamp="1595500510553">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="60" column="69" />
+        <mark key="^" line="60" column="70" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" timestamp="1595415609959">
+        <mark key="'" line="70" column="35" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms_transport_batch/i18n/cs.po" timestamp="1595496290814">
+        <mark key="'" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/wizard/stock_picking_to_batch.py" timestamp="1595501010936">
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="10" column="77" />
+        <mark key="." line="10" column="76" />
+        <mark key="^" line="10" column="77" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" timestamp="1595502064367">
+        <mark key="'" line="107" column="38" />
+        <mark key="[" line="99" column="27" />
+        <mark key="]" line="99" column="42" />
+        <mark key="." line="99" column="41" />
+        <mark key="^" line="99" column="42" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/.eslintrc.js" timestamp="1595423133784">
         <mark key="[" line="19" column="10" />
@@ -191,33 +217,7 @@
         <mark key="." line="233" column="47" />
         <mark key="^" line="233" column="48" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595488869387">
-        <mark key="'" line="28" column="62" />
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="34" />
-        <mark key="^" line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/views/picking_view.xml" timestamp="1595500510553">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="57" column="17" />
-        <mark key="." line="60" column="69" />
-        <mark key="^" line="60" column="70" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" timestamp="1595415609959">
-        <mark key="'" line="70" column="35" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms_transport_batch/i18n/cs.po" timestamp="1595496290814">
-        <mark key="'" line="9" column="7" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/model/picking.py" timestamp="1595499361031" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/BiglistPrograms.vue" timestamp="1595410241773">
-        <mark key="'" line="11" column="33" />
-        <mark key="[" line="123" column="13" />
-        <mark key="]" line="123" column="22" />
-        <mark key="^" line="123" column="22" />
-        <mark key="." line="123" column="21" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1595412683169">
         <mark key="'" line="932" column="77" />
         <mark key="[" line="94" column="0" />
@@ -236,9 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/matcher.py" />
-      <jump line="166" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/matcher.py" />
-      <jump line="199" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/matcher.py" />
       <jump line="196" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/matcher.py" />
       <jump line="22" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/db/translation.py" />
       <jump line="152" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/translation/services/matcher.py" />
@@ -336,18 +333,21 @@
       <jump line="187" column="80" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/static/description/index.html" />
       <jump line="197" column="117" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/static/description/index.html" />
       <jump line="221" column="81" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/static/description/index.html" />
+      <jump line="95" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" />
+      <jump line="108" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" />
+      <jump line="107" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Picking</text>
+        <text>One2many</text>
       </register>
       <register name="-" type="4">
-        <text>Picking</text>
+        <text>One2many</text>
       </register>
       <register name="/" type="4">
-        <text>Import S</text>
+        <text>Create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8cmVjb3JkIGlkPSJiaV9nZW5fcGlja2luZ193aXphcmRfYWN0aW9uIiBtb2RlbD0iaXIuYWN0aW9ucy5hY3Rfd2luZG93Ij4KCQkJPGZpZWxkIG5hbWU9Im5hbWUiPlRyYW5zcG9ydCBiYXRjaDwvZmllbGQ+CgkJCTxmaWVsZCBuYW1lPSJyZXNfbW9kZWwiPmltcG9ydC5waWNraW5nPC9maWVsZD4KCQkJPGZpZWxkIG5hbWU9InZpZXdfdHlwZSI+Zm9ybTwvZmllbGQ+CgkJCTxmaWVsZCBuYW1lPSJ2aWV3X21vZGUiPmZvcm08L2ZpZWxkPgoJCQk8ZmllbGQgbmFtZT0idGFyZ2V0Ij5uZXc8L2ZpZWxkPgoJCTwvcmVjb3JkPgo=</text>
@@ -389,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Import S</last-search>
+      <last-search>Create</last-search>
       <last-offset />
-      <last-pattern>Import S</last-pattern>
+      <last-pattern>Create</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
