@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>tariff_to</entry>
         <entry encoding="base64">XDxmdWxsX3JlcG9ydF9ub3RfYWxsb3dlZFw+</entry>
         <entry encoding="base64">XDxnZXRUb2tlblw+</entry>
         <entry>filter</entry>
@@ -25,6 +24,7 @@
         <entry>wms</entry>
         <entry>type</entry>
         <entry encoding="base64">XDxiYXRjaF90cmFuc3BvcnRcPg==</entry>
+        <entry>batch</entry>
       </history-search>
       <history-cmd>
         <entry>shell</entry>
@@ -165,21 +165,22 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1595508733911">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1595574933557">
+        <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595572171515">
-        <mark key="'" line="20" column="46" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595575242397">
+        <mark key="'" line="144" column="37" />
+        <mark key="[" line="101" column="46" />
+        <mark key="]" line="101" column="46" />
+        <mark key="." line="101" column="60" />
+        <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595573904067">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595574799031">
         <mark key="'" line="153" column="23" />
-        <mark key="[" line="152" column="4" />
-        <mark key="]" line="152" column="14" />
-        <mark key="." line="152" column="13" />
-        <mark key="^" line="152" column="14" />
+        <mark key="[" line="70" column="73" />
+        <mark key="]" line="70" column="88" />
+        <mark key="." line="70" column="87" />
+        <mark key="^" line="70" column="88" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/views/picking_view.xml" timestamp="1595500510553">
         <mark key="[" line="51" column="0" />
@@ -197,11 +198,11 @@
         <mark key="^" line="10" column="61" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" timestamp="1595568748489" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/__manifest__.py" timestamp="1595571961473">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/__manifest__.py" timestamp="1595575004874">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="37" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" timestamp="1595511564046">
         <mark key="'" line="20" column="37" />
@@ -227,38 +228,14 @@
         <mark key="^" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/model/picking.py" timestamp="1595499361031" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/__init__.py" timestamp="1595574951010">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="35" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="24" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="62" column="47" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="54" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="47" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="48" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="11" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="66" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DeliveryAttachmentTable.vue" />
-      <jump line="33" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/views/table/DeliveryAttachmentTable.vue" />
-      <jump line="63" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
-      <jump line="12" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/sample/lp/logistics_portal/api/mixins.py" />
-      <jump line="14" column="51" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/utils/request.js" />
-      <jump line="1" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" />
-      <jump line="9" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" />
-      <jump line="40" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/store/modules/user.js" />
-      <jump line="28" column="10" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" />
-      <jump line="10" column="7" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/permission.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
-      <jump line="16" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/permission.py" />
-      <jump line="230" column="162" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
-      <jump line="198" column="69" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
-      <jump line="821" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/Program.vue" />
-      <jump line="12" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Vouchers/BiglistVouchers.vue" />
-      <jump line="2" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Users/BiglistUsers.vue" />
-      <jump line="11" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Programs/BiglistPrograms.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/partial/BaseDateRangeFilter.vue" />
       <jump line="22" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/src/components/Clients/Clients.vue" />
       <jump line="366" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
       <jump line="71" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" />
@@ -329,18 +306,48 @@
       <jump line="95" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
       <jump line="20" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="153" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" />
+      <jump line="4" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="5" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="7" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="43" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="44" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="45" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="47" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="54" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="55" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="56" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="83" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="84" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="85" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="87" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="88" column="53" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="89" column="110" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="98" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="99" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="101" column="60" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="105" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="108" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="110" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="112" column="67" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="117" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="119" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="125" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="129" column="67" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="135" column="73" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="138" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="144" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Picking</text>
+        <text>batch</text>
       </register>
       <register name="-" type="4">
-        <text>Picking</text>
+        <text>batch</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXRjaF90cmFuc3BvcnRcPg==</text>
+        <text>batch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJ0eXBlIi8+Cg==</text>
@@ -382,12 +389,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxiYXRjaF90cmFuc3BvcnRcPg==</last-search>
+      <last-search>batch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXRjaF90cmFuc3BvcnRcPg==</last-pattern>
+      <last-pattern>batch</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
