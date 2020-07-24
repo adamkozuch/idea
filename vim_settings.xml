@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZ2xvc3NhcnlcPg==</entry>
-        <entry encoding="base64">XDxfdXBkYXRlX2F1ZGl0ZWRcPg==</entry>
         <entry encoding="base64">XDxfX2ZpbmRfaGludF90ZXh0X2NsZWFuX2NhbmRpZGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxfX2xvZ19hY3Rpb25cPg==</entry>
         <entry>tariff_to</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx0cmFuc3BvcnRfYmF0Y2hcPg==</entry>
         <entry encoding="base64">XDxTdG9ja1BpY2tpbmdCYXRjaFw+</entry>
         <entry>user_id</entry>
+        <entry>cancel</entry>
+        <entry>wms</entry>
       </history-search>
       <history-cmd>
         <entry>shell adam</entry>
@@ -45,8 +45,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
-        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -187,9 +187,6 @@
         <mark key="." line="60" column="69" />
         <mark key="^" line="60" column="70" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/order/services/order_tasks.py" timestamp="1595415609959">
-        <mark key="'" line="70" column="35" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms_transport_batch/i18n/cs.po" timestamp="1595496290814">
         <mark key="'" line="9" column="7" />
       </file>
@@ -199,12 +196,16 @@
         <mark key="." line="10" column="76" />
         <mark key="^" line="10" column="77" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/wms.py" timestamp="1595568748489" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" timestamp="1595511564046">
         <mark key="'" line="20" column="37" />
         <mark key="[" line="51" column="29" />
         <mark key="]" line="51" column="33" />
         <mark key="." line="51" column="32" />
         <mark key="^" line="51" column="33" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" timestamp="1595568802474">
+        <mark key="'" line="95" column="13" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/krab-ui/.eslintrc.js" timestamp="1595423133784">
         <mark key="[" line="19" column="10" />
@@ -217,44 +218,16 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/models/stock_picking_batch.py" timestamp="1595506464353">
         <mark key="'" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1595412793632">
-        <mark key="'" line="2" column="5" />
-        <mark key="[" line="233" column="42" />
-        <mark key="]" line="233" column="48" />
-        <mark key="." line="233" column="47" />
-        <mark key="^" line="233" column="48" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1595568590371">
+        <mark key="'" line="408" column="26" />
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_external/import_picking/model/picking.py" timestamp="1595499361031" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api/v2/views.py" timestamp="1595412683169">
-        <mark key="'" line="932" column="77" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" timestamp="1595415824410">
-        <mark key="'" line="230" column="162" />
-        <mark key="[" line="230" column="164" />
-        <mark key="]" line="230" column="163" />
-        <mark key="." line="230" column="162" />
-        <mark key="^" line="230" column="163" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.5/envs/virtualenv-compatriot/lib/python3.6/site-packages/rest_framework/relations.py" />
-      <jump line="128" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/common/services/permission.py" />
-      <jump line="228" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
-      <jump line="248" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/translation-panel/trapan/backend/modules/task/services/task_settlement.py" />
-      <jump line="258" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/views.py" />
-      <jump line="325" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/models.py" />
-      <jump line="185" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
-      <jump line="303" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="200" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
-      <jump line="151" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_companies/models.py" />
-      <jump line="401" column="92" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/tasks.py" />
-      <jump line="48" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/base.py" />
-      <jump line="197" column="15" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/logistic_partners_api_integrations/utils.py" />
       <jump line="1309" column="8" filename="$USER_HOME$/.cache/JetBrains/PyCharm2020.1/remote_sources/-1531772033/201545291/logging/__init__.py" />
       <jump line="0" column="7" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
       <jump line="31" column="31" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/lp-app/src/api/dispatchOrder.js" />
@@ -340,6 +313,21 @@
       <jump line="90" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" />
       <jump line="92" column="76" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" />
       <jump line="20" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" />
+      <jump line="359" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="125" column="81" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="246" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="353" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="360" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="367" column="59" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="370" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="375" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="385" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="392" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="399" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="406" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="408" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
+      <jump line="139" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
+      <jump line="95" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,7 +339,7 @@
         <text>type</text>
       </register>
       <register name="/" type="4">
-        <text>user_id</text>
+        <text>wms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJ0eXBlIi8+Cg==</text>
@@ -387,15 +375,15 @@
         <text encoding="base64">ZnJvbSBsb2dpc3RpY19jb21wYW5pZXMubW9kZWxzIGltcG9ydCBDb3VyaWVyLCAsIFBhcnRuZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>user_id</last-search>
+      <last-search>wms</last-search>
       <last-offset />
-      <last-pattern>user_id</last-pattern>
+      <last-pattern>wms</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
