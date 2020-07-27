@@ -168,12 +168,12 @@
       <file name="/a.dummy" timestamp="1595574933557">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595842034753">
-        <mark key="'" line="149" column="37" />
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="41" />
-        <mark key="." line="38" column="40" />
-        <mark key="^" line="38" column="41" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595842308983">
+        <mark key="'" line="41" column="24" />
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="51" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595574799031">
         <mark key="'" line="153" column="23" />
@@ -254,7 +254,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/menu_views.xml" timestamp="1595833218737" />
     </filemarks>
     <jumps>
-      <jump line="125" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="129" column="67" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="135" column="73" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="138" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
@@ -276,7 +275,6 @@
       <jump line="84" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="56" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="45" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="44" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="42" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="21" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="23" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
@@ -354,51 +352,53 @@
       <jump line="189" column="63" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
       <jump line="149" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="7" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="44" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="41" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>planned_shipment_date</text>
+        <text>note</text>
       </register>
       <register name="-" type="4">
-        <text>planned_shipment_date</text>
+        <text>note</text>
       </register>
       <register name="/" type="4">
         <text>dimensions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXA+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJyZWNlaXZpbmdfZGF0ZSIgY2xhc3M9Im9lX2lubGluZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmllbGQgbmFtZT0icGxhbm5lZF9zaGlwbWVudF9kYXRlIiBjbGFzcz0ib2VfaW5saW5lIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJzaGlwbWVudF9kYXRlIiBjbGFzcz0ib2VfaW5saW5lIi8+CiAgICAgICAgICAgICAgICAgICAgPC9ncm91cD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXA+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJzdGF0ZSIgY2xhc3M9Im9lX2lubGluZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmllbGQgbmFtZT0ibm90ZSIgY2xhc3M9Im9lX2lubGluZSIvPgogICAgICAgICAgICAgICAgICAgIDwvZ3JvdXA+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InByaW9yaXR5IiBjbGFzcz0ib2VfaW5saW5lIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9ImtpbmQiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InNoaXBtZW50X2RhdGUiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXA+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJ1c2VyX2lkIi8+CiAgICAgICAgICAgICAgICAgICAgPC9ncm91cD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InByaW9yaXR5IiBjbGFzcz0ib2VfaW5saW5lIi8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9ImtpbmQiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InBheWVyIiBjbGFzcz0ib2VfaW5saW5lIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXA+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJ1c2VyX2lkIi8+CiAgICAgICAgICAgICAgICAgICAgPC9ncm91cD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InBheWVyIiBjbGFzcz0ib2VfaW5saW5lIi8+Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAoJ2RyYWZ0JywgJ0RyYWZ0JyksCiAgICAgICAgKCdpbl9wcm9ncmVzcycsICdSdW5uaW5nJyksCiAgICAgICAgKCdkb25lJywgJ0RvbmUnKSwKICAgICAgICAoJ2NhbmNlbCcsICdDYW5jZWxsZWQnKQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAoJ2RyYWZ0JywgJ0RyYWZ0JyksCiAgICAgICAgKCdpbl9wcm9ncmVzcycsICdSdW5uaW5nJyksCiAgICAgICAgKCdkb25lJywgJ0RvbmUnKSwKICAgICAgICAoJ2NhbmNlbCcsICdDYW5jZWxsZWQnKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
