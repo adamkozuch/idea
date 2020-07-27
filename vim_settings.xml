@@ -188,6 +188,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" timestamp="1595589312282">
         <mark key="'" line="1872" column="14" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_event_questions/models/event.py" timestamp="1595858119157" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/account/models/account_analytic_line.py" timestamp="1595591071044">
         <mark key="[" line="15" column="83" />
         <mark key="]" line="15" column="117" />
@@ -198,12 +199,6 @@
         <mark key="]" line="190" column="95" />
         <mark key="." line="45" column="9" />
         <mark key="^" line="45" column="10" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/wizard/stock_picking_to_batch.py" timestamp="1595572577381">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="61" />
-        <mark key="." line="10" column="60" />
-        <mark key="^" line="10" column="61" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/point_of_sale/report/pos_order_report.py" timestamp="1595589687133">
         <mark key="[" line="25" column="0" />
@@ -242,11 +237,11 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595857424000">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595858298754">
         <mark key="'" line="49" column="46" />
-        <mark key="[" line="29" column="86" />
-        <mark key="]" line="29" column="165" />
-        <mark key="." line="29" column="164" />
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
         <mark key="^" line="29" column="165" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/menu_views.xml" timestamp="1595833218737" />
@@ -356,11 +351,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlbmRlciA9IGZpZWxkcy5TZWxlY3Rpb24oWwogICAgICAgICgnbW9jaycsICdNb2NrJyksCiAgICBdLCBkZWZhdWx0PSdtb2NrJywgICAjIG5vdCBzdXJlIGlmIHNlbGVjdGlvbiBmaWVsZCBvciByZWxhdGlvbgogICAgICAgIGNvcHk9RmFsc2UsIHRyYWNrX3Zpc2liaWxpdHk9J29uY2hhbmdlJywgcmVxdWlyZWQ9VHJ1ZSkKICAgIHJlY2lwaWVudCA9IGZpZWxkcy5TZWxlY3Rpb24oWwogICAgICAgICgnbW9jaycsICdNb2NrJyksCiAgICBdLCBkZWZhdWx0PSdtb2NrJywgIyBub3Qgc3VyZSBpZiBzZWxlY3Rpb24gZmllbGQgb3IgcmVsYXRpb24KICAgICAgICBjb3B5PUZhbHNlLCB0cmFja192aXNpYmlsaXR5PSdvbmNoYW5nZScsIHJlcXVpcmVkPVRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICMgVE9ETyBwcm9iYWJseSB0aGlzIG5hbWUgY2FuIGJlIGNoYW5nZWQ=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>draft</text>
