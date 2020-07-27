@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>BaseDateRangeFilter</entry>
-        <entry encoding="base64">XDxkYXRldGltZVw+</entry>
-        <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
-        <entry>timezone</entry>
-        <entry>create</entry>
-        <entry>Import</entry>
-        <entry>Import S</entry>
         <entry>Create</entry>
         <entry encoding="base64">XDxTdG9ja1BpY2tpbmdCYXRjaFw+</entry>
         <entry>cancel</entry>
@@ -23,8 +16,15 @@
         <entry>user_id</entry>
         <entry encoding="base64">XDx0cmFuc3BvcnRfYmF0Y2hcPg==</entry>
         <entry encoding="base64">XDxfUmVsYXRpb25hbFw+</entry>
-        <entry>carrier</entry>
         <entry encoding="base64">XDx0cmFja192aXNpYmlsaXR5XD4=</entry>
+        <entry>compute_pa</entry>
+        <entry>dimensions</entry>
+        <entry>weight_bulk</entry>
+        <entry>width</entry>
+        <entry encoding="base64">XDxEYW5nZXJvdXNHb29kc1NwZWNpZmljYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxzcGVjaWZpY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDx0cmFuc3BvcnRfb3JkZXJcPg==</entry>
+        <entry>carrier</entry>
       </history-search>
       <history-cmd>
         <entry>shell</entry>
@@ -189,10 +189,10 @@
         <mark key="[" line="15" column="83" />
         <mark key="]" line="15" column="117" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" timestamp="1595591595345">
-        <mark key="'" line="181" column="36" />
-        <mark key="[" line="152" column="13" />
-        <mark key="]" line="152" column="34" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" timestamp="1595830827850">
+        <mark key="'" line="206" column="13" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="82" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/wizard/stock_picking_to_batch.py" timestamp="1595572577381">
         <mark key="[" line="10" column="46" />
@@ -231,43 +231,26 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" timestamp="1595595999722" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" timestamp="1595829596745">
+        <mark key="'" line="94" column="4" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="88" column="101" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/__init__.py" timestamp="1595574951010">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595595819785">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="62" column="20" />
-        <mark key="]" line="62" column="20" />
-        <mark key="." line="62" column="20" />
-        <mark key="^" line="67" column="38" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595830862846">
+        <mark key="'" line="78" column="39" />
+        <mark key="[" line="9" column="82" />
+        <mark key="]" line="9" column="87" />
+        <mark key="." line="9" column="86" />
+        <mark key="^" line="9" column="87" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="367" column="59" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="370" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="375" column="61" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="385" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="392" column="54" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="399" column="16" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="406" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="408" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" />
-      <jump line="139" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
-      <jump line="95" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" />
-      <jump line="153" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" />
-      <jump line="7" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="43" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="47" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="54" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="55" column="55" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="83" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="87" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="88" column="53" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="89" column="110" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="98" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="99" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="105" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
@@ -330,8 +313,6 @@
       <jump line="12" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="186" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
       <jump line="207" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
-      <jump line="204" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
-      <jump line="206" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
       <jump line="211" column="67" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
       <jump line="181" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
       <jump line="3" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
@@ -347,24 +328,47 @@
       <jump line="18" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="57" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="48" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="93" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
+      <jump line="77" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
+      <jump line="80" column="33" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
+      <jump line="82" column="36" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
+      <jump line="94" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
+      <jump line="99" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="100" column="52" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="308" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="301" column="35" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="270" column="44" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="268" column="34" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="193" column="84" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="192" column="66" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="183" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="148" column="49" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="142" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="191" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="204" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="206" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
+      <jump line="78" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>description</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>description</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFja192aXNpYmlsaXR5XD4=</text>
+        <text>carrier</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhcnJpZXIgPSBmaWVsZHMuTWFueTJvbmUoJ3dtcy50cmFja2luZycsICdDYXJyaWVyJykK</text>
+      <register name="0" type="4">
+        <text>stock.picking.transport_batch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhcnJpZXIgPSBmaWVsZHMuT25lMm1hbnkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
@@ -372,28 +376,28 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgaG93IHRvIGNhbGN1bGF0ZSBkaW1lbnNpb25zCgogICAgIyBkb21haW49WygnZGVwcmVjYXRlZCcsICc9JywgRmFsc2UpXSAgIHVzZSBpdCBmb3IgdmFsaWRhdGlvbiBvZiB3ei9wego=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHF1YW50aXR5ID0gZmllbGRzLkZsb2F0KHN0cmluZz0iUXVhbnRpdHkiKSAgICMgbnVtYmVyX29mX3BhY2thZ2VzIGF0dHJpYnV0ZSBpbiBzdG9jay5waWNraW5nCiAgICB3ZWlnaHQgPSBmaWVsZHMuRmxvYXQoc3RyaW5nPSJXZWlnaHQiKSAgICMgSSB0aGluayB0aGF0IHdlIGNhbiB1c2UgYnVsayB3ZWlnaHQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNhcnJpZXIgPSBmaWVsZHMuT25lMm1hbnkoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>fields.One2many(
         'stock.picking', 'transport_batch_id', string='Transport pickings',
         help='List of picking associated this transport')</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBmaWVsZHMuU2VsZWN0aW9uKFsKICAgICAgICAoJ2RyYWZ0JywgJ0RyYWZ0JyksCiAgICAgICAgKCdpbl9wcm9ncmVzcycsICdSdW5uaW5nJyksCiAgICAgICAgKCdkb25lJywgJ0RvbmUnKSwKICAgICAgICAoJ2NhbmNlbCcsICdDYW5jZWxsZWQnKV0sIGRlZmF1bHQ9J2RyYWZ0JywKICAgICAgICBjb3B5PUZhbHNlLCB0cmFja192aXNpYmlsaXR5PSdvbmNoYW5nZScsIHJlcXVpcmVkPVRydWUpCiAgICBraW5kID0gZmllbGRzLlNlbGVjdGlvbihbCiAgICAgICAgKCdkb21lc3RpYycsICdEb21lc3RpYycpLAogICAgICAgICgnaW50ZXJuYXRpb25hbCcsICdJbnRlcm5hdGlvbmFsJyksCiAgICAgICAgXSwgZGVmYXVsdD0nZG9tZXN0aWMnLAogICAgICAgIGNvcHk9RmFsc2UsIHRyYWNrX3Zpc2liaWxpdHk9J29uY2hhbmdlJywgcmVxdWlyZWQ9VHJ1ZSkKICAgIHByaW9yaXR5ID0gZmllbGRzLlNlbGVjdGlvbihbCiAgICAgICAgKCdkcmFmdCcsICdEcmFmdCcpLAogICAgICAgICgnaW5fcHJvZ3Jlc3MnLCAnUnVubmluZycpLAogICAgICAgICgnZG9uZScsICdEb25lJyksCiAgICAgICAgKCdjYW5jZWwnLCAnQ2FuY2VsbGVkJyldLCBkZWZhdWx0PSdkcmFmdCcsCiAgICAgICAgY29weT1GYWxzZSwgdHJhY2tfdmlzaWJpbGl0eT0nb25jaGFuZ2UnLCByZXF1aXJlZD1UcnVlKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaWQgPSBmaWVsZHMuTWFueTJvbmUoCiAgICAgICAgJ3Jlcy51c2VycycsIHN0cmluZz0nUmVzcG9uc2libGUnLCB0cmFja192aXNpYmlsaXR5PSdvbmNoYW5nZScsCiAgICAgICAgaGVscD0nUGVyc29uIHJlc3BvbnNpYmxlIGZvciB0aGlzIGJhdGNoIHBpY2tpbmcnKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbmRlciA9IGZpZWxkcy5TZWxlY3Rpb24oWwogICAgICAgICgnZHJhZnQnLCAnRHJhZnQnKSwKICAgICAgICAoJ2luX3Byb2dyZXNzJywgJ1J1bm5pbmcnKSwKICAgICAgICAoJ2RvbmUnLCAnRG9uZScpLAogICAgICAgICgnY2FuY2VsJywgJ0NhbmNlbGxlZCcpXSwgZGVmYXVsdD0nZHJhZnQnLAogICAgICAgIGNvcHk9RmFsc2UsIHRyYWNrX3Zpc2liaWxpdHk9J29uY2hhbmdlJywgcmVxdWlyZWQ9VHJ1ZSkKICAgIHJlY2lwaWVudCA9IGZpZWxkcy5TZWxlY3Rpb24oWwogICAgICAgICgnZHJhZnQnLCAnRHJhZnQnKSwKICAgICAgICAoJ2luX3Byb2dyZXNzJywgJ1J1bm5pbmcnKSwKICAgICAgICAoJ2RvbmUnLCAnRG9uZScpLAogICAgICAgICgnY2FuY2VsJywgJ0NhbmNlbGxlZCcpXSwgZGVmYXVsdD0nZHJhZnQnLAogICAgICAgIGNvcHk9RmFsc2UsIHRyYWNrX3Zpc2liaWxpdHk9J29uY2hhbmdlJywgcmVxdWlyZWQ9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -402,12 +406,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0cmFja192aXNpYmlsaXR5XD4=</last-search>
+      <last-search>carrier</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFja192aXNpYmlsaXR5XD4=</last-pattern>
+      <last-pattern>carrier</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
