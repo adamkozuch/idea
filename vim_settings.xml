@@ -168,12 +168,12 @@
       <file name="/a.dummy" timestamp="1595574933557">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595840701265">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595842034753">
         <mark key="'" line="149" column="37" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="50" />
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="41" />
+        <mark key="." line="38" column="40" />
+        <mark key="^" line="38" column="41" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595574799031">
         <mark key="'" line="153" column="23" />
@@ -244,7 +244,7 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595839465165">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595841979941">
         <mark key="'" line="7" column="23" />
         <mark key="[" line="67" column="34" />
         <mark key="]" line="67" column="54" />
@@ -358,17 +358,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InByaW9yaXR5IiBjbGFzcz0ib2VfaW5saW5lIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>planned_shipment_date</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>planned_shipment_date</text>
       </register>
       <register name="/" type="4">
         <text>dimensions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXA+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJzZW5kZXIiIGNsYXNzPSJvZV9pbmxpbmUiLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InJlY2lwaWVudCIgY2xhc3M9Im9lX2lubGluZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmllbGQgbmFtZT0idHlwZSIgY2xhc3M9Im9lX2lubGluZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmllbGQgbmFtZT0ia2luZCIgY2xhc3M9Im9lX2lubGluZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmllbGQgbmFtZT0icHJpb3JpdHkiIGNsYXNzPSJvZV9pbmxpbmUiLz4KICAgICAgICAgICAgICAgICAgICA8L2dyb3VwPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXA+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJyZWNlaXZpbmdfZGF0ZSIgY2xhc3M9Im9lX2lubGluZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmllbGQgbmFtZT0icGxhbm5lZF9zaGlwbWVudF9kYXRlIiBjbGFzcz0ib2VfaW5saW5lIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJzaGlwbWVudF9kYXRlIiBjbGFzcz0ib2VfaW5saW5lIi8+CiAgICAgICAgICAgICAgICAgICAgPC9ncm91cD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InByaW9yaXR5IiBjbGFzcz0ib2VfaW5saW5lIi8+Cg==</text>
