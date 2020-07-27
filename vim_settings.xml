@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Create</entry>
         <entry encoding="base64">XDxTdG9ja1BpY2tpbmdCYXRjaFw+</entry>
         <entry>cancel</entry>
         <entry>wms</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzcGVjaWZpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDx0cmFuc3BvcnRfb3JkZXJcPg==</entry>
         <entry>carrier</entry>
+        <entry encoding="base64">XDxUcmFuc3BvcnRTdG9ja1BpY2tpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>shell</entry>
@@ -211,17 +211,16 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/stock_picking_batch_views.xml" timestamp="1595511564046">
-        <mark key="'" line="20" column="37" />
-        <mark key="[" line="51" column="29" />
-        <mark key="]" line="51" column="33" />
-        <mark key="." line="51" column="32" />
-        <mark key="^" line="51" column="33" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/payer_views.xml" timestamp="1595833424126">
+        <mark key="'" line="13" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595833509950">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/api_clients/__init__.py" timestamp="1595568802474">
         <mark key="'" line="95" column="13" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/transport_order_views.xml" timestamp="1595831792548" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/transport_order_views.xml" timestamp="1595833502367" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/dispatch-register-2/registry/dispatch_orders/tasks.py" timestamp="1595568590371">
         <mark key="'" line="408" column="26" />
         <mark key="[" line="2" column="42" />
@@ -240,20 +239,16 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595830862846">
-        <mark key="'" line="78" column="39" />
-        <mark key="[" line="9" column="82" />
-        <mark key="]" line="9" column="87" />
-        <mark key="." line="9" column="86" />
-        <mark key="^" line="9" column="87" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595833944281">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="151" column="15" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/menu_views.xml" timestamp="1595833218737" />
     </filemarks>
     <jumps>
-      <jump line="98" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="99" column="37" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="105" column="56" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="108" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="110" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="112" column="67" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="117" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="119" column="48" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
@@ -349,50 +344,53 @@
       <jump line="204" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
       <jump line="206" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" />
       <jump line="78" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="137" column="47" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="151" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="18" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/payer_views.xml" />
+      <jump line="13" column="38" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/payer_views.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text encoding="base64">ICAgIyBUT0RPIGZpbGwgc2VsZWN0aW9ucw==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">ICAgIyBUT0RPIGZpbGwgc2VsZWN0aW9ucw==</text>
       </register>
       <register name="/" type="4">
-        <text>carrier</text>
+        <text encoding="base64">XDxUcmFuc3BvcnRTdG9ja1BpY2tpbmdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>stock.picking.transport_batch</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAoJ3N0YW5kYXJkJywgJ1N0YW5kYXJkJyksCiAgICAgICAgKCdleHByZXNzJywgJ0V4cHJlc3MnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAoJ2RyYWZ0JywgJ0RyYWZ0JyksCiAgICAgICAgKCdpbl9wcm9ncmVzcycsICdSdW5uaW5nJyksCiAgICAgICAgKCdkb25lJywgJ0RvbmUnKSwKICAgICAgICAoJ2NhbmNlbCcsICdDYW5jZWxsZWQnKQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAoJ2RyYWZ0JywgJ0RyYWZ0JyksCiAgICAgICAgKCdpbl9wcm9ncmVzcycsICdSdW5uaW5nJyksCiAgICAgICAgKCdkb25lJywgJ0RvbmUnKSwKICAgICAgICAoJ2NhbmNlbCcsICdDYW5jZWxsZWQnKQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAoJ2RyYWZ0JywgJ0RyYWZ0JyksCiAgICAgICAgKCdpbl9wcm9ncmVzcycsICdSdW5uaW5nJyksCiAgICAgICAgKCdkb25lJywgJ0RvbmUnKSwKICAgICAgICAoJ2NhbmNlbCcsICdDYW5jZWxsZWQnKQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAoJ2RyYWZ0JywgJ0RyYWZ0JyksCiAgICAgICAgKCdpbl9wcm9ncmVzcycsICdSdW5uaW5nJyksCiAgICAgICAgKCdkb25lJywgJ0RvbmUnKSwKICAgICAgICAoJ2NhbmNlbCcsICdDYW5jZWxsZWQnKQ==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAoJ2RyYWZ0JywgJ0RyYWZ0JyksCiAgICAgICAgKCdpbl9wcm9ncmVzcycsICdSdW5uaW5nJyksCiAgICAgICAgKCdkb25lJywgJ0RvbmUnKSwKICAgICAgICAoJ2NhbmNlbCcsICdDYW5jZWxsZWQnKQ==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgaG93IHRvIGNhbGN1bGF0ZSBkaW1lbnNpb25zCgogICAgIyBkb21haW49WygnZGVwcmVjYXRlZCcsICc9JywgRmFsc2UpXSAgIHVzZSBpdCBmb3IgdmFsaWRhdGlvbiBvZiB3ei9wego=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHF1YW50aXR5ID0gZmllbGRzLkZsb2F0KHN0cmluZz0iUXVhbnRpdHkiKSAgICMgbnVtYmVyX29mX3BhY2thZ2VzIGF0dHJpYnV0ZSBpbiBzdG9jay5waWNraW5nCiAgICB3ZWlnaHQgPSBmaWVsZHMuRmxvYXQoc3RyaW5nPSJXZWlnaHQiKSAgICMgSSB0aGluayB0aGF0IHdlIGNhbiB1c2UgYnVsayB3ZWlnaHQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhcnJpZXIgPSBmaWVsZHMuT25lMm1hbnkoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>fields.One2many(
-        'stock.picking', 'transport_batch_id', string='Transport pickings',
-        help='List of picking associated this transport')</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -404,12 +402,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>carrier</last-search>
+      <last-search encoding="base64">XDxUcmFuc3BvcnRTdG9ja1BpY2tpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern>carrier</last-pattern>
+      <last-pattern encoding="base64">XDxUcmFuc3BvcnRTdG9ja1BpY2tpbmdcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
