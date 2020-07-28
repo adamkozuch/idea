@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>batch</entry>
         <entry>add an</entry>
         <entry>user_id</entry>
         <entry encoding="base64">XDx0cmFuc3BvcnRfYmF0Y2hcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>carrier_id</entry>
         <entry>carrier</entry>
         <entry>draft</entry>
+        <entry>delivery</entry>
       </history-search>
       <history-cmd>
         <entry>shell</entry>
@@ -178,20 +178,43 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="48" column="53" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_picking_batch.py" timestamp="1595574799031">
-        <mark key="'" line="153" column="23" />
-        <mark key="[" line="70" column="73" />
-        <mark key="]" line="70" column="88" />
-        <mark key="." line="70" column="87" />
-        <mark key="^" line="70" column="88" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" timestamp="1595589312282">
-        <mark key="'" line="1872" column="14" />
-      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/delivery.py" timestamp="1595917385608" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_event_questions/models/event.py" timestamp="1595858119157" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/account/models/account_analytic_line.py" timestamp="1595591071044">
         <mark key="[" line="15" column="83" />
         <mark key="]" line="15" column="117" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/point_of_sale/report/pos_order_report.py" timestamp="1595589687133">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="93" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" timestamp="1595917596358">
+        <mark key="'" line="160" column="47" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/__manifest__.py" timestamp="1595575004874">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1595845855481">
+        <mark key="'" line="105" column="34" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/__init__.py" timestamp="1595574951010">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595917543541">
+        <mark key="'" line="72" column="58" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="161" column="31" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" timestamp="1595589312282">
+        <mark key="'" line="1872" column="14" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" timestamp="1595856067876">
         <mark key="'" line="181" column="36" />
@@ -200,27 +223,11 @@
         <mark key="." line="45" column="9" />
         <mark key="^" line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/point_of_sale/report/pos_order_report.py" timestamp="1595589687133">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="93" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" timestamp="1595846696453">
-        <mark key="'" line="172" column="13" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/__manifest__.py" timestamp="1595575004874">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="37" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/payer_views.xml" timestamp="1595833424126">
         <mark key="'" line="13" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1595833509950">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1595845855481">
-        <mark key="'" line="105" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/transport_order_views.xml" timestamp="1595834353169">
         <mark key="[" line="25" column="0" />
@@ -231,25 +238,9 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="70" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/__init__.py" timestamp="1595574951010">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="35" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595916045462">
-        <mark key="'" line="72" column="58" />
-        <mark key="[" line="70" column="27" />
-        <mark key="]" line="71" column="40" />
-        <mark key="." line="71" column="39" />
-        <mark key="^" line="71" column="40" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/menu_views.xml" timestamp="1595833218737" />
     </filemarks>
     <jumps>
-      <jump line="56" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="45" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="42" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="21" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="23" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="2047" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" />
@@ -347,51 +338,54 @@
       <jump line="49" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="72" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="265" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/addons/base/ir/ir_sequence.py" />
+      <jump line="24" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" />
+      <jump line="82" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" />
+      <jump line="160" column="47" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>transport_batch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgRGVsaXZlcnlDYXJlZXIobW9kZWxzLk1vZGVsKToKICAgIF9pbmhlcml0ID0gImRlbGl2ZXJ5LmNhcmVlciIKCiAgICB0cmFuc3BvcnRfYmF0Y2hfaWQgPSBmaWVsZHMuTWFueTJtYW55KAogICAgICAgICd0cmFuc3BvcnQuYmF0Y2gnLCBzdHJpbmc9J1RyYW5zcG9ydCBCYXRjaCcsIG9sZG5hbWU9IndhdmVfaWQiLAogICAgICAgIHN0YXRlcz17J2RvbmUnOiBbKCdyZWFkb25seScsIFRydWUpXSwgJ2NhbmNlbCc6IFsoJ3JlYWRvbmx5JywgVHJ1ZSldfSwKICAgICAgICBoZWxwPSdUcmFuc3BvcnQgYXNzb2NpYXRlZCB0byB0aGlzIHBpY2tpbmcnLCBjb3B5PUZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>transport_batch</text>
+        <text>stock.picking</text>
       </register>
       <register name="/" type="4">
-        <text>draft</text>
+        <text>delivery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbmRlciA9IGZpZWxkcy5NYW55Mm9uZSgidHJhbnNwb3J0Lm9yZGVyLmRicy5wbC5zZW5kZXIiLCAiU2VuZGVyIiwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHJlY2lwaWVudCA9IGZpZWxkcy5NYW55Mm9uZSgidHJhbnNwb3J0Lm9yZGVyLmRicy5wbC5yZWNpcGllbnQiLCAiUmVjaXBpZW50IiwgcmVxdWlyZWQ9VHJ1ZSkK</text>
+        <text encoding="base64">Y2xhc3MgVHJhbnNwb3J0U3RvY2tQaWNraW5nKG1vZGVscy5Nb2RlbCk6CiAgICBfaW5oZXJpdCA9ICJzdG9jay5waWNraW5nIgoKICAgIHRyYW5zcG9ydF9iYXRjaF9pZCA9IGZpZWxkcy5NYW55Mm1hbnkoCiAgICAgICAgJ3RyYW5zcG9ydC5iYXRjaCcsIHN0cmluZz0nVHJhbnNwb3J0IEJhdGNoJywgb2xkbmFtZT0id2F2ZV9pZCIsCiAgICAgICAgc3RhdGVzPXsnZG9uZSc6IFsoJ3JlYWRvbmx5JywgVHJ1ZSldLCAnY2FuY2VsJzogWygncmVhZG9ubHknLCBUcnVlKV19LAogICAgICAgIGhlbHA9J1RyYW5zcG9ydCBhc3NvY2lhdGVkIHRvIHRoaXMgcGlja2luZycsIGNvcHk9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbmRlciA9IGZpZWxkcy5TZWxlY3Rpb24oWwogICAgICAgICgnbW9jaycsICdNb2NrJyksCiAgICBdLCBkZWZhdWx0PSdtb2NrJywgICAjIG5vdCBzdXJlIGlmIHNlbGVjdGlvbiBmaWVsZCBvciByZWxhdGlvbgogICAgICAgIGNvcHk9RmFsc2UsIHRyYWNrX3Zpc2liaWxpdHk9J29uY2hhbmdlJywgcmVxdWlyZWQ9VHJ1ZSkKICAgIHJlY2lwaWVudCA9IGZpZWxkcy5TZWxlY3Rpb24oWwogICAgICAgICgnbW9jaycsICdNb2NrJyksCiAgICBdLCBkZWZhdWx0PSdtb2NrJywgIyBub3Qgc3VyZSBpZiBzZWxlY3Rpb24gZmllbGQgb3IgcmVsYXRpb24KICAgICAgICBjb3B5PUZhbHNlLCB0cmFja192aXNpYmlsaXR5PSdvbmNoYW5nZScsIHJlcXVpcmVkPVRydWUpCg==</text>
+        <text encoding="base64">Y2xhc3MgRGVsaXZlcnlDYXJlZXIobW9kZWxzLk1vZGVsKToKICAgIF9pbmhlcml0ID0gImRlbGl2ZXJ5LmNhcmVlciIKCiAgICB0cmFuc3BvcnRfYmF0Y2hfaWQgPSBmaWVsZHMuTWFueTJtYW55KAogICAgICAgICd0cmFuc3BvcnQuYmF0Y2gnLCBzdHJpbmc9J1RyYW5zcG9ydCBCYXRjaCcsIG9sZG5hbWU9IndhdmVfaWQiLAogICAgICAgIHN0YXRlcz17J2RvbmUnOiBbKCdyZWFkb25seScsIFRydWUpXSwgJ2NhbmNlbCc6IFsoJ3JlYWRvbmx5JywgVHJ1ZSldfSwKICAgICAgICBoZWxwPSdUcmFuc3BvcnQgYXNzb2NpYXRlZCB0byB0aGlzIHBpY2tpbmcnLCBjb3B5PUZhbHNlKQo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbmRlciA9IGZpZWxkcy5TZWxlY3Rpb24oWwogICAgICAgICgnbW9jaycsICdNb2NrJyksCiAgICBdLCBkZWZhdWx0PSdtb2NrJywgICAjIG5vdCBzdXJlIGlmIHNlbGVjdGlvbiBmaWVsZCBvciByZWxhdGlvbgogICAgICAgIGNvcHk9RmFsc2UsIHRyYWNrX3Zpc2liaWxpdHk9J29uY2hhbmdlJywgcmVxdWlyZWQ9VHJ1ZSkKICAgIHJlY2lwaWVudCA9IGZpZWxkcy5TZWxlY3Rpb24oWwogICAgICAgICgnbW9jaycsICdNb2NrJyksCiAgICBdLCBkZWZhdWx0PSdtb2NrJywgIyBub3Qgc3VyZSBpZiBzZWxlY3Rpb24gZmllbGQgb3IgcmVsYXRpb24KICAgICAgICBjb3B5PUZhbHNlLCB0cmFja192aXNpYmlsaXR5PSdvbmNoYW5nZScsIHJlcXVpcmVkPVRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InJlZmVyZW5jZV9udW1iZXIiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhcnJpZXIgPSBmaWVsZHMuTWFueTJvbmUoJ3dtcy50cmFja2luZycsICdDYXJyaWVyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InJlZmVyZW5jZV9udW1iZXIiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgY2Fycmllcl9vcmRlcl9pZCA9IGZpZWxkcy5NYW55Mm9uZSgKICAgICMgICAgICdkYnMucGwudHJhbnNwb3J0Lm9yZGVyJywgJ2NhcnJpZXJfb3JkZXJfaWQnLCBzdHJpbmc9J0NhcnJpZXIgb3JkZXInLCByZXF1aXJlZD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIGNhcnJpZXIgPSBmaWVsZHMuTWFueTJvbmUoJ3dtcy50cmFja2luZycsICdDYXJyaWVyJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgY2Fycmllcl9vcmRlcl9pZCA9IGZpZWxkcy5NYW55Mm9uZSgKICAgICMgICAgICdkYnMucGwudHJhbnNwb3J0Lm9yZGVyJywgJ2NhcnJpZXJfb3JkZXJfaWQnLCBzdHJpbmc9J0NhcnJpZXIgb3JkZXInLCByZXF1aXJlZD1GYWxzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InNoaXBtZW50X2RhdGUiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -400,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>draft</last-search>
+      <last-search>delivery</last-search>
       <last-offset />
-      <last-pattern>draft</last-pattern>
+      <last-pattern>delivery</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
