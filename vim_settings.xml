@@ -202,12 +202,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/sale_order.py" timestamp="1595918758130">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595936857273">
-        <mark key="'" line="66" column="24" />
-        <mark key="[" line="71" column="96" />
-        <mark key="]" line="71" column="97" />
-        <mark key="." line="71" column="96" />
-        <mark key="^" line="71" column="97" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595937865699">
+        <mark key="'" line="85" column="30" />
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="22" />
+        <mark key="^" line="53" column="23" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" timestamp="1595928440454">
         <mark key="'" line="181" column="36" />
@@ -240,11 +240,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/menu_views.xml" timestamp="1595833218737" />
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="82" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="76" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="74" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
@@ -331,7 +326,6 @@
       <jump line="69" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="62" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="59" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
-      <jump line="64" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="13" column="19" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="12" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="11" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
@@ -339,16 +333,22 @@
       <jump line="71" column="23" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="1184" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" />
       <jump line="66" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="64" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="1930" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" />
+      <jump line="73" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="2216" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" />
+      <jump line="84" column="26" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="85" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="4498" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Ordered</text>
+        <text>mock</text>
       </register>
       <register name="-" type="4">
-        <text>Ordered</text>
+        <text>mock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGbG9hdFw+</text>
