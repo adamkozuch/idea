@@ -170,7 +170,7 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="56" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595920816766">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595925321000">
         <mark key="'" line="41" column="24" />
         <mark key="[" line="49" column="44" />
         <mark key="]" line="49" column="50" />
@@ -193,21 +193,24 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" timestamp="1595917596358">
         <mark key="'" line="160" column="47" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/__manifest__.py" timestamp="1595925458901">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_api/models/stock_picking.py" timestamp="1595845855481">
         <mark key="'" line="105" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/sale_order.py" timestamp="1595918758130">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595921201469">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595925411891">
         <mark key="'" line="7" column="39" />
-        <mark key="[" line="65" column="91" />
-        <mark key="]" line="65" column="131" />
-        <mark key="." line="65" column="130" />
+        <mark key="[" line="64" column="70" />
+        <mark key="]" line="64" column="70" />
+        <mark key="." line="64" column="70" />
         <mark key="^" line="65" column="131" />
-      </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" timestamp="1595589312282">
-        <mark key="'" line="1872" column="14" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" timestamp="1595920545748">
         <mark key="'" line="181" column="36" />
@@ -219,7 +222,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/payer_views.xml" timestamp="1595833424126">
         <mark key="'" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1595919187209" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1595925841845" />
       <file name="/Dummy.txt" timestamp="1595919774047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -230,7 +233,7 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" timestamp="1595919132337">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" timestamp="1595925446271">
         <mark key="'" line="86" column="12" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="70" />
@@ -344,8 +347,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9ImNhcnJpZXJfaWQiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIyBUT0RPIHRoaXMgcmVsYXRpb24gaXMgbm90IHZpc2libGU=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIyBUT0RPIHRoaXMgcmVsYXRpb24gaXMgbm90IHZpc2libGU=</text>
