@@ -45,8 +45,8 @@
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -183,10 +183,6 @@
         <mark key="]" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_event_questions/models/event.py" timestamp="1595858119157" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/account/models/account_analytic_line.py" timestamp="1595591071044">
-        <mark key="[" line="15" column="83" />
-        <mark key="]" line="15" column="117" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" timestamp="1595917596358">
         <mark key="'" line="160" column="47" />
       </file>
@@ -203,19 +199,25 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/sale_order.py" timestamp="1595918758130">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595941565284">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595944810555">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="73" column="4" />
-        <mark key="]" line="73" column="15" />
-        <mark key="." line="72" column="42" />
-        <mark key="^" line="53" column="23" />
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="79" column="15" />
+        <mark key="." line="79" column="15" />
+        <mark key="^" line="79" column="18" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" timestamp="1595928440454">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/tests/test_batch_picking.py" timestamp="1595944529269">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/poland.py" timestamp="1595945038177">
         <mark key="'" line="181" column="36" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="190" column="95" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="10" />
+        <mark key="[" line="153" column="17" />
+        <mark key="]" line="153" column="33" />
+        <mark key="." line="153" column="32" />
+        <mark key="^" line="153" column="33" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/payer_views.xml" timestamp="1595833424126">
         <mark key="'" line="13" column="38" />
@@ -346,19 +348,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>picking_ids</text>
       </register>
       <register name="0" type="4">
-        <text>dimensions =</text>
+        <text>pickings = self.mapped('picking_ids')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGhlcmUgd2UgY2FuIGNvbXB1dGUgZGltZW5zaW9ucwo=</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
@@ -367,28 +369,28 @@
         <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text>[WMS-388] Implement base-rest-api-client requirement</text>
+        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[WMS-388] Implement base-rest-api-client requirement</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhcnJpZXJfaWQgPSBmaWVsZHMuTWFueTJvbmUoImRlbGl2ZXJ5LmNhcnJpZXIiLCBzdHJpbmc9IkNhcnJpZXIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhcnJpZXJfaWQgPSBmaWVsZHMuTWFueTJvbmUoImRlbGl2ZXJ5LmNhcnJpZXIiLCBzdHJpbmc9IkNhcnJpZXIiKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdlYnNpdGVfcHVibGlzaGVkID0gZmllbGRzLkJvb2xlYW4oZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgRGVsaXZlcnlDYXJyaWVyKG1vZGVscy5Nb2RlbCk6CiAgICBfbmFtZSA9ICdkZWxpdmVyeS5jYXJyaWVyJwogICAgX2luaGVyaXQgPSBbJ2RlbGl2ZXJ5LmNhcnJpZXInLCAnd2Vic2l0ZS5wdWJsaXNoZWQubWl4aW4nXQoKICAgIHdlYnNpdGVfZGVzY3JpcHRpb24gPSBmaWVsZHMuVGV4dChyZWxhdGVkPSdwcm9kdWN0X2lkLmRlc2NyaXB0aW9uX3NhbGUnLCBzdHJpbmc9J0Rlc2NyaXB0aW9uIGZvciBPbmxpbmUgUXVvdGF0aW9ucycpCg==</text>
+        <text encoding="base64">ICAgIHdlYnNpdGVfcHVibGlzaGVkID0gZmllbGRzLkJvb2xlYW4oZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
