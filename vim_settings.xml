@@ -44,8 +44,8 @@
         <entry>q</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>ew</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -170,12 +170,12 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="56" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595925321000">
-        <mark key="'" line="41" column="24" />
-        <mark key="[" line="49" column="44" />
-        <mark key="]" line="49" column="50" />
-        <mark key="." line="49" column="49" />
-        <mark key="^" line="49" column="50" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1595941880445">
+        <mark key="'" line="1" column="5" />
+        <mark key="[" line="82" column="39" />
+        <mark key="]" line="82" column="39" />
+        <mark key="." line="82" column="39" />
+        <mark key="^" line="82" column="29" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/delivery.py" timestamp="1595918784033">
         <mark key="[" line="6" column="0" />
@@ -202,10 +202,10 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/sale_order.py" timestamp="1595918758130">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595940243519">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595941565284">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="72" column="42" />
-        <mark key="]" line="72" column="42" />
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="73" column="15" />
         <mark key="." line="72" column="42" />
         <mark key="^" line="53" column="23" />
       </file>
@@ -240,7 +240,6 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/menu_views.xml" timestamp="1595833218737" />
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="74" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="70" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="6" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
@@ -340,21 +339,22 @@
       <jump line="66" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="67" column="30" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="1930" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" />
+      <jump line="1" column="5" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIyBJIHRoaW5rIHRoYXQgd2UgY2FuIHVzZSBidWxrIHdlaWdodCBzdW0gb2YgaXQ=</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIyBJIHRoaW5rIHRoYXQgd2UgY2FuIHVzZSBidWxrIHdlaWdodCBzdW0gb2YgaXQ=</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGbG9hdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoJ29yZGVyZWQnLCAnT3JkZXJlZCcpLAo=</text>
+      <register name="0" type="4">
+        <text>dimensions =</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
