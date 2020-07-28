@@ -45,8 +45,8 @@
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -237,18 +237,16 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595858298754">
-        <mark key="'" line="49" column="46" />
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="47" column="25" />
-        <mark key="." line="47" column="25" />
-        <mark key="^" line="29" column="165" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595916045462">
+        <mark key="'" line="72" column="58" />
+        <mark key="[" line="70" column="27" />
+        <mark key="]" line="71" column="40" />
+        <mark key="." line="71" column="39" />
+        <mark key="^" line="71" column="40" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/menu_views.xml" timestamp="1595833218737" />
     </filemarks>
     <jumps>
-      <jump line="85" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
-      <jump line="84" column="41" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="56" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="45" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="42" column="11" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
@@ -347,15 +345,17 @@
       <jump line="172" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" />
       <jump line="24" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="49" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="72" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="265" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/addons/base/ir/ir_sequence.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>transport_batch</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>transport_batch</text>
       </register>
       <register name="/" type="4">
         <text>draft</text>
@@ -394,7 +394,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9InNoaXBtZW50X2RhdGUiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
