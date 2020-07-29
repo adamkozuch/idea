@@ -44,9 +44,9 @@
         <entry>q</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>ew</entry>
+        <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
-        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,12 +171,12 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="56" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1596006613345">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1596015863450">
         <mark key="'" line="1" column="5" />
-        <mark key="[" line="82" column="39" />
-        <mark key="]" line="82" column="39" />
-        <mark key="." line="82" column="39" />
-        <mark key="^" line="82" column="29" />
+        <mark key="[" line="30" column="92" />
+        <mark key="]" line="30" column="97" />
+        <mark key="." line="30" column="96" />
+        <mark key="^" line="30" column="97" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/delivery.py" timestamp="1595918784033">
         <mark key="[" line="6" column="0" />
@@ -198,10 +198,10 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/addons/base/ir/ir_sequence.py" timestamp="1596006236351" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/data/stock_picking_batch_data.xml" timestamp="1596006488370" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596014396342">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596015315525">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="23" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="56" column="55" />
         <mark key="." line="57" column="22" />
         <mark key="^" line="57" column="23" />
       </file>
@@ -348,49 +348,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>created</text>
+        <text>Print</text>
       </register>
       <register name="-" type="4">
-        <text>created</text>
+        <text>Print</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3RyYW5zcG9ydF9kZWxheScsICdUcmFuc3BvcnQgRGVsYXknKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG5hbWU9InNldF90cmFuc3BvcnRfZGVsYXkiIHN0cmluZz0iUHJpbnQiIHR5cGU9Im9iamVjdCIgY2xhc3M9Im9lX2hpZ2hsaWdodCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBpY2tpbmdzID0gc2VsZi5tYXBwZWQoJ3BpY2tpbmdfaWRzJykKICAgICAgICAjIHByaW50KFtwIGZvciBwIGluIHBpY2tpbmdzXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG5hbWU9InNldF9jYXJlZXJfcHJvY2Vzc2luZyIgc3RhdGVzPSJ0cmFuc3BvcnRfcHJvY2Vzc2luZyIgc3RyaW5nPSJDb25maXJtIiB0eXBlPSJvYmplY3QiIGNsYXNzPSJvZV9oaWdobGlnaHQiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBpY2tpbmdzID0gc2VsZi5tYXBwZWQoJ3BpY2tpbmdfaWRzJykKICAgICAgICAjIHByaW50KFtwIGZvciBwIGluIHBpY2tpbmdzXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQmF0Y2ggcGlja2luZyByZWxhdGVkIHN1YnR5cGVzIGZvciBtZXNzYWdpbmcgLyBDaGF0dGVyIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxyZWNvcmQgaWQ9Im10X2JhdGNoX3N0YXRlIiBtb2RlbD0ibWFpbC5tZXNzYWdlLnN1YnR5cGUiPgogICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5TdGFnZSBDaGFuZ2VkPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0icmVzX21vZGVsIj5zdG9jay5waWNraW5nLmJhdGNoPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVmYXVsdCIgZXZhbD0iRmFsc2UiLz4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVzY3JpcHRpb24iPlN0YWdlIENoYW5nZWQ8L2ZpZWxkPgogICAgPC9yZWNvcmQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhlcmUgd2UgY2FuIGNvbXB1dGUgZGltZW5zaW9ucwo=</text>
+        <text encoding="base64">ICAgIDwhLS0gQmF0Y2ggcGlja2luZyByZWxhdGVkIHN1YnR5cGVzIGZvciBtZXNzYWdpbmcgLyBDaGF0dGVyIC0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
+        <text encoding="base64">ICAgIDxyZWNvcmQgaWQ9Im10X2JhdGNoX3N0YXRlIiBtb2RlbD0ibWFpbC5tZXNzYWdlLnN1YnR5cGUiPgogICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5TdGFnZSBDaGFuZ2VkPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0icmVzX21vZGVsIj5zdG9jay5waWNraW5nLmJhdGNoPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVmYXVsdCIgZXZhbD0iRmFsc2UiLz4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVzY3JpcHRpb24iPlN0YWdlIENoYW5nZWQ8L2ZpZWxkPgogICAgPC9yZWNvcmQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGhlcmUgd2UgY2FuIGNvbXB1dGUgZGltZW5zaW9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text>[WMS-388] Implement base-rest-api-client requirement</text>
+        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
