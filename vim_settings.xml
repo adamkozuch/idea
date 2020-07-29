@@ -201,11 +201,11 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/addons/base/ir/ir_sequence.py" timestamp="1596006236351" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/data/stock_picking_batch_data.xml" timestamp="1596006488370" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596011323378">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596011417606">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="56" column="43" />
-        <mark key="]" line="56" column="52" />
-        <mark key="." line="56" column="51" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
         <mark key="^" line="56" column="52" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/tests/test_batch_picking.py" timestamp="1595944529269">
@@ -347,8 +347,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Delay</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHBpY2tpbmdzID0gc2VsZi5tYXBwZWQoJ3BpY2tpbmdfaWRzJykKICAgICAgICAjIHByaW50KFtwIGZvciBwIGluIHBpY2tpbmdzXSkK</text>
       </register>
       <register name="-" type="4">
         <text>Delay</text>
@@ -360,7 +360,7 @@
         <text encoding="base64">ICAgICAgICAoJ3RyYW5zcG9ydF9kZWxheScsICdUcmFuc3BvcnQgRGVsYXknKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBpY2tpbmdzID0gc2VsZi5tYXBwZWQoJ3BpY2tpbmdfaWRzJykKICAgICAgICAjIHByaW50KFtwIGZvciBwIGluIHBpY2tpbmdzXSkK</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
@@ -369,25 +369,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQmF0Y2ggcGlja2luZyByZWxhdGVkIHN1YnR5cGVzIGZvciBtZXNzYWdpbmcgLyBDaGF0dGVyIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxyZWNvcmQgaWQ9Im10X2JhdGNoX3N0YXRlIiBtb2RlbD0ibWFpbC5tZXNzYWdlLnN1YnR5cGUiPgogICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5TdGFnZSBDaGFuZ2VkPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0icmVzX21vZGVsIj5zdG9jay5waWNraW5nLmJhdGNoPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVmYXVsdCIgZXZhbD0iRmFsc2UiLz4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVzY3JpcHRpb24iPlN0YWdlIENoYW5nZWQ8L2ZpZWxkPgogICAgPC9yZWNvcmQ+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gQmF0Y2ggcGlja2luZyByZWxhdGVkIHN1YnR5cGVzIGZvciBtZXNzYWdpbmcgLyBDaGF0dGVyIC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhlcmUgd2UgY2FuIGNvbXB1dGUgZGltZW5zaW9ucwo=</text>
+        <text encoding="base64">ICAgIDxyZWNvcmQgaWQ9Im10X2JhdGNoX3N0YXRlIiBtb2RlbD0ibWFpbC5tZXNzYWdlLnN1YnR5cGUiPgogICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5TdGFnZSBDaGFuZ2VkPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0icmVzX21vZGVsIj5zdG9jay5waWNraW5nLmJhdGNoPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVmYXVsdCIgZXZhbD0iRmFsc2UiLz4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVzY3JpcHRpb24iPlN0YWdlIENoYW5nZWQ8L2ZpZWxkPgogICAgPC9yZWNvcmQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGhlcmUgd2UgY2FuIGNvbXB1dGUgZGltZW5zaW9ucwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text>[WMS-388] Implement base-rest-api-client requirement</text>
+        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[WMS-388] Implement base-rest-api-client requirement</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
