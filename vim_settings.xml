@@ -199,6 +199,7 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/sale_order.py" timestamp="1595918758130">
         <mark key="'" line="40" column="36" />
       </file>
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/addons/base/ir/ir_sequence.py" timestamp="1596006236351" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596005262906">
         <mark key="'" line="67" column="30" />
         <mark key="[" line="81" column="42" />
@@ -219,9 +220,6 @@
         <mark key="." line="153" column="32" />
         <mark key="^" line="153" column="33" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/db_schenker/poland/payer_views.xml" timestamp="1595833424126">
-        <mark key="'" line="13" column="38" />
-      </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1595943187543" />
       <file name="/Dummy.txt" timestamp="1595949314424">
         <mark key="[" line="0" column="0" />
@@ -240,7 +238,11 @@
         <mark key="." line="223" column="0" />
         <mark key="^" line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/views/menu_views.xml" timestamp="1595833218737" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/data/transport_batch_data.xml" timestamp="1596006472201">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
@@ -347,8 +349,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -360,34 +362,34 @@
         <text>pickings = self.mapped('picking_ids')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhlcmUgd2UgY2FuIGNvbXB1dGUgZGltZW5zaW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
+        <text encoding="base64">ICAgIDwhLS0gQmF0Y2ggcGlja2luZyByZWxhdGVkIHN1YnR5cGVzIGZvciBtZXNzYWdpbmcgLyBDaGF0dGVyIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text>[WMS-388] Implement base-rest-api-client requirement</text>
+        <text encoding="base64">ICAgIDxyZWNvcmQgaWQ9Im10X2JhdGNoX3N0YXRlIiBtb2RlbD0ibWFpbC5tZXNzYWdlLnN1YnR5cGUiPgogICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5TdGFnZSBDaGFuZ2VkPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0icmVzX21vZGVsIj5zdG9jay5waWNraW5nLmJhdGNoPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVmYXVsdCIgZXZhbD0iRmFsc2UiLz4KICAgICAgICA8ZmllbGQgbmFtZT0iZGVzY3JpcHRpb24iPlN0YWdlIENoYW5nZWQ8L2ZpZWxkPgogICAgPC9yZWNvcmQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGhlcmUgd2UgY2FuIGNvbXB1dGUgZGltZW5zaW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhcnJpZXJfaWQgPSBmaWVsZHMuTWFueTJvbmUoImRlbGl2ZXJ5LmNhcnJpZXIiLCBzdHJpbmc9IkNhcnJpZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoJ21vY2snLCAnTW9jaycpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[WMS-388] Implement base-rest-api-client requirement</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdlYnNpdGVfcHVibGlzaGVkID0gZmllbGRzLkJvb2xlYW4oZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
