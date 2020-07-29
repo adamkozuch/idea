@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>width</entry>
         <entry encoding="base64">XDxEYW5nZXJvdXNHb29kc1NwZWNpZmljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxzcGVjaWZpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDx0cmFuc3BvcnRfb3JkZXJcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxGbG9hdFw+</entry>
         <entry encoding="base64">XDxfY29tcHV0ZV9zb3VyY2VfZG9jdW1lbnRfaWRcPg==</entry>
         <entry>picking_ids</entry>
+        <entry>prefix</entry>
       </history-search>
       <history-cmd>
         <entry>shell</entry>
@@ -44,8 +44,8 @@
         <entry>q</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>ew</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>action RecentFiles</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -166,7 +166,7 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1595943293894">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1596005542261">
         <mark key="'" line="398" column="0" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="56" />
@@ -199,12 +199,12 @@
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/sale_order.py" timestamp="1595918758130">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1595944810555">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596005262906">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="79" column="15" />
-        <mark key="]" line="79" column="15" />
-        <mark key="." line="79" column="15" />
-        <mark key="^" line="79" column="18" />
+        <mark key="[" line="81" column="42" />
+        <mark key="]" line="81" column="43" />
+        <mark key="." line="81" column="42" />
+        <mark key="^" line="81" column="43" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/tests/test_batch_picking.py" timestamp="1595944529269">
         <mark key="[" line="7" column="14" />
@@ -223,7 +223,7 @@
         <mark key="'" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" timestamp="1595943187543" />
-      <file name="/Dummy.txt" timestamp="1595940247069">
+      <file name="/Dummy.txt" timestamp="1595949314424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -354,7 +354,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>picking_ids</text>
+        <text>prefix</text>
       </register>
       <register name="0" type="4">
         <text>pickings = self.mapped('picking_ids')</text>
@@ -396,9 +396,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>picking_ids</last-search>
+      <last-search>prefix</last-search>
       <last-offset />
-      <last-pattern>picking_ids</last-pattern>
+      <last-pattern>prefix</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
