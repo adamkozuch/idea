@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc3BvcnRfb3JkZXJcPg==</entry>
         <entry encoding="base64">XDxUcmFuc3BvcnRTdG9ja1BpY2tpbmdcPg==</entry>
         <entry>sender</entry>
         <entry>Sender</entry>
@@ -25,6 +24,7 @@
         <entry>prefix</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry>cancel_picking</entry>
+        <entry>in_progress</entry>
       </history-search>
       <history-cmd>
         <entry>shell</entry>
@@ -171,11 +171,11 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="56" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1596020022138">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1596021417752">
+        <mark key="'" line="9" column="114" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
         <mark key="^" line="17" column="195" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/delivery.py" timestamp="1595918784033">
@@ -198,12 +198,12 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/addons/base/ir/ir_sequence.py" timestamp="1596006236351" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/data/stock_picking_batch_data.xml" timestamp="1596006488370" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596018655250">
-        <mark key="'" line="88" column="20" />
-        <mark key="[" line="81" column="27" />
-        <mark key="]" line="82" column="52" />
-        <mark key="." line="82" column="51" />
-        <mark key="^" line="82" column="52" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596021324341">
+        <mark key="'" line="72" column="32" />
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="20" />
+        <mark key="^" line="58" column="21" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/tests/test_batch_picking.py" timestamp="1595944529269">
         <mark key="[" line="7" column="14" />
@@ -243,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="18" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="57" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="48" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
@@ -299,7 +298,6 @@
       <jump line="172" column="13" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" />
       <jump line="24" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="49" column="46" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
-      <jump line="72" column="58" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="265" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/addons/base/ir/ir_sequence.py" />
       <jump line="24" column="29" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" />
       <jump line="82" column="42" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_order/models/db_schenker/international.py" />
@@ -341,53 +339,55 @@
       <jump line="39" column="21" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/models/stock_picking_batch.py" />
       <jump line="23" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/models/stock_picking_batch.py" />
       <jump line="88" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
-      <jump line="9" column="24" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="46" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
+      <jump line="72" column="32" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="1351" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/fields.py" />
+      <jump line="9" column="114" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJzdGF0ZSIgY2xhc3M9Im9lX2lubGluZSIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWx0ZXIgbmFtZT0iaW5fcHJvZ3Jlc3MiIHN0cmluZz0iSW4gUHJvZ3Jlc3MiIGRvbWFpbj0iWygnc3RhdGUnLCc9JywgJ2luX3Byb2dyZXNzJyldIiBoZWxwPSJCYXRjaCBQaWNraW5ncyBub3QgZmluaXNoZWQiLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>nsport_delay</text>
+        <text>packing</text>
       </register>
       <register name="/" type="4">
-        <text>cancel_picking</text>
+        <text>in_progress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhcGkubXVsdGkKICAgIGRlZiBzZXRfdHJhbnNwb3J0X2RlbGF5KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLndyaXRlKHsnc3RhdGUnOiAndHJhbnNwb3J0X2RlbGF5J30pCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ3BhY2tpbmcnLCAnUGFja2luZycpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJzdGF0ZSIgY2xhc3M9Im9lX2lubGluZSIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWx0ZXIgbmFtZT0iaW5fcHJvZ3Jlc3MiIHN0cmluZz0iSW4gUHJvZ3Jlc3MiIGRvbWFpbj0iWygnc3RhdGUnLCc9JywgJ2luX3Byb2dyZXNzJyldIiBoZWxwPSJCYXRjaCBQaWNraW5ncyBub3QgZmluaXNoZWQiLz4K</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9ImNhcnJpZXJfb3JkZXJfaWQiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG5hbWU9ImRvbmUiIHN0YXRlcz0iaW5fcHJvZ3Jlc3MiIHN0cmluZz0iRG9uZSIgdHlwZT0ib2JqZWN0IiBjbGFzcz0ib2VfaGlnaGxpZ2h0Ii8+Cg==</text>
+        <text encoding="base64">ICAgIEBhcGkubXVsdGkKICAgIGRlZiBwcmludF9waWNraW5nKHNlbGYpOgogICAgICAgIHBpY2tpbmdzID0gc2VsZi5tYXBwZWQoJ3BpY2tpbmdfaWRzJykKICAgICAgICBpZiBub3QgcGlja2luZ3M6CiAgICAgICAgICAgIHJhaXNlIFVzZXJFcnJvcihfKCdOb3RoaW5nIHRvIHByaW50LicpKQogICAgICAgIHJldHVybiBzZWxmLmVudi5yZWYoJ3N0b2NrLmFjdGlvbl9yZXBvcnRfcGlja2luZycpLndpdGhfY29udGV4dChhY3RpdmVfaWRzPXBpY2tpbmdzLmlkcywgYWN0aXZlX21vZGVsPSdzdG9jay5waWNraW5nJykucmVwb3J0X2FjdGlvbihbXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG5hbWU9ImNhbmNlbF9waWNraW5nIiBzdHJpbmc9IkNhbmNlbCIgdHlwZT0ib2JqZWN0IiBzdGF0ZXM9ImluX3Byb2dyZXNzIi8+Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJzdGF0ZSIgY2xhc3M9Im9lX2lubGluZSIvPi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpZWxkIG5hbWU9ImNhcnJpZXJfb3JkZXJfaWQiIGNsYXNzPSJvZV9pbmxpbmUiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBhcGkubXVsdGkKICAgIGRlZiBjb25maXJtX3BpY2tpbmcoc2VsZik6CiAgICAgICAgcGlja2luZ3NfdG9kbyA9IHNlbGYubWFwcGVkKCdwaWNraW5nX2lkcycpCiAgICAgICAgc2VsZi53cml0ZSh7J3N0YXRlJzogJ2luX3Byb2dyZXNzJ30pCiAgICAgICAgcmV0dXJuIHBpY2tpbmdzX3RvZG8uYWN0aW9uX2Fzc2lnbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG5hbWU9ImRvbmUiIHN0YXRlcz0iaW5fcHJvZ3Jlc3MiIHN0cmluZz0iRG9uZSIgdHlwZT0ib2JqZWN0IiBjbGFzcz0ib2VfaGlnaGxpZ2h0Ii8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG5hbWU9ImNhbmNlbF9waWNraW5nIiBzdHJpbmc9IkNhbmNlbCIgdHlwZT0ib2JqZWN0IiBzdGF0ZXM9ImluX3Byb2dyZXNzIi8+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBhcGkubXVsdGkKICAgIGRlZiBkb25lKHNlbGYpOgogICAgICAgIHBpY2tpbmdzID0gc2VsZi5tYXBwZWQoJ3BpY2tpbmdfaWRzJykuZmlsdGVyZWQobGFtYmRhIHBpY2tpbmc6IHBpY2tpbmcuc3RhdGUgbm90IGluICgnY2FuY2VsJywgJ2RvbmUnKSkKICAgICAgICBpZiBhbnkocGlja2luZy5zdGF0ZSBub3QgaW4gKCdhc3NpZ25lZCcpIGZvciBwaWNraW5nIGluIHBpY2tpbmdzKToKICAgICAgICAgICAgcmFpc2UgVXNlckVycm9yKF8oJ1NvbWUgcGlja2luZ3MgYXJlIHN0aWxsIHdhaXRpbmcgZm9yIGdvb2RzLiBQbGVhc2UgY2hlY2sgb3IgZm9yY2UgdGhlaXIgYXZhaWxhYmlsaXR5IGJlZm9yZSBzZXR0aW5nIHRoaXMgYmF0Y2ggdG8gZG9uZS4nKSkKICAgICAgICBmb3IgcGlja2luZyBpbiBwaWNraW5nczoKICAgICAgICAgICAgcGlja2luZy5tZXNzYWdlX3Bvc3QoCiAgICAgICAgICAgICAgICBib2R5PSI8Yj4lczo8L2I+ICVzIDxhIGhyZWY9I2lkPSVzJnZpZXdfdHlwZT1mb3JtJm1vZGVsPXN0b2NrLnBpY2tpbmcuYmF0Y2g+JXM8L2E+IiAlICgKICAgICAgICAgICAgICAgICAgICBfKCJUcmFuc2ZlcnJlZCBieSIpLAogICAgICAgICAgICAgICAgICAgIF8oIkJhdGNoIFBpY2tpbmciKSwKICAgICAgICAgICAgICAgICAgICBwaWNraW5nLmJhdGNoX2lkLmlkLAogICAgICAgICAgICAgICAgICAgIHBpY2tpbmcuYmF0Y2hfaWQubmFtZSkpCgogICAgICAgIHBpY2tpbmdfdG9fYmFja29yZGVyID0gc2VsZi5lbnZbJ3N0b2NrLnBpY2tpbmcnXQogICAgICAgIHBpY2tpbmdfd2l0aG91dF9xdHlfZG9uZSA9IHNlbGYuZW52WydzdG9jay5waWNraW5nJ10KICAgICAgICBmb3IgcGlja2luZyBpbiBwaWNraW5nczoKICAgICAgICAgICAgaWYgYWxsKFt4LnF0eV9kb25lID09IDAuMCBmb3IgeCBpbiBwaWNraW5nLm1vdmVfbGluZV9pZHNdKToKICAgICAgICAgICAgICAgICMgSWYgbm8gbG90cyB3aGVuIG5lZWRlZCwgcmFpc2UgZXJyb3IKICAgICAgICAgICAgICAgIHBpY2tpbmdfdHlwZSA9IHBpY2tpbmcucGlja2luZ190eXBlX2lkCiAgICAgICAgICAgICAgICBpZiAocGlja2luZ190eXBlLnVzZV9jcmVhdGVfbG90cyBvciBwaWNraW5nX3R5cGUudXNlX2V4aXN0aW5nX2xvdHMpOgogICAgICAgICAgICAgICAgICAgIGZvciBtbCBpbiBwaWNraW5nLm1vdmVfbGluZV9pZHM6CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIG1sLnByb2R1Y3RfaWQudHJhY2tpbmcgIT0gJ25vbmUnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgVXNlckVycm9yKF8oJ1NvbWUgcHJvZHVjdHMgcmVxdWlyZSBsb3RzL3NlcmlhbCBudW1iZXJzLCBzbyB5b3UgbmVlZCB0byBzcGVjaWZ5IHRob3NlIGZpcnN0IScpKQogICAgICAgICAgICAgICAgIyBDaGVjayBpZiB3ZSBuZWVkIHRvIHNldCBzb21lIHF0eSBkb25lLgogICAgICAgICAgICAgICAgcGlja2luZ193aXRob3V0X3F0eV9kb25lIHw9IHBpY2tpbmcKICAgICAgICAgICAgZWxpZiBwaWNraW5nLl9jaGVja19iYWNrb3JkZXIoKToKICAgICAgICAgICAgICAgIHBpY2tpbmdfdG9fYmFja29yZGVyIHw9IHBpY2tpbmcKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHBpY2tpbmcuYWN0aW9uX2RvbmUoKQogICAgICAgIHNlbGYud3JpdGUoeydzdGF0ZSc6ICdkb25lJ30pCiAgICAgICAgaWYgcGlja2luZ193aXRob3V0X3F0eV9kb25lOgogICAgICAgICAgICB2aWV3ID0gc2VsZi5lbnYucmVmKCdzdG9jay52aWV3X2ltbWVkaWF0ZV90cmFuc2ZlcicpCiAgICAgICAgICAgIHdpeiA9IHNlbGYuZW52WydzdG9jay5pbW1lZGlhdGUudHJhbnNmZXInXS5jcmVhdGUoewogICAgICAgICAgICAgICAgJ3BpY2tfaWRzJzogWyg0LCBwLmlkKSBmb3IgcCBpbiBwaWNraW5nX3dpdGhvdXRfcXR5X2RvbmVdLAogICAgICAgICAgICAgICAgJ3BpY2tfdG9fYmFja29yZGVyX2lkcyc6IFsoNCwgcC5pZCkgZm9yIHAgaW4gcGlja2luZ190b19iYWNrb3JkZXJdLAogICAgICAgICAgICB9KQogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgJ25hbWUnOiBfKCdJbW1lZGlhdGUgVHJhbnNmZXI/JyksCiAgICAgICAgICAgICAgICAndHlwZSc6ICdpci5hY3Rpb25zLmFjdF93aW5kb3cnLAogICAgICAgICAgICAgICAgJ3ZpZXdfdHlwZSc6ICdmb3JtJywKICAgICAgICAgICAgICAgICd2aWV3X21vZGUnOiAnZm9ybScsCiAgICAgICAgICAgICAgICAncmVzX21vZGVsJzogJ3N0b2NrLmltbWVkaWF0ZS50cmFuc2ZlcicsCiAgICAgICAgICAgICAgICAndmlld3MnOiBbKHZpZXcuaWQsICdmb3JtJyldLAogICAgICAgICAgICAgICAgJ3ZpZXdfaWQnOiB2aWV3LmlkLAogICAgICAgICAgICAgICAgJ3RhcmdldCc6ICduZXcnLAogICAgICAgICAgICAgICAgJ3Jlc19pZCc6IHdpei5pZCwKICAgICAgICAgICAgICAgICdjb250ZXh0Jzogc2VsZi5lbnYuY29udGV4dCwKICAgICAgICAgICAgfQogICAgICAgIGlmIHBpY2tpbmdfdG9fYmFja29yZGVyOgogICAgICAgICAgICByZXR1cm4gcGlja2luZ190b19iYWNrb3JkZXIuYWN0aW9uX2dlbmVyYXRlX2JhY2tvcmRlcl93aXphcmQoKQogICAgICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgIEBhcGkubXVsdGkKICAgIGRlZiBjb25maXJtX3BpY2tpbmcoc2VsZik6CiAgICAgICAgcGlja2luZ3NfdG9kbyA9IHNlbGYubWFwcGVkKCdwaWNraW5nX2lkcycpCiAgICAgICAgc2VsZi53cml0ZSh7J3N0YXRlJzogJ2luX3Byb2dyZXNzJ30pCiAgICAgICAgcmV0dXJuIHBpY2tpbmdzX3RvZG8uYWN0aW9uX2Fzc2lnbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -396,9 +396,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cancel_picking</last-search>
+      <last-search>in_progress</last-search>
       <last-offset />
-      <last-pattern>cancel_picking</last-pattern>
+      <last-pattern>in_progress</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
