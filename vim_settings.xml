@@ -198,12 +198,12 @@
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/odoo/addons/base/ir/ir_sequence.py" timestamp="1596006236351" />
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/data/stock_picking_batch_data.xml" timestamp="1596006488370" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596021324341">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596021592355">
         <mark key="'" line="72" column="32" />
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="21" />
-        <mark key="." line="58" column="20" />
-        <mark key="^" line="58" column="21" />
+        <mark key="[" line="88" column="25" />
+        <mark key="]" line="88" column="32" />
+        <mark key="." line="88" column="31" />
+        <mark key="^" line="88" column="32" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/tests/test_batch_picking.py" timestamp="1595944529269">
         <mark key="[" line="7" column="14" />
@@ -347,17 +347,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWx0ZXIgbmFtZT0iaW5fcHJvZ3Jlc3MiIHN0cmluZz0iSW4gUHJvZ3Jlc3MiIGRvbWFpbj0iWygnc3RhdGUnLCc9JywgJ2luX3Byb2dyZXNzJyldIiBoZWxwPSJCYXRjaCBQaWNraW5ncyBub3QgZmluaXNoZWQiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>ready_for_pickup</text>
       </register>
       <register name="-" type="4">
-        <text>packing</text>
+        <text>ready_for_pickup</text>
       </register>
       <register name="/" type="4">
         <text>in_progress</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3BhY2tpbmcnLCAnUGFja2luZycpLAo=</text>
+      <register name="0" type="4">
+        <text>self.write({'state': 'ready_for_pickup'})</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWx0ZXIgbmFtZT0iaW5fcHJvZ3Jlc3MiIHN0cmluZz0iSW4gUHJvZ3Jlc3MiIGRvbWFpbj0iWygnc3RhdGUnLCc9JywgJ2luX3Byb2dyZXNzJyldIiBoZWxwPSJCYXRjaCBQaWNraW5ncyBub3QgZmluaXNoZWQiLz4K</text>
