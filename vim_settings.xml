@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmFuc3BvcnRTdG9ja1BpY2tpbmdcPg==</entry>
-        <entry>sender</entry>
         <entry>Sender</entry>
         <entry>dimensions</entry>
         <entry>stock</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry>cancel_picking</entry>
         <entry>in_progress</entry>
+        <entry>weigh</entry>
+        <entry>weig</entry>
       </history-search>
       <history-cmd>
         <entry>shell</entry>
@@ -166,8 +166,8 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1596005542261">
-        <mark key="'" line="398" column="0" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1596093349853">
+        <mark key="'" line="93" column="28" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="56" />
       </file>
@@ -201,12 +201,12 @@
         <mark key="]" line="12" column="67" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock_picking_batch/data/stock_picking_batch_data.xml" timestamp="1596006488370" />
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596093290847">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" timestamp="1596093587311">
         <mark key="'" line="53" column="8" />
-        <mark key="[" line="86" column="67" />
-        <mark key="]" line="86" column="18" />
-        <mark key="." line="86" column="17" />
-        <mark key="^" line="86" column="18" />
+        <mark key="[" line="89" column="18" />
+        <mark key="]" line="89" column="28" />
+        <mark key="." line="89" column="27" />
+        <mark key="^" line="89" column="28" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/tests/test_batch_picking.py" timestamp="1595944529269">
         <mark key="[" line="7" column="14" />
@@ -246,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="20" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="93" column="68" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
       <jump line="68" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
       <jump line="62" column="4" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/delivery/models/stock_picking.py" />
@@ -346,21 +345,22 @@
       <jump line="9" column="114" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" />
       <jump line="83" column="43" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="53" column="8" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
+      <jump line="93" column="28" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>picking</text>
+        <text>weight</text>
       </register>
       <register name="-" type="4">
-        <text>picking</text>
+        <text>weight</text>
       </register>
       <register name="/" type="4">
-        <text>in_progress</text>
+        <text>weig</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNraW5nID0gcmVxdWVzdC5lbnZbJ3N0b2NrLnBpY2tpbmcnXS5icm93c2UoW3BpY2tpbmdfaWRdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2VpZ2h0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -399,9 +399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>in_progress</last-search>
+      <last-search>weig</last-search>
       <last-offset />
-      <last-pattern>in_progress</last-pattern>
+      <last-pattern>weig</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
       <last-dir>1</last-dir>
