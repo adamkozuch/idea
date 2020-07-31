@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>carrier</entry>
         <entry>draft</entry>
         <entry>delivery</entry>
         <entry>delivery.ca</entry>
@@ -25,6 +24,7 @@
         <entry>Busi</entry>
         <entry>Unit</entry>
         <entry>Model</entry>
+        <entry encoding="base64">XDxCdXNpbmVzc1VuaXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>shell</entry>
@@ -166,16 +166,16 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1596093349853">
-        <mark key="'" line="93" column="28" />
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" timestamp="1596118509630">
+        <mark key="'" line="23" column="6" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="56" />
       </file>
-      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1596118358071">
+      <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/views/transport_batch_views.xml" timestamp="1596118582107">
         <mark key="'" line="118" column="37" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="42" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
         <mark key="^" line="88" column="34" />
       </file>
       <file name="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/website_sale_delivery/models/delivery.py" timestamp="1595918784033">
@@ -248,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="39" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="137" column="47" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="151" column="12" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
       <jump line="54" column="0" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_transport_batch/models/stock_transport_batch.py" />
@@ -348,51 +347,52 @@
       <jump line="16" column="25" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="118" column="9" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
       <jump line="164" column="14" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons/stock/models/stock_picking.py" />
+      <jump line="23" column="6" filename="$USER_HOME$/next_disk_migrate/projects/IT-GOLD/wms/wms/addons_wms/wms_stock_extend/models/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJkaW1lbnNpb25zIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJvcGVyYXRpb25fY2F0ZWdvcnlfaWQiLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
-        <text>Model</text>
+        <text encoding="base64">XDxCdXNpbmVzc1VuaXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhcGkubXVsdGkKICAgIGRlZiBzZXRfcGFja2luZyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi53cml0ZSh7J3N0YXRlJzogJ3BhY2tpbmcnfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJvcGVyYXRpb25fY2F0ZWdvcnlfaWQiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJkaW1lbnNpb25zIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJvcGVyYXRpb25fY2F0ZWdvcnlfaWQiLz4K</text>
       </register>
       <register name="q" type="4">
         <text>ve~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR1dGFqIHRyemViYSBwb3d5bGljemFjIHdzenlzdGtpZSBwaWNraW5naQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJkaW1lbnNpb25zIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGhlc2UgYXJlIHBpY2tpbmdqcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHR1dGFqIHRyemViYSBwb3d5bGljemFjIHdzenlzdGtpZSBwaWNraW5naQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2VpZ2h0KQogICAgICAgICAgICBwcmludChkaW1lbnNpb25zKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGhlc2UgYXJlIHBpY2tpbmdqcyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2VpZ2h0KQogICAgICAgICAgICBwcmludChkaW1lbnNpb25zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGljay5pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlIHBpY2tpbmdzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGljay5pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlIHBpY2tpbmdzJykKICAgICAgICBmb3IgcGljayBpbiBzZWxmLnBpY2tpbmdfaWRzOgogICAgICAgICAgICBwcmludChwaWNrLmlkKQogICAgICAgIHByaW50KCdBZnRlciBwaWNraW5ncycpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnQmVmb3JlIHBpY2tpbmdzJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -401,12 +401,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Model</last-search>
+      <last-search encoding="base64">XDxCdXNpbmVzc1VuaXRcPg==</last-search>
       <last-offset />
-      <last-pattern>Model</last-pattern>
+      <last-pattern encoding="base64">XDxCdXNpbmVzc1VuaXRcPg==</last-pattern>
       <last-replace>nnnnnn</last-replace>
       <last-substitute>send</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
