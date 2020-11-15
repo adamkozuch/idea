@@ -18,6 +18,8 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -27,6 +29,7 @@
   <action id="EditorLookupDown">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="FileChooser.NewFolder" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta g" />
@@ -48,9 +51,15 @@
   </action>
   <action id="OverrideMethods" />
   <action id="SaveAll" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="ViewSource" />
 </keymap>
