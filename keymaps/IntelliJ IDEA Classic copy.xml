@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="CheckinProject" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="meta a" />
@@ -22,7 +23,9 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
+  <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -30,10 +33,26 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
-  <action id="EditorLookupDown">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorLookupDown" />
   <action id="EditorSplitLine" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta g" />
@@ -54,7 +73,9 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="OverrideMethods" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
+  <action id="SendEOF" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
@@ -62,9 +83,15 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="SmartSearchAction">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
