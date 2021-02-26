@@ -1,12 +1,4 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
   <action id="$SelectAll" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -27,12 +19,6 @@
   <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="meta j" />
@@ -54,6 +40,7 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
@@ -73,6 +60,11 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
   <action id="SendEOF" />
