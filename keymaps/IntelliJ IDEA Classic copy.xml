@@ -48,6 +48,9 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -60,7 +63,6 @@
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="OverrideMethods" />
@@ -74,6 +76,10 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Replace" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
   <action id="SendEOF" />
