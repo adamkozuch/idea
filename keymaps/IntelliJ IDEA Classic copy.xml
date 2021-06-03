@@ -1,12 +1,4 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
   <action id="$SelectAll" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -21,18 +13,16 @@
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="meta j" />
@@ -54,8 +44,12 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta l" />
@@ -69,10 +63,23 @@
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
   <action id="SendEOF" />
