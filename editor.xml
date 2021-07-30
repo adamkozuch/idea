@@ -30,6 +30,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
