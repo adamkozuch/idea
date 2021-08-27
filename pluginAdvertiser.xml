@@ -82,6 +82,11 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="LeetCodeRemoteDebug">
+                    <value>
+                      <FeaturePluginData displayName="LeetCode Remote Debug" pluginName="LeetCode Assistant" pluginId="com.coasns.leetcode" />
+                    </value>
+                  </entry>
                   <entry key="NodeJSConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" />
