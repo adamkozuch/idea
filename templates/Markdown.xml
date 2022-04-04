@@ -13,7 +13,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="task" value="$today_date$&#10;====================&#10;Date: $today_date$&#10;- [ ] $task_one$" toReformat="false" toShortenFQNames="true">
+  <template name="task" value="$today_date$&#10;====================&#10;Date: $today_date$&#10;- [ ] $task_one$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="today_date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="task_one" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
