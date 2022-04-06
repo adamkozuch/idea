@@ -1,0 +1,9 @@
+<templateSet group="JSON">
+  <template name="qq" value="{&quot;question&quot;: &quot;$first$&quot;, &quot;answer&quot;: &quot;$second$&quot;}," description="qq" toReformat="false" toShortenFQNames="true">
+    <variable name="first" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="second" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>
