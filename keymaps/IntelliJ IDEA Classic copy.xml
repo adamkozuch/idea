@@ -7,10 +7,6 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt f10" />
-    <keyboard-shortcut first-keystroke="meta a" />
-  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -82,6 +78,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
