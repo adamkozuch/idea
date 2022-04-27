@@ -46,6 +46,10 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -55,6 +59,7 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoLine" />
+  <action id="GotoSuperMethod" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceConstant" />
   <action id="ManageRecentProjects">
@@ -101,4 +106,5 @@
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
 </keymap>
