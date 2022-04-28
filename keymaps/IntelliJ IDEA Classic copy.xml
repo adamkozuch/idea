@@ -30,6 +30,9 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
   <action id="EditorLookupDown" />
   <action id="EditorSplitLine" />
   <action id="EditorUp">
@@ -68,6 +71,9 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
