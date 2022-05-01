@@ -4,6 +4,12 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
@@ -53,9 +59,7 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
+  <action id="Generate" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -69,7 +73,6 @@
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NextTab">
@@ -94,9 +97,16 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
   <action id="SendEOF" />
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="meta s" />
