@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="ActivatemakeToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -67,8 +70,8 @@
   <action id="GotoClass" />
   <action id="GotoLine" />
   <action id="GotoSuperMethod" />
-  <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift escape" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
   <action id="InsertLiveTemplate" />
