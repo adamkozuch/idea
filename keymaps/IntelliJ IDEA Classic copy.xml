@@ -73,6 +73,10 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceConstant" />
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
