@@ -67,6 +67,10 @@
   <action id="GotoClass" />
   <action id="GotoLine" />
   <action id="GotoSuperMethod" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceConstant" />
   <action id="ManageRecentProjects">
@@ -80,6 +84,10 @@
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift meta i" />
     <keyboard-shortcut first-keystroke="meta p" />
