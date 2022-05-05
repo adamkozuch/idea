@@ -1,0 +1,29 @@
+<templateSet group="Markdown">
+  <template name="note" value="$title$&#10;====================&#10;Date: $today_date$&#10;### $content$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="today_date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="LUA_CODE" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Python" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="task" value="$today_date$&#10;====================&#10;Date: $today_date$&#10;- [ ] $task_one$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="today_date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="task_one" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="LUA_CODE" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Python" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
