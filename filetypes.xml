@@ -8,7 +8,7 @@
       <mapping pattern="strony" type="AUTO_DETECTED" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".test-env" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" type="requirements.txt" />
     </extensionMap>
   </component>
 </application>
