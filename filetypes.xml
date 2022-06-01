@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="removed_tweeter_ids" type="AUTO_DETECTED" />
       <mapping pattern="script_run_log" type="AUTO_DETECTED" />
+      <mapping pattern="my_logs" type="AUTO_DETECTED" />
       <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="logs_local_pubmed" type="AUTO_DETECTED" />
       <mapping pattern="my_result" type="AUTO_DETECTED" />
