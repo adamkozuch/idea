@@ -15,6 +15,7 @@
       <mapping pattern="concurrency" type="AUTO_DETECTED" />
       <mapping pattern="proc_pool_primality.py" type="AUTO_DETECTED" />
       <mapping pattern="strony" type="AUTO_DETECTED" />
+      <mapping pattern="screen+name_to_tw_id" type="AUTO_DETECTED" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".test-env" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />
