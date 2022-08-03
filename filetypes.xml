@@ -2,12 +2,26 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="removed_tweeter_ids" type="AUTO_DETECTED" />
+      <mapping pattern="deleted_tweets.md" type="AUTO_DETECTED" />
+      <mapping pattern="fiel" type="AUTO_DETECTED" />
+      <mapping pattern="script_run_log" type="AUTO_DETECTED" />
+      <mapping pattern="my_logs" type="AUTO_DETECTED" />
+      <mapping pattern="deleted_tweets" type="AUTO_DETECTED" />
+      <mapping pattern="logs" type="AUTO_DETECTED" />
+      <mapping pattern="logs_local_pubmed" type="AUTO_DETECTED" />
+      <mapping pattern="my_result" type="AUTO_DETECTED" />
       <mapping pattern="new_file" type="AUTO_DETECTED" />
+      <mapping pattern="scratch" type="AUTO_DETECTED" />
+      <mapping pattern="not_existing_user" type="AUTO_DETECTED" />
       <mapping pattern="concurrency" type="AUTO_DETECTED" />
       <mapping pattern="proc_pool_primality.py" type="AUTO_DETECTED" />
       <mapping pattern="strony" type="AUTO_DETECTED" />
+      <mapping pattern="screen+name_to_tw_id" type="AUTO_DETECTED" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".test-env" type="PLAIN_TEXT" />
+      <removed_mapping ext="chm" approved="true" type="Native" />
+      <removed_mapping ext="gz" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
