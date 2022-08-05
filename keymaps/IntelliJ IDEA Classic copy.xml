@@ -133,6 +133,9 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
+  <action id="ViewObsoleteNavBarAction">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
