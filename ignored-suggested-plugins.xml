@@ -1,0 +1,11 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.bigdatatools.kafka" />
+        <option value="com.intellij.bigdatatools.spark" />
+        <option value="com.intellij.bigdatatools.rfs" />
+      </list>
+    </option>
+  </component>
+</application>
