@@ -5,7 +5,6 @@
   </component>
   <component name="UISettings">
     <option name="DISABLE_MNEMONICS" value="false" />
-    <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
@@ -19,5 +18,6 @@
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
     <option name="UI_DENSITY" value="COMPACT" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
