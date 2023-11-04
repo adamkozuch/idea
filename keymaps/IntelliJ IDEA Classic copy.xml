@@ -129,6 +129,9 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="shift meta alt left" />
+  </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
