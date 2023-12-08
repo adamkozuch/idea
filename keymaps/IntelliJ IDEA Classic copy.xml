@@ -102,6 +102,9 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="QuickList.Frequent Actions">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta r" />
