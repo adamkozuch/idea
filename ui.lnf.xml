@@ -4,8 +4,11 @@
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
   <component name="UISettings">
+    <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
     <option name="DISABLE_MNEMONICS" value="false" />
+    <option name="EDITOR_TAB_PLACEMENT" value="3" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RECENT_FILES_LIMIT" value="100" />
