@@ -26,6 +26,8 @@
   <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="meta j" />
@@ -128,6 +130,9 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
+  <action id="ScopeView.EditScopes">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="SendEOF" />
   <action id="ServiceView.AddService">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -149,6 +154,10 @@
   </action>
   <action id="StretchSplitToLeft">
     <keyboard-shortcut first-keystroke="shift meta alt left" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TextSearchAction">
