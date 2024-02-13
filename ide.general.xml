@@ -13,8 +13,15 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="AwsSettingsPanel" value="false" />
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="FlowJSInfo" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="TypeScriptInfo" value="false" />
         <entry key="aws.codewhisperer" value="false" />
+        <entry key="com.github.copilot.status.widget" value="false" />
+        <entry key="git" value="true" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
