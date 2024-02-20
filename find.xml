@@ -7,12 +7,12 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.pyw</mask>
     <mask>*.xml</mask>
     <mask>*.tf</mask>
-    <mask>*.txt</mask>
     <mask>*.md</mask>
     <mask>*.proto</mask>
     <mask />
@@ -24,5 +24,6 @@
     <mask>*.sh</mask>
     <mask>*.py</mask>
     <mask>*.yml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
