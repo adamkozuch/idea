@@ -126,7 +126,6 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
