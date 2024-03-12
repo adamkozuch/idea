@@ -106,7 +106,9 @@
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="OverrideMethods" />
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
