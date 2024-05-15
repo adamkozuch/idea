@@ -169,6 +169,18 @@
         </sourcePath>
       </roots>
       <additional SDK_UUID="c7c125e4-502f-4cf5-a2c0-81a98a4b7199">
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/payments/legacy_bridge/service" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/payments/legacy_bridge/rpc" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/payments/legacy_bridge/client" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/terms_utils" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/common_protos" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/servicing_orchestration/disputes/rpc" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/servicing_orchestration/disputes/client" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/tulip/chrono/rpc" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/grpc_lib" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/tulip/orchestration/rpc" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/tulip/orchestration/client" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/checkout_orchestration/rpc/v1/generated" />
         <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
