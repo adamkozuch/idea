@@ -138,6 +138,7 @@
   <action id="ServiceView.AddService">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="ServiceView.GroupByContributor" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
@@ -165,6 +166,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt e" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="UsageGrouping.UsageType" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
@@ -176,4 +178,11 @@
   <action id="copilot.disposeInlays" />
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
+  <action id="tasks.and.contexts">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
+  <action id="tasks.goto">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
 </keymap>

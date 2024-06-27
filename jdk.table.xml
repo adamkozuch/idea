@@ -516,6 +516,8 @@
         </sourcePath>
       </roots>
       <additional SDK_UUID="121265b0-b38b-4a41-a113-3c779e94d5c0">
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/sql-store" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/test_framework/python" />
         <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
