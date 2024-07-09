@@ -516,8 +516,14 @@
         </sourcePath>
       </roots>
       <additional SDK_UUID="121265b0-b38b-4a41-a113-3c779e94d5c0">
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/investor/dms/rpc" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/investor/dms/client" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/marrow" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/flow_tracking_publishing/publisher" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/flow_tracking_publishing/events" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/sql-store" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/test_framework/python" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/payments/models" />
         <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
