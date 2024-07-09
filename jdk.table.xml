@@ -528,5 +528,77 @@
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.7.17 Docker (448435121187.dkr.ecr.us-east-1.amazonaws.com/monolith:as-1381-monolithfix-8c913a86591ae29d_py3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.17" />
+      <homePath value="/opt/virtualenv/monolith/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="da0039c4-c712-4b7e-a519-3308cf32bfba" INTERPRETER_PATH="/opt/virtualenv/monolith/bin/python" HELPERS_PATH="" VALID="true" RUN_AS_ROOT_VIA_SUDO="false">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+        <targetEnvironmentConfiguration type="docker">
+          <config>
+            <option name="targetPlatform">
+              <TargetPlatform />
+            </option>
+            <option name="buildImageConfig">
+              <BuildImageConfig>
+                <option name="dockerFile" value="garden-base/test-runner/docker-only-readyapi/Dockerfile" />
+              </BuildImageConfig>
+            </option>
+            <option name="buildNotPull" value="false" />
+            <option name="pullImageConfig">
+              <PullImageConfig>
+                <option name="tagToPull" value="448435121187.dkr.ecr.us-east-1.amazonaws.com/monolith:as-1381-monolithfix-8c913a86591ae29d_py3" />
+              </PullImageConfig>
+            </option>
+          </config>
+        </targetEnvironmentConfiguration>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.7.17 Docker (448435121187.dkr.ecr.us-east-1.amazonaws.com/monolith:as-1381-monolithfix-8c913a86591ae29d_py3) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.17" />
+      <homePath value="/usr/local/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="aee96f2b-0668-4e22-b645-182f24130f8a" INTERPRETER_PATH="/usr/local/bin/python3" HELPERS_PATH="" VALID="true" RUN_AS_ROOT_VIA_SUDO="false">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+        <targetEnvironmentConfiguration type="docker">
+          <config>
+            <option name="targetPlatform">
+              <TargetPlatform />
+            </option>
+            <option name="buildImageConfig">
+              <BuildImageConfig>
+                <option name="dockerFile" value="garden-base/test-runner/docker-only-readyapi/Dockerfile" />
+              </BuildImageConfig>
+            </option>
+            <option name="buildNotPull" value="false" />
+            <option name="pullImageConfig">
+              <PullImageConfig>
+                <option name="tagToPull" value="448435121187.dkr.ecr.us-east-1.amazonaws.com/monolith:as-1381-monolithfix-8c913a86591ae29d_py3" />
+              </PullImageConfig>
+            </option>
+          </config>
+        </targetEnvironmentConfiguration>
+      </additional>
+    </jdk>
   </component>
 </application>
