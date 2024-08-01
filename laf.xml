@@ -1,10 +1,9 @@
 <application>
   <component name="LafManager">
-    <laf themeId="ExperimentalLight" />
+    <laf themeId="Darcula" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_High contrast" />
       <laf-to-scheme laf="Dark" scheme="_@user_Default" />
-      <laf-to-scheme laf="Light" scheme="_@user_Light" />
     </lafs-to-previous-schemes>
   </component>
 </application>
