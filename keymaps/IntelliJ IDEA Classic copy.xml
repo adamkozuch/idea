@@ -169,6 +169,9 @@
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="TextEditorWithPreview.Layout.PreviewOnly">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="TextSearchAction">
     <keyboard-shortcut first-keystroke="shift meta alt e" />
     <keyboard-shortcut first-keystroke="alt t" />
