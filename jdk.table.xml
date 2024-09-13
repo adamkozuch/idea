@@ -774,6 +774,7 @@
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/investor/dms/client" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/qualifications/cache" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/marrow" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/spark/kubernetes" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/privacy/tags" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/credit_utils" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/signals_common" />
@@ -787,7 +788,6 @@
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/sql-store" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/test_framework/python" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/flow_tracking_publishing/events" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/flow_tracking_publishing/publisher" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/payments/models" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Projects/all-the-things/disclosures2/events_models" />
         <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
