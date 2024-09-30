@@ -1,19 +1,40 @@
 <templateSet group="Markdown">
-  <template name="note" value="$title$&#10;====================&#10;Date: $today_date$&#10;### $content$" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="note" value="$title$&#10;====================&#10;Date: $today_date$&#10;### $content$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="today_date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML" value="false" />
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
+      <option name="Angular" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="DjangoTemplate" value="false" />
+      <option name="EDU_TASK_DESCRIPTION_HINT" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="JSON" value="false" />
+      <option name="KUBERNETES_RESOURCE" value="false" />
       <option name="LUA_CODE" value="false" />
       <option name="OTHER" value="true" />
+      <option name="PROTO" value="false" />
+      <option name="PROTOTEXT" value="false" />
+      <option name="PUPPET_FILE" value="false" />
+      <option name="Properties" value="false" />
       <option name="Python" value="false" />
+      <option name="REQUEST" value="false" />
       <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TFTPL_TEMPLATE" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="task" value="$today_date$&#10;====================&#10;Date: $today_date$&#10;- [ ] $task_one$" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="task" value="$today_date$&#10;====================&#10;Date: $today_date$&#10;- [ ] $task_one$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="today_date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="task_one" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

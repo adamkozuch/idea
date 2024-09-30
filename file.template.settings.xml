@@ -1,0 +1,10 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <j2ee_templates>
+      <template name="qt.CMakeLists.txt" reformat="true" live-template-enabled="false" enabled="false" />
+    </j2ee_templates>
+    <default_templates>
+      <template name="task.md" file-name="${YEAR}" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
